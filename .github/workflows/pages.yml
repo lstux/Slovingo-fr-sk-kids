@@ -1,0 +1,96 @@
+name: GitHub Pages
+
+# Construit le site (dist/) à partir du contenu de ce repo (cours enfants) et du moteur
+# lstux/Slovingo, puis le publie sur GitHub Pages à chaque push sur main.
+# Le build "release" (build-release.yml) reste disponible à la demande.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      slovingo_ref:
+        description: "Branche/tag/commit du moteur Slovingo à utiliser"
+        required: false
+        default: "main"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout contenu
+        uses: actions/checkout@v5
+        with:
+          path: content
+
+      - name: Checkout moteur (Slovingo)
+        uses: actions/checkout@v5
+        with:
+          repository: lstux/Slovingo
+          ref: ${{ inputs.slovingo_ref || 'main' }}
+          path: engine
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Placer le contenu au format attendu par build.py
+        run: |
+          mkdir -p engine/langs/fr-sk-kids
+          rsync -a --exclude='.git' --exclude='.github' --exclude='LICENSE' --exclude='README*' \
+            content/ engine/langs/fr-sk-kids/
+
+      - name: Adapter url_path à l'URL GitHub Pages (sans toucher au repo)
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib
+          p = pathlib.Path("engine/langs/fr-sk-kids/lang.json")
+          cfg = json.loads(p.read_text(encoding="utf-8"))
+          repo = os.environ["GITHUB_REPOSITORY"].split("/", 1)[1]
+          cfg["site"]["url_path"] = f"/{repo}/"
+          p.write_text(json.dumps(cfg, ensure_ascii=False, indent=2), encoding="utf-8")
+          print("url_path =", cfg["site"]["url_path"])
+          PY
+
+      - name: Dépendances (Pillow, pour les icônes)
+        run: python3 -m pip install -r engine/requirements.txt
+
+      - name: Build
+        run: |
+          cd engine
+          python3 src/build.py --lang-dir langs/fr-sk-kids --static-dir static
+
+      - uses: actions/configure-pages@v6
+
+      - name: Préparer l'artefact Pages
+        run: |
+          mkdir -p _site
+          cp -r engine/langs/fr-sk-kids/dist/. _site/
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

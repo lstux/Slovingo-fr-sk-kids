@@ -1,0 +1,26 @@
+name: Build & Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      slovingo_ref:
+        description: "Branche/tag/commit du repo Slovingo (code) à utiliser pour le build"
+        required: false
+        default: "main"
+      release_tag:
+        description: "Tag de la release à créer (ex: 2026.09.27). Laisser vide = date auto."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    uses: lstux/Slovingo/.github/workflows/build-release.yml@main
+    with:
+      lang_code: fr-sk-kids
+      slovingo_ref: ${{ inputs.slovingo_ref }}
+      release_tag: ${{ inputs.release_tag }}
+    permissions:
+      contents: write
