@@ -37,6 +37,12 @@
 
 ---
 
+{{sk:Môže sa to zdať ťažké, ale nič sa nedeje! Aj Francúz, ktorý číta po slovensky, má s tým problém. Počúvaj, ako to znie, keď to povie francúzsky hlas:}}
+
+{{Ahoj a vitaj v Alpách! Na začiatku máme zvláštny prízvuk, ale to nevadí!}}
+
+---
+
 ## Ešte pár viet
 
 ! tu
