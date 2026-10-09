@@ -1,18 +1,8 @@
 # Úvod (4/5) — Výslovnosť
 
-@ TODO_img/usta-a-zvuk.jpg | TODO : choisir une image (obrázok úst alebo zvuková vlna) sur Wikimedia Commons
+@ TODO_img/bouche-son.jpg | TODO : choisir une image (illustration de bouche ou onde sonore, sans visage) sur Wikimedia Commons
 
-Najťažšie zvuky francúzštiny sú tie, ktoré slovenčina nemá. Poďme si ich vypočuť a zopakovať.
-
----
-
-## Nové slová
-
-| Français | Slovenčina |
-|----------|------------|
-| la voyelle | samohláska |
-| le son | zvuk |
-| la nasale | nosová samohláska |
+{{sk:Niektoré francúzske zvuky v slovenčine nemáme. Nič sa nedeje, stačí ich počúvať a opakovať!}}
 
 ---
 
@@ -20,18 +10,16 @@ Najťažšie zvuky francúzštiny sú tie, ktoré slovenčina nemá. Poďme si i
 
 ### u a ou
 
-Francúzske **u** vyslovíš ako slovenské „i“, ale s perami zaokrúhlenými, akoby si chcel(a) povedať „u“. Naopak **ou** je presne ako slovenské „u“.
+{{sk:Francúzske „u“ je zvláštne: daj pery ako na „u“ a povedz „i“. Naopak}} {{ou}} {{sk:je celkom ako slovenské „u“.}}
 
 | Français | Slovenčina |
 |----------|------------|
 | {{tu}} | ty |
 | {{tout}} | všetko |
 
-+ Skús {{tu}} vysloviť ako „ti“, ale pery vystrč dopredu, ako keď fúkaš do pohára.
+### Zvuky cez nos
 
-### Nosové zvuky
-
-Pri {{bon}} neprejde vzduch len ústami, ale aj nosom. Koncové **n** sa nevyslovuje.
+{{sk:Pri týchto slovách ide vzduch aj cez nos. Písmeno „n“ na konci sa nečíta, len nám hovorí, že hláska ide cez nos.}}
 
 | Français | Slovenčina |
 |----------|------------|
@@ -40,30 +28,40 @@ Pri {{bon}} neprejde vzduch len ústami, ale aj nosom. Koncové **n** sa nevyslo
 
 ### Francúzske r
 
-Francúzske **r** sa tvorí na zadnej časti jazyka, pri hrdle. Nie je to zvuk, ktorý sa valí ako v slovenčine.
+{{sk:Francúzske „r“ sa tvorí vzadu v hrdle, ako keď si jemne odkašleš. Slovenské „r“ sa kotúľa na špičke jazyka, francúzske nie.}}
 
 | Français | Slovenčina |
 |----------|------------|
 | {{rue}} | ulica |
-| {{rare}} | vzácny |
+| {{rouge}} | červený |
 
 ---
 
 ## Ešte pár viet
 
-! Tu as tout ?
-> Máš všetko?
-> Tu as = máš
+! tu
+> ty
+> tu = ty
+
+! tout
+> všetko
 > tout = všetko
+
+! bon
+> dobrý
+> bon = dobrý
+
+! rue
+> ulica
+> rue = ulica
 
 ! Bon appétit !
 > Dobrú chuť!
 > Bon = dobrý
 > appétit = chuť do jedla
-+ Nosový zvuk v {{bon}} sa vyslovuje tak, aby vzduch prešiel nosom.
 
 ---
 
-## 🇸🇰 Kútik pre Slovákov
+## 🇫🇷 Francúzsky kútik
 
-Francúzi neradi vyslovujú koncové písmená. Preto {{Paris}} znie skôr ako „Pari“, a nie ako „París“. Aj to je jeden z dôvodov, prečo budeme počúvať.
+{{sk:Vo francúzštine sa veľa písmen na konci slova nečíta. Hlavné mesto Francúzska,}} {{Paris}}{{sk:, znie asi „pari“. Po slovensky mu hovoríme Paríž.}}

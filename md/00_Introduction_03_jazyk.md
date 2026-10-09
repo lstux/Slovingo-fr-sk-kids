@@ -1,8 +1,8 @@
 # Úvod (3/5) — Jazyk
 
-@ TODO_img/knihy-a-slovnik.jpg | TODO : choisir une image (kniha alebo slovník) sur Wikimedia Commons
+@ TODO_img/livres-dictionnaire.jpg | TODO : choisir une image (livres ou dictionnaire, sans visages) sur Wikimedia Commons
 
-Francúzština je jazyk, ktorý sa píše trochu inak, než sa číta. Dnes si to ukážeme na pár príkladoch.
+{{sk:Francúzština sa píše trochu inak, než sa číta. Dnes si ukážeme dve veci, ktoré ťa v nej prekvapia.}}
 
 ---
 
@@ -12,53 +12,61 @@ Francúzština je jazyk, ktorý sa píše trochu inak, než sa číta. Dnes si t
 |----------|------------|
 | la langue | jazyk |
 | le français | francúzština |
-| un accent | značka nad písmenom |
 | un mot | slovo |
 | une phrase | veta |
+| un accent | znamienko nad písmenom |
 
 ---
 
-## Francúzske písmená so značkami
+## Znamienka
 
-Francúzština má značky nad písmenami, ale iné než slovenčina. Nemá háčiky ako č alebo š.
+{{sk:Aj francúzština má znamienka, ale iné ako slovenčina. Nemá mäkčene ani dĺžne.}}
 
-| Značka | Príklad | Čo to znamená |
-|--------|---------|---------------|
-| é | {{été}} | leto |
-| è | {{père}} | otec |
-| ê | {{fête}} | sviatok, oslava |
-| ç | {{français}} | francúzsky (s mäkkým c) |
+| Français | Slovenčina |
+|----------|------------|
+| {{été}} | leto |
+| {{mère}} | mama |
+| {{fête}} | oslava |
+| {{garçon}} | chlapec |
 
-+ Značka ç sa číta ako s, nie ako k. Nikdy ho nečítaj tvrdo.
++ Znamienko v slove {{été}} vyzerá ako dĺžeň, ale nič nepredlžuje: mení zvuk písmena e. Písmeno ç má pod sebou chvostík a číta sa ako s, nie ako k.
 
 ---
 
-## Gramatika na začiatok: článok pred slovom
+## Malé slovíčka pred menom
 
-Francúzština má článok pred podstatným menom. Slovenčina ho nemá, preto ho na začiatku ľahko vynecháme.
+{{sk:Pred francúzskymi menami stoja malé slovíčka. Slovenčina ich nemá. Povedia nám, či je meno mužské alebo ženské.}}
 
 | Français | Slovenčina |
 |----------|------------|
 | le soleil | slnko |
-| la maison | dom |
+| la lune | mesiac |
 | un ami | kamarát |
 | une amie | kamarátka |
 
-+ Článok je krátke slovíčko, ktoré hovorí, či ide o muža, alebo o ženu, alebo o jedno zviera. Učíme sa ho spolu so slovom.
++ {{le}} a {{la}} sú ako „ten“ a „tá“. {{un}} a {{une}} sú ako „jeden“ a „jedna“.
++ Pozor: rod nemusí byť rovnaký ako v slovenčine! Slnko je v slovenčine stredného rodu, ale {{le soleil}} je vo francúzštine mužský. Preto sa slová učíme vždy s ich malým slovíčkom.
 
 ---
 
 ## Ešte pár viet
 
-! Je parle un peu français.
-> Trochu hovorím po francúzsky.
-> Je parle = hovorím
-> un peu = trochu
-> français = po francúzsky
+! C'est un mot.
+> To je slovo.
+> C'est = to je
+> un mot = slovo
 
-! Parles-tu français ?
-> Hovoríš po francúzsky?
-> Parles = hovoríš
-> tu = ty
-> français = po francúzsky
-+ Otázka sa dá urobiť aj tak, že pridáme **est-ce que** na začiatok: *Est-ce que tu parles français ?* Oba tvary sú správne.
+! C'est une phrase.
+> To je veta.
+> C'est = to je
+> une phrase = veta
+
+! C'est le soleil !
+> To je slnko!
+> C'est = to je
+> le soleil = slnko
+
+! C'est la lune !
+> To je mesiac!
+> C'est = to je
+> la lune = mesiac

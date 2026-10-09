@@ -1,8 +1,8 @@
 # Úvod (2/5) — Krajina
 
-@ TODO_img/alpy-vanoise.jpg | TODO : choisir une image (panoráma francúzskych Álp, Vanoise ou Mont Blanc) sur Wikimedia Commons
+@ TODO_img/alpes-vanoise.jpg | TODO : choisir une image (panorama des Alpes françaises : Vanoise ou Mont Blanc) sur Wikimedia Commons
 
-Kde sa tie hory nachádzajú? Poďme sa na to pozrieť spolu.
+{{sk:Kde vlastne sú tvoje nové hory? Pozrime sa spolu!}}
 
 ---
 
@@ -12,9 +12,9 @@ Kde sa tie hory nachádzajú? Poďme sa na to pozrieť spolu.
 |----------|------------|
 | la France | Francúzsko |
 | les Alpes | Alpy |
-| les montagnes | hory |
-| le Mont Blanc | Mont Blanc (najvyšší vrch Álp) |
-| Lyon | Lyon (veľké mesto na juhovýchode) |
+| la montagne | hora |
+| le Mont Blanc | Mont Blanc (najvyššia hora Álp) |
+| Lyon | Lyon (veľké mesto neďaleko Álp) |
 | la marmotte | svišť |
 | le bouquetin | kozorožec alpský |
 
@@ -22,52 +22,75 @@ Kde sa tie hory nachádzajú? Poďme sa na to pozrieť spolu.
 
 ## Kde je Francúzsko
 
-Francúzsko je v západnej Európe. Má pobrežie pri Atlantiku aj pri Stredozemnom mori. Na juhovýchode sa ho dotýkajú Alpy, a to sú najvyššie hory západnej Európy.
+{{sk:Francúzsko leží v západnej Európe. Na východe a na juhovýchode sú vysoké hory, Alpy.}}
 
-! Il y a beaucoup de montagnes.
-> Je tu veľa hôr.
-> Il y a = je tu / sú tu
-> beaucoup = veľa
-> de montagnes = hôr
-+ Slovo **voilà** znamená „tu je“ alebo „tu sú“. Uvidíš ho hneď v ďalšej kartičke.
+! Voilà la France !
+> Tu je Francúzsko!
+> Voilà = tu je
+> la France = Francúzsko
 
 ! Voilà les Alpes !
 > Tu sú Alpy!
-> Voilà = tu je / tu sú
+> Voilà = tu sú
 > les Alpes = Alpy
 
----
+! Voilà la montagne !
+> Tu je hora!
+> Voilà = tu je
+> la montagne = hora
 
-## Prečo práve Alpy
-
-V Alpách žijú kozorožce a svište. Sú to horské zvieratá, ktoré prežijú v snehu aj vo výške. Preto sú v našom kurze Léa a Hugo.
-
-! Léa est une marmotte. Hugo est un bouquetin.
-> Léa je svišť. Hugo je kozorožec.
-> Léa = Lea (meno)
-> est = je
-> une marmotte = svišť (ženského rodu)
-> Hugo = Hugo (meno)
-> un bouquetin = kozorožec (mužského rodu)
+! Voilà le Mont Blanc !
+> Tu je Mont Blanc!
+> Voilà = tu je
+> le Mont Blanc = Mont Blanc
 
 ---
 
-## 🇸🇰 Kútik pre Slovákov
+## Zvieratá z Álp
 
-{{Mont Blanc}} leží na hranici Francúzska a Talianska. Slovensko má Vysoké Tatry, Francúzsko má Alpy: obe sú vysoké, plné zvierat a turisti k nim chodia radi.
+{{sk:V Alpách žijú svište aj kozorožce. Takí sú aj tvoji noví susedia, Léa a Hugo.}}
 
-+ Názvy miest vo francúzštine často nájdeš v tvare, ktorý sa nečíta ako slovenský. Preto ich budeme počúvať, nie len čítať.
+! Voilà la marmotte !
+> Tu je svišť!
+> Voilà = tu je
+> la marmotte = svišť
+
+! Voilà le bouquetin !
+> Tu je kozorožec!
+> Voilà = tu je
+> le bouquetin = kozorožec
+
+---
+
+## 🇫🇷 Francúzsky kútik
+
+{{sk:Svište žijú aj v Tatrách! Tatranský svišť a ten alpský patria k tomu istému druhu.}}
+
+---
+
+## Doplnkové slová
+
+| Français | Slovenčina |
+|----------|------------|
+| voilà | tu je, tu sú |
+| c'est | to je |
+| j'habite à | bývam v |
 
 ---
 
 ## Ešte pár viet
 
 ! C'est la France.
-> Toto je Francúzsko.
-> C'est = toto je / to je
+> To je Francúzsko.
+> C'est = to je
 > la France = Francúzsko
+
+! C'est Lyon.
+> To je Lyon.
+> C'est = to je
+> Lyon = Lyon
 
 ! J'habite à Lyon.
 > Bývam v Lyone.
-> J'habite = bývam
-> à Lyon = v Lyone
+> J'habite à = bývam v
+> Lyon = Lyon

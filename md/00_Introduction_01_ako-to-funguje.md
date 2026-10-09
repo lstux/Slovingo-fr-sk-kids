@@ -1,37 +1,57 @@
 # Úvod (1/5) — Ako to funguje
 
-@ TODO_img/liska-v-horach.jpg | TODO : choisir une image (líška na horskom chodníku, Alpy) sur Wikimedia Commons
+@ TODO_img/renard-roux-alpes.jpg | TODO : choisir une image (un renard roux, de préférence dans un paysage de montagne) sur Wikimedia Commons
 
-Vitaj! Tento kurz je o malej líške, ktorá práve prišla do francúzskych Álp, a o zajačici Andrei, ktorá jej ukazuje cestu. Francúzsky sa učíš s nimi, krok za krokom.
+## Ahoj! Ako sa voláš?
+
+👋 {{sk:Vitaj v Alpách, vo francúzskych horách! Si tu prvýkrát a francúzsky sa naučíš so svojimi novými susedmi: so zvieratkami, ako si ty! Napíš sem svoje meno.}}
+
+[ASK_USER_NAME]
 
 ---
 
-## Ako pracovať s kartičkami
+## Počúvať je ľahké
 
-| Čo vidíš | Čo to znamená |
-|----------|---------------|
-| veta s výkričníkom | francúzska veta, ktorú môžeš počúvať |
-| preklad pod ňou | slovenský význam |
-| 🔊 pri slove | kliknutím si slovo vypočuješ |
-| 🐢 | pomalé čítanie, keď chceš slovo počuť pomaly |
+{{sk:Tu sa učíš hlavne ušami. Dotkni sa slova alebo vety a ono prehovorí!}}
+
+- Po francúzsky: zvýraznené, s 🔊. Skús: {{Bonjour}}
+- Po slovensky: podčiarknuté bodkami, s 🗣️. Skús: {{sk:Výborne, podarilo sa ti to!}}
+
+Vety, ktoré sa naučíš, sú v kartičkách. Dotkni sa vety a ozve sa. Tlačidlom 👀 si zobrazíš preklad.
+
+! Bonjour !
+> Dobrý deň!
+> Bonjour = dobrý deň
++ Dotkni sa vety, potom 👀.
+
+---
+
+## Dialógy
+
+{{sk:V dialógoch sa rozprávaš s Andreou. Stlač tlačidlo „Čítať dialóg“ s malým trojuholníkom a všetko sa prečíta samo!}} ▶
+
+## Vyskúšaj!
+
+- 🐰 Andrea, zajačica z Álp (zajačica je samica zajaca)
+- 🦊 Ty
+
+! 🐰 Salut !
+> Ahoj!
+> Salut = ahoj
+
+! 🦊 Salut, Andrea !
+> Ahoj, Andrea!
+> Salut = ahoj
+> Andrea = Andrea
 
 ---
 
 ## Kto je kto
 
-| Postavička | Kto to je |
-|------------|-----------|
-| 🦊 Ty | líška, ktorá práve prišla do hôr |
-| 🐰 Andrea | zajačica, tvoja nová kamarátka |
-| 🐹 Léa | svišť (marmota), Andreina kamarátka |
-| 🐐 Hugo | kozorožec alpský (bouquetin), Léin brat |
+Neskôr stretneš aj svišťa Léu a kozorožca Huga. Sú to Andreini kamaráti.
 
----
-
-## Pravidlá dobrého učenia
+## Ako sa učiť
 
 - Najprv počúvaj, potom opakuj nahlas.
 - Nemusíš rozumieť všetkému hneď. Slová sa vracajú, a keď ich počuješ dosť často, ostanú v hlave.
-- Na konci každej série je príbeh. Môžeš si ho prečítať aj nahlas s niekým doma.
-
-+ Francúzske slová sa čítajú inak než slovenské. Preto sa nebojíme počúvať a opakovať aj vtedy, keď sa zdá, že to nevieme vysloviť.
+- Každá séria má dialóg s kamarátmi. Môžeš si ho zahrať aj s niekým doma.

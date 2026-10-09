@@ -1,81 +1,158 @@
-# Kit prežitia (extra) — Všetko dokopy
+# Kit prežitia (extra) — Tout ensemble !
 
-@ TODO_img/kniha-a-usmev.jpg | TODO : choisir une image (dve deti s knihou, bez tváre) sur Wikimedia Commons
+@ TODO_img/prairie-alpes.jpg | TODO : choisir une image (prairie de montagne fleurie, Alpes) sur Wikimedia Commons
 
-Tu sú všetky slová a výrazy z Kitu prežitia. Žiadne nové slová sa tu neobjavia.
+{{sk:Tu nie sú žiadne nové slová. Zhrnieme celý Kit prežitia a poskladáme slová do malých scénok!}}
 
 ---
 
-## Všetko, čo sme sa naučili
+## Celá slovná zásoba Kitu prežitia
 
 | Français | Slovenčina |
 |----------|------------|
 | bonjour | dobrý deň |
-| salut | ahoj, čau |
+| salut | ahoj |
 | au revoir | dovidenia |
 | bonsoir | dobrý večer |
 | bonne nuit | dobrú noc |
 | ça va ? | ako sa máš? |
 | ça va | dobre |
+| Madame | pani |
+| Monsieur | pán |
+| à demain | do zajtra |
 | merci | ďakujem |
-| merci beaucoup | ďakujem veľmi pekne |
-| s'il te plaît | prosím (ty) |
-| s'il vous plaît | prosím (vy) |
-| pardon | prepáč |
+| merci beaucoup | ďakujem pekne |
+| s'il te plaît | prosím ťa |
+| s'il vous plaît | prosím vás |
+| pardon | prepáč, prepáčte |
 | de rien | nie je zač |
-| je vous en prie | prosím, nemáte za čo |
+| je vous en prie | nemáte za čo |
+| tu | ty |
+| vous | vy |
+| je m'appelle | volám sa |
 | tu parles français ? | hovoríš po francúzsky? |
 | je ne comprends pas | nerozumiem |
-| je m'appelle | volám sa |
-| à demain | do zajtra |
 
 ---
 
-## Ešte raz, ale v iných vetách
+## Malé scénky, v ktorých sa všetko mieša
 
-! Bonsoir, Monsieur. Merci beaucoup.
-> Dobrý večer, pán. Ďakujem veľmi pekne.
-> Bonsoir = dobrý večer
-> Monsieur = pán
-> Merci beaucoup = ďakujem veľmi pekne
+### Scéna 1 — Salut, Hugo !
 
-! Salut, Léa ! Ça va ?
-> Ahoj, Léa! Ako sa máš?
+{{sk:Stretávaš kozorožca Huga na horskom chodníku.}}
+
+! 🐐 Salut ! Je m'appelle Hugo.
+> Ahoj! Volám sa Hugo.
 > Salut = ahoj
-> Léa = Léa
+> Je m'appelle = volám sa
+> Hugo = Hugo
+
+! 🦊 Salut, Hugo ! Je m'appelle [USER_NAME].
+> Ahoj, Hugo! Volám sa [USER_NAME].
+> Salut = ahoj
+> Hugo = Hugo
+> Je m'appelle = volám sa
+
+! 🐐 Ça va ?
+> Ako sa máš?
 > Ça va = ako sa máš
 
-! Pardon, je ne comprends pas.
-> Prepáč, nerozumiem.
-> Pardon = prepáč
-> je ne comprends pas = nerozumiem
-
-! Tu parles français, Andrea ?
-> Hovoríš po francúzsky, Andrea?
-> Tu parles = hovoríš
-> français = po francúzsky
-> Andrea = Andrea
-
-! Un peu d'eau, s'il vous plaît, Madame.
-> Trochu vody, prosím, pani.
-> Un peu = trochu
-> d'eau = vody
-> s'il vous plaît = prosím (vy)
-> Madame = pani
-
-! Au revoir, Andrea ! À demain !
-> Dovidenia, Andrea! Do zajtra!
-> Au revoir = dovidenia
-> Andrea = Andrea
-> À demain = do zajtra
-
-! De rien, je vous en prie.
-> Nie je zač, prosím.
-> De rien = nie je zač
-> je vous en prie = prosím, nemáte za čo
+! 🦊 Ça va, merci !
+> Dobre, ďakujem!
+> Ça va = dobre
+> merci = ďakujem
 
 ---
 
-## 🇸🇰 Kútik pre Slovákov
+### Scéna 2 — Merci beaucoup !
 
-Francúzsky má dva tvary pre „ty“ a „vy“, rovnako ako my máme „ty“ a „vy“. Kamarátom hovoríme „tu“, dospelým „vous“. Ktoré slovo použiť, to záleží na tom, koho máš pred sebou.
+{{sk:Hugo práve pomohol Léi. Léa mu slušne poďakuje.}}
+
+! 🐹 Merci beaucoup, Hugo !
+> Ďakujem pekne, Hugo!
+> Merci beaucoup = ďakujem pekne
+> Hugo = Hugo
+
+! 🐐 De rien, Léa !
+> Nie je zač, Léa!
+> De rien = nie je zač
+> Léa = Léa
+
+! 🐹 Au revoir, Hugo. À demain !
+> Dovidenia, Hugo. Do zajtra!
+> Au revoir = dovidenia
+> Hugo = Hugo
+> À demain = do zajtra
+
+! 🐐 Salut, Léa !
+> Ahoj, Léa!
+> Salut = ahoj
+> Léa = Léa
+
+---
+
+### Scéna 3 — Léa robí dôležitú
+
+{{sk:Léa sa hrá na veľkú dámu. Andrea sa smeje.}}
+
+! 🐹 Bonjour, Madame Andrea ! Ça va ?
+> Dobrý deň, pani Andrea! Ako sa máš?
+> Bonjour = dobrý deň
+> Madame = pani
+> Andrea = Andrea
+> Ça va = ako sa máš
+
+! 🐰 Madame ? Salut, Léa ! Ça va !
+> Pani? Ahoj, Léa! Dobre!
+> Madame = pani
+> Salut = ahoj
+> Léa = Léa
+> Ça va = dobre
++ Kamarátke stačí {{salut}}. Léa trochu preháňa. 😄
+
+! 🐹 Merci beaucoup, Madame !
+> Ďakujem pekne, pani!
+> Merci beaucoup = ďakujem pekne
+> Madame = pani
+
+! 🐰 Je vous en prie, Madame Léa ! Au revoir !
+> Nemáte za čo, pani Léa! Dovidenia!
+> Je vous en prie = nemáte za čo
+> Madame = pani
+> Léa = Léa
+> Au revoir = dovidenia
++ Andrea sa hrá s Léou: keď sa jej vyká, vyká aj ona. 😄
+
+---
+
+### Scéna 4 — Bonne nuit
+
+{{sk:Je večer a hovoríš s Léou. Zatiaľ nerozumieš všetko, ale vieš, čo povedať.}}
+
+! 🐹 Bonsoir ! Tu parles français ?
+> Dobrý večer! Hovoríš po francúzsky?
+> Bonsoir = dobrý večer
+> Tu parles français = hovoríš po francúzsky
+
+! 🦊 Je ne comprends pas. Pardon !
+> Nerozumiem. Prepáč!
+> Je ne comprends pas = nerozumiem
+> Pardon = prepáč
+
+! 🐹 Bonne nuit, [USER_NAME] ! À demain !
+> Dobrú noc, [USER_NAME]! Do zajtra!
+> Bonne nuit = dobrú noc
+> À demain = do zajtra
+
+! 🦊 Bonne nuit, Léa !
+> Dobrú noc, Léa!
+> Bonne nuit = dobrú noc
+> Léa = Léa
+
+---
+
+## 🇫🇷 Francúzsky kútik
+
+{{sk:Bravo! Vieš pozdraviť, poďakovať, ospravedlniť sa, predstaviť sa a povedať, že nerozumieš. S tým sa vo Francúzsku nestratíš!}}
+
+{{sk:Ďalej to bude o rodine.}}

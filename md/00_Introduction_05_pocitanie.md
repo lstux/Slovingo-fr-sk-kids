@@ -1,8 +1,8 @@
 # Úvod (5/5) — Počítanie
 
-@ TODO_img/cisla-na-tabuli.jpg | TODO : choisir une image (čísla na tabuli alebo prsty) sur Wikimedia Commons
+@ TODO_img/chiffres-ardoise.jpg | TODO : choisir une image (chiffres sur une ardoise, ou des doigts de main) sur Wikimedia Commons
 
-Čísla sú dobrý začiatok: používame ich každý deň, a jednoduché sú aj vo francúzštine.
+{{sk:Čísla od nuly do desať sú dobrý začiatok. Počúvaj ich a počítaj nahlas!}}
 
 ---
 
@@ -24,36 +24,59 @@
 
 ---
 
-## Pozor na tieto dve
+## Jeden a jedna
+
+{{sk:Na slovo „jeden“ sú dve slová: jedno pre mužský rod, druhé pre ženský.}}
 
 | Français | Slovenčina |
 |----------|------------|
-| {{un}} | jeden (pri mužskom slove) |
-| {{une}} | jedna (pri ženskom slove) |
+| {{un}} | jeden (mužský rod) |
+| {{une}} | jedna (ženský rod) |
 
-+ Rozdiel medzi **un** a **une** je ten, ktorý sa čuje hlavne na konci. Pri **une** sa **n** vysloví.
++ Pri {{un}} sa n nečíta, hláska ide cez nos. Pri {{une}} sa n počuje.
+
+---
+
+## Počítaj nahlas
+
+! Un, deux, trois !
+> Jeden, dva, tri!
+> Un = jeden
+> deux = dva
+> trois = tri
+
+! Quatre, cinq, six !
+> Štyri, päť, šesť!
+> Quatre = štyri
+> cinq = päť
+> six = šesť
+
+! Sept, huit, neuf, dix !
+> Sedem, osem, deväť, desať!
+> Sept = sedem
+> huit = osem
+> neuf = deväť
+> dix = desať
 
 ---
 
 ## Ešte pár viet
+
+! Voilà deux montagnes !
+> Tu sú dve hory!
+> Voilà = tu sú
+> deux = dve
+> montagnes = hory
++ Na konci slova {{montagnes}} je písmeno „s“, ale nečíta sa.
+
+! Voilà trois montagnes !
+> Tu sú tri hory!
+> Voilà = tu sú
+> trois = tri
+> montagnes = hory
 
 ! J'ai huit ans.
 > Mám osem rokov.
 > J'ai = mám
 > huit = osem
 > ans = rokov
-
-! Il y a trois marmottes.
-> Sú tu tri svište.
-> Il y a = je tu / sú tu
-> trois = tri
-> marmottes = svište
-+ Slovo **il y a** znamená „je tu“ aj pre viac vecí naraz. Slovo **marmottes** je množné číslo.
-
-! Un, deux, trois, quatre, cinq !
-> Jeden, dva, tri, štyri, päť!
-> Un = jeden
-> deux = dva
-> trois = tri
-> quatre = štyri
-> cinq = päť
