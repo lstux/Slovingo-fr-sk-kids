@@ -76,6 +76,12 @@ jobs:
           cp -r engine/langs/fr-sk-kids/dist/. _site/
           touch _site/.nojekyll
 
+      - name: Dépendances de la traduction de relecture (markdown)
+        run: python3 -m pip install -q markdown
+
+      - name: Publier la traduction de relecture sous /fr
+        run: python3 content/tools/build_md_fr.py content/md-fr _site/fr
+
       - uses: actions/upload-pages-artifact@v5
         with:
           path: _site

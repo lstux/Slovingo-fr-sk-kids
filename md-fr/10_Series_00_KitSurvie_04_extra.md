@@ -1,6 +1,6 @@
 # Kit de survie (extra) — Tout ensemble ! *(Kit prežitia)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : prairie de montagne fleurie, Alpes
 

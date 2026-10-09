@@ -1,6 +1,6 @@
 # Introduction (4/5) — La prononciation *(Úvod — Výslovnosť)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : illustration de bouche ou onde sonore, sans visage
 

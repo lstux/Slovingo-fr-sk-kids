@@ -1,6 +1,6 @@
 # Introduction (5/5) — Compter *(Úvod — Počítanie)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : chiffres sur une ardoise, ou des doigts de main
 

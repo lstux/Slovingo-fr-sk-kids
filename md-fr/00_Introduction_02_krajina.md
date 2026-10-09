@@ -1,6 +1,6 @@
 # Introduction (2/5) — Le pays *(Úvod — Krajina)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : panorama des Alpes françaises (Vanoise ou Mont Blanc)
 

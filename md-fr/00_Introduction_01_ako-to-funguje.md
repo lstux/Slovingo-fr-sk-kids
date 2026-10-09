@@ -1,6 +1,6 @@
 # Introduction (1/5) — Comment ça marche *(Úvod — Ako to funguje)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : un renard roux, de préférence dans un paysage de montagne
 

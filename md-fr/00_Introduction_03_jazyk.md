@@ -1,6 +1,6 @@
 # Introduction (3/5) — La langue *(Úvod — Jazyk)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : des livres ou un dictionnaire, sans visages
 

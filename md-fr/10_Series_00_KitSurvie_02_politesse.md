@@ -1,6 +1,6 @@
 # Kit de survie (2/3) — Merci ! *(Kit prežitia)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : un objet tendu d'une main à l'autre, sans visage
 

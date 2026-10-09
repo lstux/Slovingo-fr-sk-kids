@@ -1,6 +1,6 @@
 # Kit de survie (3/3) — Salut, Andrea ! *(Kit prežitia)*
 
-> 🔎 Traduction de relecture, non utilisée par le build. Voir le [README](./README.md).
+> 🔎 Traduction de relecture, non utilisée par le build. Voir l'[index de la relecture](./).
 
 @ image à choisir : un lièvre et un renard dans une prairie de montagne
 
