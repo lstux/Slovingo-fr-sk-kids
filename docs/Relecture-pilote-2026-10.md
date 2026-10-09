@@ -86,7 +86,7 @@ Légende : 🔴 faux · 🟠 maladroit ou à améliorer · 🟢 détail · ✅ c
 - *zajka* : usage réel entre enfants, comme petit nom d'une hase.
 - *Ahoj* pour *salut* : trop familier ? À écouter.
 - *kozorožec* : mot connu des enfants de 8 ans ? Sinon, une alternative à tester (*horská koza*).
-- L'enfant tutoie-t-il *Madame* en jouant (scène 3 de l'extra) : la blague passe-t-elle en slovaque ?
+- Scène 3 de l'extra (« Madame Andrea ») : **gardée** (décision d'Eric). Une note explique que *Madame Andrea* sonne solennel ou bizarre, et que c'est pour cela qu'Andrea répond en vouvoyant : elles jouent aux adultes. À confirmer avec un natif : la blague passe-t-elle en slovaque ?
 
 ## À faire ensuite
 

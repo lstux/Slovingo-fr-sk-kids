@@ -93,7 +93,7 @@
 
 ### Scéna 3 — Léa robí dôležitú
 
-{{sk:Léa sa hrá na veľkú dámu. Andrea sa smeje.}}
+{{sk:Léa a Andrea sa hrajú na dospelé.}}
 
 ! 🐹 Bonjour, Madame Andrea ! Ça va ?
 > Dobrý deň, pani Andrea! Ako sa máš?
@@ -108,7 +108,7 @@
 > Salut = ahoj
 > Léa = Léa
 > Ça va = dobre
-+ Kamarátke stačí {{salut}}. Léa trochu preháňa. 😄
++ {{Madame Andrea}} znie trochu slávnostne, až čudne. Kamarátke stačí {{salut}}, Léa sa len hrá na dospelú. 😄
 
 ! 🐹 Merci beaucoup, Madame !
 > Ďakujem pekne, pani!
@@ -121,7 +121,7 @@
 > Madame = pani
 > Léa = Léa
 > Au revoir = dovidenia
-+ Andrea sa hrá s Léou: keď sa jej vyká, vyká aj ona. 😄
++ Preto Andrea odpovedá vykaním: {{je vous en prie}}. Hrajú sa na dospelé, a dospelí si vykajú. 😄
 
 ---
 
