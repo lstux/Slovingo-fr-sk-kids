@@ -178,6 +178,35 @@
     "backup_export": "📥 Exportovať nastavenia a postup (JSON)",
     "backup_import": "📤 Importovať zálohu (JSON)"
   },
+  "cheers": {
+    "perfect": [
+      {"t": "Excellent !", "n": "Výborne!"},
+      {"t": "Incroyable !", "n": "Neuveriteľné!"},
+      {"t": "Génial !", "n": "Úžasné!"},
+      {"t": "Cent pour cent !", "n": "Sto percent!"},
+      {"t": "C'est trop facile pour toi ?!", "n": "Je to pre teba príliš ľahké?!"}
+    ],
+    "great": [
+      {"t": "Super !", "n": "Super!"},
+      {"t": "Presque parfait !", "n": "Takmer dokonalé!"},
+      {"t": "Très bien !", "n": "Veľmi dobre!"}
+    ],
+    "good": [
+      {"t": "Beau travail !", "n": "Dobrá práca!"},
+      {"t": "Joli !", "n": "Pekné!"},
+      {"t": "Tu t'en sors bien !", "n": "Darí sa ti!"}
+    ],
+    "ok": [
+      {"t": "Pas mal !", "n": "Nie je to zlé!"},
+      {"t": "Continue comme ça !", "n": "Pokračuj tak!"},
+      {"t": "Ça s'améliore !", "n": "Zlepšuje sa to!"}
+    ],
+    "retry": [
+      {"t": "Essaie encore !", "n": "Skús znova!"},
+      {"t": "Ne lâche pas !", "n": "Nevzdávaj sa!"},
+      {"t": "Courage !", "n": "Hlavu hore!"}
+    ]
+  },
   "generator": {
     "target_headers": [
       "french",
