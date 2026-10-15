@@ -3,6 +3,11 @@ name: GitHub Pages
 # Construit le site (dist/) à partir du contenu de ce repo (cours enfants) et du moteur
 # lstux/Slovingo, puis le publie sur GitHub Pages à chaque push sur main.
 # Le build "release" (build-release.yml) reste disponible à la demande.
+#
+# Le site publie aussi une petite API statique sous api/ (index.json,
+# sheets/<id>.json, exercises/<id>.json), générée par src/export_api.py du moteur,
+# pour les clients légers (app de la montre T-Watch, widgets...).
+# Tant que le moteur utilisé n'a pas ce script, l'étape est ignorée (avertissement).
 
 on:
   push:
@@ -67,6 +72,15 @@ jobs:
         run: |
           cd engine
           python3 src/build.py --lang-dir langs/fr-sk-kids --static-dir static
+
+      - name: Export de l'API JSON légère (api/)
+        run: |
+          cd engine
+          if [ -f src/export_api.py ]; then
+            python3 src/export_api.py --lang-dir langs/fr-sk-kids -o langs/fr-sk-kids/dist/api
+          else
+            echo "::warning title=API non publiée::src/export_api.py absent du moteur ${{ inputs.slovingo_ref || 'main' }}"
+          fi
 
       - uses: actions/configure-pages@v6
 
