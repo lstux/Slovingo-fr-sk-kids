@@ -178,6 +178,7 @@
     "backup_export": "📥 Exportovať nastavenia a postup (JSON)",
     "backup_import": "📤 Importovať zálohu (JSON)"
   },
+  "greeting": {"t": "Bonjour, [USER_NAME] !", "n": "Ahoj, [USER_NAME]!"},
   "cheers": {
     "perfect": [
       {"t": "Excellent !", "n": "Výborne!"},
