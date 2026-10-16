@@ -19,6 +19,7 @@ Tout se passe dans les **Alpes françaises**, avec la région lyonnaise en arri�
 | 🐹 | Léa, une marmotte (*svišť*) |
 | 🐐 | Hugo, un bouquetin (*kozorožec*), le petit frère de Léa |
 | 🦌 | Mamie Odile, une chamois (*kamzica*), leur grand-mère (série Rodina) |
+| 🦔 | Monsieur Hérisson, un hérisson et facteur, un adulte inconnu qu'on vouvoie (série Dedina) |
 
 *Prénoms de Léa et Hugo : propositions, à valider. D'autres animaux pourront rejoindre la bande (adultes, commerçants, gardien du parc…).*
 
@@ -57,7 +58,7 @@ slovingo-fr-sk-kids/
 
 ## État
 
-Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Séries 01 Rodina, 02 Doma et 03 Jedlo écrites (6 fiches chacune), voir [docs/Serie-01-Rodina.md](./docs/Serie-01-Rodina.md), [docs/Serie-02-Doma.md](./docs/Serie-02-Doma.md), [docs/Serie-03-Jedlo.md](./docs/Serie-03-Jedlo.md) et la [relecture des séries 01-03](./docs/Relecture-series-01-03-2026-10.md). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
+Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Séries 01 Rodina, 02 Doma, 03 Jedlo et 04 Dedina écrites (6 fiches chacune), voir [docs/Serie-01-Rodina.md](./docs/Serie-01-Rodina.md), [docs/Serie-02-Doma.md](./docs/Serie-02-Doma.md), [docs/Serie-03-Jedlo.md](./docs/Serie-03-Jedlo.md), [docs/Serie-04-Dedina.md](./docs/Serie-04-Dedina.md) et la [relecture des séries 01-03](./docs/Relecture-series-01-03-2026-10.md). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
 
 ## Dépôts liés
 
