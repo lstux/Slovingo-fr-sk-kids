@@ -15,7 +15,7 @@ Total : 799 exercices pour les séries, soit 15 à 23 par fiche.
 ## Principes
 
 - Les mots et les phrases viennent de la fiche elle-même (tableaux de vocabulaire
-  et cartes). Aucun exercice ne teste un mot que l'enfant n'a pas encore vu.
+  et cartes). Les bonnes réponses ne testent que ce que l'enfant a vu ; les fausses réponses peuvent contenir un mot courant pas encore enseigné (par exemple l'impératif « choď »), ce qui ne gêne pas.
   La commande `src/sync_exercises.py --lang-dir .` ne signale rien d'obsolète.
 - Les fausses réponses ne sont pas tirées au hasard : elles reprennent
   les pièges du cours.
