@@ -1,6 +1,6 @@
 # Hry (1/5) — On joue !
 
-@ TODO_img/jeux-enfants-cour.jpg | TODO : choisir une image (des jeux d'enfants posés sur une table : ballon, cartes, corde et puzzle, sans personne) sur Wikimedia Commons
+@ TODO_img/ballon-herbe.jpg | TODO : choisir une image (un ballon posé dans l'herbe, sans personne)
 
 {{sk:Baví ťa hra s loptou, kartami alebo švihadlom? Dnes sa naučíš pomenovať hry a povedať, čo hráš.}}
 

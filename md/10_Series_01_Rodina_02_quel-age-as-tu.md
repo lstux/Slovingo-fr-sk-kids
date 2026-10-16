@@ -1,6 +1,6 @@
 # Rodina (2/5) — Quel âge as-tu ?
 
-@ TODO_img/gateau-bougies.jpg | TODO : choisir une image (un gâteau d'anniversaire avec des bougies, sans visage) sur Wikimedia Commons
+@ TODO_img/bouquetin-age.jpg | TODO : choisir une image (un vieux bouquetin aux grandes cornes, ou un jeune à côté d'un adulte)
 
 {{sk:Koľko rokov máš ty? A koľko majú tvoji kamaráti? Dnes sa naučíš povedať, koľko má kto rokov.}}
 

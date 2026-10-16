@@ -1,6 +1,6 @@
 # Hry (extra) — Tout ensemble !
 
-@ TODO_img/chalet-neige-jeux.jpg | TODO : choisir une image (un chalet sous la neige avec des traces de luge devant la porte) sur Wikimedia Commons
+@ TODO_img/chalet-luge.jpg | TODO : choisir une image (un chalet sous la neige avec des traces de luge)
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Hry a poskladáme slová do malých scénok!}}
 

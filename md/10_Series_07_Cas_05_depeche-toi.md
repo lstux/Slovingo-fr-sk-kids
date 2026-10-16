@@ -1,6 +1,6 @@
 # Čas a čísla (5/5) — Dépêche-toi !
 
-@ TODO_img/gare-montagne-train.jpg | TODO : choisir une image (un quai de petite gare de montagne avec un train à l'arrêt, sans personne) sur Wikimedia Commons
+@ TODO_img/train-gare.jpg | TODO : choisir une image (un petit train dans une gare de montagne)
 
 {{sk:Ty, Andrea a Léa idete vlakom do Lyonu. Ale kde je Hugo? Počúvaj, ako sa pýtajú na čas a ako sa ponáhľajú!}}
 

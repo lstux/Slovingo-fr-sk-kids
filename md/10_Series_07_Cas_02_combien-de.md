@@ -1,6 +1,6 @@
 # Čas a čísla (2/5) — Combien de… ?
 
-@ TODO_img/pieces-euros.jpg | TODO : choisir une image (des pièces et des billets en euros posés sur une table, sans personne) sur Wikimedia Commons
+@ TODO_img/pieces-euros.jpg | TODO : choisir une image (des pièces d'euros posées sur une table, sans personne)
 
 {{sk:Koľko je ovečiek na lúke? Koľko stojí chlieb? Dnes sa naučíš počítať po desiatkach až do sto a opýtať sa „koľko“.}}
 

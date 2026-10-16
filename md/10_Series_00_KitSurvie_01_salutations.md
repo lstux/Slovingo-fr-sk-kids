@@ -1,6 +1,6 @@
 # Kit prežitia (1/3) — Bonjour !
 
-@ TODO_img/sentier-alpes.jpg | TODO : choisir une image (un sentier de montagne dans les Alpes) sur Wikimedia Commons
+@ TODO_img/sentier-alpes.jpg | TODO : choisir une image (un sentier de montagne dans les Alpes)
 
 {{sk:Prvé slová: ako pozdraviť, ako sa rozlúčiť a ako sa opýtať, ako sa máš. Dotkni sa slov a počúvaj!}}
 

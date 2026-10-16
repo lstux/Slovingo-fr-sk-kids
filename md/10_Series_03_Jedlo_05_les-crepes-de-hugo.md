@@ -1,6 +1,6 @@
 # Jedlo (5/5) — Les crêpes de Hugo
 
-@ TODO_img/cuisine-chalet.jpg | TODO : choisir une image (une cuisine de chalet avec une poêle et des crêpes, sans personne) sur Wikimedia Commons
+@ TODO_img/crepe-poele.jpg | TODO : choisir une image (une crêpe qui saute dans la poêle)
 
 {{sk:Hugo pripravil olovrant pre kamarátov. Počúvaj a sleduj, kto čo hovorí!}}
 

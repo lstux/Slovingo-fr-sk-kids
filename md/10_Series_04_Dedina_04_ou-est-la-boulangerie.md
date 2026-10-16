@@ -1,6 +1,6 @@
 # Dedina (4/5) — Où est la boulangerie ?
 
-@ TODO_img/carrefour-village.jpg | TODO : choisir une image (un carrefour dans un village de montagne avec un panneau indiquant des directions, sans personne) sur Wikimedia Commons
+@ TODO_img/panneau-directions.jpg | TODO : choisir une image (un panneau de directions à un carrefour)
 
 {{sk:Kde je pekáreň? Je blízko alebo ďaleko? Dnes sa naučíš opísať cestu a povedať, kde niečo je.}}
 

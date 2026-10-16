@@ -1,6 +1,6 @@
 # Čas a čísla (1/5) — Jusqu'à vingt
 
-@ TODO_img/table-pommes-chaises.jpg | TODO : choisir une image (une table de cuisine avec des pommes bien rangées, sans personne) sur Wikimedia Commons
+@ TODO_img/vaches-alpage.jpg | TODO : choisir une image (des vaches ou des moutons à compter dans un alpage)
 
 {{sk:Už vieš počítať do dvanásť. Dnes sa naučíš počítať až do dvadsať a povedať, koľko čoho je.}}
 

@@ -1,6 +1,6 @@
 # Hry (2/5) — Je fais du ski
 
-@ TODO_img/neige-pistes-village.jpg | TODO : choisir une image (une piste de ski et une pente de luge près d'un village de montagne, sans personne) sur Wikimedia Commons
+@ TODO_img/piste-ski.jpg | TODO : choisir une image (une piste de ski vide)
 
 {{sk:V Alpách je v zime veľa snehu! Dnes sa naučíš povedať, aký šport robíš, a rozlíšiš „hrám“ a „robím“.}}
 

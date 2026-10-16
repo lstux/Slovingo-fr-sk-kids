@@ -1,6 +1,6 @@
 # Dedina (2/5) — Je vais à l'école
 
-@ TODO_img/marche-village.jpg | TODO : choisir une image (un marché en plein air dans un village, avec des étals de fruits et de légumes, sans personne) sur Wikimedia Commons
+@ TODO_img/ecole-village.jpg | TODO : choisir une image (une petite école de village)
 
 {{sk:Kam ideš dnes? Do školy, na trh, na plaváreň? Dnes sa naučíš povedať, kam ideš, a spýtať sa na to aj ostatných.}}
 

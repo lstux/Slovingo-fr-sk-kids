@@ -1,6 +1,6 @@
 # Čas a čísla (extra) — Tout ensemble !
 
-@ TODO_img/village-soir-alpes.jpg | TODO : choisir une image (un village de montagne au coucher du soleil, avec les lumières qui s'allument) sur Wikimedia Commons
+@ TODO_img/village-soir.jpg | TODO : choisir une image (un village de montagne au coucher du soleil)
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Čas a čísla a poskladáme slová do malých scénok!}}
 

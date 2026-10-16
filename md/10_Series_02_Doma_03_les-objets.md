@@ -1,6 +1,6 @@
 # Doma (3/5) — Je cherche mon livre
 
-@ TODO_img/objets-table.jpg | TODO : choisir une image (des objets du quotidien posés sur une table en bois : livre, verre, assiette, clé, sans personne) sur Wikimedia Commons
+@ TODO_img/chaussures-porte.jpg | TODO : choisir une image (des chaussures de rando et un sac devant une porte de chalet, sans personne)
 
 {{sk:Kde je moja kniha? Kde sú moje kľúče? Dnes sa naučíš pomenovať veci, ktoré hľadáme najčastejšie, a povedať, že ich hľadáš.}}
 

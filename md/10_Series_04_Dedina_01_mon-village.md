@@ -1,6 +1,6 @@
 # Dedina (1/5) — Mon village
 
-@ TODO_img/village-place-fontaine.jpg | TODO : choisir une image (la place d'un village de montagne avec une fontaine et un clocher, sans personne) sur Wikimedia Commons
+@ TODO_img/village-eglise.jpg | TODO : choisir une image (un village de montagne avec son église et sa fontaine)
 
 {{sk:Kde sa v dedine nakupuje chlieb? Kde je škola? Dnes sa naučíš pomenovať miesta v dedine, v ktorej bývaš.}}
 

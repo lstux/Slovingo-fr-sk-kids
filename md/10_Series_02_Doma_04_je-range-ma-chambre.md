@@ -1,6 +1,6 @@
 # Doma (4/5) — Je range ma chambre !
 
-@ TODO_img/rangement-chambre.jpg | TODO : choisir une image (une chambre d'enfant rangée, avec des livres sur une étagère, sans personne) sur Wikimedia Commons
+@ TODO_img/marmotte-foin.jpg | TODO : choisir une image (une marmotte qui rentre du foin dans son terrier)
 
 {{sk:Doma sa vždy niečo robí: upratuje sa, číta sa, otvára sa okno. A pomáhajú všetci! Dnes sa naučíš sedem slovies, ktoré sa ti budú hodiť každý deň.}}
 

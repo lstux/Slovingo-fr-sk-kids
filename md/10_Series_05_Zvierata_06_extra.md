@@ -1,6 +1,6 @@
 # Zvieratá (extra) — Tout ensemble !
 
-@ TODO_img/chalet-animaux-montagne.jpg | TODO : choisir une image (un chalet de montagne avec une poule dans le jardin et des chamois au loin) sur Wikimedia Commons
+@ TODO_img/poule-chalet.jpg | TODO : choisir une image (une poule dans un jardin de chalet)
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Zvieratá a poskladáme slová do malých scénok!}}
 

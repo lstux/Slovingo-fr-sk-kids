@@ -1,6 +1,6 @@
 # Zvieratá (3/5) — Que font-ils ?
 
-@ TODO_img/marmotte-prairie.jpg | TODO : choisir une image (une marmotte debout dans l'herbe, qui regarde au loin) sur Wikimedia Commons
+@ TODO_img/marmotte-guette.jpg | TODO : choisir une image (une marmotte debout qui guette)
 
 {{sk:Čo robia zvieratá? Dnes sa naučíš povedať, ako sa zvieratá hýbu, a naučíš sa povedať „oni“ a „ony“.}}
 

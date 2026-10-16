@@ -1,6 +1,6 @@
 # Úvod (3/5) — Jazyk
 
-@ TODO_img/livres-dictionnaire.jpg | TODO : choisir une image (livres ou dictionnaire, sans visages) sur Wikimedia Commons
+@ TODO_img/lievre-variable.jpg | TODO : choisir une image (un lièvre variable, le lièvre des Alpes (c'est Andrea))
 
 {{sk:Francúzština sa píše trochu inak, než sa číta. Dnes si ukážeme dve veci, ktoré ťa v nej prekvapia.}}
 

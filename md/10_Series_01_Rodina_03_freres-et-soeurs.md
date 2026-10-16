@@ -1,6 +1,6 @@
 # Rodina (3/5) — Tu as un frère ?
 
-@ TODO_img/bouquetins-jeunes.jpg | TODO : choisir une image (deux jeunes bouquetins côte à côte) sur Wikimedia Commons
+@ TODO_img/bouquetins-jeunes.jpg | TODO : choisir une image (deux jeunes bouquetins côte à côte)
 
 {{sk:Máš brata alebo sestru? Dnes sa naučíš odpovedať áno alebo nie a povedať, ako sa voláš ty a ako sa volajú tvoji blízki.}}
 

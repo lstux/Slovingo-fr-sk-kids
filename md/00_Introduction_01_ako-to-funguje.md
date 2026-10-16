@@ -1,6 +1,6 @@
 # Úvod (1/5) — Ako to funguje
 
-@ TODO_img/renard-roux-alpes.jpg | TODO : choisir une image (un renard roux, de préférence dans un paysage de montagne) sur Wikimedia Commons
+@ TODO_img/renard-montagne.jpg | TODO : choisir une image (un renard roux dans un paysage de montagne (c'est toi))
 
 ## Ahoj! Ako sa voláš?
 

@@ -1,6 +1,6 @@
 # Zvieratá (2/5) — C'est un chien !
 
-@ TODO_img/animaux-maison.jpg | TODO : choisir une image (un jardin de chalet avec une niche et un panier, sans personne) sur Wikimedia Commons
+@ TODO_img/patou-moutons.jpg | TODO : choisir une image (un chien de berger (patou) avec les moutons)
 
 {{sk:Máš doma zviera? Dnes sa naučíš pomenovať domáce zvieratá a povedať, aké zviera máš ty a aké majú tvoji kamaráti.}}
 

@@ -1,6 +1,6 @@
 # Kit prežitia (2/3) — Merci !
 
-@ TODO_img/main-tendue.jpg | TODO : choisir une image (un objet tendu d'une main à l'autre, sans visage) sur Wikimedia Commons
+@ TODO_img/marmotte-fleur.jpg | TODO : choisir une image (une marmotte qui grignote une fleur (c'est Léa))
 
 {{sk:Zdvorilosť je kľúč. Naučíš sa poďakovať, poprosiť a ospravedlniť sa.}}
 

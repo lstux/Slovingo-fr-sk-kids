@@ -1,6 +1,6 @@
 # Hry (3/5) — C'est à moi !
 
-@ TODO_img/jeu-cartes-table.jpg | TODO : choisir une image (un jeu de cartes et des dés posés sur une table en bois, sans personne) sur Wikimedia Commons
+@ TODO_img/marmottes-jeu.jpg | TODO : choisir une image (deux marmottes qui se chamaillent)
 
 {{sk:Kto je na rade? Kto vyhráva? Dnes sa naučíš povedať „som na rade“ a „vyhrávam“.}}
 

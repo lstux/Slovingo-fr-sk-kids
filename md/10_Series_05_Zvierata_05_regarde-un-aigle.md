@@ -1,6 +1,6 @@
 # Zvieratá (5/5) — Regarde, un aigle !
 
-@ TODO_img/sentier-montagne-aigle.jpg | TODO : choisir une image (un sentier de montagne avec un aigle dans le ciel au loin, sans personne) sur Wikimedia Commons
+@ TODO_img/aigle-royal.jpg | TODO : choisir une image (un aigle royal en vol)
 
 {{sk:Ty, Andrea, Léa a Hugo ste na prechádzke v horách. Pozorujete zvieratá a Hugo si doberá Léu.}}
 

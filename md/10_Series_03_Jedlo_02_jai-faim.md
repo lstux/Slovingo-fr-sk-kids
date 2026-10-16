@@ -1,6 +1,6 @@
 # Jedlo (2/5) — J'ai faim !
 
-@ TODO_img/cantine-ecole.jpg | TODO : choisir une image (un plateau de cantine scolaire, sans personne) sur Wikimedia Commons
+@ TODO_img/vache-broute.jpg | TODO : choisir une image (une vache ou un chamois qui broute)
 
 {{sk:Máš hlad? Máš smäd? Dnes sa naučíš povedať, čo chceš, a povedať to slušne. A naučíš sa názvy jedál počas dňa.}}
 

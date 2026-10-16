@@ -1,6 +1,6 @@
 # Zvieratá (4/5) — Plus grand que…
 
-@ TODO_img/montagne-alpes-sommet.jpg | TODO : choisir une image (un sommet alpin enneigé vu depuis une prairie) sur Wikimedia Commons
+@ TODO_img/bouquetin-marmotte.jpg | TODO : choisir une image (un bouquetin et une marmotte, si possible dans la même photo)
 
 {{sk:Kto je väčší, vlk alebo svišť? Kto je rýchlejší, zajac alebo korytnačka? Dnes sa naučíš porovnávať.}}
 

@@ -1,6 +1,6 @@
 # Jedlo (extra) — Tout ensemble !
 
-@ TODO_img/table-dejeuner-alpes.jpg | TODO : choisir une image (une table dressée dehors devant un chalet, avec du pain et des fruits) sur Wikimedia Commons
+@ TODO_img/table-dehors.jpg | TODO : choisir une image (une table dressée dehors (pain, fromage, fruits))
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Jedlo a poskladáme slová do malých scénok!}}
 

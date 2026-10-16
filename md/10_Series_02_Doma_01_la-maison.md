@@ -1,6 +1,6 @@
 # Doma (1/5) — La maison
 
-@ TODO_img/chalet-savoyard.jpg | TODO : choisir une image (un chalet de montagne en bois, avec de la neige sur le toit) sur Wikimedia Commons
+@ TODO_img/chalet-neige.jpg | TODO : choisir une image (un chalet savoyard sous la neige)
 
 {{sk:Kde bývajú tvoji noví susedia? V Alpách, v drevených chalupách! Dnes sa naučíš pomenovať izby a povedať, kde kto je.}}
 

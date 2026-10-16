@@ -1,6 +1,6 @@
 # Dedina (5/5) — Pardon, Monsieur !
 
-@ TODO_img/boulangerie-village.jpg | TODO : choisir une image (la devanture d'une boulangerie de village avec du pain en vitrine, sans personne) sur Wikimedia Commons
+@ TODO_img/herisson-jardin.jpg | TODO : choisir une image (un hérisson dans un jardin (c'est Monsieur Hérisson))
 
 {{sk:Ty a Andrea ste na výlete v inej alpskej dedine. Máte hlad a hľadáte pekáreň. Spýtate sa pána poštára na cestu. Počúvaj, ako sa slušne pýta cudzieho dospelého!}}
 

@@ -1,6 +1,6 @@
 # Úvod (2/5) — Krajina
 
-@ TODO_img/alpes-vanoise.jpg | TODO : choisir une image (panorama des Alpes françaises : Vanoise ou Mont Blanc) sur Wikimedia Commons
+@ TODO_img/alpes-panorama.jpg | TODO : choisir une image (panorama des Alpes françaises (Mont Blanc ou Écrins))
 
 {{sk:Kde vlastne sú tvoje nové hory? Pozrime sa spolu!}}
 

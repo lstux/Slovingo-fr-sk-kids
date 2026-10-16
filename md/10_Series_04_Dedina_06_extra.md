@@ -1,6 +1,6 @@
 # Dedina (extra) — Tout ensemble !
 
-@ TODO_img/village-vue-montagne.jpg | TODO : choisir une image (un village de montagne vu d'en haut, avec ses toits, son clocher et la route qui monte) sur Wikimedia Commons
+@ TODO_img/lyon-fourviere.jpg | TODO : choisir une image (Lyon vue depuis Fourvière)
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Dedina a poskladáme slová do malých scénok!}}
 

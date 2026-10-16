@@ -1,6 +1,6 @@
 # Dedina (3/5) — À pied ou en bus ?
 
-@ TODO_img/gare-village.jpg | TODO : choisir une image (la petite gare d'un village de montagne avec un train, sans personne) sur Wikimedia Commons
+@ TODO_img/bus-montagne.jpg | TODO : choisir une image (un bus sur une route de montagne)
 
 {{sk:Ideš do školy pešo, autobusom alebo na bicykli? Dnes sa naučíš povedať, ako sa kam dostaneš.}}
 

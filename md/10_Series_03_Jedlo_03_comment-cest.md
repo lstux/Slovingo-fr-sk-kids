@@ -1,6 +1,6 @@
 # Jedlo (3/5) — Comment c'est ?
 
-@ TODO_img/soupe-fumante.jpg | TODO : choisir une image (un bol de soupe qui fume, posé sur une table en bois) sur Wikimedia Commons
+@ TODO_img/myrtilles.jpg | TODO : choisir une image (des myrtilles sauvages)
 
 {{sk:Je to horúce? Je to sladké? Je to dobré? Dnes sa naučíš opísať jedlo a povedať, čo si o ňom myslíš.}}
 

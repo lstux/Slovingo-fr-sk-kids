@@ -1,6 +1,6 @@
 # Rodina (extra) — Tout ensemble !
 
-@ TODO_img/album-photos.jpg | TODO : choisir une image (un album de photos de famille ouvert, sans visages) sur Wikimedia Commons
+@ TODO_img/groupe-bouquetins.jpg | TODO : choisir une image (un groupe de bouquetins)
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú rodinu a poskladáme slová do malých scénok!}}
 

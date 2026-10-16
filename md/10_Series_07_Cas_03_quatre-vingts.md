@@ -1,6 +1,6 @@
 # Čas a čísla (3/5) — Quatre-vingts !
 
-@ TODO_img/tableau-nombres.jpg | TODO : choisir une image (un tableau noir d'école avec des nombres écrits à la craie, sans personne) sur Wikimedia Commons
+@ TODO_img/troupeau-route.jpg | TODO : choisir une image (un troupeau qui traverse une route (transhumance))
 
 {{sk:Pozor, toto je najťažšia časť! Francúzi nemajú slovo pre osemdesiat. Povedia „štyri-dvadsať“! Neboj sa, vysvetlíme si to.}}
 

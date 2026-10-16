@@ -1,6 +1,6 @@
 # Úvod (4/5) — Výslovnosť
 
-@ TODO_img/bouche-son.jpg | TODO : choisir une image (illustration de bouche ou onde sonore, sans visage) sur Wikimedia Commons
+@ TODO_img/marmotte-siffle.jpg | TODO : choisir une image (une marmotte debout devant son terrier, en train de siffler)
 
 {{sk:Niektoré francúzske zvuky v slovenčine nemáme. Nič sa nedeje, stačí ich počúvať a opakovať!}}
 

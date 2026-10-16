@@ -1,6 +1,6 @@
 # Hry (5/5) — Une partie de cartes
 
-@ TODO_img/partie-cartes-chalet.jpg | TODO : choisir une image (une table de chalet avec un jeu de cartes étalé et quatre chaises, sans personne) sur Wikimedia Commons
+@ TODO_img/cartes-table.jpg | TODO : choisir une image (un jeu de cartes sur une table en bois, sans personne)
 
 {{sk:Ty, Andrea, Léa a Hugo hráte karty v chate. Hugo si myslí, že niekto podvádza… ale má pravdu?}}
 

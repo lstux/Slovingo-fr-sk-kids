@@ -1,6 +1,6 @@
 # Kit prežitia (3/3) — Salut, Andrea !
 
-@ TODO_img/lievre-et-renard.jpg | TODO : choisir une image (un lièvre et un renard dans une prairie de montagne) sur Wikimedia Commons
+@ TODO_img/lievre-hiver.jpg | TODO : choisir une image (un lièvre variable en robe d'hiver blanche (c'est Andrea))
 
 {{sk:Si v Alpách a stretávaš Andreu a Léu. Nevadí, že ešte nerozumieš všetkému. Počúvaj a sleduj, kto čo hovorí!}}
 

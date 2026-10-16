@@ -1,6 +1,6 @@
 # Úvod (5/5) — Počítanie
 
-@ TODO_img/chiffres-ardoise.jpg | TODO : choisir une image (chiffres sur une ardoise, ou des doigts de main) sur Wikimedia Commons
+@ TODO_img/moutons-pont.jpg | TODO : choisir une image (un défilé de moutons sur un pont ou un chemin, à compter)
 
 {{sk:Čísla od nuly do desať sú dobrý začiatok. Počúvaj ich a počítaj nahlas!}}
 
