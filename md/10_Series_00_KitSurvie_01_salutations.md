@@ -1,6 +1,6 @@
 # Kit prežitia (1/3) — Bonjour !
 
-@ TODO_img/sentier-alpes.jpg | TODO : choisir une image (un sentier de montagne dans les Alpes)
+@ img/kit-01-village-alpin.jpg | Un village de montagne dans les Alpes : quand on croise quelqu'un, on dit bonjour !
 
 {{sk:Prvé slová: ako pozdraviť, ako sa rozlúčiť a ako sa opýtať, ako sa máš. Dotkni sa slov a počúvaj!}}
 

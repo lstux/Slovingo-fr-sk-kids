@@ -1,6 +1,6 @@
 # Úvod (2/5) — Krajina
 
-@ TODO_img/alpes-panorama.jpg | TODO : choisir une image (panorama des Alpes françaises (Mont Blanc ou Écrins))
+@ img/intro-02-alpes.jpg | Les Alpes françaises, près de Puy-Saint-Vincent
 
 {{sk:Kde vlastne sú tvoje nové hory? Pozrime sa spolu!}}
 
