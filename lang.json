@@ -30,6 +30,21 @@
     "deploy_host": "www.lslinux.org",
     "deploy_path": "/var/www/lslinux.org/htdocs/slovingo/fr-sk-kids/"
   },
+  "map": {
+    "direction": "up",
+    "positions": {
+      "intro": [45, 8],
+      "series-kitsurvie": [21, 20],
+      "series-rodina": [60, 23],
+      "series-doma": [20, 36],
+      "series-jedlo": [34, 44],
+      "series-dedina": [52, 38],
+      "series-zvierata": [16, 54],
+      "series-hry": [30, 72],
+      "series-cas": [67, 65],
+      "final-exam": [50, 91]
+    }
+  },
   "categories": {
     "introduction": "Predtým než začneme",
     "series": "Série",
