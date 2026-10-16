@@ -33,16 +33,16 @@
   "map": {
     "direction": "up",
     "positions": {
-      "intro": [45, 8],
-      "series-kitsurvie": [21, 20],
-      "series-rodina": [60, 23],
-      "series-doma": [20, 36],
-      "series-jedlo": [34, 44],
-      "series-dedina": [52, 38],
-      "series-zvierata": [16, 54],
-      "series-hry": [30, 72],
-      "series-cas": [67, 65],
-      "final-exam": [50, 91]
+      "intro": [68, 6],
+      "series-kitsurvie": [86, 23],
+      "series-rodina": [38, 20],
+      "series-doma": [76, 35],
+      "series-jedlo": [22, 28],
+      "series-dedina": [38, 37],
+      "series-zvierata": [14, 54],
+      "series-hry": [57, 71],
+      "series-cas": [82, 76],
+      "final-exam": [48, 90]
     }
   },
   "categories": {
