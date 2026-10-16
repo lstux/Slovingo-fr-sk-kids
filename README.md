@@ -17,7 +17,8 @@ Tout se passe dans les **Alpes françaises**, avec la région lyonnaise en arri�
 | 🦊 | Toi, la *líška* qui vient d'arriver dans les Alpes (prénom saisi au début du cours) |
 | 🐰 | Andrea, une hase (*zajačica*), ton amie. Même duo qu'en sk-fr-kids |
 | 🐹 | Léa, une marmotte (*svišť*) |
-| 🐐 | Hugo, un bouquetin (*kozorožec*), l'ami de Léa |
+| 🐐 | Hugo, un bouquetin (*kozorožec*), le petit frère de Léa |
+| 🦌 | Mamie Odile, une chamois (*kamzica*), leur grand-mère (série Rodina) |
 
 *Prénoms de Léa et Hugo : propositions, à valider. D'autres animaux pourront rejoindre la bande (adultes, commerçants, gardien du parc…).*
 
@@ -56,7 +57,7 @@ slovingo-fr-sk-kids/
 
 ## État
 
-Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
+Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Série 01 Rodina écrite (6 fiches), voir [docs/Serie-01-Rodina.md](./docs/Serie-01-Rodina.md). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
 
 ## Dépôts liés
 
