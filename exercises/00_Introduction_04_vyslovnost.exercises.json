@@ -1,0 +1,224 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-tu",
+      "type": "qcm",
+      "l1": "ty",
+      "l2": "tu",
+      "choices_l1": [
+        "všetko",
+        "ulica",
+        "červený"
+      ],
+      "choices_l2": [
+        "tout",
+        "rue",
+        "rouge"
+      ]
+    },
+    {
+      "id": "qcm-tout",
+      "type": "qcm",
+      "l1": "všetko",
+      "l2": "tout",
+      "choices_l1": [
+        "ty",
+        "ulica",
+        "dobrý"
+      ],
+      "choices_l2": [
+        "tu",
+        "rue",
+        "bon"
+      ]
+    },
+    {
+      "id": "qcm-bon",
+      "type": "qcm",
+      "l1": "dobrý",
+      "l2": "bon",
+      "choices_l1": [
+        "lavička",
+        "ulica",
+        "ty"
+      ],
+      "choices_l2": [
+        "banc",
+        "rue",
+        "tu"
+      ]
+    },
+    {
+      "id": "qcm-banc",
+      "type": "qcm",
+      "l1": "lavička",
+      "l2": "banc",
+      "choices_l1": [
+        "dobrý",
+        "ulica",
+        "červený"
+      ],
+      "choices_l2": [
+        "bon",
+        "rue",
+        "rouge"
+      ]
+    },
+    {
+      "id": "qcm-rue",
+      "type": "qcm",
+      "l1": "ulica",
+      "l2": "rue",
+      "choices_l1": [
+        "červený",
+        "ty",
+        "lavička"
+      ],
+      "choices_l2": [
+        "rouge",
+        "tu",
+        "banc"
+      ]
+    },
+    {
+      "id": "qcm-rouge",
+      "type": "qcm",
+      "l1": "červený",
+      "l2": "rouge",
+      "choices_l1": [
+        "ulica",
+        "všetko",
+        "dobrý"
+      ],
+      "choices_l2": [
+        "rue",
+        "tout",
+        "bon"
+      ]
+    },
+    {
+      "id": "listen-tu",
+      "type": "listen",
+      "l1": "ty",
+      "l2": "tu",
+      "choices_l1": [
+        "všetko",
+        "ulica",
+        "dobrý"
+      ]
+    },
+    {
+      "id": "listen-tout",
+      "type": "listen",
+      "l1": "všetko",
+      "l2": "tout",
+      "choices_l1": [
+        "ty",
+        "červený",
+        "lavička"
+      ]
+    },
+    {
+      "id": "listen-rue",
+      "type": "listen",
+      "l1": "ulica",
+      "l2": "rue",
+      "choices_l1": [
+        "červený",
+        "ty",
+        "dobrý"
+      ]
+    },
+    {
+      "id": "listen-rouge",
+      "type": "listen",
+      "l1": "červený",
+      "l2": "rouge",
+      "choices_l1": [
+        "ulica",
+        "ty",
+        "lavička"
+      ]
+    },
+    {
+      "id": "listen-bon-appetit",
+      "type": "listen",
+      "l1": "Dobrú chuť!",
+      "l2": "Bon appétit !",
+      "choices_l1": [
+        "Dobrý deň!",
+        "Ahoj!",
+        "To je slovo."
+      ]
+    },
+    {
+      "id": "blank-bon-appetit",
+      "type": "fill-blank",
+      "l1": "Dobrú chuť!",
+      "l2": "Bon appétit !",
+      "missing_l1": "chuť",
+      "missing_l2": "appétit",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "červený",
+        "lavička",
+        "všetko"
+      ],
+      "choices_l2": [
+        "rouge",
+        "banc",
+        "tout"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-bon-appetit",
+      "type": "order",
+      "l1": "Dobrú chuť!",
+      "l2": "Bon appétit !",
+      "tokens_l1": [
+        "Dobrú",
+        "chuť!"
+      ],
+      "tokens_l2": [
+        "Bon",
+        "appétit !"
+      ]
+    },
+    {
+      "id": "match-sons",
+      "type": "match",
+      "l1": [
+        "ty",
+        "všetko",
+        "dobrý",
+        "lavička"
+      ],
+      "l2": [
+        "tu",
+        "tout",
+        "bon",
+        "banc"
+      ]
+    },
+    {
+      "id": "match-rue-rouge",
+      "type": "match",
+      "l1": [
+        "ulica",
+        "červený",
+        "všetko",
+        "lavička"
+      ],
+      "l2": [
+        "rue",
+        "rouge",
+        "tout",
+        "banc"
+      ]
+    }
+  ]
+}

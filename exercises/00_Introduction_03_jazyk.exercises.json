@@ -1,0 +1,257 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-soleil",
+      "type": "qcm",
+      "l1": "slnko",
+      "l2": "le soleil",
+      "choices_l1": [
+        "mesiac",
+        "kamarát",
+        "kamarátka"
+      ],
+      "choices_l2": [
+        "la lune",
+        "un ami",
+        "une amie"
+      ]
+    },
+    {
+      "id": "qcm-lune",
+      "type": "qcm",
+      "l1": "mesiac",
+      "l2": "la lune",
+      "choices_l1": [
+        "slnko",
+        "kamarát",
+        "kamarátka"
+      ],
+      "choices_l2": [
+        "le soleil",
+        "un ami",
+        "une amie"
+      ]
+    },
+    {
+      "id": "qcm-ami",
+      "type": "qcm",
+      "l1": "kamarát",
+      "l2": "un ami",
+      "choices_l1": [
+        "slnko",
+        "mesiac",
+        "kamarátka"
+      ],
+      "choices_l2": [
+        "le soleil",
+        "la lune",
+        "une amie"
+      ]
+    },
+    {
+      "id": "qcm-amie",
+      "type": "qcm",
+      "l1": "kamarátka",
+      "l2": "une amie",
+      "choices_l1": [
+        "slnko",
+        "mesiac",
+        "kamarát"
+      ],
+      "choices_l2": [
+        "le soleil",
+        "la lune",
+        "un ami"
+      ]
+    },
+    {
+      "id": "qcm-mot",
+      "type": "qcm",
+      "l1": "slovo",
+      "l2": "un mot",
+      "choices_l1": [
+        "veta",
+        "jazyk",
+        "francúzština"
+      ],
+      "choices_l2": [
+        "une phrase",
+        "la langue",
+        "le français"
+      ]
+    },
+    {
+      "id": "qcm-langue",
+      "type": "qcm",
+      "l1": "jazyk",
+      "l2": "la langue",
+      "choices_l1": [
+        "slovo",
+        "veta",
+        "francúzština"
+      ],
+      "choices_l2": [
+        "un mot",
+        "une phrase",
+        "le français"
+      ]
+    },
+    {
+      "id": "listen-soleil",
+      "type": "listen",
+      "l1": "To je slnko!",
+      "l2": "C'est le soleil !",
+      "choices_l1": [
+        "To je mesiac!",
+        "To je slovo.",
+        "To je veta."
+      ]
+    },
+    {
+      "id": "listen-lune",
+      "type": "listen",
+      "l1": "To je mesiac!",
+      "l2": "C'est la lune !",
+      "choices_l1": [
+        "To je slnko!",
+        "To je slovo.",
+        "To je veta."
+      ]
+    },
+    {
+      "id": "listen-phrase",
+      "type": "listen",
+      "l1": "To je veta.",
+      "l2": "C'est une phrase.",
+      "choices_l1": [
+        "To je slovo.",
+        "To je slnko!",
+        "To je mesiac!"
+      ]
+    },
+    {
+      "id": "blank-un-mot",
+      "type": "fill-blank",
+      "l1": "To je slovo.",
+      "l2": "C'est un mot.",
+      "missing_l1": "slovo",
+      "missing_l2": "mot",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "kamarát",
+        "slnko",
+        "jazyk"
+      ],
+      "choices_l2": [
+        "ami",
+        "soleil",
+        "français"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-la-lune",
+      "type": "fill-blank",
+      "l1": "To je mesiac!",
+      "l2": "C'est la lune !",
+      "missing_l1": "mesiac",
+      "missing_l2": "lune",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "veta",
+        "kamarátka",
+        "francúzština"
+      ],
+      "choices_l2": [
+        "phrase",
+        "amie",
+        "langue"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-une-phrase",
+      "type": "order",
+      "l1": "To je veta.",
+      "l2": "C'est une phrase.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "veta."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "une",
+        "phrase."
+      ]
+    },
+    {
+      "id": "order-le-soleil",
+      "type": "order",
+      "l1": "To je slnko!",
+      "l2": "C'est le soleil !",
+      "tokens_l1": [
+        "To",
+        "je",
+        "slnko!"
+      ],
+      "tokens_l2": [
+        "C'est",
+        "le",
+        "soleil !"
+      ]
+    },
+    {
+      "id": "match-articles",
+      "type": "match",
+      "l1": [
+        "slnko",
+        "mesiac",
+        "kamarát",
+        "kamarátka"
+      ],
+      "l2": [
+        "le soleil",
+        "la lune",
+        "un ami",
+        "une amie"
+      ]
+    },
+    {
+      "id": "match-langue",
+      "type": "match",
+      "l1": [
+        "jazyk",
+        "francúzština",
+        "slovo",
+        "veta"
+      ],
+      "l2": [
+        "la langue",
+        "le français",
+        "un mot",
+        "une phrase"
+      ]
+    },
+    {
+      "id": "match-accents",
+      "type": "match",
+      "l1": [
+        "leto",
+        "mama",
+        "oslava",
+        "chlapec"
+      ],
+      "l2": [
+        "été",
+        "mère",
+        "fête",
+        "garçon"
+      ]
+    }
+  ]
+}

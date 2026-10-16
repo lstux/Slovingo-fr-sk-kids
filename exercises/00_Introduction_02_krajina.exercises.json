@@ -1,0 +1,177 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-france",
+      "type": "qcm",
+      "l1": "Francúzsko",
+      "l2": "la France",
+      "choices_l1": [
+        "Alpy",
+        "hora",
+        "svišť"
+      ],
+      "choices_l2": [
+        "les Alpes",
+        "la montagne",
+        "la marmotte"
+      ]
+    },
+    {
+      "id": "qcm-alpes",
+      "type": "qcm",
+      "l1": "Alpy",
+      "l2": "les Alpes",
+      "choices_l1": [
+        "Francúzsko",
+        "hora",
+        "kozorožec"
+      ],
+      "choices_l2": [
+        "la France",
+        "la montagne",
+        "le bouquetin"
+      ]
+    },
+    {
+      "id": "qcm-montagne",
+      "type": "qcm",
+      "l1": "hora",
+      "l2": "la montagne",
+      "choices_l1": [
+        "Francúzsko",
+        "Alpy",
+        "svišť"
+      ],
+      "choices_l2": [
+        "la France",
+        "les Alpes",
+        "la marmotte"
+      ]
+    },
+    {
+      "id": "qcm-marmotte",
+      "type": "qcm",
+      "l1": "svišť",
+      "l2": "la marmotte",
+      "choices_l1": [
+        "kozorožec",
+        "hora",
+        "Alpy"
+      ],
+      "choices_l2": [
+        "le bouquetin",
+        "la montagne",
+        "les Alpes"
+      ]
+    },
+    {
+      "id": "qcm-bouquetin",
+      "type": "qcm",
+      "l1": "kozorožec alpský",
+      "l2": "le bouquetin",
+      "choices_l1": [
+        "svišť",
+        "hora",
+        "Francúzsko"
+      ],
+      "choices_l2": [
+        "la marmotte",
+        "la montagne",
+        "la France"
+      ]
+    },
+    {
+      "id": "listen-voila-alpes",
+      "type": "listen",
+      "l1": "Tu sú Alpy!",
+      "l2": "Voilà les Alpes !",
+      "choices_l1": [
+        "Tu je Francúzsko!",
+        "Tu je hora!",
+        "Tu je svišť!"
+      ]
+    },
+    {
+      "id": "listen-habite-lyon",
+      "type": "listen",
+      "l1": "Bývam v Lyone.",
+      "l2": "J'habite à Lyon.",
+      "choices_l1": [
+        "To je Lyon.",
+        "To je Francúzsko.",
+        "Tu je hora!"
+      ]
+    },
+    {
+      "id": "blank-voila-marmotte",
+      "type": "fill-blank",
+      "l1": "Tu je svišť!",
+      "l2": "Voilà la marmotte !",
+      "missing_l1": "svišť",
+      "missing_l2": "marmotte",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "hora",
+        "kozorožec",
+        "Francúzsko"
+      ],
+      "choices_l2": [
+        "montagne",
+        "bouquetin",
+        "France"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-habite-lyon",
+      "type": "order",
+      "l1": "Bývam v Lyone.",
+      "l2": "J'habite à Lyon.",
+      "tokens_l1": [
+        "Bývam",
+        "v",
+        "Lyone."
+      ],
+      "tokens_l2": [
+        "J'habite",
+        "à",
+        "Lyon."
+      ]
+    },
+    {
+      "id": "match-pays",
+      "type": "match",
+      "l1": [
+        "Francúzsko",
+        "Alpy",
+        "hora",
+        "svišť"
+      ],
+      "l2": [
+        "la France",
+        "les Alpes",
+        "la montagne",
+        "la marmotte"
+      ]
+    },
+    {
+      "id": "match-lieux",
+      "type": "match",
+      "l1": [
+        "Mont Blanc (najvyššia hora Álp)",
+        "Lyon (veľké mesto neďaleko Álp)",
+        "kozorožec alpský",
+        "svišť"
+      ],
+      "l2": [
+        "le Mont Blanc",
+        "Lyon",
+        "le bouquetin",
+        "la marmotte"
+      ]
+    }
+  ]
+}

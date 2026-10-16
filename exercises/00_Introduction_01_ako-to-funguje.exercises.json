@@ -1,0 +1,67 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "listen-bonjour",
+      "type": "listen",
+      "l1": "Dobrý deň!",
+      "l2": "Bonjour !",
+      "choices_l1": [
+        "Ahoj!",
+        "Ahoj, Andrea!",
+        "Dobrý deň, Andrea!"
+      ]
+    },
+    {
+      "id": "listen-salut-andrea",
+      "type": "listen",
+      "l1": "Ahoj, Andrea!",
+      "l2": "Salut, Andrea !",
+      "choices_l1": [
+        "Ahoj!",
+        "Dobrý deň!",
+        "Dobrý deň, Andrea!"
+      ]
+    },
+    {
+      "id": "listen-salut",
+      "type": "listen",
+      "l1": "Ahoj!",
+      "l2": "Salut !",
+      "choices_l1": [
+        "Dobrý deň!",
+        "Ahoj, Andrea!",
+        "Dobrý deň, Andrea!"
+      ]
+    },
+    {
+      "id": "match-bonjour-sentences",
+      "type": "match",
+      "l1": [
+        "Dobrý deň!",
+        "Ahoj!",
+        "Ahoj, Andrea!"
+      ],
+      "l2": [
+        "Bonjour !",
+        "Salut !",
+        "Salut, Andrea !"
+      ]
+    },
+    {
+      "id": "order-salut-andrea",
+      "type": "order",
+      "l1": "Ahoj, Andrea!",
+      "l2": "Salut, Andrea !",
+      "tokens_l1": [
+        "Ahoj,",
+        "Andrea!"
+      ],
+      "tokens_l2": [
+        "Salut,",
+        "Andrea !"
+      ]
+    }
+  ]
+}
