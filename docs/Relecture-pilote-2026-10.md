@@ -93,4 +93,4 @@ Légende : 🔴 faux · 🟠 maladroit ou à améliorer · 🟢 détail · ✅ c
 - Choisir les images (`TODO_img`) sur Wikimedia Commons, avec crédits dans `img/credits.md`.
 - Écrire les exercices à la main (`exercises/`), comme pour sk-fr-kids.
 - Adapter `Format-enfants.md` et `Progression-enfants.md` de sk-fr-kids à ce cours (sens inverse).
-- Série 01 Rodina : écrite (voir `Serie-01-Rodina.md`). Séries 01 à 06 écrites (voir les fichiers `Serie-NN-*.md`). Reste la série 07.
+- Série 01 Rodina : écrite (voir `Serie-01-Rodina.md`). Séries 01 à 07 écrites (voir les fichiers `Serie-NN-*.md`). Le cours est complet.
