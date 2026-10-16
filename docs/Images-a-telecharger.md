@@ -5,9 +5,10 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Fiche | Nom du fichier | Page | Auteur | Licence |
 |---|---|---|---|---|
 | Intro 03 | `intro-03-lievre.jpg` | https://www.pexels.com/photo/hare-in-green-summer-field-6437230/ | Steffi Wacker | Pexels |
+| Intro 04 | `intro-04-marmotte.jpg` | https://www.pexels.com/photo/marmot-standing-on-meadow-18011270/ | Diana (@didsss) | Pexels |
 | Intro 05 | `intro-05-moutons.jpg` | https://unsplash.com/photos/herd-of-sheep-crossing-the-road-_qwpbm0-BrQ | Florian Weichelt | Unsplash |
 | Kit 02 | `kit-02-marmotte-fleurs.jpg` | https://unsplash.com/photos/a-marmot-sits-in-a-field-of-yellow-flowers-9Du2Sh2OVPo | Ahmet Yüksek | Unsplash |
 | Kit 03 | `kit-03-lievre-blanc.jpg` | https://unsplash.com/photos/white-rabbit-surrounded-by-snow-EBMCAEEuLro | Thomas Lipke | Unsplash |
 | Kit 04 | `kit-04-bouquetin.jpg` | https://pixabay.com/photos/mont-blanc-ibex-nature-chamonix-641939/ | GregoireWallaert | Pixabay |
 
-Encore à trancher : Intro 01 (renard), Intro 04 (marmotte).
+Encore à trancher : Intro 01 (renard).
