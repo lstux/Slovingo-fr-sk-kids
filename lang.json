@@ -176,7 +176,8 @@
     "credits_resume": "Pokračovať",
     "all_sheets": "Všetky kartičky",
     "backup_export": "📥 Exportovať nastavenia a postup (JSON)",
-    "backup_import": "📤 Importovať zálohu (JSON)"
+    "backup_import": "📤 Importovať zálohu (JSON)",
+    "change_course": "Zmeniť kurz"
   },
   "cheers": {
     "perfect": [

@@ -1,0 +1,348 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm-zero",
+      "type": "qcm",
+      "l1": "nula",
+      "l2": "zéro",
+      "choices_l1": [
+        "jeden",
+        "tri",
+        "šesť"
+      ],
+      "choices_l2": [
+        "un",
+        "trois",
+        "six"
+      ]
+    },
+    {
+      "id": "qcm-un",
+      "type": "qcm",
+      "l1": "jeden",
+      "l2": "un",
+      "choices_l1": [
+        "dva",
+        "štyri",
+        "sedem"
+      ],
+      "choices_l2": [
+        "deux",
+        "quatre",
+        "sept"
+      ]
+    },
+    {
+      "id": "qcm-deux",
+      "type": "qcm",
+      "l1": "dva",
+      "l2": "deux",
+      "choices_l1": [
+        "tri",
+        "päť",
+        "osem"
+      ],
+      "choices_l2": [
+        "trois",
+        "cinq",
+        "huit"
+      ]
+    },
+    {
+      "id": "qcm-trois",
+      "type": "qcm",
+      "l1": "tri",
+      "l2": "trois",
+      "choices_l1": [
+        "štyri",
+        "šesť",
+        "deväť"
+      ],
+      "choices_l2": [
+        "quatre",
+        "six",
+        "neuf"
+      ]
+    },
+    {
+      "id": "qcm-quatre",
+      "type": "qcm",
+      "l1": "štyri",
+      "l2": "quatre",
+      "choices_l1": [
+        "päť",
+        "sedem",
+        "desať"
+      ],
+      "choices_l2": [
+        "cinq",
+        "sept",
+        "dix"
+      ]
+    },
+    {
+      "id": "qcm-cinq",
+      "type": "qcm",
+      "l1": "päť",
+      "l2": "cinq",
+      "choices_l1": [
+        "šesť",
+        "osem",
+        "nula"
+      ],
+      "choices_l2": [
+        "six",
+        "huit",
+        "zéro"
+      ]
+    },
+    {
+      "id": "qcm-six",
+      "type": "qcm",
+      "l1": "šesť",
+      "l2": "six",
+      "choices_l1": [
+        "sedem",
+        "deväť",
+        "jeden"
+      ],
+      "choices_l2": [
+        "sept",
+        "neuf",
+        "un"
+      ]
+    },
+    {
+      "id": "qcm-sept",
+      "type": "qcm",
+      "l1": "sedem",
+      "l2": "sept",
+      "choices_l1": [
+        "osem",
+        "desať",
+        "dva"
+      ],
+      "choices_l2": [
+        "huit",
+        "dix",
+        "deux"
+      ]
+    },
+    {
+      "id": "qcm-huit",
+      "type": "qcm",
+      "l1": "osem",
+      "l2": "huit",
+      "choices_l1": [
+        "deväť",
+        "nula",
+        "tri"
+      ],
+      "choices_l2": [
+        "neuf",
+        "zéro",
+        "trois"
+      ]
+    },
+    {
+      "id": "qcm-neuf",
+      "type": "qcm",
+      "l1": "deväť",
+      "l2": "neuf",
+      "choices_l1": [
+        "desať",
+        "jeden",
+        "štyri"
+      ],
+      "choices_l2": [
+        "dix",
+        "un",
+        "quatre"
+      ]
+    },
+    {
+      "id": "qcm-dix",
+      "type": "qcm",
+      "l1": "desať",
+      "l2": "dix",
+      "choices_l1": [
+        "nula",
+        "dva",
+        "päť"
+      ],
+      "choices_l2": [
+        "zéro",
+        "deux",
+        "cinq"
+      ]
+    },
+    {
+      "id": "listen-un-deux-trois",
+      "type": "listen",
+      "l1": "Jeden, dva, tri!",
+      "l2": "Un, deux, trois !",
+      "choices_l1": [
+        "Jeden, dva, štyri!",
+        "Tri, dva, jeden!",
+        "Dva, tri, štyri!"
+      ]
+    },
+    {
+      "id": "listen-quatre-cinq-six",
+      "type": "listen",
+      "l1": "Štyri, päť, šesť!",
+      "l2": "Quatre, cinq, six !",
+      "choices_l1": [
+        "Štyri, päť, sedem!",
+        "Šesť, päť, štyri!",
+        "Päť, šesť, sedem!"
+      ]
+    },
+    {
+      "id": "listen-huit-ans",
+      "type": "listen",
+      "l1": "Mám osem rokov.",
+      "l2": "J'ai huit ans.",
+      "choices_l1": [
+        "Mám deväť rokov.",
+        "Mám sedem rokov.",
+        "Mám desať rokov."
+      ]
+    },
+    {
+      "id": "listen-trois-montagnes",
+      "type": "listen",
+      "l1": "Tu sú tri hory!",
+      "l2": "Voilà trois montagnes !",
+      "choices_l1": [
+        "Tu sú dve hory!",
+        "Tu sú štyri hory!",
+        "Tu je hora!"
+      ]
+    },
+    {
+      "id": "blank-huit-ans",
+      "type": "fill-blank",
+      "l1": "Mám osem rokov.",
+      "l2": "J'ai huit ans.",
+      "missing_l1": "osem",
+      "missing_l2": "huit",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "šesť",
+        "deväť",
+        "desať"
+      ],
+      "choices_l2": [
+        "six",
+        "neuf",
+        "dix"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank-deux-montagnes",
+      "type": "fill-blank",
+      "l1": "Tu sú dve hory!",
+      "l2": "Voilà deux montagnes !",
+      "missing_l1": "dve",
+      "missing_l2": "deux",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "tri",
+        "štyri",
+        "päť"
+      ],
+      "choices_l2": [
+        "trois",
+        "quatre",
+        "cinq"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-un-deux-trois",
+      "type": "order",
+      "l1": "Jeden, dva, tri!",
+      "l2": "Un, deux, trois !",
+      "tokens_l1": [
+        "Jeden,",
+        "dva,",
+        "tri!"
+      ],
+      "tokens_l2": [
+        "Un,",
+        "deux,",
+        "trois !"
+      ]
+    },
+    {
+      "id": "order-huit-ans",
+      "type": "order",
+      "l1": "Mám osem rokov.",
+      "l2": "J'ai huit ans.",
+      "tokens_l1": [
+        "Mám",
+        "osem",
+        "rokov."
+      ],
+      "tokens_l2": [
+        "J'ai",
+        "huit",
+        "ans."
+      ]
+    },
+    {
+      "id": "match-un-quatre",
+      "type": "match",
+      "l1": [
+        "jeden",
+        "dva",
+        "tri",
+        "štyri"
+      ],
+      "l2": [
+        "un",
+        "deux",
+        "trois",
+        "quatre"
+      ]
+    },
+    {
+      "id": "match-cinq-huit",
+      "type": "match",
+      "l1": [
+        "päť",
+        "šesť",
+        "sedem",
+        "osem"
+      ],
+      "l2": [
+        "cinq",
+        "six",
+        "sept",
+        "huit"
+      ]
+    },
+    {
+      "id": "match-zero-dix",
+      "type": "match",
+      "l1": [
+        "nula",
+        "deväť",
+        "desať",
+        "jedna (ženský rod)"
+      ],
+      "l2": [
+        "zéro",
+        "neuf",
+        "dix",
+        "une"
+      ]
+    }
+  ]
+}
