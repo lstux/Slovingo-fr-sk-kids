@@ -91,7 +91,7 @@ Une maman comme une sœur peut être forte, un papa comme un frère peut être f
 
 ## 🇫🇷 Le coin français *(Francúzsky kútik)*
 
-Les parents français donnent à leurs enfants de petits noms d'animaux et de légumes. Ils leur disent *ma puce* (« moja blcha »), *mon lapin* (« môj zajko ») ou *mon chou* (« moja kapusta »). Le son est étrange, mais c'est dit avec beaucoup de tendresse !
+Les parents français donnent à leurs enfants de petits surnoms affectueux, d'animaux ou de légumes. Ils leur disent *ma puce* (« moja blcha »), *mon lapin* (« môj zajko ») ou *mon chou* (« moja kapusta »). Le son est étrange, mais c'est dit avec beaucoup de tendresse !
 
 ---
 

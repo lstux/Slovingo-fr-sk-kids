@@ -130,7 +130,7 @@
 
 ## 🇫🇷 Francúzsky kútik
 
-{{sk:Francúzski rodičia hovoria deťom milé zvieracie mená. Povedia im}} {{ma puce}}{{sk:, čo je „moja blcha“,}} {{mon lapin}}{{sk:, čo je „môj zajko“, alebo}} {{mon chou}}{{sk:, čo je „moja kapusta“. Zvuk je zvláštny, ale myslia to veľmi milo!}}
+{{sk:Francúzski rodičia dávajú deťom milé prezývky. Povedia im}} {{ma puce}}{{sk:, čo je „moja blcha“,}} {{mon lapin}}{{sk:, čo je „môj zajko“, alebo}} {{mon chou}}{{sk:, čo je „moja kapusta“. Zvuk je zvláštny, ale myslia to veľmi milo!}}
 
 ---
 

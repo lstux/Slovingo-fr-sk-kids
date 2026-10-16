@@ -111,27 +111,31 @@
 > onze ans = jedenásť rokov
 > Et toi = a ty
 
-! 🐹 Moi, j'ai neuf ans. Mon frère a huit ans.
-> Ja mám deväť rokov. Môj brat má osem rokov.
+! 🐹 Moi, j'ai neuf ans. Mon frère a huit ans et ma cousine a douze ans.
+> Ja mám deväť rokov. Môj brat má osem rokov a moja sesternica má dvanásť rokov.
 > Moi = ja
 > j'ai = mám
 > neuf ans = deväť rokov
 > Mon frère = môj brat
 > a = má
 > huit ans = osem rokov
-
-! 🐰 Et ta cousine ?
-> A tvoja sesternica?
-> Et = a
-> ta cousine = tvoja sesternica
-
-! 🐹 Ma cousine a douze ans. Elle est grande !
-> Moja sesternica má dvanásť rokov. Je veľká!
-> Ma cousine = moja sesternica
-> a = má
+> et = a
+> ma cousine = moja sesternica
 > douze ans = dvanásť rokov
+
+! 🐰 Douze ans ? Elle est grande !
+> Dvanásť rokov? Je veľká!
+> Douze ans = dvanásť rokov
 > Elle est = ona je
 > grande = veľká
+
+! 🐹 Oui ! Et elle est très rapide aussi !
+> Áno! A je tiež veľmi rýchla!
+> Oui = áno
+> Et = a
+> elle est = ona je
+> très rapide = veľmi rýchla
+> aussi = tiež
 
 ---
 

@@ -86,14 +86,14 @@ Andrea et Léa parlent de leur âge.
 ! 🐰 Non, j'ai onze ans. Et toi ?
 > Nie, mám jedenásť rokov. A ty? ⟶ « Non, j'ai onze ans. Et toi ? »
 
-! 🐹 Moi, j'ai neuf ans. Mon frère a huit ans.
-> Ja mám deväť rokov. Môj brat má osem rokov. ⟶ « Moi, j'ai neuf ans. Mon frère a huit ans. »
+! 🐹 Moi, j'ai neuf ans. Mon frère a huit ans et ma cousine a douze ans.
+> Ja mám deväť rokov. Môj brat má osem rokov a moja sesternica má dvanásť rokov. ⟶ « Moi, j'ai neuf ans. Mon frère a huit ans et ma cousine a douze ans. »
 
-! 🐰 Et ta cousine ?
-> A tvoja sesternica? ⟶ « Et ta cousine ? »
+! 🐰 Douze ans ? Elle est grande !
+> Dvanásť rokov? Je veľká! ⟶ « Douze ans ? Elle est grande ! »
 
-! 🐹 Ma cousine a douze ans. Elle est grande !
-> Moja sesternica má dvanásť rokov. Je veľká! ⟶ « Ma cousine a douze ans. Elle est grande ! »
+! 🐹 Oui ! Et elle est très rapide aussi !
+> Áno! A je tiež veľmi rýchla! ⟶ « Oui ! Et elle est aussi très rapide ! »
 
 ---
 
