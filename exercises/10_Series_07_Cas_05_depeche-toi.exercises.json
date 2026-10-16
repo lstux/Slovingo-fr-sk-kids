@@ -1,0 +1,269 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-a-quelle-heure",
+      "type": "match",
+      "l1": [
+        "o koľkej hodine",
+        "meškať, mať meškanie",
+        "už",
+        "ponáhľaj sa!"
+      ],
+      "l2": [
+        "à quelle heure",
+        "en retard",
+        "déjà",
+        "dépêche-toi !"
+      ]
+    },
+    {
+      "id": "qcm2-a-quelle-heure",
+      "type": "qcm",
+      "l1": "o koľkej hodine",
+      "l2": "à quelle heure",
+      "choices_l1": [
+        "koľko",
+        "už",
+        "hneď"
+      ],
+      "choices_l2": [
+        "combien",
+        "déjà",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "qcm3-deja",
+      "type": "qcm",
+      "l1": "už",
+      "l2": "déjà",
+      "choices_l1": [
+        "rýchlo",
+        "neskoro",
+        "hneď"
+      ],
+      "choices_l2": [
+        "vite",
+        "tard",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "listen4-salut-andrea-a-quelle-heure-",
+      "type": "listen",
+      "l1": "Ahoj, Andrea! O koľkej ide vlak?",
+      "l2": "Salut, Andrea ! À quelle heure est le train ?",
+      "choices_l1": [
+        "Ahoj, Andrea! Kde je vlak?",
+        "Ahoj, Andrea! Koľko je hodín?",
+        "Ahoj, Léa! O koľkej ide vlak?"
+      ]
+    },
+    {
+      "id": "listen5-ou-est-hugo-il-est-en-retard",
+      "type": "listen",
+      "l1": "Kde je Hugo? Mešká!",
+      "l2": "Où est Hugo ? Il est en retard !",
+      "choices_l1": [
+        "Kde je Hugo? Spí!",
+        "Kde je Léa? Mešká!",
+        "Kde je Hugo? Je tu!"
+      ]
+    },
+    {
+      "id": "listen6-il-dort-comme-une-marmotte",
+      "type": "listen",
+      "l1": "Spí ako svišť!",
+      "l2": "Il dort comme une marmotte !",
+      "choices_l1": [
+        "Spí ako kozorožec!",
+        "Beží ako svišť!",
+        "Nespí ako svišť!"
+      ]
+    },
+    {
+      "id": "listen7-il-est-deja-trois-heures-moi",
+      "type": "listen",
+      "l1": "Už je desať minút do troch!",
+      "l2": "Il est déjà trois heures moins dix !",
+      "choices_l1": [
+        "Je pol tretej.",
+        "Už je poludnie!",
+        "Je desať minút po tretej."
+      ]
+    },
+    {
+      "id": "listen8-je-viens-tout-de-suite",
+      "type": "listen",
+      "l1": "Hneď prídem!",
+      "l2": "Je viens tout de suite !",
+      "choices_l1": [
+        "Prídem neskoro!",
+        "Ponáhľaj sa!",
+        "Už idem domov!"
+      ]
+    },
+    {
+      "id": "blank9-il-est-a-trois-heures-on-va-",
+      "type": "fill-blank",
+      "l1": "Ide o tretej. Ideme do Lyonu!",
+      "l2": "Il est à trois heures. On va à Lyon !",
+      "missing_l1": "tretej",
+      "missing_l2": "trois",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "druhej",
+        "štvrtej",
+        "piatej"
+      ],
+      "choices_l2": [
+        "deux",
+        "quatre",
+        "cinq"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank10-vite-le-train-est-a-la-gare",
+      "type": "fill-blank",
+      "l1": "Rýchlo! Vlak je na stanici!",
+      "l2": "Vite ! Le train est à la gare !",
+      "missing_l1": "stanici",
+      "missing_l2": "gare",
+      "blank_index_l1": 4,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "škole",
+        "dedine",
+        "pekárni"
+      ],
+      "choices_l2": [
+        "école",
+        "village",
+        "boulangerie"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-il-est-deja-midi",
+      "type": "fill-blank",
+      "l1": "Už je poludnie!",
+      "l2": "Il est déjà midi !",
+      "missing_l1": "poludnie",
+      "missing_l2": "midi",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "polnoc",
+        "neskoro",
+        "ráno"
+      ],
+      "choices_l2": [
+        "minuit",
+        "tard",
+        "matin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-depeche-toi-il-est-tard",
+      "type": "fill-blank",
+      "l1": "Ponáhľaj sa, je neskoro!",
+      "l2": "Dépêche-toi, il est tard !",
+      "missing_l1": "neskoro",
+      "missing_l2": "tard",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "poludnie",
+        "večer",
+        "ráno"
+      ],
+      "choices_l2": [
+        "midi",
+        "soir",
+        "matin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order13-je-viens-tout-de-suite",
+      "type": "order",
+      "l1": "Hneď prídem!",
+      "l2": "Je viens tout de suite !",
+      "tokens_l1": [
+        "Hneď",
+        "prídem!"
+      ],
+      "tokens_l2": [
+        "Je",
+        "viens",
+        "tout",
+        "de",
+        "suite",
+        "!"
+      ]
+    },
+    {
+      "id": "order14-depeche-toi-il-est-tard",
+      "type": "order",
+      "l1": "Ponáhľaj sa, je neskoro!",
+      "l2": "Dépêche-toi, il est tard !",
+      "tokens_l1": [
+        "Ponáhľaj",
+        "sa,",
+        "je",
+        "neskoro!"
+      ],
+      "tokens_l2": [
+        "Dépêche-toi,",
+        "il",
+        "est",
+        "tard",
+        "!"
+      ]
+    },
+    {
+      "id": "order15-a-quelle-heure-est-le-gouter",
+      "type": "order",
+      "l1": "O koľkej je olovrant?",
+      "l2": "À quelle heure est le goûter ?",
+      "tokens_l1": [
+        "O",
+        "koľkej",
+        "je",
+        "olovrant?"
+      ],
+      "tokens_l2": [
+        "À",
+        "quelle",
+        "heure",
+        "est",
+        "le",
+        "goûter",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-il-est-deja-midi",
+      "type": "order",
+      "l1": "Už je poludnie!",
+      "l2": "Il est déjà midi !",
+      "tokens_l1": [
+        "Už",
+        "je",
+        "poludnie!"
+      ],
+      "tokens_l2": [
+        "Il",
+        "est",
+        "déjà",
+        "midi",
+        "!"
+      ]
+    }
+  ]
+}

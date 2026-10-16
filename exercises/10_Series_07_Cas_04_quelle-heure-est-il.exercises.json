@@ -1,0 +1,319 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-midi",
+      "type": "match",
+      "l1": [
+        "poludnie",
+        "polnoc",
+        "hodina, čas",
+        "neskoro"
+      ],
+      "l2": [
+        "midi",
+        "minuit",
+        "l'heure",
+        "tard"
+      ]
+    },
+    {
+      "id": "match2-le-matin",
+      "type": "match",
+      "l1": [
+        "ráno, doobeda",
+        "večer",
+        "a pol",
+        "a štvrť"
+      ],
+      "l2": [
+        "le matin",
+        "le soir",
+        "et demie",
+        "et quart"
+      ]
+    },
+    {
+      "id": "qcm3-midi",
+      "type": "qcm",
+      "l1": "poludnie",
+      "l2": "midi",
+      "choices_l1": [
+        "polnoc",
+        "večer",
+        "ráno"
+      ],
+      "choices_l2": [
+        "minuit",
+        "le soir",
+        "le matin"
+      ]
+    },
+    {
+      "id": "qcm4-minuit",
+      "type": "qcm",
+      "l1": "polnoc",
+      "l2": "minuit",
+      "choices_l1": [
+        "poludnie",
+        "neskoro",
+        "večer"
+      ],
+      "choices_l2": [
+        "midi",
+        "tard",
+        "le soir"
+      ]
+    },
+    {
+      "id": "qcm5-tard",
+      "type": "qcm",
+      "l1": "neskoro",
+      "l2": "tard",
+      "choices_l1": [
+        "ráno",
+        "večer",
+        "hodina"
+      ],
+      "choices_l2": [
+        "le matin",
+        "le soir",
+        "l'heure"
+      ]
+    },
+    {
+      "id": "qcm6-moins-le-quart",
+      "type": "qcm",
+      "l1": "bez štvrť",
+      "l2": "moins le quart",
+      "choices_l1": [
+        "a štvrť",
+        "a pol",
+        "poludnie"
+      ],
+      "choices_l2": [
+        "et quart",
+        "et demie",
+        "midi"
+      ]
+    },
+    {
+      "id": "listen7-quelle-heure-est-il",
+      "type": "listen",
+      "l1": "Koľko je hodín?",
+      "l2": "Quelle heure est-il ?",
+      "choices_l1": [
+        "Je poludnie.",
+        "Je polnoc.",
+        "Je neskoro!"
+      ]
+    },
+    {
+      "id": "listen8-il-est-une-heure",
+      "type": "listen",
+      "l1": "Je jedna hodina.",
+      "l2": "Il est une heure.",
+      "choices_l1": [
+        "Sú tri hodiny.",
+        "Je desať hodín.",
+        "Je poludnie."
+      ]
+    },
+    {
+      "id": "listen9-il-est-six-heures-et-demie",
+      "type": "listen",
+      "l1": "Je pol siedmej.",
+      "l2": "Il est six heures et demie.",
+      "choices_l1": [
+        "Je štvrť na deväť.",
+        "Je tri štvrte na deväť.",
+        "Je pol štvrtej."
+      ]
+    },
+    {
+      "id": "listen10-il-est-neuf-heures-moins-le-",
+      "type": "listen",
+      "l1": "Je tri štvrte na deväť.",
+      "l2": "Il est neuf heures moins le quart.",
+      "choices_l1": [
+        "Je štvrť na deväť.",
+        "Je pol deviatej.",
+        "Je pol siedmej."
+      ]
+    },
+    {
+      "id": "listen11-il-est-neuf-heures-du-soir",
+      "type": "listen",
+      "l1": "Je deväť hodín večer.",
+      "l2": "Il est neuf heures du soir.",
+      "choices_l1": [
+        "Je sedem hodín ráno.",
+        "Je deväť hodín ráno.",
+        "Je desať hodín večer."
+      ]
+    },
+    {
+      "id": "blank12-il-est-minuit",
+      "type": "fill-blank",
+      "l1": "Je polnoc.",
+      "l2": "Il est minuit.",
+      "missing_l1": "polnoc",
+      "missing_l2": "minuit",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "poludnie",
+        "neskoro",
+        "ráno"
+      ],
+      "choices_l2": [
+        "midi",
+        "tard",
+        "le matin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-il-est-huit-heures-et-quart",
+      "type": "fill-blank",
+      "l1": "Je štvrť na deväť.",
+      "l2": "Il est huit heures et quart.",
+      "missing_l1": "štvrť",
+      "missing_l2": "quart",
+      "blank_index_l1": 1,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "pol",
+        "štvrte",
+        "bez"
+      ],
+      "choices_l2": [
+        "demie",
+        "moins",
+        "midi"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-il-est-sept-heures-du-matin",
+      "type": "fill-blank",
+      "l1": "Je sedem hodín ráno.",
+      "l2": "Il est sept heures du matin.",
+      "missing_l1": "ráno",
+      "missing_l2": "matin",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "večer",
+        "neskoro",
+        "poludnie"
+      ],
+      "choices_l2": [
+        "soir",
+        "tard",
+        "midi"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-il-est-trois-heures",
+      "type": "fill-blank",
+      "l1": "Sú tri hodiny.",
+      "l2": "Il est trois heures.",
+      "missing_l1": "tri",
+      "missing_l2": "trois",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "dve",
+        "štyri",
+        "tridsať"
+      ],
+      "choices_l2": [
+        "deux",
+        "quatre",
+        "trente"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-il-est-six-heures-et-demie",
+      "type": "order",
+      "l1": "Je pol siedmej.",
+      "l2": "Il est six heures et demie.",
+      "tokens_l1": [
+        "Je",
+        "pol",
+        "siedmej."
+      ],
+      "tokens_l2": [
+        "Il",
+        "est",
+        "six",
+        "heures",
+        "et",
+        "demie."
+      ]
+    },
+    {
+      "id": "order17-il-est-neuf-heures-moins-le-",
+      "type": "order",
+      "l1": "Je tri štvrte na deväť.",
+      "l2": "Il est neuf heures moins le quart.",
+      "tokens_l1": [
+        "Je",
+        "tri",
+        "štvrte",
+        "na",
+        "deväť."
+      ],
+      "tokens_l2": [
+        "Il",
+        "est",
+        "neuf",
+        "heures",
+        "moins",
+        "le",
+        "quart."
+      ]
+    },
+    {
+      "id": "order18-il-est-neuf-heures-du-soir",
+      "type": "order",
+      "l1": "Je deväť hodín večer.",
+      "l2": "Il est neuf heures du soir.",
+      "tokens_l1": [
+        "Je",
+        "deväť",
+        "hodín",
+        "večer."
+      ],
+      "tokens_l2": [
+        "Il",
+        "est",
+        "neuf",
+        "heures",
+        "du",
+        "soir."
+      ]
+    },
+    {
+      "id": "order19-quelle-heure-est-il",
+      "type": "order",
+      "l1": "Koľko je hodín?",
+      "l2": "Quelle heure est-il ?",
+      "tokens_l1": [
+        "Koľko",
+        "je",
+        "hodín?"
+      ],
+      "tokens_l2": [
+        "Quelle",
+        "heure",
+        "est-il",
+        "?"
+      ]
+    }
+  ]
+}

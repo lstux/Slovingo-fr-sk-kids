@@ -1,0 +1,305 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-trente",
+      "type": "match",
+      "l1": [
+        "tridsať",
+        "štyridsať",
+        "päťdesiat",
+        "šesťdesiat"
+      ],
+      "l2": [
+        "trente",
+        "quarante",
+        "cinquante",
+        "soixante"
+      ]
+    },
+    {
+      "id": "match2-cent",
+      "type": "match",
+      "l1": [
+        "sto",
+        "tisíc",
+        "koľko",
+        "približne"
+      ],
+      "l2": [
+        "cent",
+        "mille",
+        "combien",
+        "environ"
+      ]
+    },
+    {
+      "id": "qcm3-combien",
+      "type": "qcm",
+      "l1": "koľko",
+      "l2": "combien",
+      "choices_l1": [
+        "približne",
+        "presne",
+        "tisíc"
+      ],
+      "choices_l2": [
+        "environ",
+        "exactement",
+        "mille"
+      ]
+    },
+    {
+      "id": "qcm4-exactement",
+      "type": "qcm",
+      "l1": "presne",
+      "l2": "exactement",
+      "choices_l1": [
+        "približne",
+        "koľko",
+        "sto"
+      ],
+      "choices_l2": [
+        "environ",
+        "combien",
+        "cent"
+      ]
+    },
+    {
+      "id": "qcm5-mille",
+      "type": "qcm",
+      "l1": "tisíc",
+      "l2": "mille",
+      "choices_l1": [
+        "sto",
+        "šesťdesiat",
+        "koľko"
+      ],
+      "choices_l2": [
+        "cent",
+        "soixante",
+        "combien"
+      ]
+    },
+    {
+      "id": "qcm6-cinquante",
+      "type": "qcm",
+      "l1": "päťdesiat",
+      "l2": "cinquante",
+      "choices_l1": [
+        "štyridsať",
+        "šesťdesiat",
+        "tridsať"
+      ],
+      "choices_l2": [
+        "quarante",
+        "soixante",
+        "trente"
+      ]
+    },
+    {
+      "id": "listen7-combien-de-chevres",
+      "type": "listen",
+      "l1": "Koľko kôz?",
+      "l2": "Combien de chèvres ?",
+      "choices_l1": [
+        "Koľko jabĺk?",
+        "Koľko kráv?",
+        "Koľko oviec?"
+      ]
+    },
+    {
+      "id": "listen8-il-y-a-trente-deux-chevres",
+      "type": "listen",
+      "l1": "Je tu tridsaťdva kôz.",
+      "l2": "Il y a trente-deux chèvres.",
+      "choices_l1": [
+        "Je tu štyridsaťdva kôz.",
+        "Je tu tridsaťdva kráv.",
+        "Je tu dvadsaťdva kôz."
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-cent-marmottes",
+      "type": "listen",
+      "l1": "Je tu sto svišťov.",
+      "l2": "Il y a cent marmottes.",
+      "choices_l1": [
+        "Je tu tisíc svišťov.",
+        "Je tu päťdesiat svišťov.",
+        "Je tu šesťdesiat svišťov."
+      ]
+    },
+    {
+      "id": "blank10-il-y-a-quarante-trois-vaches",
+      "type": "fill-blank",
+      "l1": "Je tu štyridsaťtri kráv.",
+      "l2": "Il y a quarante-trois vaches.",
+      "missing_l1": "štyridsaťtri",
+      "missing_l2": "quarante-trois",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "tridsaťtri",
+        "päťdesiattri",
+        "šesťdesiattri"
+      ],
+      "choices_l2": [
+        "trente-trois",
+        "cinquante-trois",
+        "soixante-trois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-il-y-a-mille-oiseaux-dans-le",
+      "type": "fill-blank",
+      "l1": "Na oblohe je tisíc vtákov!",
+      "l2": "Il y a mille oiseaux dans le ciel !",
+      "missing_l1": "tisíc",
+      "missing_l2": "mille",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sto",
+        "päťdesiat",
+        "tridsať"
+      ],
+      "choices_l2": [
+        "cent",
+        "cinquante",
+        "trente"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-il-y-a-environ-cinquante-mou",
+      "type": "fill-blank",
+      "l1": "Je tu približne päťdesiat oviec.",
+      "l2": "Il y a environ cinquante moutons.",
+      "missing_l1": "približne",
+      "missing_l2": "environ",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "presne",
+        "veľa",
+        "tisíc"
+      ],
+      "choices_l2": [
+        "exactement",
+        "beaucoup",
+        "mille"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-il-y-a-exactement-soixante-c",
+      "type": "fill-blank",
+      "l1": "Je tu presne šesťdesiat kamzíkov.",
+      "l2": "Il y a exactement soixante chamois.",
+      "missing_l1": "šesťdesiat",
+      "missing_l2": "soixante",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "päťdesiat",
+        "štyridsať",
+        "tridsať"
+      ],
+      "choices_l2": [
+        "cinquante",
+        "quarante",
+        "trente"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-dans-le-village-il-y-a-cinqu",
+      "type": "order",
+      "l1": "V dedine je päťdesiatšesť domov.",
+      "l2": "Dans le village, il y a cinquante-six maisons.",
+      "tokens_l1": [
+        "V",
+        "dedine",
+        "je",
+        "päťdesiatšesť",
+        "domov."
+      ],
+      "tokens_l2": [
+        "Dans",
+        "le",
+        "village,",
+        "il",
+        "y",
+        "a",
+        "cinquante-six",
+        "maisons."
+      ]
+    },
+    {
+      "id": "order15-il-y-a-vingt-et-une-pommes",
+      "type": "order",
+      "l1": "Je tu dvadsaťjeden jabĺk.",
+      "l2": "Il y a vingt et une pommes.",
+      "tokens_l1": [
+        "Je",
+        "tu",
+        "dvadsaťjeden",
+        "jabĺk."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "vingt",
+        "et",
+        "une",
+        "pommes."
+      ]
+    },
+    {
+      "id": "order16-il-y-a-exactement-soixante-c",
+      "type": "order",
+      "l1": "Je tu presne šesťdesiat kamzíkov.",
+      "l2": "Il y a exactement soixante chamois.",
+      "tokens_l1": [
+        "Je",
+        "tu",
+        "presne",
+        "šesťdesiat",
+        "kamzíkov."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "exactement",
+        "soixante",
+        "chamois."
+      ]
+    },
+    {
+      "id": "order17-il-y-a-environ-cinquante-mou",
+      "type": "order",
+      "l1": "Je tu približne päťdesiat oviec.",
+      "l2": "Il y a environ cinquante moutons.",
+      "tokens_l1": [
+        "Je",
+        "tu",
+        "približne",
+        "päťdesiat",
+        "oviec."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "environ",
+        "cinquante",
+        "moutons."
+      ]
+    }
+  ]
+}

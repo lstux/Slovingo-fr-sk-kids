@@ -1,0 +1,268 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-quinze",
+      "type": "match",
+      "l1": [
+        "pätnásť",
+        "dvadsať",
+        "sto",
+        "tisíc"
+      ],
+      "l2": [
+        "quinze",
+        "vingt",
+        "cent",
+        "mille"
+      ]
+    },
+    {
+      "id": "match2-quatre-vingts",
+      "type": "match",
+      "l1": [
+        "osemdesiat",
+        "poludnie",
+        "meškať",
+        "už"
+      ],
+      "l2": [
+        "quatre-vingts",
+        "midi",
+        "en retard",
+        "déjà"
+      ]
+    },
+    {
+      "id": "qcm3-combien",
+      "type": "qcm",
+      "l1": "koľko",
+      "l2": "combien",
+      "choices_l1": [
+        "približne",
+        "presne",
+        "už"
+      ],
+      "choices_l2": [
+        "environ",
+        "exactement",
+        "déjà"
+      ]
+    },
+    {
+      "id": "qcm4-environ",
+      "type": "qcm",
+      "l1": "približne",
+      "l2": "environ",
+      "choices_l1": [
+        "presne",
+        "koľko",
+        "neskoro"
+      ],
+      "choices_l2": [
+        "exactement",
+        "combien",
+        "tard"
+      ]
+    },
+    {
+      "id": "qcm5-depeche-toi",
+      "type": "qcm",
+      "l1": "ponáhľaj sa!",
+      "l2": "dépêche-toi !",
+      "choices_l1": [
+        "rýchlo",
+        "hneď",
+        "už"
+      ],
+      "choices_l2": [
+        "vite",
+        "tout de suite",
+        "déjà"
+      ]
+    },
+    {
+      "id": "listen6-mamie-quel-age-as-tu",
+      "type": "listen",
+      "l1": "Mamie, koľko máš rokov?",
+      "l2": "Mamie, quel âge as-tu ?",
+      "choices_l1": [
+        "Mamie, koľko je hodín?",
+        "Mamie, koľko máš kôz?",
+        "Léa, koľko máš rokov?"
+      ]
+    },
+    {
+      "id": "listen7-j-ai-soixante-quinze-ans-et-",
+      "type": "listen",
+      "l1": "Mám sedemdesiatpäť rokov. A ty, Léa?",
+      "l2": "J'ai soixante-quinze ans. Et toi, Léa ?",
+      "choices_l1": [
+        "Mám sedemdesiat rokov. A ty, Léa?",
+        "Mám osemdesiatpäť rokov. A ty, Léa?",
+        "Mám sedemdesiatpäť rokov. A ty, Hugo?"
+      ]
+    },
+    {
+      "id": "listen8-il-est-midi-moins-dix-vite",
+      "type": "listen",
+      "l1": "Je desať minút do dvanástej. Rýchlo!",
+      "l2": "Il est midi moins dix. Vite !",
+      "choices_l1": [
+        "Je desať minút po dvanástej. Rýchlo!",
+        "Je pol dvanástej. Rýchlo!",
+        "Je štvrť na dvanásť. Rýchlo!"
+      ]
+    },
+    {
+      "id": "blank9-j-ai-neuf-ans-hugo-a-huit-an",
+      "type": "fill-blank",
+      "l1": "Mám deväť rokov. Hugo má osem rokov.",
+      "l2": "J'ai neuf ans. Hugo a huit ans.",
+      "missing_l1": "osem",
+      "missing_l2": "huit",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "sedem",
+        "deväť",
+        "jedenásť"
+      ],
+      "choices_l2": [
+        "sept",
+        "neuf",
+        "onze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank10-et-andrea-a-onze-ans",
+      "type": "fill-blank",
+      "l1": "A Andrea má jedenásť rokov.",
+      "l2": "Et Andrea a onze ans.",
+      "missing_l1": "jedenásť",
+      "missing_l2": "onze",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "dvanásť",
+        "desať",
+        "devätnásť"
+      ],
+      "choices_l2": [
+        "douze",
+        "dix",
+        "dix-neuf"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-il-y-a-environ-vingt-deux-ch",
+      "type": "fill-blank",
+      "l1": "Je tu približne dvadsaťdva kamzíkov a sedemdesiat oviec.",
+      "l2": "Il y a environ vingt-deux chamois et soixante-dix moutons.",
+      "missing_l1": "sedemdesiat",
+      "missing_l2": "soixante-dix",
+      "blank_index_l1": 6,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "šesťdesiat",
+        "osemdesiat",
+        "päťdesiat"
+      ],
+      "choices_l2": [
+        "soixante",
+        "quatre-vingts",
+        "cinquante"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order12-combien-de-marmottes-lea",
+      "type": "order",
+      "l1": "Koľko svišťov, Léa?",
+      "l2": "Combien de marmottes, Léa ?",
+      "tokens_l1": [
+        "Koľko",
+        "svišťov,",
+        "Léa?"
+      ],
+      "tokens_l2": [
+        "Combien",
+        "de",
+        "marmottes,",
+        "Léa",
+        "?"
+      ]
+    },
+    {
+      "id": "order13-quelle-heure-est-il-maintena",
+      "type": "order",
+      "l1": "Koľko je teraz hodín?",
+      "l2": "Quelle heure est-il maintenant ?",
+      "tokens_l1": [
+        "Koľko",
+        "je",
+        "teraz",
+        "hodín?"
+      ],
+      "tokens_l2": [
+        "Quelle",
+        "heure",
+        "est-il",
+        "maintenant",
+        "?"
+      ]
+    },
+    {
+      "id": "order14-soixante-dix-c-est-beaucoup",
+      "type": "order",
+      "l1": "Sedemdesiat? To je veľa!",
+      "l2": "Soixante-dix ? C'est beaucoup !",
+      "tokens_l1": [
+        "Sedemdesiat?",
+        "To",
+        "je",
+        "veľa!"
+      ],
+      "tokens_l2": [
+        "Soixante-dix",
+        "?",
+        "C'est",
+        "beaucoup",
+        "!"
+      ]
+    },
+    {
+      "id": "order15-pardon-monsieur-a-quelle-heu",
+      "type": "order",
+      "l1": "Prepáčte, pane. O koľkej ide vlak, prosím vás?",
+      "l2": "Pardon, Monsieur. À quelle heure est le train, s'il vous plaît ?",
+      "tokens_l1": [
+        "Prepáčte,",
+        "pane.",
+        "O",
+        "koľkej",
+        "ide",
+        "vlak,",
+        "prosím",
+        "vás?"
+      ],
+      "tokens_l2": [
+        "Pardon,",
+        "Monsieur.",
+        "À",
+        "quelle",
+        "heure",
+        "est",
+        "le",
+        "train,",
+        "s'il",
+        "vous",
+        "plaît",
+        "?"
+      ]
+    }
+  ]
+}

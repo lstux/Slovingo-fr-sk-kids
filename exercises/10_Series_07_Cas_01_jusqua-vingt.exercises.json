@@ -1,0 +1,300 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-treize",
+      "type": "match",
+      "l1": [
+        "trinásť",
+        "štrnásť",
+        "pätnásť",
+        "šestnásť"
+      ],
+      "l2": [
+        "treize",
+        "quatorze",
+        "quinze",
+        "seize"
+      ]
+    },
+    {
+      "id": "match2-dix-sept",
+      "type": "match",
+      "l1": [
+        "sedemnásť",
+        "osemnásť",
+        "devätnásť",
+        "dvadsať"
+      ],
+      "l2": [
+        "dix-sept",
+        "dix-huit",
+        "dix-neuf",
+        "vingt"
+      ]
+    },
+    {
+      "id": "qcm3-quinze",
+      "type": "qcm",
+      "l1": "pätnásť",
+      "l2": "quinze",
+      "choices_l1": [
+        "šestnásť",
+        "štrnásť",
+        "trinásť"
+      ],
+      "choices_l2": [
+        "seize",
+        "quatorze",
+        "treize"
+      ]
+    },
+    {
+      "id": "qcm4-dix-sept",
+      "type": "qcm",
+      "l1": "sedemnásť",
+      "l2": "dix-sept",
+      "choices_l1": [
+        "osemnásť",
+        "devätnásť",
+        "šestnásť"
+      ],
+      "choices_l2": [
+        "dix-huit",
+        "dix-neuf",
+        "seize"
+      ]
+    },
+    {
+      "id": "qcm5-compter",
+      "type": "qcm",
+      "l1": "počítať",
+      "l2": "compter",
+      "choices_l1": [
+        "číslo",
+        "dvadsať",
+        "devätnásť"
+      ],
+      "choices_l2": [
+        "le nombre",
+        "vingt",
+        "dix-neuf"
+      ]
+    },
+    {
+      "id": "qcm6-le-nombre",
+      "type": "qcm",
+      "l1": "číslo",
+      "l2": "le nombre",
+      "choices_l1": [
+        "počítať",
+        "dvadsať",
+        "trinásť"
+      ],
+      "choices_l2": [
+        "compter",
+        "vingt",
+        "treize"
+      ]
+    },
+    {
+      "id": "listen7-il-y-a-quatorze-marmottes-da",
+      "type": "listen",
+      "l1": "V horách je štrnásť svišťov.",
+      "l2": "Il y a quatorze marmottes dans la montagne.",
+      "choices_l1": [
+        "V horách je trinásť svišťov.",
+        "V horách je šestnásť svišťov.",
+        "V dedine je štrnásť svišťov."
+      ]
+    },
+    {
+      "id": "listen8-il-y-a-seize-pommes-sur-la-t",
+      "type": "listen",
+      "l1": "Na stole je šestnásť jabĺk.",
+      "l2": "Il y a seize pommes sur la table.",
+      "choices_l1": [
+        "Na stole je šestnásť hrušiek.",
+        "Na stole je pätnásť jabĺk.",
+        "Pod stolom je šestnásť jabĺk."
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-dix-neuf-poissons-dan",
+      "type": "listen",
+      "l1": "Vo vode je devätnásť rýb.",
+      "l2": "Il y a dix-neuf poissons dans l'eau.",
+      "choices_l1": [
+        "Vo vode je osemnásť rýb.",
+        "Vo vode je sedemnásť rýb.",
+        "Na strome je devätnásť rýb."
+      ]
+    },
+    {
+      "id": "blank10-il-y-a-treize-chaises-dans-l",
+      "type": "fill-blank",
+      "l1": "V obývačke je trinásť stoličiek.",
+      "l2": "Il y a treize chaises dans le salon.",
+      "missing_l1": "trinásť",
+      "missing_l2": "treize",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "štrnásť",
+        "pätnásť",
+        "šestnásť"
+      ],
+      "choices_l2": [
+        "quatorze",
+        "quinze",
+        "seize"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-il-y-a-dix-sept-oiseaux-dans",
+      "type": "fill-blank",
+      "l1": "Na strome je sedemnásť vtákov.",
+      "l2": "Il y a dix-sept oiseaux dans l'arbre.",
+      "missing_l1": "sedemnásť",
+      "missing_l2": "dix-sept",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "osemnásť",
+        "devätnásť",
+        "pätnásť"
+      ],
+      "choices_l2": [
+        "dix-huit",
+        "dix-neuf",
+        "quinze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-il-y-a-dix-huit-cartes",
+      "type": "fill-blank",
+      "l1": "Je tu osemnásť kariet.",
+      "l2": "Il y a dix-huit cartes.",
+      "missing_l1": "osemnásť",
+      "missing_l2": "dix-huit",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sedemnásť",
+        "devätnásť",
+        "dvadsať"
+      ],
+      "choices_l2": [
+        "dix-sept",
+        "dix-neuf",
+        "vingt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-voila-vingt-cartes",
+      "type": "fill-blank",
+      "l1": "Tu je dvadsať kariet!",
+      "l2": "Voilà vingt cartes !",
+      "missing_l1": "dvadsať",
+      "missing_l2": "vingt",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "devätnásť",
+        "osemnásť",
+        "pätnásť"
+      ],
+      "choices_l2": [
+        "dix-neuf",
+        "dix-huit",
+        "quinze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-il-y-a-dix-huit-cartes",
+      "type": "order",
+      "l1": "Je tu osemnásť kariet.",
+      "l2": "Il y a dix-huit cartes.",
+      "tokens_l1": [
+        "Je",
+        "tu",
+        "osemnásť",
+        "kariet."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "dix-huit",
+        "cartes."
+      ]
+    },
+    {
+      "id": "order15-il-y-a-quinze-maisons-dans-m",
+      "type": "order",
+      "l1": "V mojej dedine je pätnásť domov.",
+      "l2": "Il y a quinze maisons dans mon village.",
+      "tokens_l1": [
+        "V",
+        "mojej",
+        "dedine",
+        "je",
+        "pätnásť",
+        "domov."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "quinze",
+        "maisons",
+        "dans",
+        "mon",
+        "village."
+      ]
+    },
+    {
+      "id": "order16-je-compte-dix-huit-dix-neuf-",
+      "type": "order",
+      "l1": "Počítam: osemnásť, devätnásť, dvadsať!",
+      "l2": "Je compte : dix-huit, dix-neuf, vingt !",
+      "tokens_l1": [
+        "Počítam:",
+        "osemnásť,",
+        "devätnásť,",
+        "dvadsať!"
+      ],
+      "tokens_l2": [
+        "Je",
+        "compte",
+        ":",
+        "dix-huit,",
+        "dix-neuf,",
+        "vingt",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-quinze-est-un-nombre",
+      "type": "order",
+      "l1": "Pätnásť je číslo.",
+      "l2": "Quinze est un nombre.",
+      "tokens_l1": [
+        "Pätnásť",
+        "je",
+        "číslo."
+      ],
+      "tokens_l2": [
+        "Quinze",
+        "est",
+        "un",
+        "nombre."
+      ]
+    }
+  ]
+}

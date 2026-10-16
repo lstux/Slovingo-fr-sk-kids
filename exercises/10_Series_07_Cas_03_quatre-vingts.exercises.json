@@ -1,0 +1,290 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-soixante-dix",
+      "type": "match",
+      "l1": [
+        "sedemdesiat",
+        "osemdesiat",
+        "deväťdesiat",
+        "sedemdesiatpäť"
+      ],
+      "l2": [
+        "soixante-dix",
+        "quatre-vingts",
+        "quatre-vingt-dix",
+        "soixante-quinze"
+      ]
+    },
+    {
+      "id": "match2-quatre-vingt-un",
+      "type": "match",
+      "l1": [
+        "osemdesiatjeden",
+        "deväťdesiatpäť",
+        "deväťdesiatdeväť",
+        "sedemdesiat (v Belgicku a vo Švajčiarsku)"
+      ],
+      "l2": [
+        "quatre-vingt-un",
+        "quatre-vingt-quinze",
+        "quatre-vingt-dix-neuf",
+        "septante"
+      ]
+    },
+    {
+      "id": "qcm3-soixante-dix",
+      "type": "qcm",
+      "l1": "sedemdesiat",
+      "l2": "soixante-dix",
+      "choices_l1": [
+        "osemdesiat",
+        "deväťdesiat",
+        "šesťdesiat"
+      ],
+      "choices_l2": [
+        "quatre-vingts",
+        "quatre-vingt-dix",
+        "soixante"
+      ]
+    },
+    {
+      "id": "qcm4-quatre-vingts",
+      "type": "qcm",
+      "l1": "osemdesiat",
+      "l2": "quatre-vingts",
+      "choices_l1": [
+        "sedemdesiat",
+        "deväťdesiat",
+        "sto"
+      ],
+      "choices_l2": [
+        "soixante-dix",
+        "quatre-vingt-dix",
+        "cent"
+      ]
+    },
+    {
+      "id": "qcm5-quatre-vingt-dix",
+      "type": "qcm",
+      "l1": "deväťdesiat",
+      "l2": "quatre-vingt-dix",
+      "choices_l1": [
+        "osemdesiat",
+        "sedemdesiat",
+        "deväťdesiatdeväť"
+      ],
+      "choices_l2": [
+        "quatre-vingts",
+        "soixante-dix",
+        "quatre-vingt-dix-neuf"
+      ]
+    },
+    {
+      "id": "qcm6-septante",
+      "type": "qcm",
+      "l1": "sedemdesiat (v Belgicku a vo Švajčiarsku)",
+      "l2": "septante",
+      "choices_l1": [
+        "osemdesiat (v časti Švajčiarska)",
+        "deväťdesiat (v Belgicku)",
+        "sto"
+      ],
+      "choices_l2": [
+        "huitante",
+        "nonante",
+        "cent"
+      ]
+    },
+    {
+      "id": "listen7-mon-grand-pere-a-soixante-di",
+      "type": "listen",
+      "l1": "Môj dedo má sedemdesiat rokov.",
+      "l2": "Mon grand-père a soixante-dix ans.",
+      "choices_l1": [
+        "Môj dedo má osemdesiat rokov.",
+        "Moja babka má sedemdesiat rokov.",
+        "Môj dedo má deväťdesiat rokov."
+      ]
+    },
+    {
+      "id": "listen8-ma-grand-mere-a-quatre-vingt",
+      "type": "listen",
+      "l1": "Moja babka má osemdesiat rokov.",
+      "l2": "Ma grand-mère a quatre-vingts ans.",
+      "choices_l1": [
+        "Moja babka má deväťdesiat rokov.",
+        "Moja babka má sedemdesiat rokov.",
+        "Môj dedo má osemdesiat rokov."
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-quatre-vingt-quinze-m",
+      "type": "listen",
+      "l1": "V horách je deväťdesiatpäť svišťov.",
+      "l2": "Il y a quatre-vingt-quinze marmottes dans la montagne.",
+      "choices_l1": [
+        "V horách je osemdesiatpäť svišťov.",
+        "V horách je sedemdesiatpäť svišťov.",
+        "V horách je deväťdesiatdeväť svišťov."
+      ]
+    },
+    {
+      "id": "blank10-mamie-a-soixante-quinze-ans",
+      "type": "fill-blank",
+      "l1": "Mamie má sedemdesiatpäť rokov.",
+      "l2": "Mamie a soixante-quinze ans.",
+      "missing_l1": "sedemdesiatpäť",
+      "missing_l2": "soixante-quinze",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "osemdesiatpäť",
+        "šesťdesiatpäť",
+        "deväťdesiatpäť"
+      ],
+      "choices_l2": [
+        "quatre-vingt-quinze",
+        "soixante-cinq",
+        "quatre-vingts"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-il-y-a-quatre-vingt-un-oisea",
+      "type": "fill-blank",
+      "l1": "Je tu osemdesiatjeden vtákov.",
+      "l2": "Il y a quatre-vingt-un oiseaux.",
+      "missing_l1": "osemdesiatjeden",
+      "missing_l2": "quatre-vingt-un",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "osemdesiatdva",
+        "deväťdesiatjeden",
+        "sedemdesiatjeden"
+      ],
+      "choices_l2": [
+        "quatre-vingt-deux",
+        "quatre-vingt-onze",
+        "soixante et onze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-nonante-c-est-quatre-vingt-d",
+      "type": "fill-blank",
+      "l1": "Nonante je deväťdesiat.",
+      "l2": "Nonante, c'est quatre-vingt-dix.",
+      "missing_l1": "deväťdesiat",
+      "missing_l2": "quatre-vingt-dix",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "osemdesiat",
+        "sedemdesiat",
+        "sto"
+      ],
+      "choices_l2": [
+        "quatre-vingts",
+        "soixante-dix",
+        "cent"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-quatre-vingt-dix-neuf-cent",
+      "type": "fill-blank",
+      "l1": "Deväťdesiatdeväť, sto!",
+      "l2": "Quatre-vingt-dix-neuf, cent !",
+      "missing_l1": "sto",
+      "missing_l2": "cent",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "tisíc",
+        "osemdesiat",
+        "sedemdesiat"
+      ],
+      "choices_l2": [
+        "mille",
+        "quatre-vingts",
+        "soixante-dix"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-mon-grand-pere-a-soixante-di",
+      "type": "order",
+      "l1": "Môj dedo má sedemdesiat rokov.",
+      "l2": "Mon grand-père a soixante-dix ans.",
+      "tokens_l1": [
+        "Môj",
+        "dedo",
+        "má",
+        "sedemdesiat",
+        "rokov."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "grand-père",
+        "a",
+        "soixante-dix",
+        "ans."
+      ]
+    },
+    {
+      "id": "order15-il-y-a-quatre-vingt-dix-chai",
+      "type": "order",
+      "l1": "Je tu deväťdesiat stoličiek.",
+      "l2": "Il y a quatre-vingt-dix chaises.",
+      "tokens_l1": [
+        "Je",
+        "tu",
+        "deväťdesiat",
+        "stoličiek."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "quatre-vingt-dix",
+        "chaises."
+      ]
+    },
+    {
+      "id": "order16-septante-c-est-soixante-dix",
+      "type": "order",
+      "l1": "Septante je sedemdesiat.",
+      "l2": "Septante, c'est soixante-dix.",
+      "tokens_l1": [
+        "Septante",
+        "je",
+        "sedemdesiat."
+      ],
+      "tokens_l2": [
+        "Septante,",
+        "c'est",
+        "soixante-dix."
+      ]
+    },
+    {
+      "id": "order17-huitante-c-est-quatre-vingts",
+      "type": "order",
+      "l1": "Huitante je osemdesiat.",
+      "l2": "Huitante, c'est quatre-vingts.",
+      "tokens_l1": [
+        "Huitante",
+        "je",
+        "osemdesiat."
+      ],
+      "tokens_l2": [
+        "Huitante,",
+        "c'est",
+        "quatre-vingts."
+      ]
+    }
+  ]
+}
