@@ -57,7 +57,7 @@ slovingo-fr-sk-kids/
 
 ## État
 
-Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Série 01 Rodina écrite (6 fiches), voir [docs/Serie-01-Rodina.md](./docs/Serie-01-Rodina.md). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
+Pilote relu : Introduction (5 fiches) et Kit prežitia (3 fiches + extra). Séries 01 Rodina et 02 Doma écrites (6 fiches chacune), voir [docs/Serie-01-Rodina.md](./docs/Serie-01-Rodina.md) et [docs/Serie-02-Doma.md](./docs/Serie-02-Doma.md). Voir [docs/Relecture-pilote-2026-10.md](./docs/Relecture-pilote-2026-10.md). Les images sont encore des `TODO_img`, et le slovaque est à faire relire par un locuteur natif.
 
 ## Dépôts liés
 

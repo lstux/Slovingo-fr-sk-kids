@@ -35,7 +35,7 @@
 
 ### Mužský alebo ženský tvar
 
-{{sk:Aj slovenské slová sa menia: veľký, veľká. Francúzske tiež! Keď hovoríš o dievčati alebo o ženskom slove, pridáš na koniec písmeno}} {{e}}{{sk:. A zrazu sa ozve aj posledná hláska!}}
+{{sk:Aj slovenské slová sa menia: veľký, veľká. Francúzske tiež! Keď hovoríš o dievčati alebo o ženskom slove, pridáš na koniec písmeno „e“. A zrazu sa ozve aj posledná hláska!}}
 
 | Français | Slovenčina |
 |----------|------------|

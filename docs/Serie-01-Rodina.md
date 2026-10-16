@@ -57,4 +57,4 @@ Dans sk-fr-kids, les exemples associaient trop souvent « fort / grand » aux ga
 
 - Exercices écrits à la main (`exercises/`), comme pour l'Introduction.
 - Images (`TODO_img`).
-- Série 02 Doma.
+- Série 03 Jedlo.
