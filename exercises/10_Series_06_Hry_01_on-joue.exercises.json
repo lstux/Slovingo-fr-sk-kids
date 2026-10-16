@@ -1,0 +1,374 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-jeu",
+      "type": "match",
+      "l1": [
+        "hra",
+        "lopta (veľká)",
+        "loptička",
+        "karty"
+      ],
+      "l2": [
+        "le jeu",
+        "le ballon",
+        "la balle",
+        "les cartes"
+      ]
+    },
+    {
+      "id": "match2-la-corde",
+      "type": "match",
+      "l1": [
+        "lano, švihadlo",
+        "puzzle",
+        "hrať sa, hrať",
+        "kocka (na hranie)"
+      ],
+      "l2": [
+        "la corde",
+        "le puzzle",
+        "jouer",
+        "le dé"
+      ]
+    },
+    {
+      "id": "qcm3-la-balle",
+      "type": "qcm",
+      "l1": "loptička",
+      "l2": "la balle",
+      "choices_l1": [
+        "lopta (veľká)",
+        "karty",
+        "hra"
+      ],
+      "choices_l2": [
+        "le ballon",
+        "les cartes",
+        "le jeu"
+      ]
+    },
+    {
+      "id": "qcm4-le-jeu-de-societe",
+      "type": "qcm",
+      "l1": "spoločenská hra",
+      "l2": "le jeu de société",
+      "choices_l1": [
+        "hra",
+        "kocka (na hranie)",
+        "šarkan"
+      ],
+      "choices_l2": [
+        "le jeu",
+        "le dé",
+        "le cerf-volant"
+      ]
+    },
+    {
+      "id": "qcm5-le-cerf-volant",
+      "type": "qcm",
+      "l1": "šarkan",
+      "l2": "le cerf-volant",
+      "choices_l1": [
+        "kocka (na hranie)",
+        "puzzle",
+        "lano, švihadlo"
+      ],
+      "choices_l2": [
+        "le dé",
+        "le puzzle",
+        "la corde"
+      ]
+    },
+    {
+      "id": "qcm6-les-cartes",
+      "type": "qcm",
+      "l1": "karty",
+      "l2": "les cartes",
+      "choices_l1": [
+        "hra",
+        "loptička",
+        "puzzle"
+      ],
+      "choices_l2": [
+        "le jeu",
+        "la balle",
+        "le puzzle"
+      ]
+    },
+    {
+      "id": "listen7-je-joue-avec-le-ballon",
+      "type": "listen",
+      "l1": "Hrám sa s loptou.",
+      "l2": "Je joue avec le ballon.",
+      "choices_l1": [
+        "Hráš sa s loptou.",
+        "Hrám sa s loptičkou.",
+        "Hrám karty."
+      ]
+    },
+    {
+      "id": "listen8-tu-joues-aux-cartes",
+      "type": "listen",
+      "l1": "Hráš karty?",
+      "l2": "Tu joues aux cartes ?",
+      "choices_l1": [
+        "Hrám karty?",
+        "Hráš sa s loptou?",
+        "Hráš puzzle?"
+      ]
+    },
+    {
+      "id": "listen9-lea-joue-au-ballon-dans-le-j",
+      "type": "listen",
+      "l1": "Léa hrá s loptou v záhrade.",
+      "l2": "Léa joue au ballon dans le jardin.",
+      "choices_l1": [
+        "Hugo hrá s loptou v záhrade.",
+        "Léa hrá s loptou v izbe.",
+        "Léa hrá karty v záhrade."
+      ]
+    },
+    {
+      "id": "listen10-il-y-a-un-puzzle-sur-la-tabl",
+      "type": "listen",
+      "l1": "Na stole je puzzle.",
+      "l2": "Il y a un puzzle sur la table.",
+      "choices_l1": [
+        "Na stole sú karty.",
+        "Pod stolom je puzzle.",
+        "Na stoličke je puzzle."
+      ]
+    },
+    {
+      "id": "listen11-la-balle-est-petite",
+      "type": "listen",
+      "l1": "Loptička je malá.",
+      "l2": "La balle est petite.",
+      "choices_l1": [
+        "Lopta je malá.",
+        "Loptička je veľká.",
+        "Loptička je ťažká."
+      ]
+    },
+    {
+      "id": "listen12-je-saute-a-la-corde",
+      "type": "listen",
+      "l1": "Skáčem cez švihadlo.",
+      "l2": "Je saute à la corde.",
+      "choices_l1": [
+        "Skáčeš cez švihadlo.",
+        "Hrám sa so švihadlom.",
+        "Skáčem cez loptičku."
+      ]
+    },
+    {
+      "id": "blank13-je-joue-avec-le-ballon",
+      "type": "fill-blank",
+      "l1": "Hrám sa s loptou.",
+      "l2": "Je joue avec le ballon.",
+      "missing_l1": "loptou",
+      "missing_l2": "ballon",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "loptičkou",
+        "kartou",
+        "kockou"
+      ],
+      "choices_l2": [
+        "balle",
+        "carte",
+        "dé"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-tu-joues-aux-cartes",
+      "type": "fill-blank",
+      "l1": "Hráš karty?",
+      "l2": "Tu joues aux cartes ?",
+      "missing_l1": "karty",
+      "missing_l2": "aux",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "loptu",
+        "puzzle",
+        "kocku"
+      ],
+      "choices_l2": [
+        "au",
+        "avec",
+        "à"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-lea-joue-au-ballon-dans-le-j",
+      "type": "fill-blank",
+      "l1": "Léa hrá s loptou v záhrade.",
+      "l2": "Léa joue au ballon dans le jardin.",
+      "missing_l1": "loptou",
+      "missing_l2": "au",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "loptičkou",
+        "kartami",
+        "kockou"
+      ],
+      "choices_l2": [
+        "aux",
+        "avec",
+        "à"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-la-balle-est-petite",
+      "type": "fill-blank",
+      "l1": "Loptička je malá.",
+      "l2": "La balle est petite.",
+      "missing_l1": "malá",
+      "missing_l2": "petite",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "malý",
+        "veľká",
+        "ťažká"
+      ],
+      "choices_l2": [
+        "petit",
+        "grande",
+        "lourde"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-j-ai-un-jeu-de-societe-avec-",
+      "type": "fill-blank",
+      "l1": "Mám spoločenskú hru s kockami.",
+      "l2": "J'ai un jeu de société avec des dés.",
+      "missing_l1": "kockami",
+      "missing_l2": "dés",
+      "blank_index_l1": 4,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "kartami",
+        "loptami",
+        "hrami"
+      ],
+      "choices_l2": [
+        "cartes",
+        "balles",
+        "jeux"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-je-joue-avec-le-ballon",
+      "type": "order",
+      "l1": "Hrám sa s loptou.",
+      "l2": "Je joue avec le ballon.",
+      "tokens_l1": [
+        "Hrám",
+        "sa",
+        "s",
+        "loptou."
+      ],
+      "tokens_l2": [
+        "Je",
+        "joue",
+        "avec",
+        "le",
+        "ballon."
+      ]
+    },
+    {
+      "id": "order19-lea-joue-au-ballon-dans-le-j",
+      "type": "order",
+      "l1": "Léa hrá s loptou v záhrade.",
+      "l2": "Léa joue au ballon dans le jardin.",
+      "tokens_l1": [
+        "Léa",
+        "hrá",
+        "s",
+        "loptou",
+        "v",
+        "záhrade."
+      ],
+      "tokens_l2": [
+        "Léa",
+        "joue",
+        "au",
+        "ballon",
+        "dans",
+        "le",
+        "jardin."
+      ]
+    },
+    {
+      "id": "order20-il-y-a-un-puzzle-sur-la-tabl",
+      "type": "order",
+      "l1": "Na stole je puzzle.",
+      "l2": "Il y a un puzzle sur la table.",
+      "tokens_l1": [
+        "Na",
+        "stole",
+        "je",
+        "puzzle."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "un",
+        "puzzle",
+        "sur",
+        "la",
+        "table."
+      ]
+    },
+    {
+      "id": "order21-le-cerf-volant-vole-dans-le-",
+      "type": "order",
+      "l1": "Šarkan letí na oblohe.",
+      "l2": "Le cerf-volant vole dans le ciel.",
+      "tokens_l1": [
+        "Šarkan",
+        "letí",
+        "na",
+        "oblohe."
+      ],
+      "tokens_l2": [
+        "Le",
+        "cerf-volant",
+        "vole",
+        "dans",
+        "le",
+        "ciel."
+      ]
+    },
+    {
+      "id": "order22-voila-un-de",
+      "type": "order",
+      "l1": "Tu je kocka!",
+      "l2": "Voilà un dé !",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "kocka!"
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "un",
+        "dé",
+        "!"
+      ]
+    }
+  ]
+}

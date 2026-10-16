@@ -1,0 +1,334 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-l-animal",
+      "type": "match",
+      "l1": [
+        "zviera",
+        "kamzík",
+        "orol",
+        "vlk"
+      ],
+      "l2": [
+        "l'animal",
+        "le chamois",
+        "l'aigle",
+        "le loup"
+      ]
+    },
+    {
+      "id": "match2-la-vache",
+      "type": "match",
+      "l1": [
+        "krava",
+        "koza",
+        "ovca, baran",
+        "zajac"
+      ],
+      "l2": [
+        "la vache",
+        "la chèvre",
+        "le mouton",
+        "le lièvre"
+      ]
+    },
+    {
+      "id": "qcm3-l-aigle",
+      "type": "qcm",
+      "l1": "orol",
+      "l2": "l'aigle",
+      "choices_l1": [
+        "vlk",
+        "kamzík",
+        "zajac"
+      ],
+      "choices_l2": [
+        "le loup",
+        "le chamois",
+        "le lièvre"
+      ]
+    },
+    {
+      "id": "qcm4-la-vache",
+      "type": "qcm",
+      "l1": "krava",
+      "l2": "la vache",
+      "choices_l1": [
+        "koza",
+        "ovca, baran",
+        "jeleň"
+      ],
+      "choices_l2": [
+        "la chèvre",
+        "le mouton",
+        "le cerf"
+      ]
+    },
+    {
+      "id": "qcm5-sauvage",
+      "type": "qcm",
+      "l1": "divoký",
+      "l2": "sauvage",
+      "choices_l1": [
+        "veľký, veľká",
+        "malý, malá",
+        "milý, milá"
+      ],
+      "choices_l2": [
+        "grand, grande",
+        "petit, petite",
+        "gentil, gentille"
+      ]
+    },
+    {
+      "id": "qcm6-l-animal",
+      "type": "qcm",
+      "l1": "zviera",
+      "l2": "l'animal",
+      "choices_l1": [
+        "jeleň",
+        "zajac",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "le cerf",
+        "le lièvre",
+        "le chamois"
+      ]
+    },
+    {
+      "id": "listen7-voila-un-chamois",
+      "type": "listen",
+      "l1": "Tu je kamzík!",
+      "l2": "Voilà un chamois !",
+      "choices_l1": [
+        "Tu je orol!",
+        "Tu je vlk!",
+        "Tu je zajac!"
+      ]
+    },
+    {
+      "id": "listen8-le-loup-est-grand-et-fort",
+      "type": "listen",
+      "l1": "Vlk je veľký a silný.",
+      "l2": "Le loup est grand et fort.",
+      "choices_l1": [
+        "Vlk je malý a silný.",
+        "Orol je veľký a silný.",
+        "Vlk je veľký a milý."
+      ]
+    },
+    {
+      "id": "listen9-la-chevre-est-petite-et-fort",
+      "type": "listen",
+      "l1": "Koza je malá a silná.",
+      "l2": "La chèvre est petite et forte.",
+      "choices_l1": [
+        "Koza je veľká a silná.",
+        "Krava je malá a silná.",
+        "Koza je malá a milá."
+      ]
+    },
+    {
+      "id": "listen10-dans-les-alpes-il-y-a-des-ma",
+      "type": "listen",
+      "l1": "V Alpách sú svište a kozorožce.",
+      "l2": "Dans les Alpes, il y a des marmottes et des bouquetins.",
+      "choices_l1": [
+        "V Alpách sú svište a kamzíky.",
+        "V Alpách je svišť a kozorožec.",
+        "V horách sú svište a kozorožce."
+      ]
+    },
+    {
+      "id": "listen11-c-est-un-animal-sauvage",
+      "type": "listen",
+      "l1": "To je divoké zviera.",
+      "l2": "C'est un animal sauvage.",
+      "choices_l1": [
+        "To je malé zviera.",
+        "Tu je divoké zviera!",
+        "To je divoký vlk."
+      ]
+    },
+    {
+      "id": "blank12-la-vache-est-grande-et-genti",
+      "type": "fill-blank",
+      "l1": "Krava je veľká a milá.",
+      "l2": "La vache est grande et gentille.",
+      "missing_l1": "milá",
+      "missing_l2": "gentille",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "milý",
+        "veselá",
+        "silná"
+      ],
+      "choices_l2": [
+        "gentil",
+        "joyeuse",
+        "forte"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-le-loup-est-grand-et-fort",
+      "type": "fill-blank",
+      "l1": "Vlk je veľký a silný.",
+      "l2": "Le loup est grand et fort.",
+      "missing_l1": "silný",
+      "missing_l2": "fort",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "silná",
+        "milý",
+        "rýchly"
+      ],
+      "choices_l2": [
+        "forte",
+        "gentil",
+        "rapide"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-le-mouton-est-gentil",
+      "type": "fill-blank",
+      "l1": "Ovca je milá.",
+      "l2": "Le mouton est gentil.",
+      "missing_l1": "milá",
+      "missing_l2": "gentil",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "milý",
+        "veselá",
+        "malá"
+      ],
+      "choices_l2": [
+        "gentille",
+        "joyeux",
+        "fort"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-voila-un-aigle",
+      "type": "fill-blank",
+      "l1": "Tu je orol!",
+      "l2": "Voilà un aigle !",
+      "missing_l1": "orol",
+      "missing_l2": "aigle",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "vlk",
+        "zajac",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "loup",
+        "lièvre",
+        "chamois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-voila-un-chamois",
+      "type": "order",
+      "l1": "Tu je kamzík!",
+      "l2": "Voilà un chamois !",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "kamzík!"
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "un",
+        "chamois",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-le-loup-est-grand-et-fort",
+      "type": "order",
+      "l1": "Vlk je veľký a silný.",
+      "l2": "Le loup est grand et fort.",
+      "tokens_l1": [
+        "Vlk",
+        "je",
+        "veľký",
+        "a",
+        "silný."
+      ],
+      "tokens_l2": [
+        "Le",
+        "loup",
+        "est",
+        "grand",
+        "et",
+        "fort."
+      ]
+    },
+    {
+      "id": "order18-la-chevre-est-petite-et-fort",
+      "type": "order",
+      "l1": "Koza je malá a silná.",
+      "l2": "La chèvre est petite et forte.",
+      "tokens_l1": [
+        "Koza",
+        "je",
+        "malá",
+        "a",
+        "silná."
+      ],
+      "tokens_l2": [
+        "La",
+        "chèvre",
+        "est",
+        "petite",
+        "et",
+        "forte."
+      ]
+    },
+    {
+      "id": "order19-un-animal-des-animaux",
+      "type": "order",
+      "l1": "Zviera, zvieratá.",
+      "l2": "Un animal, des animaux.",
+      "tokens_l1": [
+        "Zviera,",
+        "zvieratá."
+      ],
+      "tokens_l2": [
+        "Un",
+        "animal,",
+        "des",
+        "animaux."
+      ]
+    },
+    {
+      "id": "order20-c-est-un-animal-sauvage",
+      "type": "order",
+      "l1": "To je divoké zviera.",
+      "l2": "C'est un animal sauvage.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "divoké",
+        "zviera."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "un",
+        "animal",
+        "sauvage."
+      ]
+    }
+  ]
+}

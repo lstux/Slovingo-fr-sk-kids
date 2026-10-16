@@ -1,0 +1,367 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-gagner",
+      "type": "match",
+      "l1": [
+        "vyhrať",
+        "prehrať",
+        "podvádzať",
+        "rad, kolo"
+      ],
+      "l2": [
+        "gagner",
+        "perdre",
+        "tricher",
+        "le tour"
+      ]
+    },
+    {
+      "id": "match2-c-est-mon-tour",
+      "type": "match",
+      "l1": [
+        "som na rade",
+        "spolu",
+        "jeho, na rade je on",
+        "jej, na rade je ona"
+      ],
+      "l2": [
+        "c'est mon tour",
+        "ensemble",
+        "à lui",
+        "à elle"
+      ]
+    },
+    {
+      "id": "qcm3-gagner",
+      "type": "qcm",
+      "l1": "vyhrať",
+      "l2": "gagner",
+      "choices_l1": [
+        "prehrať",
+        "podvádzať",
+        "spolu"
+      ],
+      "choices_l2": [
+        "perdre",
+        "tricher",
+        "ensemble"
+      ]
+    },
+    {
+      "id": "qcm4-tricher",
+      "type": "qcm",
+      "l1": "podvádzať",
+      "l2": "tricher",
+      "choices_l1": [
+        "vyhrať",
+        "prehrať",
+        "rad, kolo"
+      ],
+      "choices_l2": [
+        "gagner",
+        "perdre",
+        "le tour"
+      ]
+    },
+    {
+      "id": "qcm5-ensemble",
+      "type": "qcm",
+      "l1": "spolu",
+      "l2": "ensemble",
+      "choices_l1": [
+        "rad, kolo",
+        "vyhrať",
+        "prehrať"
+      ],
+      "choices_l2": [
+        "le tour",
+        "gagner",
+        "perdre"
+      ]
+    },
+    {
+      "id": "qcm6-c-est-a-toi",
+      "type": "qcm",
+      "l1": "to je tvoje, si na rade",
+      "l2": "c'est à toi",
+      "choices_l1": [
+        "to je moje, som na rade",
+        "prehrať",
+        "spolu"
+      ],
+      "choices_l2": [
+        "c'est à moi",
+        "perdre",
+        "ensemble"
+      ]
+    },
+    {
+      "id": "listen7-c-est-mon-tour",
+      "type": "listen",
+      "l1": "Som na rade!",
+      "l2": "C'est mon tour !",
+      "choices_l1": [
+        "Si na rade!",
+        "To je moje!",
+        "Som na rade, Léa!"
+      ]
+    },
+    {
+      "id": "listen8-c-est-ton-tour-lea",
+      "type": "listen",
+      "l1": "Si na rade, Léa.",
+      "l2": "C'est ton tour, Léa.",
+      "choices_l1": [
+        "Som na rade, Léa.",
+        "Si na rade, Hugo.",
+        "Podvádzaš, Léa."
+      ]
+    },
+    {
+      "id": "listen9-andrea-gagne-et-hugo-perd",
+      "type": "listen",
+      "l1": "Andrea vyhráva a Hugo prehráva.",
+      "l2": "Andrea gagne et Hugo perd.",
+      "choices_l1": [
+        "Hugo vyhráva a Andrea prehráva.",
+        "Andrea vyhráva a Hugo podvádza.",
+        "Andrea prehráva a Hugo vyhráva."
+      ]
+    },
+    {
+      "id": "listen10-tu-triches",
+      "type": "listen",
+      "l1": "Podvádzaš!",
+      "l2": "Tu triches !",
+      "choices_l1": [
+        "Podvádzam!",
+        "Vyhrávaš!",
+        "Prehrávaš!"
+      ]
+    },
+    {
+      "id": "listen11-non-je-ne-triche-pas",
+      "type": "listen",
+      "l1": "Nie, nepodvádzam!",
+      "l2": "Non, je ne triche pas !",
+      "choices_l1": [
+        "Nie, nevyhrávam!",
+        "Áno, podvádzam!",
+        "Nie, nepodvádzaš!"
+      ]
+    },
+    {
+      "id": "listen12-voila-le-ballon-d-hugo-c-est",
+      "type": "listen",
+      "l1": "Tu je Hugova lopta. Je jeho.",
+      "l2": "Voilà le ballon d'Hugo. C'est à lui.",
+      "choices_l1": [
+        "Tu je Léino švihadlo. Je jej.",
+        "Tu je Hugova lopta. Je jej.",
+        "Tu je Hugova loptička. Je jeho."
+      ]
+    },
+    {
+      "id": "blank13-andrea-gagne-et-hugo-perd",
+      "type": "fill-blank",
+      "l1": "Andrea vyhráva a Hugo prehráva.",
+      "l2": "Andrea gagne et Hugo perd.",
+      "missing_l1": "prehráva",
+      "missing_l2": "perd",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "podvádza",
+        "hrá",
+        "spí"
+      ],
+      "choices_l2": [
+        "triche",
+        "joue",
+        "dort"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-tu-triches",
+      "type": "fill-blank",
+      "l1": "Podvádzaš!",
+      "l2": "Tu triches !",
+      "missing_l1": "Podvádzaš",
+      "missing_l2": "triches",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Podvádzam",
+        "Vyhrávaš",
+        "Prehrávaš"
+      ],
+      "choices_l2": [
+        "triche",
+        "gagnes",
+        "perds"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-c-est-a-toi-hugo",
+      "type": "fill-blank",
+      "l1": "Si na rade, Hugo?",
+      "l2": "C'est à toi, Hugo ?",
+      "missing_l1": "Si",
+      "missing_l2": "toi",
+      "blank_index_l1": 0,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Som",
+        "Je",
+        "Máš"
+      ],
+      "choices_l2": [
+        "moi",
+        "lui",
+        "elle"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-voila-la-corde-de-lea-c-est-",
+      "type": "fill-blank",
+      "l1": "Tu je Léino švihadlo. Je jej.",
+      "l2": "Voilà la corde de Léa. C'est à elle.",
+      "missing_l1": "jej",
+      "missing_l2": "elle",
+      "blank_index_l1": 5,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "jeho",
+        "moje",
+        "tvoje"
+      ],
+      "choices_l2": [
+        "lui",
+        "moi",
+        "toi"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-lea-et-hugo-jouent-ensemble",
+      "type": "fill-blank",
+      "l1": "Léa a Hugo sa hrajú spolu.",
+      "l2": "Léa et Hugo jouent ensemble.",
+      "missing_l1": "spolu",
+      "missing_l2": "ensemble",
+      "blank_index_l1": 5,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "dnes",
+        "tam",
+        "rýchlo"
+      ],
+      "choices_l2": [
+        "aujourd'hui",
+        "là",
+        "vite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-c-est-mon-tour",
+      "type": "order",
+      "l1": "Som na rade!",
+      "l2": "C'est mon tour !",
+      "tokens_l1": [
+        "Som",
+        "na",
+        "rade!"
+      ],
+      "tokens_l2": [
+        "C'est",
+        "mon",
+        "tour",
+        "!"
+      ]
+    },
+    {
+      "id": "order19-c-est-ton-tour-lea",
+      "type": "order",
+      "l1": "Si na rade, Léa.",
+      "l2": "C'est ton tour, Léa.",
+      "tokens_l1": [
+        "Si",
+        "na",
+        "rade,",
+        "Léa."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "ton",
+        "tour,",
+        "Léa."
+      ]
+    },
+    {
+      "id": "order20-andrea-gagne-et-hugo-perd",
+      "type": "order",
+      "l1": "Andrea vyhráva a Hugo prehráva.",
+      "l2": "Andrea gagne et Hugo perd.",
+      "tokens_l1": [
+        "Andrea",
+        "vyhráva",
+        "a",
+        "Hugo",
+        "prehráva."
+      ],
+      "tokens_l2": [
+        "Andrea",
+        "gagne",
+        "et",
+        "Hugo",
+        "perd."
+      ]
+    },
+    {
+      "id": "order21-non-je-ne-triche-pas",
+      "type": "order",
+      "l1": "Nie, nepodvádzam!",
+      "l2": "Non, je ne triche pas !",
+      "tokens_l1": [
+        "Nie,",
+        "nepodvádzam!"
+      ],
+      "tokens_l2": [
+        "Non,",
+        "je",
+        "ne",
+        "triche",
+        "pas",
+        "!"
+      ]
+    },
+    {
+      "id": "order22-lea-et-hugo-jouent-ensemble",
+      "type": "order",
+      "l1": "Léa a Hugo sa hrajú spolu.",
+      "l2": "Léa et Hugo jouent ensemble.",
+      "tokens_l1": [
+        "Léa",
+        "a",
+        "Hugo",
+        "sa",
+        "hrajú",
+        "spolu."
+      ],
+      "tokens_l2": [
+        "Léa",
+        "et",
+        "Hugo",
+        "jouent",
+        "ensemble."
+      ]
+    }
+  ]
+}

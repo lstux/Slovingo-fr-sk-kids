@@ -126,12 +126,12 @@
       "blank_index_l2": 5,
       "choices_l1": [
         "sedem",
-        "deväť",
+        "desať",
         "jedenásť"
       ],
       "choices_l2": [
         "sept",
-        "neuf",
+        "dix",
         "onze"
       ],
       "show_translation": true

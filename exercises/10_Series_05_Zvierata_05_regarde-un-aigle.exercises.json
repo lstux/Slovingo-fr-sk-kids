@@ -1,0 +1,315 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-la-haut",
+      "type": "match",
+      "l1": [
+        "tam hore",
+        "ako svišť",
+        "som",
+        "pozri!"
+      ],
+      "l2": [
+        "là-haut",
+        "comme une marmotte",
+        "je suis",
+        "regarde !"
+      ]
+    },
+    {
+      "id": "qcm2-regarde",
+      "type": "qcm",
+      "l1": "pozri!",
+      "l2": "regarde !",
+      "choices_l1": [
+        "tam hore",
+        "som",
+        "ako svišť"
+      ],
+      "choices_l2": [
+        "là-haut",
+        "je suis",
+        "comme une marmotte"
+      ]
+    },
+    {
+      "id": "qcm3-la-haut",
+      "type": "qcm",
+      "l1": "tam hore",
+      "l2": "là-haut",
+      "choices_l1": [
+        "pozri!",
+        "som",
+        "ako svišť"
+      ],
+      "choices_l2": [
+        "regarde !",
+        "je suis",
+        "comme une marmotte"
+      ]
+    },
+    {
+      "id": "qcm4-je-suis",
+      "type": "qcm",
+      "l1": "som",
+      "l2": "je suis",
+      "choices_l1": [
+        "pozri!",
+        "tam hore",
+        "ako svišť"
+      ],
+      "choices_l2": [
+        "regarde !",
+        "là-haut",
+        "comme une marmotte"
+      ]
+    },
+    {
+      "id": "listen5-regarde-l-aigle-la-haut",
+      "type": "listen",
+      "l1": "Pozri na orla tam hore!",
+      "l2": "Regarde l'aigle là-haut !",
+      "choices_l1": [
+        "Pozri na vlka tam hore!",
+        "Pozri na orla v horách!",
+        "Pozri na zajaca tam hore!"
+      ]
+    },
+    {
+      "id": "listen6-la-haut-il-y-a-des-chamois",
+      "type": "listen",
+      "l1": "Tam hore sú kamzíky.",
+      "l2": "Là-haut, il y a des chamois.",
+      "choices_l1": [
+        "Tam hore je kamzík.",
+        "Tam hore sú svište.",
+        "Tam sú kamzíky."
+      ]
+    },
+    {
+      "id": "listen7-il-est-grand-il-est-plus-gra",
+      "type": "listen",
+      "l1": "Je veľký! Je väčší ako ja!",
+      "l2": "Il est grand ! Il est plus grand que moi !",
+      "choices_l1": [
+        "Je veľký! Je menší ako ja!",
+        "Je malý! Je väčší ako ja!",
+        "Je veľký! Je väčší ako ty!"
+      ]
+    },
+    {
+      "id": "listen8-lea-tu-dors-tu-dors-comme-un",
+      "type": "listen",
+      "l1": "Léa, ty spíš? Spíš ako svišť!",
+      "l2": "Léa, tu dors ? Tu dors comme une marmotte !",
+      "choices_l1": [
+        "Léa, ty spíš? Spíš ako vlk!",
+        "Hugo, ty spíš? Spíš ako svišť!",
+        "Léa, ty spíš? Spíš ako kozorožec!"
+      ]
+    },
+    {
+      "id": "listen9-mais-je-suis-une-marmotte",
+      "type": "listen",
+      "l1": "Ale ja som svišť!",
+      "l2": "Mais je suis une marmotte !",
+      "choices_l1": [
+        "Ale ja som vlk!",
+        "Ale ty si svišť!",
+        "Ale ja nie som svišť!"
+      ]
+    },
+    {
+      "id": "listen10-il-y-a-beaucoup-d-animaux-da",
+      "type": "listen",
+      "l1": "V Alpách je veľa zvierat!",
+      "l2": "Il y a beaucoup d'animaux dans les Alpes !",
+      "choices_l1": [
+        "V Alpách je veľa vlkov!",
+        "V horách je veľa zvierat!",
+        "V Alpách sú zvieratá!"
+      ]
+    },
+    {
+      "id": "blank11-regarde-l-aigle-la-haut",
+      "type": "fill-blank",
+      "l1": "Pozri na orla tam hore!",
+      "l2": "Regarde l'aigle là-haut !",
+      "missing_l1": "orla",
+      "missing_l2": "l'aigle",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "vlka",
+        "zajaca",
+        "kamzíka"
+      ],
+      "choices_l2": [
+        "le loup",
+        "le lièvre",
+        "le chamois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-mais-je-suis-une-marmotte",
+      "type": "fill-blank",
+      "l1": "Ale ja som svišť!",
+      "l2": "Mais je suis une marmotte !",
+      "missing_l1": "som",
+      "missing_l2": "suis",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "si",
+        "je",
+        "sú"
+      ],
+      "choices_l2": [
+        "est",
+        "sont",
+        "vais"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-il-est-grand-il-est-plus-gra",
+      "type": "fill-blank",
+      "l1": "Je veľký! Je väčší ako ja!",
+      "l2": "Il est grand ! Il est plus grand que moi !",
+      "missing_l1": "väčší",
+      "missing_l2": "plus",
+      "blank_index_l1": 3,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "menší",
+        "rýchlejší",
+        "vyšší"
+      ],
+      "choices_l2": [
+        "moins",
+        "aussi",
+        "très"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-je-dors-comme-une-marmotte",
+      "type": "fill-blank",
+      "l1": "Spím ako svišť.",
+      "l2": "Je dors comme une marmotte.",
+      "missing_l1": "svišť",
+      "missing_l2": "marmotte",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "vlk",
+        "orol",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "loup",
+        "aigle",
+        "chamois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-regarde-l-aigle-la-haut",
+      "type": "order",
+      "l1": "Pozri na orla tam hore!",
+      "l2": "Regarde l'aigle là-haut !",
+      "tokens_l1": [
+        "Pozri",
+        "na",
+        "orla",
+        "tam",
+        "hore!"
+      ],
+      "tokens_l2": [
+        "Regarde",
+        "l'aigle",
+        "là-haut",
+        "!"
+      ]
+    },
+    {
+      "id": "order16-la-haut-il-y-a-des-chamois",
+      "type": "order",
+      "l1": "Tam hore sú kamzíky.",
+      "l2": "Là-haut, il y a des chamois.",
+      "tokens_l1": [
+        "Tam",
+        "hore",
+        "sú",
+        "kamzíky."
+      ],
+      "tokens_l2": [
+        "Là-haut,",
+        "il",
+        "y",
+        "a",
+        "des",
+        "chamois."
+      ]
+    },
+    {
+      "id": "order17-je-dors-comme-une-marmotte",
+      "type": "order",
+      "l1": "Spím ako svišť.",
+      "l2": "Je dors comme une marmotte.",
+      "tokens_l1": [
+        "Spím",
+        "ako",
+        "svišť."
+      ],
+      "tokens_l2": [
+        "Je",
+        "dors",
+        "comme",
+        "une",
+        "marmotte."
+      ]
+    },
+    {
+      "id": "order18-j-aime-les-animaux",
+      "type": "order",
+      "l1": "Zvieratá sa mi páčia!",
+      "l2": "J'aime les animaux !",
+      "tokens_l1": [
+        "Zvieratá",
+        "sa",
+        "mi",
+        "páčia!"
+      ],
+      "tokens_l2": [
+        "J'aime",
+        "les",
+        "animaux",
+        "!"
+      ]
+    },
+    {
+      "id": "order19-mais-je-suis-une-marmotte",
+      "type": "order",
+      "l1": "Ale ja som svišť!",
+      "l2": "Mais je suis une marmotte !",
+      "tokens_l1": [
+        "Ale",
+        "ja",
+        "som",
+        "svišť!"
+      ],
+      "tokens_l2": [
+        "Mais",
+        "je",
+        "suis",
+        "une",
+        "marmotte",
+        "!"
+      ]
+    }
+  ]
+}

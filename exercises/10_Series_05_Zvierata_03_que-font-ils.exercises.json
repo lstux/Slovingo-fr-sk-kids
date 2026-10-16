@@ -1,0 +1,351 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-courir",
+      "type": "match",
+      "l1": [
+        "bežať",
+        "lietať",
+        "plávať",
+        "skákať"
+      ],
+      "l2": [
+        "courir",
+        "voler",
+        "nager",
+        "sauter"
+      ]
+    },
+    {
+      "id": "match2-grimper",
+      "type": "match",
+      "l1": [
+        "šplhať",
+        "pískať",
+        "oni, ony",
+        "nebo, obloha"
+      ],
+      "l2": [
+        "grimper",
+        "siffler",
+        "ils, elles",
+        "le ciel"
+      ]
+    },
+    {
+      "id": "qcm3-courir",
+      "type": "qcm",
+      "l1": "bežať",
+      "l2": "courir",
+      "choices_l1": [
+        "lietať",
+        "plávať",
+        "skákať"
+      ],
+      "choices_l2": [
+        "voler",
+        "nager",
+        "sauter"
+      ]
+    },
+    {
+      "id": "qcm4-nager",
+      "type": "qcm",
+      "l1": "plávať",
+      "l2": "nager",
+      "choices_l1": [
+        "bežať",
+        "šplhať",
+        "pískať"
+      ],
+      "choices_l2": [
+        "courir",
+        "grimper",
+        "siffler"
+      ]
+    },
+    {
+      "id": "qcm5-l-arbre",
+      "type": "qcm",
+      "l1": "strom",
+      "l2": "l'arbre",
+      "choices_l1": [
+        "tráva",
+        "nebo, obloha",
+        "orol"
+      ],
+      "choices_l2": [
+        "l'herbe",
+        "le ciel",
+        "l'aigle"
+      ]
+    },
+    {
+      "id": "qcm6-l-herbe",
+      "type": "qcm",
+      "l1": "tráva",
+      "l2": "l'herbe",
+      "choices_l1": [
+        "strom",
+        "nebo, obloha",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "l'arbre",
+        "le ciel",
+        "le chamois"
+      ]
+    },
+    {
+      "id": "listen7-l-aigle-vole-dans-la-montagn",
+      "type": "listen",
+      "l1": "Orol lieta v horách.",
+      "l2": "L'aigle vole dans la montagne.",
+      "choices_l1": [
+        "Orol beží v horách.",
+        "Vták lieta v horách.",
+        "Orol lieta na oblohe."
+      ]
+    },
+    {
+      "id": "listen8-le-lievre-court-vite",
+      "type": "listen",
+      "l1": "Zajac beží rýchlo.",
+      "l2": "Le lièvre court vite.",
+      "choices_l1": [
+        "Vlk beží rýchlo.",
+        "Zajac skáče rýchlo.",
+        "Zajac pláva rýchlo."
+      ]
+    },
+    {
+      "id": "listen9-les-poissons-nagent",
+      "type": "listen",
+      "l1": "Ryby plávajú.",
+      "l2": "Les poissons nagent.",
+      "choices_l1": [
+        "Ryba pláva.",
+        "Vtáky plávajú.",
+        "Ryby lietajú."
+      ]
+    },
+    {
+      "id": "listen10-le-chamois-saute-et-grimpe",
+      "type": "listen",
+      "l1": "Kamzík skáče a šplhá.",
+      "l2": "Le chamois saute et grimpe.",
+      "choices_l1": [
+        "Kamzík skáče a beží.",
+        "Svišť skáče a šplhá.",
+        "Kamzík lieta a šplhá."
+      ]
+    },
+    {
+      "id": "listen11-ils-courent-et-elles-sautent",
+      "type": "listen",
+      "l1": "Oni bežia a ony skáču.",
+      "l2": "Ils courent et elles sautent.",
+      "choices_l1": [
+        "Ony bežia a oni skáču.",
+        "Oni skáču a ony bežia.",
+        "Oni bežia a ony plávajú."
+      ]
+    },
+    {
+      "id": "blank12-les-poissons-nagent",
+      "type": "fill-blank",
+      "l1": "Ryby plávajú.",
+      "l2": "Les poissons nagent.",
+      "missing_l1": "plávajú",
+      "missing_l2": "nagent",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "lietajú",
+        "bežia",
+        "skáču"
+      ],
+      "choices_l2": [
+        "volent",
+        "courent",
+        "sautent"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-le-lievre-court-vite",
+      "type": "fill-blank",
+      "l1": "Zajac beží rýchlo.",
+      "l2": "Le lièvre court vite.",
+      "missing_l1": "beží",
+      "missing_l2": "court",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "skáče",
+        "pláva",
+        "lieta"
+      ],
+      "choices_l2": [
+        "saute",
+        "nage",
+        "vole"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-les-oiseaux-volent",
+      "type": "fill-blank",
+      "l1": "Vtáky lietajú.",
+      "l2": "Les oiseaux volent.",
+      "missing_l1": "Vtáky",
+      "missing_l2": "oiseaux",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Ryby",
+        "Zajace",
+        "Kamzíky"
+      ],
+      "choices_l2": [
+        "poissons",
+        "lièvres",
+        "chamois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-ils-courent-et-elles-sautent",
+      "type": "fill-blank",
+      "l1": "Oni bežia a ony skáču.",
+      "l2": "Ils courent et elles sautent.",
+      "missing_l1": "Oni",
+      "missing_l2": "Ils",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Ony",
+        "On",
+        "Ja"
+      ],
+      "choices_l2": [
+        "Elles",
+        "Il",
+        "Je"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-l-aigle-vole-dans-le-ciel",
+      "type": "fill-blank",
+      "l1": "Orol lieta na oblohe.",
+      "l2": "L'aigle vole dans le ciel.",
+      "missing_l1": "oblohe",
+      "missing_l2": "ciel",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "strome",
+        "tráve",
+        "záhrade"
+      ],
+      "choices_l2": [
+        "arbre",
+        "herbe",
+        "jardin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-l-aigle-vole-dans-la-montagn",
+      "type": "order",
+      "l1": "Orol lieta v horách.",
+      "l2": "L'aigle vole dans la montagne.",
+      "tokens_l1": [
+        "Orol",
+        "lieta",
+        "v",
+        "horách."
+      ],
+      "tokens_l2": [
+        "L'aigle",
+        "vole",
+        "dans",
+        "la",
+        "montagne."
+      ]
+    },
+    {
+      "id": "order18-le-lievre-court-vite",
+      "type": "order",
+      "l1": "Zajac beží rýchlo.",
+      "l2": "Le lièvre court vite.",
+      "tokens_l1": [
+        "Zajac",
+        "beží",
+        "rýchlo."
+      ],
+      "tokens_l2": [
+        "Le",
+        "lièvre",
+        "court",
+        "vite."
+      ]
+    },
+    {
+      "id": "order19-les-poissons-nagent",
+      "type": "order",
+      "l1": "Ryby plávajú.",
+      "l2": "Les poissons nagent.",
+      "tokens_l1": [
+        "Ryby",
+        "plávajú."
+      ],
+      "tokens_l2": [
+        "Les",
+        "poissons",
+        "nagent."
+      ]
+    },
+    {
+      "id": "order20-ils-courent-et-elles-sautent",
+      "type": "order",
+      "l1": "Oni bežia a ony skáču.",
+      "l2": "Ils courent et elles sautent.",
+      "tokens_l1": [
+        "Oni",
+        "bežia",
+        "a",
+        "ony",
+        "skáču."
+      ],
+      "tokens_l2": [
+        "Ils",
+        "courent",
+        "et",
+        "elles",
+        "sautent."
+      ]
+    },
+    {
+      "id": "order21-l-oiseau-est-dans-l-arbre",
+      "type": "order",
+      "l1": "Vták je na strome.",
+      "l2": "L'oiseau est dans l'arbre.",
+      "tokens_l1": [
+        "Vták",
+        "je",
+        "na",
+        "strome."
+      ],
+      "tokens_l2": [
+        "L'oiseau",
+        "est",
+        "dans",
+        "l'arbre."
+      ]
+    }
+  ]
+}

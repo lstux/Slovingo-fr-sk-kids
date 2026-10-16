@@ -1,0 +1,312 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-jeu",
+      "type": "match",
+      "l1": [
+        "hra",
+        "lopta",
+        "sneh",
+        "sánky"
+      ],
+      "l2": [
+        "le jeu",
+        "le ballon",
+        "la neige",
+        "la luge"
+      ]
+    },
+    {
+      "id": "match2-gagner",
+      "type": "match",
+      "l1": [
+        "vyhrať",
+        "prehrať",
+        "hneď",
+        "možno"
+      ],
+      "l2": [
+        "gagner",
+        "perdre",
+        "tout de suite",
+        "peut-être"
+      ]
+    },
+    {
+      "id": "qcm3-la-patinoire",
+      "type": "qcm",
+      "l1": "klzisko",
+      "l2": "la patinoire",
+      "choices_l1": [
+        "zjazdovka",
+        "sneh",
+        "sánky"
+      ],
+      "choices_l2": [
+        "la piste",
+        "la neige",
+        "la luge"
+      ]
+    },
+    {
+      "id": "qcm4-la-piste",
+      "type": "qcm",
+      "l1": "zjazdovka",
+      "l2": "la piste",
+      "choices_l1": [
+        "klzisko",
+        "sneh",
+        "snowboard"
+      ],
+      "choices_l2": [
+        "la patinoire",
+        "la neige",
+        "le snowboard"
+      ]
+    },
+    {
+      "id": "qcm5-bientot",
+      "type": "qcm",
+      "l1": "čoskoro",
+      "l2": "bientôt",
+      "choices_l1": [
+        "teraz",
+        "potom",
+        "hneď"
+      ],
+      "choices_l2": [
+        "maintenant",
+        "après",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "listen6-on-joue-au-ballon-hugo",
+      "type": "listen",
+      "l1": "Zahráme sa s loptou, Hugo?",
+      "l2": "On joue au ballon, Hugo ?",
+      "choices_l1": [
+        "Zahráme sa s loptou, Léa?",
+        "Zahráme sa s loptičkou, Hugo?",
+        "Zahráme karty, Hugo?"
+      ]
+    },
+    {
+      "id": "listen7-il-est-dans-le-jardin-sur-l-",
+      "type": "listen",
+      "l1": "Je v záhrade, na tráve.",
+      "l2": "Il est dans le jardin, sur l'herbe.",
+      "choices_l1": [
+        "Je v záhrade, na strome.",
+        "Je v izbe, na tráve.",
+        "Je v záhrade, na stole."
+      ]
+    },
+    {
+      "id": "listen8-moi-je-fais-du-ski-peut-etre",
+      "type": "listen",
+      "l1": "Ja lyžujem. Možno zajtra sa sánkujeme?",
+      "l2": "Moi, je fais du ski. Peut-être demain, on fait de la luge ?",
+      "choices_l1": [
+        "Ja sa sánkujem. Možno zajtra lyžujeme?",
+        "Ja lyžujem. Možno dnes sa sánkujeme?",
+        "Ja lyžujem. Možno zajtra sa hráme?"
+      ]
+    },
+    {
+      "id": "listen9-mamie-tu-fais-du-snowboard",
+      "type": "listen",
+      "l1": "Mamie, ty jazdíš na snowboarde?",
+      "l2": "Mamie, tu fais du snowboard ?",
+      "choices_l1": [
+        "Mamie, ty lyžuješ?",
+        "Mamie, ty sa sánkuješ?",
+        "Léa, ty jazdíš na snowboarde?"
+      ]
+    },
+    {
+      "id": "listen10-mamie-gagne-bravo",
+      "type": "listen",
+      "l1": "Mamie vyhráva! Bravo!",
+      "l2": "Mamie gagne ! Bravo !",
+      "choices_l1": [
+        "Mamie prehráva! Bravo!",
+        "Andrea vyhráva! Bravo!",
+        "Mamie vyhráva! Dobre!"
+      ]
+    },
+    {
+      "id": "blank11-il-est-dans-le-jardin-sur-l-",
+      "type": "fill-blank",
+      "l1": "Je v záhrade, na tráve.",
+      "l2": "Il est dans le jardin, sur l'herbe.",
+      "missing_l1": "tráve",
+      "missing_l2": "l'herbe",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "strome",
+        "stole",
+        "oblohe"
+      ],
+      "choices_l2": [
+        "l'arbre",
+        "la table",
+        "le ciel"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-moi-je-fais-de-la-luge-tu-vi",
+      "type": "fill-blank",
+      "l1": "Ja sa sánkujem. Prídeš?",
+      "l2": "Moi, je fais de la luge. Tu viens ?",
+      "missing_l1": "Prídeš",
+      "missing_l2": "viens",
+      "blank_index_l1": 3,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "Prídem",
+        "Príde",
+        "Hráš"
+      ],
+      "choices_l2": [
+        "vais",
+        "vient",
+        "joues"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-mamie-tu-fais-du-snowboard",
+      "type": "fill-blank",
+      "l1": "Mamie, ty jazdíš na snowboarde?",
+      "l2": "Mamie, tu fais du snowboard ?",
+      "missing_l1": "snowboarde",
+      "missing_l2": "snowboard",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "bicykli",
+        "sánkach",
+        "zjazdovke"
+      ],
+      "choices_l2": [
+        "vélo",
+        "luge",
+        "piste"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-moi-je-fais-du-ski-peut-etre",
+      "type": "fill-blank",
+      "l1": "Ja lyžujem. Možno zajtra sa sánkujeme?",
+      "l2": "Moi, je fais du ski. Peut-être demain, on fait de la luge ?",
+      "missing_l1": "sánkujeme",
+      "missing_l2": "luge",
+      "blank_index_l1": 5,
+      "blank_index_l2": 11,
+      "choices_l1": [
+        "lyžujeme",
+        "hráme",
+        "jeme"
+      ],
+      "choices_l2": [
+        "neige",
+        "piste",
+        "vélo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-on-joue-au-ballon-hugo",
+      "type": "order",
+      "l1": "Zahráme sa s loptou, Hugo?",
+      "l2": "On joue au ballon, Hugo ?",
+      "tokens_l1": [
+        "Zahráme",
+        "sa",
+        "s",
+        "loptou,",
+        "Hugo?"
+      ],
+      "tokens_l2": [
+        "On",
+        "joue",
+        "au",
+        "ballon,",
+        "Hugo",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-je-viens-tout-de-suite-voila",
+      "type": "order",
+      "l1": "Hneď prídem! Tu je lopta!",
+      "l2": "Je viens tout de suite ! Voilà le ballon !",
+      "tokens_l1": [
+        "Hneď",
+        "prídem!",
+        "Tu",
+        "je",
+        "lopta!"
+      ],
+      "tokens_l2": [
+        "Je",
+        "viens",
+        "tout",
+        "de",
+        "suite",
+        "!",
+        "Voilà",
+        "le",
+        "ballon",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-je-fais-de-la-luge-et-toi",
+      "type": "order",
+      "l1": "Ja sa sánkujem. A ty?",
+      "l2": "Je fais de la luge. Et toi ?",
+      "tokens_l1": [
+        "Ja",
+        "sa",
+        "sánkujem.",
+        "A",
+        "ty?"
+      ],
+      "tokens_l2": [
+        "Je",
+        "fais",
+        "de",
+        "la",
+        "luge.",
+        "Et",
+        "toi",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-mamie-gagne-bravo",
+      "type": "order",
+      "l1": "Mamie vyhráva! Bravo!",
+      "l2": "Mamie gagne ! Bravo !",
+      "tokens_l1": [
+        "Mamie",
+        "vyhráva!",
+        "Bravo!"
+      ],
+      "tokens_l2": [
+        "Mamie",
+        "gagne",
+        "!",
+        "Bravo",
+        "!"
+      ]
+    }
+  ]
+}

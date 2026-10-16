@@ -1,0 +1,338 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-une-partie",
+      "type": "match",
+      "l1": [
+        "partia, jedna hra",
+        "máš pravdu",
+        "bravo!",
+        "hraj!"
+      ],
+      "l2": [
+        "une partie",
+        "tu as raison",
+        "bravo !",
+        "joue !"
+      ]
+    },
+    {
+      "id": "qcm2-tu-as-raison",
+      "type": "qcm",
+      "l1": "máš pravdu",
+      "l2": "tu as raison",
+      "choices_l1": [
+        "bravo!",
+        "hraj!",
+        "možno"
+      ],
+      "choices_l2": [
+        "bravo !",
+        "joue !",
+        "peut-être"
+      ]
+    },
+    {
+      "id": "qcm3-joue",
+      "type": "qcm",
+      "l1": "hraj!",
+      "l2": "joue !",
+      "choices_l1": [
+        "bravo!",
+        "máš pravdu",
+        "hneď"
+      ],
+      "choices_l2": [
+        "bravo !",
+        "tu as raison",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "qcm4-une-partie",
+      "type": "qcm",
+      "l1": "partia, jedna hra",
+      "l2": "une partie",
+      "choices_l1": [
+        "hra",
+        "karty",
+        "nápad"
+      ],
+      "choices_l2": [
+        "le jeu",
+        "les cartes",
+        "une idée"
+      ]
+    },
+    {
+      "id": "listen5-on-joue-aux-cartes-j-ai-les-",
+      "type": "listen",
+      "l1": "Hráme karty? Mám karty!",
+      "l2": "On joue aux cartes ? J'ai les cartes !",
+      "choices_l1": [
+        "Hráme futbal? Mám loptu!",
+        "Hráš karty? Mám karty!",
+        "Hráme karty? Mám kocky!"
+      ]
+    },
+    {
+      "id": "listen6-pourquoi-pas-je-viens-tout-d",
+      "type": "listen",
+      "l1": "Prečo nie! Hneď prídem!",
+      "l2": "Pourquoi pas ! Je viens tout de suite !",
+      "choices_l1": [
+        "Prečo nie! Hneď prídeš!",
+        "Dobre! Hneď prídem!",
+        "Prečo nie! Prídem zajtra!"
+      ]
+    },
+    {
+      "id": "listen7-non-c-est-ton-tour-andrea-jo",
+      "type": "listen",
+      "l1": "Nie, si na rade ty, Andrea. Hraj!",
+      "l2": "Non, c'est ton tour, Andrea. Joue !",
+      "choices_l1": [
+        "Nie, som na rade ja, Andrea. Hraj!",
+        "Nie, si na rade ty, Hugo. Hraj!",
+        "Nie, si na rade ty, Andrea. Bravo!"
+      ]
+    },
+    {
+      "id": "listen8-mais-non-je-ne-triche-pas-re",
+      "type": "listen",
+      "l1": "Ale nie! Nepodvádzam! Pozri na karty!",
+      "l2": "Mais non ! Je ne triche pas ! Regarde les cartes !",
+      "choices_l1": [
+        "Ale áno! Nepodvádzam! Pozri na karty!",
+        "Ale nie! Podvádzam! Pozri na karty!",
+        "Ale nie! Nepodvádzam! Pozri na loptu!"
+      ]
+    },
+    {
+      "id": "listen9-pardon-andrea-tu-as-raison",
+      "type": "listen",
+      "l1": "Prepáč, Andrea! Máš pravdu.",
+      "l2": "Pardon, Andrea ! Tu as raison.",
+      "choices_l1": [
+        "Prepáč, Hugo! Máš pravdu.",
+        "Ďakujem, Andrea! Máš pravdu.",
+        "Prepáč, Andrea! Bravo!"
+      ]
+    },
+    {
+      "id": "listen10-encore-une-partie",
+      "type": "listen",
+      "l1": "Ešte jednu partiu?",
+      "l2": "Encore une partie ?",
+      "choices_l1": [
+        "Ešte jednu hru?",
+        "Ešte jednu kartu?",
+        "Jedna partia kariet?"
+      ]
+    },
+    {
+      "id": "blank11-on-joue-aux-cartes-j-ai-les-",
+      "type": "fill-blank",
+      "l1": "Hráme karty? Mám karty!",
+      "l2": "On joue aux cartes ? J'ai les cartes !",
+      "missing_l1": "karty",
+      "missing_l2": "cartes",
+      "blank_index_l1": 1,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "lopty",
+        "kocky",
+        "hry"
+      ],
+      "choices_l2": [
+        "balles",
+        "dés",
+        "jeux"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-voila-ma-carte-je-gagne",
+      "type": "fill-blank",
+      "l1": "Tu je moja karta. Vyhrávam!",
+      "l2": "Voilà ma carte. Je gagne !",
+      "missing_l1": "Vyhrávam",
+      "missing_l2": "gagne",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "Prehrávam",
+        "Podvádzam",
+        "Hrám"
+      ],
+      "choices_l2": [
+        "perds",
+        "triche",
+        "joue"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-mais-non-je-ne-triche-pas-re",
+      "type": "fill-blank",
+      "l1": "Ale nie! Nepodvádzam! Pozri na karty!",
+      "l2": "Mais non ! Je ne triche pas ! Regarde les cartes !",
+      "missing_l1": "Pozri",
+      "missing_l2": "Regarde",
+      "blank_index_l1": 3,
+      "blank_index_l2": 8,
+      "choices_l1": [
+        "Hraj",
+        "Odbočte",
+        "Choď"
+      ],
+      "choices_l2": [
+        "Joue",
+        "Tournez",
+        "Viens"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-bravo-andrea-tu-gagnes",
+      "type": "fill-blank",
+      "l1": "Bravo, Andrea! Vyhrávaš!",
+      "l2": "Bravo, Andrea ! Tu gagnes !",
+      "missing_l1": "Vyhrávaš",
+      "missing_l2": "gagnes",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "Vyhrávam",
+        "Vyhráva",
+        "Prehrávaš"
+      ],
+      "choices_l2": [
+        "gagne",
+        "perds",
+        "triches"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-non-c-est-ton-tour-andrea-jo",
+      "type": "fill-blank",
+      "l1": "Nie, si na rade ty, Andrea. Hraj!",
+      "l2": "Non, c'est ton tour, Andrea. Joue !",
+      "missing_l1": "Hraj",
+      "missing_l2": "Joue",
+      "blank_index_l1": 6,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "Pozri",
+        "Odbočte",
+        "Choď"
+      ],
+      "choices_l2": [
+        "Regarde",
+        "Tournez",
+        "Viens"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-on-joue-aux-cartes-j-ai-les-",
+      "type": "order",
+      "l1": "Hráme karty? Mám karty!",
+      "l2": "On joue aux cartes ? J'ai les cartes !",
+      "tokens_l1": [
+        "Hráme",
+        "karty?",
+        "Mám",
+        "karty!"
+      ],
+      "tokens_l2": [
+        "On",
+        "joue",
+        "aux",
+        "cartes",
+        "?",
+        "J'ai",
+        "les",
+        "cartes",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-tu-triches-andrea",
+      "type": "order",
+      "l1": "Podvádzaš, Andrea!",
+      "l2": "Tu triches, Andrea !",
+      "tokens_l1": [
+        "Podvádzaš,",
+        "Andrea!"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "triches,",
+        "Andrea",
+        "!"
+      ]
+    },
+    {
+      "id": "order18-encore-une-partie",
+      "type": "order",
+      "l1": "Ešte jednu partiu?",
+      "l2": "Encore une partie ?",
+      "tokens_l1": [
+        "Ešte",
+        "jednu",
+        "partiu?"
+      ],
+      "tokens_l2": [
+        "Encore",
+        "une",
+        "partie",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-joue-hugo-c-est-ton-tour",
+      "type": "order",
+      "l1": "Hraj, Hugo! Si na rade!",
+      "l2": "Joue, Hugo ! C'est ton tour !",
+      "tokens_l1": [
+        "Hraj,",
+        "Hugo!",
+        "Si",
+        "na",
+        "rade!"
+      ],
+      "tokens_l2": [
+        "Joue,",
+        "Hugo",
+        "!",
+        "C'est",
+        "ton",
+        "tour",
+        "!"
+      ]
+    },
+    {
+      "id": "order20-bravo-tu-as-raison",
+      "type": "order",
+      "l1": "Bravo! Máš pravdu!",
+      "l2": "Bravo ! Tu as raison !",
+      "tokens_l1": [
+        "Bravo!",
+        "Máš",
+        "pravdu!"
+      ],
+      "tokens_l2": [
+        "Bravo",
+        "!",
+        "Tu",
+        "as",
+        "raison",
+        "!"
+      ]
+    }
+  ]
+}

@@ -51,7 +51,7 @@ Tout se passe dans les **Alpes françaises**, avec la région lyonnaise en arri�
 slovingo-fr-sk-kids/
 ├── docs/        # Relectures et notes de travail
 ├── md/          # Fiches (SMD, Slovingo Markdown)
-├── exercises/   # Exercices écrits à la main (JSON), à venir
+├── exercises/   # Exercices écrits à la main (JSON) : introduction + séries 01 à 07
 ├── img/         # Illustrations
 └── lang.json    # Configuration (français ← slovaque)
 ```

@@ -1,0 +1,366 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-chien",
+      "type": "match",
+      "l1": [
+        "pes",
+        "mačka, kocúr",
+        "kôň",
+        "králik"
+      ],
+      "l2": [
+        "le chien",
+        "le chat",
+        "le cheval",
+        "le lapin"
+      ]
+    },
+    {
+      "id": "match2-le-poisson",
+      "type": "match",
+      "l1": [
+        "ryba",
+        "vták",
+        "sliepka",
+        "Čo je to?"
+      ],
+      "l2": [
+        "le poisson",
+        "l'oiseau",
+        "la poule",
+        "Qu'est-ce que c'est ?"
+      ]
+    },
+    {
+      "id": "qcm3-le-lapin",
+      "type": "qcm",
+      "l1": "králik",
+      "l2": "le lapin",
+      "choices_l1": [
+        "kôň",
+        "pes",
+        "vták"
+      ],
+      "choices_l2": [
+        "le cheval",
+        "le chien",
+        "l'oiseau"
+      ]
+    },
+    {
+      "id": "qcm4-la-poule",
+      "type": "qcm",
+      "l1": "sliepka",
+      "l2": "la poule",
+      "choices_l1": [
+        "ryba",
+        "vták",
+        "mačka, kocúr"
+      ],
+      "choices_l2": [
+        "le poisson",
+        "l'oiseau",
+        "le chat"
+      ]
+    },
+    {
+      "id": "qcm5-la-souris",
+      "type": "qcm",
+      "l1": "myš",
+      "l2": "la souris",
+      "choices_l1": [
+        "kačica",
+        "korytnačka",
+        "králik"
+      ],
+      "choices_l2": [
+        "le canard",
+        "la tortue",
+        "le lapin"
+      ]
+    },
+    {
+      "id": "qcm6-la-tortue",
+      "type": "qcm",
+      "l1": "korytnačka",
+      "l2": "la tortue",
+      "choices_l1": [
+        "myš",
+        "kačica",
+        "sliepka"
+      ],
+      "choices_l2": [
+        "la souris",
+        "le canard",
+        "la poule"
+      ]
+    },
+    {
+      "id": "listen7-qu-est-ce-que-c-est",
+      "type": "listen",
+      "l1": "Čo je to?",
+      "l2": "Qu'est-ce que c'est ?",
+      "choices_l1": [
+        "Kto je to?",
+        "Kde je to?",
+        "Aké je to?"
+      ]
+    },
+    {
+      "id": "listen8-c-est-un-chien",
+      "type": "listen",
+      "l1": "To je pes.",
+      "l2": "C'est un chien.",
+      "choices_l1": [
+        "To je mačka.",
+        "To je kôň.",
+        "To je králik."
+      ]
+    },
+    {
+      "id": "listen9-tu-as-un-chat",
+      "type": "listen",
+      "l1": "Máš mačku?",
+      "l2": "Tu as un chat ?",
+      "choices_l1": [
+        "Máš psa?",
+        "Mám mačku.",
+        "Máš králika?"
+      ]
+    },
+    {
+      "id": "listen10-ma-sur-a-un-lapin",
+      "type": "listen",
+      "l1": "Moja sestra má králika.",
+      "l2": "Ma sœur a un lapin.",
+      "choices_l1": [
+        "Môj brat má králika.",
+        "Moja sestra má psa.",
+        "Moja sestra má koňa."
+      ]
+    },
+    {
+      "id": "listen11-mon-frere-a-un-poisson-et-un",
+      "type": "listen",
+      "l1": "Môj brat má rybu a vtáka.",
+      "l2": "Mon frère a un poisson et un oiseau.",
+      "choices_l1": [
+        "Môj brat má rybu a psa.",
+        "Moja sestra má rybu a vtáka.",
+        "Môj brat má mačku a vtáka."
+      ]
+    },
+    {
+      "id": "listen12-j-ai-une-tortue-dans-le-jard",
+      "type": "listen",
+      "l1": "Mám korytnačku v záhrade.",
+      "l2": "J'ai une tortue dans le jardin.",
+      "choices_l1": [
+        "Mám korytnačku v izbe.",
+        "Mám králika v záhrade.",
+        "Mám myš v záhrade."
+      ]
+    },
+    {
+      "id": "blank13-tu-as-un-chat",
+      "type": "fill-blank",
+      "l1": "Máš mačku?",
+      "l2": "Tu as un chat ?",
+      "missing_l1": "mačku",
+      "missing_l2": "chat",
+      "blank_index_l1": 1,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "psa",
+        "králika",
+        "koňa"
+      ],
+      "choices_l2": [
+        "chien",
+        "lapin",
+        "cheval"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-hugo-a-une-poule-elle-s-appe",
+      "type": "fill-blank",
+      "l1": "Hugo má sliepku. Volá sa Mimi.",
+      "l2": "Hugo a une poule. Elle s'appelle Mimi.",
+      "missing_l1": "sliepku",
+      "missing_l2": "poule",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "mačku",
+        "rybu",
+        "myš"
+      ],
+      "choices_l2": [
+        "chat",
+        "poisson",
+        "souris"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-je-n-ai-pas-de-cheval",
+      "type": "fill-blank",
+      "l1": "Nemám koňa.",
+      "l2": "Je n'ai pas de cheval.",
+      "missing_l1": "koňa",
+      "missing_l2": "cheval",
+      "blank_index_l1": 1,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "psa",
+        "králika",
+        "vtáka"
+      ],
+      "choices_l2": [
+        "chien",
+        "lapin",
+        "oiseau"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-c-est-une-poule",
+      "type": "fill-blank",
+      "l1": "To je sliepka.",
+      "l2": "C'est une poule.",
+      "missing_l1": "sliepka",
+      "missing_l2": "une",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "pes",
+        "kôň",
+        "králik"
+      ],
+      "choices_l2": [
+        "un",
+        "du",
+        "de la"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-oui-j-ai-un-chat-il-s-appell",
+      "type": "fill-blank",
+      "l1": "Áno, mám mačku. Volá sa Pompon.",
+      "l2": "Oui, j'ai un chat. Il s'appelle Pompon.",
+      "missing_l1": "Volá",
+      "missing_l2": "Il",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "Mám",
+        "Je",
+        "Má"
+      ],
+      "choices_l2": [
+        "Elle",
+        "Ils",
+        "Je"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-qu-est-ce-que-c-est",
+      "type": "order",
+      "l1": "Čo je to?",
+      "l2": "Qu'est-ce que c'est ?",
+      "tokens_l1": [
+        "Čo",
+        "je",
+        "to?"
+      ],
+      "tokens_l2": [
+        "Qu'est-ce",
+        "que",
+        "c'est",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-c-est-un-chien",
+      "type": "order",
+      "l1": "To je pes.",
+      "l2": "C'est un chien.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "pes."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "un",
+        "chien."
+      ]
+    },
+    {
+      "id": "order20-ma-sur-a-un-lapin",
+      "type": "order",
+      "l1": "Moja sestra má králika.",
+      "l2": "Ma sœur a un lapin.",
+      "tokens_l1": [
+        "Moja",
+        "sestra",
+        "má",
+        "králika."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "sœur",
+        "a",
+        "un",
+        "lapin."
+      ]
+    },
+    {
+      "id": "order21-mon-frere-a-un-poisson-et-un",
+      "type": "order",
+      "l1": "Môj brat má rybu a vtáka.",
+      "l2": "Mon frère a un poisson et un oiseau.",
+      "tokens_l1": [
+        "Môj",
+        "brat",
+        "má",
+        "rybu",
+        "a",
+        "vtáka."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "frère",
+        "a",
+        "un",
+        "poisson",
+        "et",
+        "un",
+        "oiseau."
+      ]
+    },
+    {
+      "id": "order22-je-n-ai-pas-de-cheval",
+      "type": "order",
+      "l1": "Nemám koňa.",
+      "l2": "Je n'ai pas de cheval.",
+      "tokens_l1": [
+        "Nemám",
+        "koňa."
+      ],
+      "tokens_l2": [
+        "Je",
+        "n'ai",
+        "pas",
+        "de",
+        "cheval."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-faire",
+      "type": "match",
+      "l1": [
+        "robiť",
+        "lyžovanie, lyže",
+        "sánky",
+        "futbal"
+      ],
+      "l2": [
+        "faire",
+        "le ski",
+        "la luge",
+        "le foot"
+      ]
+    },
+    {
+      "id": "match2-le-basket",
+      "type": "match",
+      "l1": [
+        "basketbal",
+        "tenis",
+        "sneh",
+        "hrať futbal"
+      ],
+      "l2": [
+        "le basket",
+        "le tennis",
+        "la neige",
+        "jouer au foot"
+      ]
+    },
+    {
+      "id": "qcm3-faire-du-ski",
+      "type": "qcm",
+      "l1": "lyžovať",
+      "l2": "faire du ski",
+      "choices_l1": [
+        "sánkovať sa",
+        "jazdiť na bicykli",
+        "hrať tenis"
+      ],
+      "choices_l2": [
+        "faire de la luge",
+        "faire du vélo",
+        "jouer au tennis"
+      ]
+    },
+    {
+      "id": "qcm4-faire-de-la-luge",
+      "type": "qcm",
+      "l1": "sánkovať sa",
+      "l2": "faire de la luge",
+      "choices_l1": [
+        "lyžovať",
+        "jazdiť na bicykli",
+        "hrať futbal"
+      ],
+      "choices_l2": [
+        "faire du ski",
+        "faire du vélo",
+        "jouer au foot"
+      ]
+    },
+    {
+      "id": "qcm5-jouer-au-foot",
+      "type": "qcm",
+      "l1": "hrať futbal",
+      "l2": "jouer au foot",
+      "choices_l1": [
+        "hrať basketbal",
+        "hrať tenis",
+        "lyžovať"
+      ],
+      "choices_l2": [
+        "jouer au basket",
+        "jouer au tennis",
+        "faire du ski"
+      ]
+    },
+    {
+      "id": "qcm6-la-neige",
+      "type": "qcm",
+      "l1": "sneh",
+      "l2": "la neige",
+      "choices_l1": [
+        "sánky",
+        "lyžovanie, lyže",
+        "futbal"
+      ],
+      "choices_l2": [
+        "la luge",
+        "le ski",
+        "le foot"
+      ]
+    },
+    {
+      "id": "listen7-je-fais-du-ski",
+      "type": "listen",
+      "l1": "Lyžujem.",
+      "l2": "Je fais du ski.",
+      "choices_l1": [
+        "Sánkujem sa.",
+        "Nelyžujem.",
+        "Lyžuješ."
+      ]
+    },
+    {
+      "id": "listen8-tu-fais-de-la-luge",
+      "type": "listen",
+      "l1": "Sánkuješ sa?",
+      "l2": "Tu fais de la luge ?",
+      "choices_l1": [
+        "Lyžuješ?",
+        "Sánkujem sa?",
+        "Jazdíš na bicykli?"
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-de-la-neige-dans-les-",
+      "type": "listen",
+      "l1": "V Alpách je sneh.",
+      "l2": "Il y a de la neige dans les Alpes.",
+      "choices_l1": [
+        "V Alpách sú sánky.",
+        "V dedine je sneh.",
+        "V Alpách je klzisko."
+      ]
+    },
+    {
+      "id": "listen10-andrea-joue-au-foot",
+      "type": "listen",
+      "l1": "Andrea hrá futbal.",
+      "l2": "Andrea joue au foot.",
+      "choices_l1": [
+        "Hugo hrá futbal.",
+        "Andrea hrá tenis.",
+        "Andrea hrá basketbal."
+      ]
+    },
+    {
+      "id": "listen11-je-ne-fais-pas-de-ski",
+      "type": "listen",
+      "l1": "Nelyžujem.",
+      "l2": "Je ne fais pas de ski.",
+      "choices_l1": [
+        "Lyžujem.",
+        "Nesánkujem sa.",
+        "Nehrám tenis."
+      ]
+    },
+    {
+      "id": "listen12-voila-la-piste",
+      "type": "listen",
+      "l1": "Tu je zjazdovka!",
+      "l2": "Voilà la piste !",
+      "choices_l1": [
+        "Tu je klzisko!",
+        "Tu je sneh!",
+        "Tu sú sánky!"
+      ]
+    },
+    {
+      "id": "blank13-tu-fais-de-la-luge",
+      "type": "fill-blank",
+      "l1": "Sánkuješ sa?",
+      "l2": "Tu fais de la luge ?",
+      "missing_l1": "Sánkuješ",
+      "missing_l2": "de",
+      "blank_index_l1": 0,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Lyžuješ",
+        "Sánkujem",
+        "Hráš"
+      ],
+      "choices_l2": [
+        "du",
+        "au",
+        "aux"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-andrea-joue-au-foot",
+      "type": "fill-blank",
+      "l1": "Andrea hrá futbal.",
+      "l2": "Andrea joue au foot.",
+      "missing_l1": "futbal",
+      "missing_l2": "foot",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "tenis",
+        "basketbal",
+        "sneh"
+      ],
+      "choices_l2": [
+        "tennis",
+        "basket",
+        "neige"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-lea-joue-au-basket",
+      "type": "fill-blank",
+      "l1": "Léa hrá basketbal.",
+      "l2": "Léa joue au basket.",
+      "missing_l1": "hrá",
+      "missing_l2": "joue",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "lyžuje",
+        "robí",
+        "sánkuje"
+      ],
+      "choices_l2": [
+        "fait",
+        "joues",
+        "jouer"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-il-y-a-de-la-neige-dans-les-",
+      "type": "fill-blank",
+      "l1": "V Alpách je sneh.",
+      "l2": "Il y a de la neige dans les Alpes.",
+      "missing_l1": "sneh",
+      "missing_l2": "neige",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "sánky",
+        "klzisko",
+        "zjazdovka"
+      ],
+      "choices_l2": [
+        "luge",
+        "patinoire",
+        "piste"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-je-fais-du-ski",
+      "type": "order",
+      "l1": "Lyžujem.",
+      "l2": "Je fais du ski.",
+      "tokens_l1": [
+        "Lyžujem."
+      ],
+      "tokens_l2": [
+        "Je",
+        "fais",
+        "du",
+        "ski."
+      ]
+    },
+    {
+      "id": "order18-tu-fais-de-la-luge",
+      "type": "order",
+      "l1": "Sánkuješ sa?",
+      "l2": "Tu fais de la luge ?",
+      "tokens_l1": [
+        "Sánkuješ",
+        "sa?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "fais",
+        "de",
+        "la",
+        "luge",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-andrea-joue-au-foot",
+      "type": "order",
+      "l1": "Andrea hrá futbal.",
+      "l2": "Andrea joue au foot.",
+      "tokens_l1": [
+        "Andrea",
+        "hrá",
+        "futbal."
+      ],
+      "tokens_l2": [
+        "Andrea",
+        "joue",
+        "au",
+        "foot."
+      ]
+    },
+    {
+      "id": "order20-il-y-a-de-la-neige-dans-les-",
+      "type": "order",
+      "l1": "V Alpách je sneh.",
+      "l2": "Il y a de la neige dans les Alpes.",
+      "tokens_l1": [
+        "V",
+        "Alpách",
+        "je",
+        "sneh."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "de",
+        "la",
+        "neige",
+        "dans",
+        "les",
+        "Alpes."
+      ]
+    },
+    {
+      "id": "order21-mamie-fait-du-snowboard",
+      "type": "order",
+      "l1": "Mamie jazdí na snowboarde.",
+      "l2": "Mamie fait du snowboard.",
+      "tokens_l1": [
+        "Mamie",
+        "jazdí",
+        "na",
+        "snowboarde."
+      ],
+      "tokens_l2": [
+        "Mamie",
+        "fait",
+        "du",
+        "snowboard."
+      ]
+    }
+  ]
+}

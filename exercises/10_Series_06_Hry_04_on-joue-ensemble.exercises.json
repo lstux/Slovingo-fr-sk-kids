@@ -1,0 +1,359 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-on",
+      "type": "match",
+      "l1": [
+        "my, ľudia",
+        "prísť",
+        "súhlasím, dobre",
+        "nápad"
+      ],
+      "l2": [
+        "on",
+        "venir",
+        "d'accord",
+        "une idée"
+      ]
+    },
+    {
+      "id": "match2-peut-etre",
+      "type": "match",
+      "l1": [
+        "možno",
+        "prečo nie?",
+        "hneď",
+        "teraz"
+      ],
+      "l2": [
+        "peut-être",
+        "pourquoi pas ?",
+        "tout de suite",
+        "maintenant"
+      ]
+    },
+    {
+      "id": "qcm3-peut-etre",
+      "type": "qcm",
+      "l1": "možno",
+      "l2": "peut-être",
+      "choices_l1": [
+        "hneď",
+        "teraz",
+        "čoskoro"
+      ],
+      "choices_l2": [
+        "tout de suite",
+        "maintenant",
+        "bientôt"
+      ]
+    },
+    {
+      "id": "qcm4-bientot",
+      "type": "qcm",
+      "l1": "čoskoro",
+      "l2": "bientôt",
+      "choices_l1": [
+        "teraz",
+        "potom, po",
+        "možno"
+      ],
+      "choices_l2": [
+        "maintenant",
+        "après",
+        "peut-être"
+      ]
+    },
+    {
+      "id": "qcm5-pourquoi-pas",
+      "type": "qcm",
+      "l1": "prečo nie?",
+      "l2": "pourquoi pas ?",
+      "choices_l1": [
+        "možno",
+        "súhlasím, dobre",
+        "hneď"
+      ],
+      "choices_l2": [
+        "peut-être",
+        "d'accord",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "qcm6-apres",
+      "type": "qcm",
+      "l1": "potom, po",
+      "l2": "après",
+      "choices_l1": [
+        "teraz",
+        "čoskoro",
+        "hneď"
+      ],
+      "choices_l2": [
+        "maintenant",
+        "bientôt",
+        "tout de suite"
+      ]
+    },
+    {
+      "id": "listen7-on-joue",
+      "type": "listen",
+      "l1": "Hráme sa?",
+      "l2": "On joue ?",
+      "choices_l1": [
+        "Hráš sa?",
+        "Hráme karty?",
+        "Jeme?"
+      ]
+    },
+    {
+      "id": "listen8-tu-viens",
+      "type": "listen",
+      "l1": "Prídeš?",
+      "l2": "Tu viens ?",
+      "choices_l1": [
+        "Prídem?",
+        "Hráš?",
+        "Prídete?"
+      ]
+    },
+    {
+      "id": "listen9-je-viens-tout-de-suite",
+      "type": "listen",
+      "l1": "Hneď prídem!",
+      "l2": "Je viens tout de suite !",
+      "choices_l1": [
+        "Prídem zajtra!",
+        "Hneď prídeš!",
+        "Hneď hrám!"
+      ]
+    },
+    {
+      "id": "listen10-bonne-idee",
+      "type": "listen",
+      "l1": "Dobrý nápad!",
+      "l2": "Bonne idée !",
+      "choices_l1": [
+        "Dobrý deň!",
+        "Súhlasím!",
+        "Možno zajtra."
+      ]
+    },
+    {
+      "id": "listen11-peut-etre-demain",
+      "type": "listen",
+      "l1": "Možno zajtra.",
+      "l2": "Peut-être demain.",
+      "choices_l1": [
+        "Možno dnes.",
+        "Hneď zajtra.",
+        "Možno teraz."
+      ]
+    },
+    {
+      "id": "listen12-on-joue-aux-cartes-pourquoi-",
+      "type": "listen",
+      "l1": "Hráme karty? Prečo nie!",
+      "l2": "On joue aux cartes ? Pourquoi pas !",
+      "choices_l1": [
+        "Hráme karty? Možno!",
+        "Hráme futbal? Prečo nie!",
+        "Hráme karty? Dobre!"
+      ]
+    },
+    {
+      "id": "blank13-on-joue-aux-cartes-pourquoi-",
+      "type": "fill-blank",
+      "l1": "Hráme karty? Prečo nie!",
+      "l2": "On joue aux cartes ? Pourquoi pas !",
+      "missing_l1": "nie",
+      "missing_l2": "pas",
+      "blank_index_l1": 3,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "áno",
+        "možno",
+        "hneď"
+      ],
+      "choices_l2": [
+        "oui",
+        "peut-être",
+        "tout"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-tu-viens",
+      "type": "fill-blank",
+      "l1": "Prídeš?",
+      "l2": "Tu viens ?",
+      "missing_l1": "Prídeš",
+      "missing_l2": "viens",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Prídem",
+        "Príde",
+        "Hráš"
+      ],
+      "choices_l2": [
+        "vais",
+        "vient",
+        "joues"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-peut-etre-demain",
+      "type": "fill-blank",
+      "l1": "Možno zajtra.",
+      "l2": "Peut-être demain.",
+      "missing_l1": "Možno",
+      "missing_l2": "Peut-être",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Hneď",
+        "Teraz",
+        "Potom"
+      ],
+      "choices_l2": [
+        "Après",
+        "Maintenant",
+        "Bientôt"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-on-joue-maintenant",
+      "type": "fill-blank",
+      "l1": "Hráme sa teraz?",
+      "l2": "On joue maintenant ?",
+      "missing_l1": "teraz",
+      "missing_l2": "maintenant",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "potom",
+        "čoskoro",
+        "zajtra"
+      ],
+      "choices_l2": [
+        "après",
+        "bientôt",
+        "demain"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-apres-on-mange",
+      "type": "fill-blank",
+      "l1": "Potom jeme.",
+      "l2": "Après, on mange.",
+      "missing_l1": "Potom",
+      "missing_l2": "Après",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Teraz",
+        "Čoskoro",
+        "Zajtra"
+      ],
+      "choices_l2": [
+        "Maintenant",
+        "Bientôt",
+        "Demain"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-on-joue",
+      "type": "order",
+      "l1": "Hráme sa?",
+      "l2": "On joue ?",
+      "tokens_l1": [
+        "Hráme",
+        "sa?"
+      ],
+      "tokens_l2": [
+        "On",
+        "joue",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-je-viens-tout-de-suite",
+      "type": "order",
+      "l1": "Hneď prídem!",
+      "l2": "Je viens tout de suite !",
+      "tokens_l1": [
+        "Hneď",
+        "prídem!"
+      ],
+      "tokens_l2": [
+        "Je",
+        "viens",
+        "tout",
+        "de",
+        "suite",
+        "!"
+      ]
+    },
+    {
+      "id": "order20-on-joue-aux-cartes-pourquoi-",
+      "type": "order",
+      "l1": "Hráme karty? Prečo nie!",
+      "l2": "On joue aux cartes ? Pourquoi pas !",
+      "tokens_l1": [
+        "Hráme",
+        "karty?",
+        "Prečo",
+        "nie!"
+      ],
+      "tokens_l2": [
+        "On",
+        "joue",
+        "aux",
+        "cartes",
+        "?",
+        "Pourquoi",
+        "pas",
+        "!"
+      ]
+    },
+    {
+      "id": "order21-a-bientot",
+      "type": "order",
+      "l1": "Do skorého videnia!",
+      "l2": "À bientôt !",
+      "tokens_l1": [
+        "Do",
+        "skorého",
+        "videnia!"
+      ],
+      "tokens_l2": [
+        "À",
+        "bientôt",
+        "!"
+      ]
+    },
+    {
+      "id": "order22-apres-on-mange",
+      "type": "order",
+      "l1": "Potom jeme.",
+      "l2": "Après, on mange.",
+      "tokens_l1": [
+        "Potom",
+        "jeme."
+      ],
+      "tokens_l2": [
+        "Après,",
+        "on",
+        "mange."
+      ]
+    }
+  ]
+}

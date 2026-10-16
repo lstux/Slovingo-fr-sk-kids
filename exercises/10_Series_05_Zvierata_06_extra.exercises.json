@@ -1,0 +1,316 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-sauvage",
+      "type": "match",
+      "l1": [
+        "divoký",
+        "bežať",
+        "plávať",
+        "šplhať"
+      ],
+      "l2": [
+        "sauvage",
+        "courir",
+        "nager",
+        "grimper"
+      ]
+    },
+    {
+      "id": "match2-plus-que",
+      "type": "match",
+      "l1": [
+        "viac… ako",
+        "menej… ako",
+        "rovnako… ako",
+        "tam hore"
+      ],
+      "l2": [
+        "plus… que",
+        "moins… que",
+        "aussi… que",
+        "là-haut"
+      ]
+    },
+    {
+      "id": "qcm3-qu-est-ce-que-c-est",
+      "type": "qcm",
+      "l1": "čo je to?",
+      "l2": "qu'est-ce que c'est ?",
+      "choices_l1": [
+        "ťažký",
+        "dlhý",
+        "som"
+      ],
+      "choices_l2": [
+        "lourd, lourde",
+        "long, longue",
+        "je suis"
+      ]
+    },
+    {
+      "id": "qcm4-lourd-lourde",
+      "type": "qcm",
+      "l1": "ťažký",
+      "l2": "lourd, lourde",
+      "choices_l1": [
+        "ľahký",
+        "vysoký",
+        "dlhý"
+      ],
+      "choices_l2": [
+        "léger, légère",
+        "haut, haute",
+        "long, longue"
+      ]
+    },
+    {
+      "id": "qcm5-je-suis",
+      "type": "qcm",
+      "l1": "som",
+      "l2": "je suis",
+      "choices_l1": [
+        "viac… ako",
+        "menej… ako",
+        "tam hore"
+      ],
+      "choices_l2": [
+        "plus… que",
+        "moins… que",
+        "là-haut"
+      ]
+    },
+    {
+      "id": "listen6-c-est-ma-poule-elle-s-appell",
+      "type": "listen",
+      "l1": "To je moja sliepka. Volá sa Mimi.",
+      "l2": "C'est ma poule. Elle s'appelle Mimi.",
+      "choices_l1": [
+        "To je moja mačka. Volá sa Mimi.",
+        "To je moja sliepka. Volá sa Pompon.",
+        "To je môj pes. Volá sa Mimi."
+      ]
+    },
+    {
+      "id": "listen7-mon-chat-dort-dans-le-salon-",
+      "type": "listen",
+      "l1": "Moja mačka spí v obývačke. Nebehá!",
+      "l2": "Mon chat dort dans le salon. Il ne court pas !",
+      "choices_l1": [
+        "Moja mačka spí v kuchyni. Nebehá!",
+        "Môj pes spí v obývačke. Nebehá!",
+        "Moja mačka beží v obývačke!"
+      ]
+    },
+    {
+      "id": "listen8-le-lievre-est-plus-rapide-qu",
+      "type": "listen",
+      "l1": "Zajac je rýchlejší ako korytnačka!",
+      "l2": "Le lièvre est plus rapide que la tortue !",
+      "choices_l1": [
+        "Korytnačka je rýchlejšia ako zajac!",
+        "Zajac je pomalší ako korytnačka!",
+        "Zajac je rýchlejší ako kôň!"
+      ]
+    },
+    {
+      "id": "listen9-moi-je-saute-plus-haut-que-v",
+      "type": "listen",
+      "l1": "Ja skáčem vyššie ako vy dve!",
+      "l2": "Moi, je saute plus haut que vous deux !",
+      "choices_l1": [
+        "Ja skáčem vyššie ako ty!",
+        "Ja bežím rýchlejšie ako vy dve!",
+        "Ja skáčem vyššie ako Andrea!"
+      ]
+    },
+    {
+      "id": "listen10-non-c-est-un-chamois-il-est-",
+      "type": "listen",
+      "l1": "Nie, to je kamzík! Je menší ako jeleň.",
+      "l2": "Non, c'est un chamois ! Il est plus petit que le cerf.",
+      "choices_l1": [
+        "Nie, to je jeleň! Je menší ako kamzík.",
+        "Nie, to je kamzík! Je väčší ako jeleň.",
+        "Áno, to je kamzík! Je menší ako jeleň."
+      ]
+    },
+    {
+      "id": "blank11-non-mais-lea-a-un-chat-il-s-",
+      "type": "fill-blank",
+      "l1": "Nie, ale Léa má mačku. Volá sa Pompon.",
+      "l2": "Non, mais Léa a un chat. Il s'appelle Pompon.",
+      "missing_l1": "mačku",
+      "missing_l2": "chat",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "psa",
+        "sliepku",
+        "králika"
+      ],
+      "choices_l2": [
+        "chien",
+        "poule",
+        "lapin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-regarde-il-y-a-un-cerf-la-ha",
+      "type": "fill-blank",
+      "l1": "Pozri! Tam hore je jeleň!",
+      "l2": "Regarde ! Il y a un cerf là-haut !",
+      "missing_l1": "jeleň",
+      "missing_l2": "cerf",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "vlk",
+        "orol",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "loup",
+        "aigle",
+        "chamois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-moi-je-cours-moins-vite-qu-a",
+      "type": "fill-blank",
+      "l1": "Ja bežím pomalšie ako Andrea.",
+      "l2": "Moi, je cours moins vite qu'Andrea.",
+      "missing_l1": "pomalšie",
+      "missing_l2": "moins",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "rýchlejšie",
+        "vyššie",
+        "viac"
+      ],
+      "choices_l2": [
+        "plus",
+        "aussi",
+        "très"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-oui-elles-sifflent-et-moi-je",
+      "type": "fill-blank",
+      "l1": "Áno, pískajú… a ja spím ako svišť.",
+      "l2": "Oui, elles sifflent… et moi, je dors comme une marmotte.",
+      "missing_l1": "pískajú",
+      "missing_l2": "sifflent",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "skáču",
+        "bežia",
+        "lietajú"
+      ],
+      "choices_l2": [
+        "sautent",
+        "courent",
+        "volent"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-qu-est-ce-que-c-est-hugo",
+      "type": "order",
+      "l1": "Čo je to, Hugo?",
+      "l2": "Qu'est-ce que c'est, Hugo ?",
+      "tokens_l1": [
+        "Čo",
+        "je",
+        "to,",
+        "Hugo?"
+      ],
+      "tokens_l2": [
+        "Qu'est-ce",
+        "que",
+        "c'est,",
+        "Hugo",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-c-est-ma-poule-elle-s-appell",
+      "type": "order",
+      "l1": "To je moja sliepka. Volá sa Mimi.",
+      "l2": "C'est ma poule. Elle s'appelle Mimi.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "moja",
+        "sliepka.",
+        "Volá",
+        "sa",
+        "Mimi."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "ma",
+        "poule.",
+        "Elle",
+        "s'appelle",
+        "Mimi."
+      ]
+    },
+    {
+      "id": "order17-le-lievre-est-plus-rapide-qu",
+      "type": "order",
+      "l1": "Zajac je rýchlejší ako korytnačka!",
+      "l2": "Le lièvre est plus rapide que la tortue !",
+      "tokens_l1": [
+        "Zajac",
+        "je",
+        "rýchlejší",
+        "ako",
+        "korytnačka!"
+      ],
+      "tokens_l2": [
+        "Le",
+        "lièvre",
+        "est",
+        "plus",
+        "rapide",
+        "que",
+        "la",
+        "tortue",
+        "!"
+      ]
+    },
+    {
+      "id": "order18-moi-je-saute-plus-haut-que-v",
+      "type": "order",
+      "l1": "Ja skáčem vyššie ako vy dve!",
+      "l2": "Moi, je saute plus haut que vous deux !",
+      "tokens_l1": [
+        "Ja",
+        "skáčem",
+        "vyššie",
+        "ako",
+        "vy",
+        "dve!"
+      ],
+      "tokens_l2": [
+        "Moi,",
+        "je",
+        "saute",
+        "plus",
+        "haut",
+        "que",
+        "vous",
+        "deux",
+        "!"
+      ]
+    }
+  ]
+}

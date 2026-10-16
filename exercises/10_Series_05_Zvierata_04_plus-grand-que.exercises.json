@@ -1,0 +1,394 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-gros-grosse",
+      "type": "match",
+      "l1": [
+        "mohutný, veľký",
+        "vysoký, vysoká",
+        "dlhý, dlhá",
+        "ľahký, ľahká"
+      ],
+      "l2": [
+        "gros, grosse",
+        "haut, haute",
+        "long, longue",
+        "léger, légère"
+      ]
+    },
+    {
+      "id": "match2-lourd-lourde",
+      "type": "match",
+      "l1": [
+        "ťažký, ťažká",
+        "viac",
+        "menej",
+        "ako"
+      ],
+      "l2": [
+        "lourd, lourde",
+        "plus",
+        "moins",
+        "que"
+      ]
+    },
+    {
+      "id": "qcm3-plus",
+      "type": "qcm",
+      "l1": "viac",
+      "l2": "plus",
+      "choices_l1": [
+        "menej",
+        "ako",
+        "rovnako… ako"
+      ],
+      "choices_l2": [
+        "moins",
+        "que",
+        "aussi… que"
+      ]
+    },
+    {
+      "id": "qcm4-moins",
+      "type": "qcm",
+      "l1": "menej",
+      "l2": "moins",
+      "choices_l1": [
+        "viac",
+        "ako",
+        "ťažký, ťažká"
+      ],
+      "choices_l2": [
+        "plus",
+        "que",
+        "lourd, lourde"
+      ]
+    },
+    {
+      "id": "qcm5-aussi-que",
+      "type": "qcm",
+      "l1": "rovnako… ako",
+      "l2": "aussi… que",
+      "choices_l1": [
+        "viac",
+        "menej",
+        "ako"
+      ],
+      "choices_l2": [
+        "plus",
+        "moins",
+        "que"
+      ]
+    },
+    {
+      "id": "qcm6-leger-legere",
+      "type": "qcm",
+      "l1": "ľahký, ľahká",
+      "l2": "léger, légère",
+      "choices_l1": [
+        "ťažký, ťažká",
+        "dlhý, dlhá",
+        "vysoký, vysoká"
+      ],
+      "choices_l2": [
+        "lourd, lourde",
+        "long, longue",
+        "haut, haute"
+      ]
+    },
+    {
+      "id": "listen7-le-bouquetin-est-plus-grand-",
+      "type": "listen",
+      "l1": "Kozorožec je väčší ako svišť.",
+      "l2": "Le bouquetin est plus grand que la marmotte.",
+      "choices_l1": [
+        "Svišť je väčší ako kozorožec.",
+        "Kozorožec je menší ako svišť.",
+        "Kamzík je väčší ako svišť."
+      ]
+    },
+    {
+      "id": "listen8-la-vache-est-plus-grosse-que",
+      "type": "listen",
+      "l1": "Krava je väčšia ako koza.",
+      "l2": "La vache est plus grosse que la chèvre.",
+      "choices_l1": [
+        "Koza je väčšia ako krava.",
+        "Krava je menšia ako koza.",
+        "Krava je väčšia ako ovca."
+      ]
+    },
+    {
+      "id": "listen9-le-lievre-est-plus-rapide-qu",
+      "type": "listen",
+      "l1": "Zajac je rýchlejší ako korytnačka.",
+      "l2": "Le lièvre est plus rapide que la tortue.",
+      "choices_l1": [
+        "Korytnačka je rýchlejšia ako zajac.",
+        "Zajac je pomalší ako korytnačka.",
+        "Zajac je rýchlejší ako ovca."
+      ]
+    },
+    {
+      "id": "listen10-la-montagne-est-plus-haute-q",
+      "type": "listen",
+      "l1": "Hora je vyššia ako dom.",
+      "l2": "La montagne est plus haute que la maison.",
+      "choices_l1": [
+        "Dom je vyšší ako hora.",
+        "Hora je dlhšia ako dom.",
+        "Strom je vyšší ako dom."
+      ]
+    },
+    {
+      "id": "listen11-la-route-est-plus-longue-que",
+      "type": "listen",
+      "l1": "Cesta je dlhšia ako ulica.",
+      "l2": "La route est plus longue que la rue.",
+      "choices_l1": [
+        "Ulica je dlhšia ako cesta.",
+        "Cesta je väčšia ako ulica.",
+        "Cesta je dlhšia ako dedina."
+      ]
+    },
+    {
+      "id": "listen12-la-marmotte-est-moins-grande",
+      "type": "listen",
+      "l1": "Svišť je menší ako vlk.",
+      "l2": "La marmotte est moins grande que le loup.",
+      "choices_l1": [
+        "Vlk je menší ako svišť.",
+        "Svišť je väčší ako vlk.",
+        "Svišť je menší ako orol."
+      ]
+    },
+    {
+      "id": "blank13-la-vache-est-plus-grosse-que",
+      "type": "fill-blank",
+      "l1": "Krava je väčšia ako koza.",
+      "l2": "La vache est plus grosse que la chèvre.",
+      "missing_l1": "väčšia",
+      "missing_l2": "grosse",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "väčší",
+        "menšia",
+        "rýchlejšia"
+      ],
+      "choices_l2": [
+        "gros",
+        "grand",
+        "lourde"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-la-montagne-est-plus-haute-q",
+      "type": "fill-blank",
+      "l1": "Hora je vyššia ako dom.",
+      "l2": "La montagne est plus haute que la maison.",
+      "missing_l1": "vyššia",
+      "missing_l2": "haute",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "vyšší",
+        "dlhšia",
+        "väčšia"
+      ],
+      "choices_l2": [
+        "haut",
+        "longue",
+        "grosse"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-la-route-est-plus-longue-que",
+      "type": "fill-blank",
+      "l1": "Cesta je dlhšia ako ulica.",
+      "l2": "La route est plus longue que la rue.",
+      "missing_l1": "dlhšia",
+      "missing_l2": "longue",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "dlhší",
+        "vyššia",
+        "menšia"
+      ],
+      "choices_l2": [
+        "long",
+        "haute",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-le-lievre-est-plus-rapide-qu",
+      "type": "fill-blank",
+      "l1": "Zajac je rýchlejší ako korytnačka.",
+      "l2": "Le lièvre est plus rapide que la tortue.",
+      "missing_l1": "ako",
+      "missing_l2": "que",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "viac",
+        "menej",
+        "a"
+      ],
+      "choices_l2": [
+        "moins",
+        "aussi",
+        "et"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-la-marmotte-est-moins-grande",
+      "type": "fill-blank",
+      "l1": "Svišť je menší ako vlk.",
+      "l2": "La marmotte est moins grande que le loup.",
+      "missing_l1": "vlk",
+      "missing_l2": "grande",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "orol",
+        "zajac",
+        "kamzík"
+      ],
+      "choices_l2": [
+        "grand",
+        "grosse",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-le-bouquetin-est-plus-grand-",
+      "type": "order",
+      "l1": "Kozorožec je väčší ako svišť.",
+      "l2": "Le bouquetin est plus grand que la marmotte.",
+      "tokens_l1": [
+        "Kozorožec",
+        "je",
+        "väčší",
+        "ako",
+        "svišť."
+      ],
+      "tokens_l2": [
+        "Le",
+        "bouquetin",
+        "est",
+        "plus",
+        "grand",
+        "que",
+        "la",
+        "marmotte."
+      ]
+    },
+    {
+      "id": "order19-le-lievre-est-plus-rapide-qu",
+      "type": "order",
+      "l1": "Zajac je rýchlejší ako korytnačka.",
+      "l2": "Le lièvre est plus rapide que la tortue.",
+      "tokens_l1": [
+        "Zajac",
+        "je",
+        "rýchlejší",
+        "ako",
+        "korytnačka."
+      ],
+      "tokens_l2": [
+        "Le",
+        "lièvre",
+        "est",
+        "plus",
+        "rapide",
+        "que",
+        "la",
+        "tortue."
+      ]
+    },
+    {
+      "id": "order20-la-tortue-est-tres-lente",
+      "type": "order",
+      "l1": "Korytnačka je veľmi pomalá.",
+      "l2": "La tortue est très lente.",
+      "tokens_l1": [
+        "Korytnačka",
+        "je",
+        "veľmi",
+        "pomalá."
+      ],
+      "tokens_l2": [
+        "La",
+        "tortue",
+        "est",
+        "très",
+        "lente."
+      ]
+    },
+    {
+      "id": "order21-la-marmotte-est-moins-grande",
+      "type": "order",
+      "l1": "Svišť je menší ako vlk.",
+      "l2": "La marmotte est moins grande que le loup.",
+      "tokens_l1": [
+        "Svišť",
+        "je",
+        "menší",
+        "ako",
+        "vlk."
+      ],
+      "tokens_l2": [
+        "La",
+        "marmotte",
+        "est",
+        "moins",
+        "grande",
+        "que",
+        "le",
+        "loup."
+      ]
+    },
+    {
+      "id": "order22-l-oiseau-est-leger",
+      "type": "order",
+      "l1": "Vták je ľahký.",
+      "l2": "L'oiseau est léger.",
+      "tokens_l1": [
+        "Vták",
+        "je",
+        "ľahký."
+      ],
+      "tokens_l2": [
+        "L'oiseau",
+        "est",
+        "léger."
+      ]
+    },
+    {
+      "id": "order23-le-cheval-est-lourd",
+      "type": "order",
+      "l1": "Kôň je ťažký.",
+      "l2": "Le cheval est lourd.",
+      "tokens_l1": [
+        "Kôň",
+        "je",
+        "ťažký."
+      ],
+      "tokens_l2": [
+        "Le",
+        "cheval",
+        "est",
+        "lourd."
+      ]
+    }
+  ]
+}
