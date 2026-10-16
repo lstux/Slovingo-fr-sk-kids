@@ -1,0 +1,317 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-pain",
+      "type": "match",
+      "l1": [
+        "chlieb",
+        "syr",
+        "džem",
+        "džús"
+      ],
+      "l2": [
+        "le pain",
+        "le fromage",
+        "la confiture",
+        "le jus"
+      ]
+    },
+    {
+      "id": "match2-miam",
+      "type": "match",
+      "l1": [
+        "mňam!",
+        "ochutnaj!",
+        "s",
+        "je to hotové"
+      ],
+      "l2": [
+        "miam !",
+        "goûte !",
+        "avec",
+        "c'est prêt"
+      ]
+    },
+    {
+      "id": "qcm3-j-ai-soif",
+      "type": "qcm",
+      "l1": "mám smäd",
+      "l2": "j'ai soif",
+      "choices_l1": [
+        "mám hlad",
+        "chcem",
+        "ešte"
+      ],
+      "choices_l2": [
+        "j'ai faim",
+        "je veux",
+        "encore"
+      ]
+    },
+    {
+      "id": "qcm4-froid-froide",
+      "type": "qcm",
+      "l1": "studený, studená",
+      "l2": "froid, froide",
+      "choices_l1": [
+        "horúci, horúca",
+        "sladký, sladká",
+        "slaný, slaná"
+      ],
+      "choices_l2": [
+        "chaud, chaude",
+        "sucré, sucrée",
+        "salé, salée"
+      ]
+    },
+    {
+      "id": "qcm5-frais-fraiche",
+      "type": "qcm",
+      "l1": "čerstvý, čerstvá",
+      "l2": "frais, fraîche",
+      "choices_l1": [
+        "výborný, výborná",
+        "studený, studená",
+        "horúci, horúca"
+      ],
+      "choices_l2": [
+        "délicieux, délicieuse",
+        "froid, froide",
+        "chaud, chaude"
+      ]
+    },
+    {
+      "id": "listen6-j-ai-faim-je-veux-du-pain-et",
+      "type": "listen",
+      "l1": "Mám hlad! Chcem chlieb a syr.",
+      "l2": "J'ai faim ! Je veux du pain et du fromage.",
+      "choices_l1": [
+        "Mám hlad! Chcem chlieb a džem.",
+        "Mám smäd! Chcem chlieb a syr.",
+        "Mám hlad! Chcem mlieko a syr."
+      ]
+    },
+    {
+      "id": "listen7-non-il-est-froid",
+      "type": "listen",
+      "l1": "Nie, je studené.",
+      "l2": "Non, il est froid.",
+      "choices_l1": [
+        "Nie, je horúce.",
+        "Áno, je studené.",
+        "Nie, je slané."
+      ]
+    },
+    {
+      "id": "listen8-oui-elle-est-un-peu-salee",
+      "type": "listen",
+      "l1": "Áno! Je trochu slaná.",
+      "l2": "Oui ! Elle est un peu salée.",
+      "choices_l1": [
+        "Áno! Je veľmi slaná.",
+        "Áno! Je trochu sladká.",
+        "Nie! Je trochu slaná."
+      ]
+    },
+    {
+      "id": "listen9-non-merci-lea-je-n-ai-pas-fa",
+      "type": "listen",
+      "l1": "Nie, ďakujem, Léa. Nemám hlad.",
+      "l2": "Non, merci, Léa. Je n'ai pas faim.",
+      "choices_l1": [
+        "Nie, ďakujem, Léa. Mám hlad.",
+        "Nie, ďakujem, Hugo. Nemám hlad.",
+        "Áno, prosím, Léa. Nemám hlad."
+      ]
+    },
+    {
+      "id": "listen10-voila-du-jus-avec-ta-pomme",
+      "type": "listen",
+      "l1": "Tu je džús k tvojmu jablku.",
+      "l2": "Voilà du jus avec ta pomme.",
+      "choices_l1": [
+        "Tu je džús k tvojmu banánu.",
+        "Tu je voda k tvojmu jablku.",
+        "Tu je džem k tvojmu chlebu."
+      ]
+    },
+    {
+      "id": "blank11-j-ai-soif-tu-as-de-l-eau",
+      "type": "fill-blank",
+      "l1": "Mám smäd. Máš vodu?",
+      "l2": "J'ai soif. Tu as de l'eau ?",
+      "missing_l1": "vodu",
+      "missing_l2": "l'eau",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "mlieko",
+        "džús",
+        "polievku"
+      ],
+      "choices_l2": [
+        "lait",
+        "jus",
+        "soupe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-je-ne-veux-pas-de-soupe-je-p",
+      "type": "fill-blank",
+      "l1": "Nechcem polievku. Dám si jablko.",
+      "l2": "Je ne veux pas de soupe. Je prends une pomme.",
+      "missing_l1": "jablko",
+      "missing_l2": "pomme",
+      "blank_index_l1": 4,
+      "blank_index_l2": 9,
+      "choices_l1": [
+        "banán",
+        "palacinku",
+        "džem"
+      ],
+      "choices_l2": [
+        "banane",
+        "crêpe",
+        "confiture"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-oui-s-il-te-plait-j-aime-les",
+      "type": "fill-blank",
+      "l1": "Áno, prosím ťa! Jablká sa mi páčia!",
+      "l2": "Oui, s'il te plaît ! J'aime les pommes !",
+      "missing_l1": "Jablká",
+      "missing_l2": "pommes",
+      "blank_index_l1": 3,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "Banány",
+        "Palacinky",
+        "Ovocie"
+      ],
+      "choices_l2": [
+        "bananes",
+        "crêpes",
+        "fruits"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-mamie-tu-veux-encore-du-gate",
+      "type": "fill-blank",
+      "l1": "Mamie, chceš ešte koláč?",
+      "l2": "Mamie, tu veux encore du gâteau ?",
+      "missing_l1": "ešte",
+      "missing_l2": "encore",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "veľa",
+        "trochu",
+        "hlad"
+      ],
+      "choices_l2": [
+        "beaucoup",
+        "peu",
+        "faim"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-j-ai-faim-je-veux-du-pain-et",
+      "type": "order",
+      "l1": "Mám hlad! Chcem chlieb a syr.",
+      "l2": "J'ai faim ! Je veux du pain et du fromage.",
+      "tokens_l1": [
+        "Mám",
+        "hlad!",
+        "Chcem",
+        "chlieb",
+        "a",
+        "syr."
+      ],
+      "tokens_l2": [
+        "J'ai",
+        "faim",
+        "!",
+        "Je",
+        "veux",
+        "du",
+        "pain",
+        "et",
+        "du",
+        "fromage."
+      ]
+    },
+    {
+      "id": "order16-je-ne-veux-pas-de-soupe-je-p",
+      "type": "order",
+      "l1": "Nechcem polievku. Dám si jablko.",
+      "l2": "Je ne veux pas de soupe. Je prends une pomme.",
+      "tokens_l1": [
+        "Nechcem",
+        "polievku.",
+        "Dám",
+        "si",
+        "jablko."
+      ],
+      "tokens_l2": [
+        "Je",
+        "ne",
+        "veux",
+        "pas",
+        "de",
+        "soupe.",
+        "Je",
+        "prends",
+        "une",
+        "pomme."
+      ]
+    },
+    {
+      "id": "order17-hugo-tu-prends-une-pomme",
+      "type": "order",
+      "l1": "Hugo, dáš si jablko?",
+      "l2": "Hugo, tu prends une pomme ?",
+      "tokens_l1": [
+        "Hugo,",
+        "dáš",
+        "si",
+        "jablko?"
+      ],
+      "tokens_l2": [
+        "Hugo,",
+        "tu",
+        "prends",
+        "une",
+        "pomme",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-mamie-tu-veux-encore-du-gate",
+      "type": "order",
+      "l1": "Mamie, chceš ešte koláč?",
+      "l2": "Mamie, tu veux encore du gâteau ?",
+      "tokens_l1": [
+        "Mamie,",
+        "chceš",
+        "ešte",
+        "koláč?"
+      ],
+      "tokens_l2": [
+        "Mamie,",
+        "tu",
+        "veux",
+        "encore",
+        "du",
+        "gâteau",
+        "?"
+      ]
+    }
+  ]
+}

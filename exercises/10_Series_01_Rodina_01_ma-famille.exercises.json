@@ -1,0 +1,317 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-maman",
+      "type": "match",
+      "l1": [
+        "mama",
+        "tato",
+        "brat",
+        "sestra"
+      ],
+      "l2": [
+        "maman",
+        "papa",
+        "le frère",
+        "la sœur"
+      ]
+    },
+    {
+      "id": "match2-la-grand-mere",
+      "type": "match",
+      "l1": [
+        "babka",
+        "rodina",
+        "môj brat",
+        "moja sestra"
+      ],
+      "l2": [
+        "la grand-mère",
+        "la famille",
+        "mon frère",
+        "ma sœur"
+      ]
+    },
+    {
+      "id": "qcm3-la-famille",
+      "type": "qcm",
+      "l1": "rodina",
+      "l2": "la famille",
+      "choices_l1": [
+        "brat",
+        "sestra",
+        "babka"
+      ],
+      "choices_l2": [
+        "le frère",
+        "la sœur",
+        "la grand-mère"
+      ]
+    },
+    {
+      "id": "qcm4-la-grand-mere",
+      "type": "qcm",
+      "l1": "babka",
+      "l2": "la grand-mère",
+      "choices_l1": [
+        "sestra",
+        "mama",
+        "rodina"
+      ],
+      "choices_l2": [
+        "la sœur",
+        "maman",
+        "la famille"
+      ]
+    },
+    {
+      "id": "qcm5-ma-maman",
+      "type": "qcm",
+      "l1": "moja mama",
+      "l2": "ma maman",
+      "choices_l1": [
+        "môj tato",
+        "moja sestra",
+        "moja babka"
+      ],
+      "choices_l2": [
+        "mon papa",
+        "ma sœur",
+        "ma grand-mère"
+      ]
+    },
+    {
+      "id": "qcm6-le-grand-pere",
+      "type": "qcm",
+      "l1": "dedko",
+      "l2": "le grand-père",
+      "choices_l1": [
+        "babka",
+        "tato",
+        "brat"
+      ],
+      "choices_l2": [
+        "la grand-mère",
+        "papa",
+        "le frère"
+      ]
+    },
+    {
+      "id": "listen7-c-est-mon-papa",
+      "type": "listen",
+      "l1": "To je môj tato.",
+      "l2": "C'est mon papa.",
+      "choices_l1": [
+        "To je moja mama.",
+        "To je môj brat.",
+        "To je môj dedko."
+      ]
+    },
+    {
+      "id": "listen8-c-est-ma-sur",
+      "type": "listen",
+      "l1": "To je moja sestra.",
+      "l2": "C'est ma sœur.",
+      "choices_l1": [
+        "To je môj brat.",
+        "To je moja babka.",
+        "To je moja mama."
+      ]
+    },
+    {
+      "id": "listen9-voila-ma-famille",
+      "type": "listen",
+      "l1": "Tu je moja rodina!",
+      "l2": "Voilà ma famille !",
+      "choices_l1": [
+        "Tu je môj brat!",
+        "To je moja rodina.",
+        "Tu je moja mama!"
+      ]
+    },
+    {
+      "id": "listen10-voila-mon-copain-et-ma-copin",
+      "type": "listen",
+      "l1": "Tu je môj kamarát a moja kamarátka.",
+      "l2": "Voilà mon copain et ma copine.",
+      "choices_l1": [
+        "Tu je môj brat a moja sestra.",
+        "Tu je môj dedko a moja babka.",
+        "Tu je moja kamarátka a môj kamarát."
+      ]
+    },
+    {
+      "id": "blank11-c-est-mon-frere",
+      "type": "fill-blank",
+      "l1": "To je môj brat.",
+      "l2": "C'est mon frère.",
+      "missing_l1": "brat",
+      "missing_l2": "frère",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "tato",
+        "dedko",
+        "kamarát"
+      ],
+      "choices_l2": [
+        "papa",
+        "grand-père",
+        "copain"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-c-est-ma-sur",
+      "type": "fill-blank",
+      "l1": "To je moja sestra.",
+      "l2": "C'est ma sœur.",
+      "missing_l1": "sestra",
+      "missing_l2": "sœur",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mama",
+        "babka",
+        "kamarátka"
+      ],
+      "choices_l2": [
+        "maman",
+        "grand-mère",
+        "copine"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-c-est-ma-grand-mere",
+      "type": "fill-blank",
+      "l1": "To je moja babka.",
+      "l2": "C'est ma grand-mère.",
+      "missing_l1": "babka",
+      "missing_l2": "grand-mère",
+      "blank_index_l1": 3,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "sestra",
+        "mama",
+        "rodina"
+      ],
+      "choices_l2": [
+        "sœur",
+        "maman",
+        "famille"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-c-est-mon-grand-pere",
+      "type": "fill-blank",
+      "l1": "To je môj dedko.",
+      "l2": "C'est mon grand-père.",
+      "missing_l1": "môj",
+      "missing_l2": "mon",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "moja",
+        "moji",
+        "tvoj"
+      ],
+      "choices_l2": [
+        "ma",
+        "mes",
+        "ton"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-voila-ma-maman-voila-mon-pap",
+      "type": "order",
+      "l1": "Tu je moja mama. Tu je môj tato.",
+      "l2": "Voilà ma maman. Voilà mon papa.",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "moja",
+        "mama.",
+        "Tu",
+        "je",
+        "môj",
+        "tato."
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "ma",
+        "maman.",
+        "Voilà",
+        "mon",
+        "papa."
+      ]
+    },
+    {
+      "id": "order16-c-est-ma-maman-et-mon-papa",
+      "type": "order",
+      "l1": "To je moja mama a môj tato.",
+      "l2": "C'est ma maman et mon papa.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "moja",
+        "mama",
+        "a",
+        "môj",
+        "tato."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "ma",
+        "maman",
+        "et",
+        "mon",
+        "papa."
+      ]
+    },
+    {
+      "id": "order17-voila-mon-copain-et-ma-copin",
+      "type": "order",
+      "l1": "Tu je môj kamarát a moja kamarátka.",
+      "l2": "Voilà mon copain et ma copine.",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "môj",
+        "kamarát",
+        "a",
+        "moja",
+        "kamarátka."
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "mon",
+        "copain",
+        "et",
+        "ma",
+        "copine."
+      ]
+    },
+    {
+      "id": "order18-c-est-mon-grand-pere",
+      "type": "order",
+      "l1": "To je môj dedko.",
+      "l2": "C'est mon grand-père.",
+      "tokens_l1": [
+        "To",
+        "je",
+        "môj",
+        "dedko."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "mon",
+        "grand-père."
+      ]
+    }
+  ]
+}

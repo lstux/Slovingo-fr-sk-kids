@@ -1,0 +1,328 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-chaud-chaude",
+      "type": "match",
+      "l1": [
+        "horúci, horúca",
+        "studený, studená",
+        "sladký, sladká",
+        "slaný, slaná"
+      ],
+      "l2": [
+        "chaud, chaude",
+        "froid, froide",
+        "sucré, sucrée",
+        "salé, salée"
+      ]
+    },
+    {
+      "id": "match2-comment-c-est",
+      "type": "match",
+      "l1": [
+        "aké je to?",
+        "je to dobré",
+        "sú",
+        "ale"
+      ],
+      "l2": [
+        "comment c'est ?",
+        "c'est bon",
+        "sont",
+        "mais"
+      ]
+    },
+    {
+      "id": "qcm3-chaud-chaude",
+      "type": "qcm",
+      "l1": "horúci, horúca",
+      "l2": "chaud, chaude",
+      "choices_l1": [
+        "studený, studená",
+        "sladký, sladká",
+        "slaný, slaná"
+      ],
+      "choices_l2": [
+        "froid, froide",
+        "sucré, sucrée",
+        "salé, salée"
+      ]
+    },
+    {
+      "id": "qcm4-delicieux-delicieuse",
+      "type": "qcm",
+      "l1": "výborný, výborná",
+      "l2": "délicieux, délicieuse",
+      "choices_l1": [
+        "čerstvý, čerstvá",
+        "sladký, sladká",
+        "slaný, slaná"
+      ],
+      "choices_l2": [
+        "frais, fraîche",
+        "sucré, sucrée",
+        "salé, salée"
+      ]
+    },
+    {
+      "id": "qcm5-frais-fraiche",
+      "type": "qcm",
+      "l1": "čerstvý, čerstvá",
+      "l2": "frais, fraîche",
+      "choices_l1": [
+        "výborný, výborná",
+        "studený, studená",
+        "horúci, horúca"
+      ],
+      "choices_l2": [
+        "délicieux, délicieuse",
+        "froid, froide",
+        "chaud, chaude"
+      ]
+    },
+    {
+      "id": "qcm6-comment-c-est",
+      "type": "qcm",
+      "l1": "aké je to?",
+      "l2": "comment c'est ?",
+      "choices_l1": [
+        "je to dobré",
+        "ale",
+        "sú"
+      ],
+      "choices_l2": [
+        "c'est bon",
+        "mais",
+        "sont"
+      ]
+    },
+    {
+      "id": "listen7-la-soupe-est-chaude",
+      "type": "listen",
+      "l1": "Polievka je horúca.",
+      "l2": "La soupe est chaude.",
+      "choices_l1": [
+        "Polievka je studená.",
+        "Mlieko je horúce.",
+        "Syr je horúci."
+      ]
+    },
+    {
+      "id": "listen8-le-lait-est-froid",
+      "type": "listen",
+      "l1": "Mlieko je studené.",
+      "l2": "Le lait est froid.",
+      "choices_l1": [
+        "Mlieko je horúce.",
+        "Polievka je studená.",
+        "Mlieko je sladké."
+      ]
+    },
+    {
+      "id": "listen9-le-gateau-est-sucre",
+      "type": "listen",
+      "l1": "Koláč je sladký.",
+      "l2": "Le gâteau est sucré.",
+      "choices_l1": [
+        "Koláč je slaný.",
+        "Syr je sladký.",
+        "Koláč je studený."
+      ]
+    },
+    {
+      "id": "listen10-les-fruits-sont-sucres",
+      "type": "listen",
+      "l1": "Ovocie je sladké.",
+      "l2": "Les fruits sont sucrés.",
+      "choices_l1": [
+        "Ovocie je slané.",
+        "Jablko je sladké.",
+        "Ovocie je studené."
+      ]
+    },
+    {
+      "id": "listen11-la-pomme-est-delicieuse",
+      "type": "listen",
+      "l1": "Jablko je výborné.",
+      "l2": "La pomme est délicieuse.",
+      "choices_l1": [
+        "Jablko je čerstvé.",
+        "Chlieb je výborný.",
+        "Jablko je horúce."
+      ]
+    },
+    {
+      "id": "blank12-la-soupe-est-chaude",
+      "type": "fill-blank",
+      "l1": "Polievka je horúca.",
+      "l2": "La soupe est chaude.",
+      "missing_l1": "horúca",
+      "missing_l2": "chaude",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "horúci",
+        "studená",
+        "sladká"
+      ],
+      "choices_l2": [
+        "chaud",
+        "froide",
+        "sucrée"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-le-lait-est-froid",
+      "type": "fill-blank",
+      "l1": "Mlieko je studené.",
+      "l2": "Le lait est froid.",
+      "missing_l1": "studené",
+      "missing_l2": "froid",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "horúce",
+        "slané",
+        "sladké"
+      ],
+      "choices_l2": [
+        "chaud",
+        "salé",
+        "sucré"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-le-fromage-est-sale",
+      "type": "fill-blank",
+      "l1": "Syr je slaný.",
+      "l2": "Le fromage est salé.",
+      "missing_l1": "slaný",
+      "missing_l2": "salé",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sladký",
+        "studený",
+        "horúci"
+      ],
+      "choices_l2": [
+        "sucré",
+        "froid",
+        "chaud"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-les-fruits-sont-sucres",
+      "type": "fill-blank",
+      "l1": "Ovocie je sladké.",
+      "l2": "Les fruits sont sucrés.",
+      "missing_l1": "sladké",
+      "missing_l2": "sucrés",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "slané",
+        "studené",
+        "horúce"
+      ],
+      "choices_l2": [
+        "sucré",
+        "sucrée",
+        "sucrées"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-la-soupe-est-chaude",
+      "type": "order",
+      "l1": "Polievka je horúca.",
+      "l2": "La soupe est chaude.",
+      "tokens_l1": [
+        "Polievka",
+        "je",
+        "horúca."
+      ],
+      "tokens_l2": [
+        "La",
+        "soupe",
+        "est",
+        "chaude."
+      ]
+    },
+    {
+      "id": "order17-le-pain-est-frais-et-bon",
+      "type": "order",
+      "l1": "Chlieb je čerstvý a dobrý.",
+      "l2": "Le pain est frais et bon.",
+      "tokens_l1": [
+        "Chlieb",
+        "je",
+        "čerstvý",
+        "a",
+        "dobrý."
+      ],
+      "tokens_l2": [
+        "Le",
+        "pain",
+        "est",
+        "frais",
+        "et",
+        "bon."
+      ]
+    },
+    {
+      "id": "order18-la-soupe-est-bonne-mais-elle",
+      "type": "order",
+      "l1": "Polievka je dobrá, ale je veľmi horúca!",
+      "l2": "La soupe est bonne, mais elle est très chaude !",
+      "tokens_l1": [
+        "Polievka",
+        "je",
+        "dobrá,",
+        "ale",
+        "je",
+        "veľmi",
+        "horúca!"
+      ],
+      "tokens_l2": [
+        "La",
+        "soupe",
+        "est",
+        "bonne,",
+        "mais",
+        "elle",
+        "est",
+        "très",
+        "chaude",
+        "!"
+      ]
+    },
+    {
+      "id": "order19-j-ai-faim-je-veux-de-la-soup",
+      "type": "order",
+      "l1": "Mám hlad! Chcem polievku.",
+      "l2": "J'ai faim ! Je veux de la soupe.",
+      "tokens_l1": [
+        "Mám",
+        "hlad!",
+        "Chcem",
+        "polievku."
+      ],
+      "tokens_l2": [
+        "J'ai",
+        "faim",
+        "!",
+        "Je",
+        "veux",
+        "de",
+        "la",
+        "soupe."
+      ]
+    }
+  ]
+}

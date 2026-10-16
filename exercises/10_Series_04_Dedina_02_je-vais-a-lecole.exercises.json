@@ -1,0 +1,358 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-aller",
+      "type": "match",
+      "l1": [
+        "ísť",
+        "trh",
+        "plaváreň",
+        "knižnica"
+      ],
+      "l2": [
+        "aller",
+        "le marché",
+        "la piscine",
+        "la bibliothèque"
+      ]
+    },
+    {
+      "id": "match2-le-stade",
+      "type": "match",
+      "l1": [
+        "štadión",
+        "dnes",
+        "kino",
+        "tu"
+      ],
+      "l2": [
+        "le stade",
+        "aujourd'hui",
+        "le cinéma",
+        "ici"
+      ]
+    },
+    {
+      "id": "qcm3-aller",
+      "type": "qcm",
+      "l1": "ísť",
+      "l2": "aller",
+      "choices_l1": [
+        "dnes",
+        "tu",
+        "tam"
+      ],
+      "choices_l2": [
+        "aujourd'hui",
+        "ici",
+        "là"
+      ]
+    },
+    {
+      "id": "qcm4-aujourd-hui",
+      "type": "qcm",
+      "l1": "dnes",
+      "l2": "aujourd'hui",
+      "choices_l1": [
+        "tu",
+        "tam",
+        "ísť"
+      ],
+      "choices_l2": [
+        "ici",
+        "là",
+        "aller"
+      ]
+    },
+    {
+      "id": "qcm5-la-piscine",
+      "type": "qcm",
+      "l1": "plaváreň",
+      "l2": "la piscine",
+      "choices_l1": [
+        "knižnica",
+        "trh",
+        "štadión"
+      ],
+      "choices_l2": [
+        "la bibliothèque",
+        "le marché",
+        "le stade"
+      ]
+    },
+    {
+      "id": "qcm6-la-bibliotheque",
+      "type": "qcm",
+      "l1": "knižnica",
+      "l2": "la bibliothèque",
+      "choices_l1": [
+        "plaváreň",
+        "trh",
+        "kino"
+      ],
+      "choices_l2": [
+        "la piscine",
+        "le marché",
+        "le cinéma"
+      ]
+    },
+    {
+      "id": "listen7-je-vais-a-l-ecole",
+      "type": "listen",
+      "l1": "Idem do školy.",
+      "l2": "Je vais à l'école.",
+      "choices_l1": [
+        "Ideš do školy.",
+        "Idem na trh.",
+        "Ide do školy."
+      ]
+    },
+    {
+      "id": "listen8-tu-vas-au-marche",
+      "type": "listen",
+      "l1": "Ideš na trh?",
+      "l2": "Tu vas au marché ?",
+      "choices_l1": [
+        "Idem na trh?",
+        "Ideš do kina?",
+        "Ide na trh?"
+      ]
+    },
+    {
+      "id": "listen9-aujourd-hui-andrea-va-a-la-p",
+      "type": "listen",
+      "l1": "Dnes ide Andrea na plaváreň.",
+      "l2": "Aujourd'hui, Andrea va à la piscine.",
+      "choices_l1": [
+        "Dnes ide Léa na plaváreň.",
+        "Dnes ide Andrea na štadión.",
+        "Dnes ide Andrea do knižnice."
+      ]
+    },
+    {
+      "id": "listen10-hugo-va-a-la-bibliotheque",
+      "type": "listen",
+      "l1": "Hugo ide do knižnice.",
+      "l2": "Hugo va à la bibliothèque.",
+      "choices_l1": [
+        "Hugo ide na plaváreň.",
+        "Léa ide do knižnice.",
+        "Hugo ide do školy."
+      ]
+    },
+    {
+      "id": "listen11-je-ne-vais-pas-a-la-piscine",
+      "type": "listen",
+      "l1": "Nejdem na plaváreň.",
+      "l2": "Je ne vais pas à la piscine.",
+      "choices_l1": [
+        "Idem na plaváreň.",
+        "Nejdem na trh.",
+        "Nejdeš na plaváreň."
+      ]
+    },
+    {
+      "id": "blank12-tu-vas-au-marche",
+      "type": "fill-blank",
+      "l1": "Ideš na trh?",
+      "l2": "Tu vas au marché ?",
+      "missing_l1": "trh",
+      "missing_l2": "marché",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "plaváreň",
+        "štadión",
+        "knižnicu"
+      ],
+      "choices_l2": [
+        "piscine",
+        "stade",
+        "bibliothèque"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-lea-va-au-stade",
+      "type": "fill-blank",
+      "l1": "Léa ide na štadión.",
+      "l2": "Léa va au stade.",
+      "missing_l1": "na",
+      "missing_l2": "au",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "do",
+        "v",
+        "pri"
+      ],
+      "choices_l2": [
+        "à la",
+        "à l'",
+        "aux"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-hugo-va-a-la-bibliotheque",
+      "type": "fill-blank",
+      "l1": "Hugo ide do knižnice.",
+      "l2": "Hugo va à la bibliothèque.",
+      "missing_l1": "knižnice",
+      "missing_l2": "bibliothèque",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "školy",
+        "kina",
+        "trhu"
+      ],
+      "choices_l2": [
+        "école",
+        "cinéma",
+        "marché"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-aujourd-hui-je-vais-au-cinem",
+      "type": "fill-blank",
+      "l1": "Dnes idem do kina.",
+      "l2": "Aujourd'hui, je vais au cinéma.",
+      "missing_l1": "kina",
+      "missing_l2": "cinéma",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "školy",
+        "trhu",
+        "knižnice"
+      ],
+      "choices_l2": [
+        "école",
+        "marché",
+        "bibliothèque"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-tu-vas-au-marche",
+      "type": "fill-blank",
+      "l1": "Ideš na trh?",
+      "l2": "Tu vas au marché ?",
+      "missing_l1": "Ideš",
+      "missing_l2": "vas",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Idem",
+        "Ide",
+        "Ísť"
+      ],
+      "choices_l2": [
+        "vais",
+        "va",
+        "aller"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-je-vais-a-l-ecole",
+      "type": "order",
+      "l1": "Idem do školy.",
+      "l2": "Je vais à l'école.",
+      "tokens_l1": [
+        "Idem",
+        "do",
+        "školy."
+      ],
+      "tokens_l2": [
+        "Je",
+        "vais",
+        "à",
+        "l'école."
+      ]
+    },
+    {
+      "id": "order18-aujourd-hui-andrea-va-a-la-p",
+      "type": "order",
+      "l1": "Dnes ide Andrea na plaváreň.",
+      "l2": "Aujourd'hui, Andrea va à la piscine.",
+      "tokens_l1": [
+        "Dnes",
+        "ide",
+        "Andrea",
+        "na",
+        "plaváreň."
+      ],
+      "tokens_l2": [
+        "Aujourd'hui,",
+        "Andrea",
+        "va",
+        "à",
+        "la",
+        "piscine."
+      ]
+    },
+    {
+      "id": "order19-hugo-va-a-la-bibliotheque",
+      "type": "order",
+      "l1": "Hugo ide do knižnice.",
+      "l2": "Hugo va à la bibliothèque.",
+      "tokens_l1": [
+        "Hugo",
+        "ide",
+        "do",
+        "knižnice."
+      ],
+      "tokens_l2": [
+        "Hugo",
+        "va",
+        "à",
+        "la",
+        "bibliothèque."
+      ]
+    },
+    {
+      "id": "order20-je-ne-vais-pas-a-la-piscine",
+      "type": "order",
+      "l1": "Nejdem na plaváreň.",
+      "l2": "Je ne vais pas à la piscine.",
+      "tokens_l1": [
+        "Nejdem",
+        "na",
+        "plaváreň."
+      ],
+      "tokens_l2": [
+        "Je",
+        "ne",
+        "vais",
+        "pas",
+        "à",
+        "la",
+        "piscine."
+      ]
+    },
+    {
+      "id": "order21-aujourd-hui-je-vais-au-cinem",
+      "type": "order",
+      "l1": "Dnes idem do kina.",
+      "l2": "Aujourd'hui, je vais au cinéma.",
+      "tokens_l1": [
+        "Dnes",
+        "idem",
+        "do",
+        "kina."
+      ],
+      "tokens_l2": [
+        "Aujourd'hui,",
+        "je",
+        "vais",
+        "au",
+        "cinéma."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-j-ai-faim",
+      "type": "match",
+      "l1": [
+        "mám hlad",
+        "mám smäd",
+        "chcem",
+        "ešte"
+      ],
+      "l2": [
+        "j'ai faim",
+        "j'ai soif",
+        "je veux",
+        "encore"
+      ]
+    },
+    {
+      "id": "match2-le-petit-dejeuner",
+      "type": "match",
+      "l1": [
+        "raňajky",
+        "obed",
+        "večera",
+        "veľa"
+      ],
+      "l2": [
+        "le petit-déjeuner",
+        "le déjeuner",
+        "le dîner",
+        "beaucoup"
+      ]
+    },
+    {
+      "id": "qcm3-j-ai-faim",
+      "type": "qcm",
+      "l1": "mám hlad",
+      "l2": "j'ai faim",
+      "choices_l1": [
+        "mám smäd",
+        "chcem",
+        "ešte"
+      ],
+      "choices_l2": [
+        "j'ai soif",
+        "je veux",
+        "encore"
+      ]
+    },
+    {
+      "id": "qcm4-le-dejeuner",
+      "type": "qcm",
+      "l1": "obed",
+      "l2": "le déjeuner",
+      "choices_l1": [
+        "raňajky",
+        "večera",
+        "chlieb"
+      ],
+      "choices_l2": [
+        "le petit-déjeuner",
+        "le dîner",
+        "le pain"
+      ]
+    },
+    {
+      "id": "qcm5-un-peu",
+      "type": "qcm",
+      "l1": "trochu",
+      "l2": "un peu",
+      "choices_l1": [
+        "veľa",
+        "ešte",
+        "chcem"
+      ],
+      "choices_l2": [
+        "beaucoup",
+        "encore",
+        "je veux"
+      ]
+    },
+    {
+      "id": "qcm6-beaucoup",
+      "type": "qcm",
+      "l1": "veľa",
+      "l2": "beaucoup",
+      "choices_l1": [
+        "trochu",
+        "ešte",
+        "chcem"
+      ],
+      "choices_l2": [
+        "un peu",
+        "encore",
+        "je veux"
+      ]
+    },
+    {
+      "id": "listen7-j-ai-faim",
+      "type": "listen",
+      "l1": "Mám hlad!",
+      "l2": "J'ai faim !",
+      "choices_l1": [
+        "Mám smäd!",
+        "Nemám hlad!",
+        "Máš hlad?"
+      ]
+    },
+    {
+      "id": "listen8-tu-veux-du-pain",
+      "type": "listen",
+      "l1": "Chceš chlieb?",
+      "l2": "Tu veux du pain ?",
+      "choices_l1": [
+        "Chcem chlieb?",
+        "Chceš syr?",
+        "Ješ chlieb?"
+      ]
+    },
+    {
+      "id": "listen9-je-ne-veux-pas-de-soupe",
+      "type": "listen",
+      "l1": "Nechcem polievku.",
+      "l2": "Je ne veux pas de soupe.",
+      "choices_l1": [
+        "Chcem polievku.",
+        "Nechcem syr.",
+        "Nechceš polievku."
+      ]
+    },
+    {
+      "id": "listen10-le-petit-dejeuner-est-dans-l",
+      "type": "listen",
+      "l1": "Raňajky sú v kuchyni.",
+      "l2": "Le petit-déjeuner est dans la cuisine.",
+      "choices_l1": [
+        "Večera je v kuchyni.",
+        "Raňajky sú v záhrade.",
+        "Raňajky sú na stole."
+      ]
+    },
+    {
+      "id": "listen11-tu-veux-encore-du-lait-oui-u",
+      "type": "listen",
+      "l1": "Chceš ešte mlieko? Áno, trochu.",
+      "l2": "Tu veux encore du lait ? Oui, un peu.",
+      "choices_l1": [
+        "Chceš ešte mlieko? Áno, veľa.",
+        "Chceš ešte syr? Áno, trochu.",
+        "Chceš ešte chlieb? Áno, trochu."
+      ]
+    },
+    {
+      "id": "blank12-j-ai-soif",
+      "type": "fill-blank",
+      "l1": "Mám smäd!",
+      "l2": "J'ai soif !",
+      "missing_l1": "smäd",
+      "missing_l2": "soif",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "hlad",
+        "chlieb",
+        "mlieko"
+      ],
+      "choices_l2": [
+        "faim",
+        "pain",
+        "lait"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-tu-veux-du-pain",
+      "type": "fill-blank",
+      "l1": "Chceš chlieb?",
+      "l2": "Tu veux du pain ?",
+      "missing_l1": "Chceš",
+      "missing_l2": "veux",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Chcem",
+        "Ješ",
+        "Pijem"
+      ],
+      "choices_l2": [
+        "veut",
+        "manges",
+        "bois"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-le-petit-dejeuner-est-dans-l",
+      "type": "fill-blank",
+      "l1": "Raňajky sú v kuchyni.",
+      "l2": "Le petit-déjeuner est dans la cuisine.",
+      "missing_l1": "Raňajky",
+      "missing_l2": "petit-déjeuner",
+      "blank_index_l1": 0,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "Večera",
+        "Obed",
+        "Polievka"
+      ],
+      "choices_l2": [
+        "dîner",
+        "déjeuner",
+        "soupe"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-le-diner-est-sur-la-table",
+      "type": "fill-blank",
+      "l1": "Večera je na stole.",
+      "l2": "Le dîner est sur la table.",
+      "missing_l1": "stole",
+      "missing_l2": "table",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "kuchyni",
+        "izbe",
+        "skrini"
+      ],
+      "choices_l2": [
+        "cuisine",
+        "chambre",
+        "armoire"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-tu-veux-encore-du-lait-oui-u",
+      "type": "fill-blank",
+      "l1": "Chceš ešte mlieko? Áno, trochu.",
+      "l2": "Tu veux encore du lait ? Oui, un peu.",
+      "missing_l1": "ešte",
+      "missing_l2": "encore",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "veľa",
+        "smäd",
+        "hlad"
+      ],
+      "choices_l2": [
+        "beaucoup",
+        "soif",
+        "faim"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-j-ai-faim",
+      "type": "order",
+      "l1": "Mám hlad!",
+      "l2": "J'ai faim !",
+      "tokens_l1": [
+        "Mám",
+        "hlad!"
+      ],
+      "tokens_l2": [
+        "J'ai",
+        "faim",
+        "!"
+      ]
+    },
+    {
+      "id": "order18-tu-veux-du-pain",
+      "type": "order",
+      "l1": "Chceš chlieb?",
+      "l2": "Tu veux du pain ?",
+      "tokens_l1": [
+        "Chceš",
+        "chlieb?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "veux",
+        "du",
+        "pain",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-je-ne-veux-pas-de-soupe",
+      "type": "order",
+      "l1": "Nechcem polievku.",
+      "l2": "Je ne veux pas de soupe.",
+      "tokens_l1": [
+        "Nechcem",
+        "polievku."
+      ],
+      "tokens_l2": [
+        "Je",
+        "ne",
+        "veux",
+        "pas",
+        "de",
+        "soupe."
+      ]
+    },
+    {
+      "id": "order20-le-diner-est-sur-la-table",
+      "type": "order",
+      "l1": "Večera je na stole.",
+      "l2": "Le dîner est sur la table.",
+      "tokens_l1": [
+        "Večera",
+        "je",
+        "na",
+        "stole."
+      ],
+      "tokens_l2": [
+        "Le",
+        "dîner",
+        "est",
+        "sur",
+        "la",
+        "table."
+      ]
+    },
+    {
+      "id": "order21-je-n-ai-pas-soif-merci",
+      "type": "order",
+      "l1": "Nemám smäd, ďakujem.",
+      "l2": "Je n'ai pas soif, merci.",
+      "tokens_l1": [
+        "Nemám",
+        "smäd,",
+        "ďakujem."
+      ],
+      "tokens_l2": [
+        "Je",
+        "n'ai",
+        "pas",
+        "soif,",
+        "merci."
+      ]
+    }
+  ]
+}

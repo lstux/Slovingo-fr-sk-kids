@@ -1,0 +1,307 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-oui",
+      "type": "match",
+      "l1": [
+        "áno",
+        "nie",
+        "rodičia",
+        "nemám"
+      ],
+      "l2": [
+        "oui",
+        "non",
+        "les parents",
+        "je n'ai pas de"
+      ]
+    },
+    {
+      "id": "match2-tu-as-un-frere",
+      "type": "match",
+      "l1": [
+        "Máš brata?",
+        "Áno, mám brata.",
+        "Nie, nemám brata.",
+        "moji rodičia"
+      ],
+      "l2": [
+        "Tu as un frère ?",
+        "Oui, j'ai un frère.",
+        "Non, je n'ai pas de frère.",
+        "mes parents"
+      ]
+    },
+    {
+      "id": "qcm3-les-parents",
+      "type": "qcm",
+      "l1": "rodičia",
+      "l2": "les parents",
+      "choices_l1": [
+        "rodina",
+        "brat",
+        "sestra"
+      ],
+      "choices_l2": [
+        "la famille",
+        "le frère",
+        "la sœur"
+      ]
+    },
+    {
+      "id": "qcm4-je-n-ai-pas-de",
+      "type": "qcm",
+      "l1": "nemám",
+      "l2": "je n'ai pas de",
+      "choices_l1": [
+        "mám",
+        "máš",
+        "nie"
+      ],
+      "choices_l2": [
+        "j'ai",
+        "tu as",
+        "non"
+      ]
+    },
+    {
+      "id": "qcm5-oui",
+      "type": "qcm",
+      "l1": "áno",
+      "l2": "oui",
+      "choices_l1": [
+        "nie",
+        "nemám",
+        "a"
+      ],
+      "choices_l2": [
+        "non",
+        "je n'ai pas de",
+        "et"
+      ]
+    },
+    {
+      "id": "qcm6-non",
+      "type": "qcm",
+      "l1": "nie",
+      "l2": "non",
+      "choices_l1": [
+        "áno",
+        "nemám",
+        "a"
+      ],
+      "choices_l2": [
+        "oui",
+        "je n'ai pas de",
+        "et"
+      ]
+    },
+    {
+      "id": "listen7-tu-as-un-frere",
+      "type": "listen",
+      "l1": "Máš brata?",
+      "l2": "Tu as un frère ?",
+      "choices_l1": [
+        "Máš sestru?",
+        "Mám brata.",
+        "Má brata?"
+      ]
+    },
+    {
+      "id": "listen8-non-je-n-ai-pas-de-frere",
+      "type": "listen",
+      "l1": "Nie, nemám brata.",
+      "l2": "Non, je n'ai pas de frère.",
+      "choices_l1": [
+        "Áno, mám brata.",
+        "Nie, nemám sestru.",
+        "Nie, mám brata."
+      ]
+    },
+    {
+      "id": "listen9-lea-a-un-frere-il-s-appelle-",
+      "type": "listen",
+      "l1": "Léa má brata. Volá sa Hugo.",
+      "l2": "Léa a un frère. Il s'appelle Hugo.",
+      "choices_l1": [
+        "Léa má sestru. Volá sa Hugo.",
+        "Hugo má brata. Volá sa Léa.",
+        "Léa má brata. Volá sa Andrea."
+      ]
+    },
+    {
+      "id": "listen10-voila-mes-parents",
+      "type": "listen",
+      "l1": "Tu sú moji rodičia.",
+      "l2": "Voilà mes parents.",
+      "choices_l1": [
+        "Tu je moja rodina.",
+        "Tu sú moji starí rodičia.",
+        "Tu je môj tato."
+      ]
+    },
+    {
+      "id": "blank11-oui-j-ai-un-frere",
+      "type": "fill-blank",
+      "l1": "Áno, mám brata.",
+      "l2": "Oui, j'ai un frère.",
+      "missing_l1": "brata",
+      "missing_l2": "frère",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sestru",
+        "bratranca",
+        "kamaráta"
+      ],
+      "choices_l2": [
+        "sœur",
+        "cousin",
+        "copain"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-j-ai-une-sur",
+      "type": "fill-blank",
+      "l1": "Mám sestru.",
+      "l2": "J'ai une sœur.",
+      "missing_l1": "sestru",
+      "missing_l2": "sœur",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "brata",
+        "babku",
+        "mamu"
+      ],
+      "choices_l2": [
+        "frère",
+        "grand-mère",
+        "maman"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-non-je-n-ai-pas-de-frere",
+      "type": "fill-blank",
+      "l1": "Nie, nemám brata.",
+      "l2": "Non, je n'ai pas de frère.",
+      "missing_l1": "Nie",
+      "missing_l2": "Non",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Áno",
+        "Tiež",
+        "A"
+      ],
+      "choices_l2": [
+        "Oui",
+        "Aussi",
+        "Et"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-voila-mes-parents",
+      "type": "fill-blank",
+      "l1": "Tu sú moji rodičia.",
+      "l2": "Voilà mes parents.",
+      "missing_l1": "moji",
+      "missing_l2": "mes",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "môj",
+        "moja",
+        "tvoji"
+      ],
+      "choices_l2": [
+        "mon",
+        "ma",
+        "ton"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-tu-as-un-frere",
+      "type": "order",
+      "l1": "Máš brata?",
+      "l2": "Tu as un frère ?",
+      "tokens_l1": [
+        "Máš",
+        "brata?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "as",
+        "un",
+        "frère",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-non-je-n-ai-pas-de-frere",
+      "type": "order",
+      "l1": "Nie, nemám brata.",
+      "l2": "Non, je n'ai pas de frère.",
+      "tokens_l1": [
+        "Nie,",
+        "nemám",
+        "brata."
+      ],
+      "tokens_l2": [
+        "Non,",
+        "je",
+        "n'ai",
+        "pas",
+        "de",
+        "frère."
+      ]
+    },
+    {
+      "id": "order17-hugo-a-une-sur-elle-s-appell",
+      "type": "order",
+      "l1": "Hugo má sestru. Volá sa Léa.",
+      "l2": "Hugo a une sœur. Elle s'appelle Léa.",
+      "tokens_l1": [
+        "Hugo",
+        "má",
+        "sestru.",
+        "Volá",
+        "sa",
+        "Léa."
+      ],
+      "tokens_l2": [
+        "Hugo",
+        "a",
+        "une",
+        "sœur.",
+        "Elle",
+        "s'appelle",
+        "Léa."
+      ]
+    },
+    {
+      "id": "order18-voila-mes-grands-parents",
+      "type": "order",
+      "l1": "Tu sú moji starí rodičia.",
+      "l2": "Voilà mes grands-parents.",
+      "tokens_l1": [
+        "Tu",
+        "sú",
+        "moji",
+        "starí",
+        "rodičia."
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "mes",
+        "grands-parents."
+      ]
+    }
+  ]
+}

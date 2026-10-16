@@ -1,0 +1,318 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-la-maison",
+      "type": "match",
+      "l1": [
+        "dom",
+        "kuchyňa",
+        "izba",
+        "obývačka"
+      ],
+      "l2": [
+        "la maison",
+        "la cuisine",
+        "la chambre",
+        "le salon"
+      ]
+    },
+    {
+      "id": "match2-la-salle-de-bain",
+      "type": "match",
+      "l1": [
+        "kúpeľňa",
+        "záhrada",
+        "kde je?",
+        "v kuchyni"
+      ],
+      "l2": [
+        "la salle de bain",
+        "le jardin",
+        "où est ?",
+        "dans la cuisine"
+      ]
+    },
+    {
+      "id": "qcm3-la-chambre",
+      "type": "qcm",
+      "l1": "izba",
+      "l2": "la chambre",
+      "choices_l1": [
+        "kuchyňa",
+        "obývačka",
+        "kúpeľňa"
+      ],
+      "choices_l2": [
+        "la cuisine",
+        "le salon",
+        "la salle de bain"
+      ]
+    },
+    {
+      "id": "qcm4-le-jardin",
+      "type": "qcm",
+      "l1": "záhrada",
+      "l2": "le jardin",
+      "choices_l1": [
+        "dom",
+        "izba",
+        "kuchyňa"
+      ],
+      "choices_l2": [
+        "la maison",
+        "la chambre",
+        "la cuisine"
+      ]
+    },
+    {
+      "id": "qcm5-ou-est",
+      "type": "qcm",
+      "l1": "kde je?",
+      "l2": "où est ?",
+      "choices_l1": [
+        "v kuchyni",
+        "v záhrade",
+        "v obývačke"
+      ],
+      "choices_l2": [
+        "dans la cuisine",
+        "dans le jardin",
+        "dans le salon"
+      ]
+    },
+    {
+      "id": "qcm6-dans-le-salon",
+      "type": "qcm",
+      "l1": "v obývačke",
+      "l2": "dans le salon",
+      "choices_l1": [
+        "v kuchyni",
+        "v záhrade",
+        "kde je?"
+      ],
+      "choices_l2": [
+        "dans la cuisine",
+        "dans le jardin",
+        "où est ?"
+      ]
+    },
+    {
+      "id": "listen7-voila-ma-maison",
+      "type": "listen",
+      "l1": "Tu je môj dom!",
+      "l2": "Voilà ma maison !",
+      "choices_l1": [
+        "Tu je moja izba!",
+        "To je môj dom.",
+        "Tu je moja kuchyňa!"
+      ]
+    },
+    {
+      "id": "listen8-ou-est-maman-maman-est-dans-",
+      "type": "listen",
+      "l1": "Kde je mama? Mama je v kuchyni.",
+      "l2": "Où est maman ? Maman est dans la cuisine.",
+      "choices_l1": [
+        "Kde je mama? Mama je v záhrade.",
+        "Kde je Hugo? Hugo je v kuchyni.",
+        "Kde je mama? Mama je v obývačke."
+      ]
+    },
+    {
+      "id": "listen9-la-salle-de-bain-est-petite",
+      "type": "listen",
+      "l1": "Kúpeľňa je malá.",
+      "l2": "La salle de bain est petite.",
+      "choices_l1": [
+        "Kuchyňa je malá.",
+        "Kúpeľňa je veľká.",
+        "Obývačka je malá."
+      ]
+    },
+    {
+      "id": "listen10-ou-est-hugo-hugo-est-dans-le",
+      "type": "listen",
+      "l1": "Kde je Hugo? Hugo je v záhrade.",
+      "l2": "Où est Hugo ? Hugo est dans le jardin.",
+      "choices_l1": [
+        "Kde je Hugo? Hugo je v kuchyni.",
+        "Kde je Léa? Léa je v záhrade.",
+        "Kde je Hugo? Hugo je v izbe."
+      ]
+    },
+    {
+      "id": "blank11-le-salon-est-grand",
+      "type": "fill-blank",
+      "l1": "Obývačka je veľká.",
+      "l2": "Le salon est grand.",
+      "missing_l1": "veľká",
+      "missing_l2": "grand",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "malá",
+        "veľký",
+        "malý"
+      ],
+      "choices_l2": [
+        "petit",
+        "grande",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-la-salle-de-bain-est-petite",
+      "type": "fill-blank",
+      "l1": "Kúpeľňa je malá.",
+      "l2": "La salle de bain est petite.",
+      "missing_l1": "malá",
+      "missing_l2": "petite",
+      "blank_index_l1": 2,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "malý",
+        "veľká",
+        "silná"
+      ],
+      "choices_l2": [
+        "petit",
+        "grande",
+        "forte"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-ou-est-maman-maman-est-dans-",
+      "type": "fill-blank",
+      "l1": "Kde je mama? Mama je v kuchyni.",
+      "l2": "Où est maman ? Maman est dans la cuisine.",
+      "missing_l1": "kuchyni",
+      "missing_l2": "cuisine",
+      "blank_index_l1": 6,
+      "blank_index_l2": 8,
+      "choices_l1": [
+        "záhrade",
+        "obývačke",
+        "izbe"
+      ],
+      "choices_l2": [
+        "jardin",
+        "salon",
+        "chambre"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-voila-la-porte-et-la-fenetre",
+      "type": "fill-blank",
+      "l1": "Tu sú dvere a okno.",
+      "l2": "Voilà la porte et la fenêtre.",
+      "missing_l1": "okno",
+      "missing_l2": "fenêtre",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "dom",
+        "izba",
+        "záhrada"
+      ],
+      "choices_l2": [
+        "maison",
+        "chambre",
+        "jardin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-voila-ma-maison",
+      "type": "order",
+      "l1": "Tu je môj dom!",
+      "l2": "Voilà ma maison !",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "môj",
+        "dom!"
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "ma",
+        "maison",
+        "!"
+      ]
+    },
+    {
+      "id": "order16-ma-chambre-est-petite-et-le-",
+      "type": "order",
+      "l1": "Moja izba je malá a záhrada je veľká.",
+      "l2": "Ma chambre est petite et le jardin est grand.",
+      "tokens_l1": [
+        "Moja",
+        "izba",
+        "je",
+        "malá",
+        "a",
+        "záhrada",
+        "je",
+        "veľká."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "chambre",
+        "est",
+        "petite",
+        "et",
+        "le",
+        "jardin",
+        "est",
+        "grand."
+      ]
+    },
+    {
+      "id": "order17-la-fenetre-est-petite",
+      "type": "order",
+      "l1": "Okno je malé.",
+      "l2": "La fenêtre est petite.",
+      "tokens_l1": [
+        "Okno",
+        "je",
+        "malé."
+      ],
+      "tokens_l2": [
+        "La",
+        "fenêtre",
+        "est",
+        "petite."
+      ]
+    },
+    {
+      "id": "order18-ou-est-hugo-hugo-est-dans-le",
+      "type": "order",
+      "l1": "Kde je Hugo? Hugo je v záhrade.",
+      "l2": "Où est Hugo ? Hugo est dans le jardin.",
+      "tokens_l1": [
+        "Kde",
+        "je",
+        "Hugo?",
+        "Hugo",
+        "je",
+        "v",
+        "záhrade."
+      ],
+      "tokens_l2": [
+        "Où",
+        "est",
+        "Hugo",
+        "?",
+        "Hugo",
+        "est",
+        "dans",
+        "le",
+        "jardin."
+      ]
+    }
+  ]
+}

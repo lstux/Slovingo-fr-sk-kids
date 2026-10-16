@@ -1,0 +1,347 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-village",
+      "type": "match",
+      "l1": [
+        "dedina",
+        "škola",
+        "námestie",
+        "kostol"
+      ],
+      "l2": [
+        "le village",
+        "l'école",
+        "la place",
+        "l'église"
+      ]
+    },
+    {
+      "id": "match2-la-boulangerie",
+      "type": "match",
+      "l1": [
+        "pekáreň",
+        "ulica",
+        "park",
+        "fontána"
+      ],
+      "l2": [
+        "la boulangerie",
+        "la rue",
+        "le parc",
+        "la fontaine"
+      ]
+    },
+    {
+      "id": "qcm3-la-boulangerie",
+      "type": "qcm",
+      "l1": "pekáreň",
+      "l2": "la boulangerie",
+      "choices_l1": [
+        "ulica",
+        "park",
+        "škola"
+      ],
+      "choices_l2": [
+        "la rue",
+        "le parc",
+        "l'école"
+      ]
+    },
+    {
+      "id": "qcm4-l-eglise",
+      "type": "qcm",
+      "l1": "kostol",
+      "l2": "l'église",
+      "choices_l1": [
+        "námestie",
+        "škola",
+        "park"
+      ],
+      "choices_l2": [
+        "la place",
+        "l'école",
+        "le parc"
+      ]
+    },
+    {
+      "id": "qcm5-le-magasin",
+      "type": "qcm",
+      "l1": "obchod",
+      "l2": "le magasin",
+      "choices_l1": [
+        "most",
+        "fontána",
+        "ulica"
+      ],
+      "choices_l2": [
+        "le pont",
+        "la fontaine",
+        "la rue"
+      ]
+    },
+    {
+      "id": "qcm6-le-pont",
+      "type": "qcm",
+      "l1": "most",
+      "l2": "le pont",
+      "choices_l1": [
+        "obchod",
+        "fontána",
+        "park"
+      ],
+      "choices_l2": [
+        "le magasin",
+        "la fontaine",
+        "le parc"
+      ]
+    },
+    {
+      "id": "listen7-voila-mon-village",
+      "type": "listen",
+      "l1": "Tu je moja dedina!",
+      "l2": "Voilà mon village !",
+      "choices_l1": [
+        "Tu je moja škola!",
+        "To je moja dedina.",
+        "Tu je môj park!"
+      ]
+    },
+    {
+      "id": "listen8-il-y-a-une-eglise-sur-la-pla",
+      "type": "listen",
+      "l1": "Na námestí je kostol.",
+      "l2": "Il y a une église sur la place.",
+      "choices_l1": [
+        "Na námestí je škola.",
+        "Na ulici je kostol.",
+        "V dedine je kostol."
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-une-boulangerie-dans-",
+      "type": "listen",
+      "l1": "Na ulici je pekáreň.",
+      "l2": "Il y a une boulangerie dans la rue.",
+      "choices_l1": [
+        "Na námestí je pekáreň.",
+        "Na ulici je škola.",
+        "Na ulici je park."
+      ]
+    },
+    {
+      "id": "listen10-le-parc-est-grand",
+      "type": "listen",
+      "l1": "Park je veľký.",
+      "l2": "Le parc est grand.",
+      "choices_l1": [
+        "Škola je veľká.",
+        "Park je malý.",
+        "Dedina je veľká."
+      ]
+    },
+    {
+      "id": "listen11-dans-mon-village-il-y-a-une-",
+      "type": "listen",
+      "l1": "V mojej dedine je škola a park.",
+      "l2": "Dans mon village, il y a une école et un parc.",
+      "choices_l1": [
+        "V mojej dedine je škola a kostol.",
+        "V mojej dedine je pekáreň a park.",
+        "V tvojej dedine je škola a park."
+      ]
+    },
+    {
+      "id": "blank12-il-y-a-une-eglise-sur-la-pla",
+      "type": "fill-blank",
+      "l1": "Na námestí je kostol.",
+      "l2": "Il y a une église sur la place.",
+      "missing_l1": "kostol",
+      "missing_l2": "église",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "škola",
+        "park",
+        "pekáreň"
+      ],
+      "choices_l2": [
+        "école",
+        "parc",
+        "boulangerie"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-le-parc-est-grand",
+      "type": "fill-blank",
+      "l1": "Park je veľký.",
+      "l2": "Le parc est grand.",
+      "missing_l1": "veľký",
+      "missing_l2": "grand",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "veľká",
+        "veľké",
+        "malý"
+      ],
+      "choices_l2": [
+        "grande",
+        "petit",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-mon-ecole-est-petite",
+      "type": "fill-blank",
+      "l1": "Moja škola je malá.",
+      "l2": "Mon école est petite.",
+      "missing_l1": "Moja",
+      "missing_l2": "Mon",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Môj",
+        "Moje",
+        "Tvoja"
+      ],
+      "choices_l2": [
+        "Ma",
+        "Mes",
+        "Ton"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-il-y-a-une-boulangerie-dans-",
+      "type": "fill-blank",
+      "l1": "Na ulici je pekáreň.",
+      "l2": "Il y a une boulangerie dans la rue.",
+      "missing_l1": "ulici",
+      "missing_l2": "rue",
+      "blank_index_l1": 1,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "námestí",
+        "dedine",
+        "záhrade"
+      ],
+      "choices_l2": [
+        "place",
+        "village",
+        "jardin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-voila-mon-village",
+      "type": "order",
+      "l1": "Tu je moja dedina!",
+      "l2": "Voilà mon village !",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "moja",
+        "dedina!"
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "mon",
+        "village",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-il-y-a-une-boulangerie-dans-",
+      "type": "order",
+      "l1": "Na ulici je pekáreň.",
+      "l2": "Il y a une boulangerie dans la rue.",
+      "tokens_l1": [
+        "Na",
+        "ulici",
+        "je",
+        "pekáreň."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "une",
+        "boulangerie",
+        "dans",
+        "la",
+        "rue."
+      ]
+    },
+    {
+      "id": "order18-mon-ecole-est-petite",
+      "type": "order",
+      "l1": "Moja škola je malá.",
+      "l2": "Mon école est petite.",
+      "tokens_l1": [
+        "Moja",
+        "škola",
+        "je",
+        "malá."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "école",
+        "est",
+        "petite."
+      ]
+    },
+    {
+      "id": "order19-dans-mon-village-il-y-a-une-",
+      "type": "order",
+      "l1": "V mojej dedine je škola a park.",
+      "l2": "Dans mon village, il y a une école et un parc.",
+      "tokens_l1": [
+        "V",
+        "mojej",
+        "dedine",
+        "je",
+        "škola",
+        "a",
+        "park."
+      ],
+      "tokens_l2": [
+        "Dans",
+        "mon",
+        "village,",
+        "il",
+        "y",
+        "a",
+        "une",
+        "école",
+        "et",
+        "un",
+        "parc."
+      ]
+    },
+    {
+      "id": "order20-le-magasin-est-sur-la-place",
+      "type": "order",
+      "l1": "Obchod je na námestí.",
+      "l2": "Le magasin est sur la place.",
+      "tokens_l1": [
+        "Obchod",
+        "je",
+        "na",
+        "námestí."
+      ],
+      "tokens_l2": [
+        "Le",
+        "magasin",
+        "est",
+        "sur",
+        "la",
+        "place."
+      ]
+    }
+  ]
+}

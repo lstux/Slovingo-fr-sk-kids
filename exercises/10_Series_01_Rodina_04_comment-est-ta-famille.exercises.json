@@ -1,0 +1,299 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-grand-grande",
+      "type": "match",
+      "l1": [
+        "veľký, veľká",
+        "malý, malá",
+        "silný, silná",
+        "milý, milá"
+      ],
+      "l2": [
+        "grand, grande",
+        "petit, petite",
+        "fort, forte",
+        "gentil, gentille"
+      ]
+    },
+    {
+      "id": "match2-joyeux-joyeuse",
+      "type": "match",
+      "l1": [
+        "veselý, veselá",
+        "rýchly, rýchla",
+        "veľmi",
+        "aký je? aká je?"
+      ],
+      "l2": [
+        "joyeux, joyeuse",
+        "rapide",
+        "très",
+        "comment est ?"
+      ]
+    },
+    {
+      "id": "qcm3-joyeux-joyeuse",
+      "type": "qcm",
+      "l1": "veselý, veselá",
+      "l2": "joyeux, joyeuse",
+      "choices_l1": [
+        "milý, milá",
+        "silný, silná",
+        "malý, malá"
+      ],
+      "choices_l2": [
+        "gentil, gentille",
+        "fort, forte",
+        "petit, petite"
+      ]
+    },
+    {
+      "id": "qcm4-tres",
+      "type": "qcm",
+      "l1": "veľmi",
+      "l2": "très",
+      "choices_l1": [
+        "rýchly, rýchla",
+        "veľký, veľká",
+        "a"
+      ],
+      "choices_l2": [
+        "rapide",
+        "grand, grande",
+        "et"
+      ]
+    },
+    {
+      "id": "qcm5-rapide",
+      "type": "qcm",
+      "l1": "rýchly, rýchla",
+      "l2": "rapide",
+      "choices_l1": [
+        "veľký, veľká",
+        "malý, malá",
+        "veľmi"
+      ],
+      "choices_l2": [
+        "grand, grande",
+        "petit, petite",
+        "très"
+      ]
+    },
+    {
+      "id": "listen6-comment-est-ta-maman",
+      "type": "listen",
+      "l1": "Aká je tvoja mama?",
+      "l2": "Comment est ta maman ?",
+      "choices_l1": [
+        "Aký je tvoj tato?",
+        "Aká je tvoja sestra?",
+        "Tvoja mama je veľká."
+      ]
+    },
+    {
+      "id": "listen7-mon-papa-est-petit-et-fort",
+      "type": "listen",
+      "l1": "Môj tato je malý a silný.",
+      "l2": "Mon papa est petit et fort.",
+      "choices_l1": [
+        "Môj tato je veľký a silný.",
+        "Môj tato je malý a milý.",
+        "Moja mama je malá a silná."
+      ]
+    },
+    {
+      "id": "listen8-mon-frere-est-joyeux-et-gent",
+      "type": "listen",
+      "l1": "Môj brat je veselý a milý.",
+      "l2": "Mon frère est joyeux et gentil.",
+      "choices_l1": [
+        "Môj brat je veselý a silný.",
+        "Moja sestra je veselá a milá.",
+        "Môj dedko je veselý a milý."
+      ]
+    },
+    {
+      "id": "listen9-ma-sur-est-tres-rapide-aussi",
+      "type": "listen",
+      "l1": "Moja sestra je tiež veľmi rýchla.",
+      "l2": "Ma sœur est très rapide aussi.",
+      "choices_l1": [
+        "Môj brat je tiež veľmi rýchly.",
+        "Moja sestra je veľmi silná.",
+        "Moja sestra je tiež veľmi milá."
+      ]
+    },
+    {
+      "id": "blank10-ma-maman-est-grande-et-joyeu",
+      "type": "fill-blank",
+      "l1": "Moja mama je veľká a veselá.",
+      "l2": "Ma maman est grande et joyeuse.",
+      "missing_l1": "veľká",
+      "missing_l2": "grande",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "veľký",
+        "malá",
+        "silná"
+      ],
+      "choices_l2": [
+        "grand",
+        "petite",
+        "forte"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-mon-papa-est-petit-et-fort",
+      "type": "fill-blank",
+      "l1": "Môj tato je malý a silný.",
+      "l2": "Mon papa est petit et fort.",
+      "missing_l1": "silný",
+      "missing_l2": "fort",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "silná",
+        "milý",
+        "rýchly"
+      ],
+      "choices_l2": [
+        "forte",
+        "gentil",
+        "rapide"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-ma-sur-est-forte-et-gentille",
+      "type": "fill-blank",
+      "l1": "Moja sestra je silná a milá.",
+      "l2": "Ma sœur est forte et gentille.",
+      "missing_l1": "milá",
+      "missing_l2": "gentille",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "milý",
+        "veselá",
+        "malá"
+      ],
+      "choices_l2": [
+        "gentil",
+        "joyeuse",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-mon-frere-est-tres-rapide",
+      "type": "fill-blank",
+      "l1": "Môj brat je veľmi rýchly.",
+      "l2": "Mon frère est très rapide.",
+      "missing_l1": "veľmi",
+      "missing_l2": "très",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "tiež",
+        "a",
+        "nie"
+      ],
+      "choices_l2": [
+        "aussi",
+        "et",
+        "non"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-ma-maman-est-grande-et-joyeu",
+      "type": "order",
+      "l1": "Moja mama je veľká a veselá.",
+      "l2": "Ma maman est grande et joyeuse.",
+      "tokens_l1": [
+        "Moja",
+        "mama",
+        "je",
+        "veľká",
+        "a",
+        "veselá."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "maman",
+        "est",
+        "grande",
+        "et",
+        "joyeuse."
+      ]
+    },
+    {
+      "id": "order15-mon-grand-pere-est-grand-et-",
+      "type": "order",
+      "l1": "Môj dedko je veľký a veselý.",
+      "l2": "Mon grand-père est grand et joyeux.",
+      "tokens_l1": [
+        "Môj",
+        "dedko",
+        "je",
+        "veľký",
+        "a",
+        "veselý."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "grand-père",
+        "est",
+        "grand",
+        "et",
+        "joyeux."
+      ]
+    },
+    {
+      "id": "order16-ma-sur-est-tres-rapide-aussi",
+      "type": "order",
+      "l1": "Moja sestra je tiež veľmi rýchla.",
+      "l2": "Ma sœur est très rapide aussi.",
+      "tokens_l1": [
+        "Moja",
+        "sestra",
+        "je",
+        "tiež",
+        "veľmi",
+        "rýchla."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "sœur",
+        "est",
+        "très",
+        "rapide",
+        "aussi."
+      ]
+    },
+    {
+      "id": "order17-comment-est-ta-maman",
+      "type": "order",
+      "l1": "Aká je tvoja mama?",
+      "l2": "Comment est ta maman ?",
+      "tokens_l1": [
+        "Aká",
+        "je",
+        "tvoja",
+        "mama?"
+      ],
+      "tokens_l2": [
+        "Comment",
+        "est",
+        "ta",
+        "maman",
+        "?"
+      ]
+    }
+  ]
+}

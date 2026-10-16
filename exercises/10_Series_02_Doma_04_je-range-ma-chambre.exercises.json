@@ -1,0 +1,312 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-ranger",
+      "type": "match",
+      "l1": [
+        "upratovať",
+        "umývať",
+        "otvárať",
+        "zatvárať"
+      ],
+      "l2": [
+        "ranger",
+        "laver",
+        "ouvrir",
+        "fermer"
+      ]
+    },
+    {
+      "id": "match2-lire",
+      "type": "match",
+      "l1": [
+        "čítať",
+        "spať",
+        "pomáhať",
+        "pozerať"
+      ],
+      "l2": [
+        "lire",
+        "dormir",
+        "aider",
+        "regarder"
+      ]
+    },
+    {
+      "id": "qcm3-lire",
+      "type": "qcm",
+      "l1": "čítať",
+      "l2": "lire",
+      "choices_l1": [
+        "spať",
+        "umývať",
+        "otvárať"
+      ],
+      "choices_l2": [
+        "dormir",
+        "laver",
+        "ouvrir"
+      ]
+    },
+    {
+      "id": "qcm4-je-dors",
+      "type": "qcm",
+      "l1": "spím",
+      "l2": "je dors",
+      "choices_l1": [
+        "nespím",
+        "upratujem",
+        "otváram"
+      ],
+      "choices_l2": [
+        "je ne dors pas",
+        "je range",
+        "j'ouvre"
+      ]
+    },
+    {
+      "id": "qcm5-ouvrir",
+      "type": "qcm",
+      "l1": "otvárať",
+      "l2": "ouvrir",
+      "choices_l1": [
+        "zatvárať",
+        "upratovať",
+        "pomáhať"
+      ],
+      "choices_l2": [
+        "fermer",
+        "ranger",
+        "aider"
+      ]
+    },
+    {
+      "id": "qcm6-ecouter",
+      "type": "qcm",
+      "l1": "počúvať",
+      "l2": "écouter",
+      "choices_l1": [
+        "pozerať",
+        "čítať",
+        "spať"
+      ],
+      "choices_l2": [
+        "regarder",
+        "lire",
+        "dormir"
+      ]
+    },
+    {
+      "id": "listen7-je-range-ma-chambre",
+      "type": "listen",
+      "l1": "Upratujem svoju izbu.",
+      "l2": "Je range ma chambre.",
+      "choices_l1": [
+        "Upratuješ svoju izbu.",
+        "Upratujem svoju kuchyňu.",
+        "Umývam svoju izbu."
+      ]
+    },
+    {
+      "id": "listen8-ma-sur-lave-les-verres",
+      "type": "listen",
+      "l1": "Moja sestra umýva poháre.",
+      "l2": "Ma sœur lave les verres.",
+      "choices_l1": [
+        "Môj brat umýva poháre.",
+        "Moja sestra umýva taniere.",
+        "Moja sestra upratuje poháre."
+      ]
+    },
+    {
+      "id": "listen9-mon-grand-pere-dort-dans-le-",
+      "type": "listen",
+      "l1": "Môj dedko spí v záhrade.",
+      "l2": "Mon grand-père dort dans le jardin.",
+      "choices_l1": [
+        "Môj dedko číta v záhrade.",
+        "Môj dedko spí v izbe.",
+        "Moja babka spí v záhrade."
+      ]
+    },
+    {
+      "id": "listen10-ma-grand-mere-ne-dort-pas-el",
+      "type": "listen",
+      "l1": "Moja babka nespí. Číta knihu.",
+      "l2": "Ma grand-mère ne dort pas. Elle lit un livre.",
+      "choices_l1": [
+        "Moja babka spí. Číta knihu.",
+        "Moja babka nespí. Pozerá knihu.",
+        "Môj dedko nespí. Číta knihu."
+      ]
+    },
+    {
+      "id": "listen11-tu-aides-maman-oui-j-aide-ma",
+      "type": "listen",
+      "l1": "Pomáhaš mame? Áno, pomáham mame!",
+      "l2": "Tu aides maman ? Oui, j'aide maman !",
+      "choices_l1": [
+        "Pomáham mame? Áno, pomáhaš mame!",
+        "Pomáhaš mame? Nie, nepomáham mame!",
+        "Pomáhaš tatovi? Áno, pomáham tatovi!"
+      ]
+    },
+    {
+      "id": "blank12-mon-frere-ouvre-la-fenetre",
+      "type": "fill-blank",
+      "l1": "Môj brat otvára okno.",
+      "l2": "Mon frère ouvre la fenêtre.",
+      "missing_l1": "otvára",
+      "missing_l2": "ouvre",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "zatvára",
+        "upratuje",
+        "číta"
+      ],
+      "choices_l2": [
+        "ferme",
+        "range",
+        "lit"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-mon-grand-pere-dort-dans-le-",
+      "type": "fill-blank",
+      "l1": "Môj dedko spí v záhrade.",
+      "l2": "Mon grand-père dort dans le jardin.",
+      "missing_l1": "spí",
+      "missing_l2": "dort",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "číta",
+        "umýva",
+        "pomáha"
+      ],
+      "choices_l2": [
+        "lit",
+        "lave",
+        "aide"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-ma-grand-mere-ne-dort-pas-el",
+      "type": "fill-blank",
+      "l1": "Moja babka nespí. Číta knihu.",
+      "l2": "Ma grand-mère ne dort pas. Elle lit un livre.",
+      "missing_l1": "Číta",
+      "missing_l2": "lit",
+      "blank_index_l1": 3,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "Spí",
+        "Umýva",
+        "Pomáha"
+      ],
+      "choices_l2": [
+        "dort",
+        "lave",
+        "aide"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-papa-range-le-salon",
+      "type": "fill-blank",
+      "l1": "Tato upratuje obývačku.",
+      "l2": "Papa range le salon.",
+      "missing_l1": "obývačku",
+      "missing_l2": "salon",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "kuchyňu",
+        "izbu",
+        "záhradu"
+      ],
+      "choices_l2": [
+        "cuisine",
+        "chambre",
+        "jardin"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-papa-range-le-salon",
+      "type": "order",
+      "l1": "Tato upratuje obývačku.",
+      "l2": "Papa range le salon.",
+      "tokens_l1": [
+        "Tato",
+        "upratuje",
+        "obývačku."
+      ],
+      "tokens_l2": [
+        "Papa",
+        "range",
+        "le",
+        "salon."
+      ]
+    },
+    {
+      "id": "order17-ma-sur-lave-les-verres",
+      "type": "order",
+      "l1": "Moja sestra umýva poháre.",
+      "l2": "Ma sœur lave les verres.",
+      "tokens_l1": [
+        "Moja",
+        "sestra",
+        "umýva",
+        "poháre."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "sœur",
+        "lave",
+        "les",
+        "verres."
+      ]
+    },
+    {
+      "id": "order18-maman-ferme-la-porte",
+      "type": "order",
+      "l1": "Mama zatvára dvere.",
+      "l2": "Maman ferme la porte.",
+      "tokens_l1": [
+        "Mama",
+        "zatvára",
+        "dvere."
+      ],
+      "tokens_l2": [
+        "Maman",
+        "ferme",
+        "la",
+        "porte."
+      ]
+    },
+    {
+      "id": "order19-j-ecoute-maman-et-papa",
+      "type": "order",
+      "l1": "Počúvam mamu a tata.",
+      "l2": "J'écoute maman et papa.",
+      "tokens_l1": [
+        "Počúvam",
+        "mamu",
+        "a",
+        "tata."
+      ],
+      "tokens_l2": [
+        "J'écoute",
+        "maman",
+        "et",
+        "papa."
+      ]
+    }
+  ]
+}

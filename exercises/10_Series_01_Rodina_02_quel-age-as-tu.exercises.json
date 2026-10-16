@@ -1,0 +1,302 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-onze",
+      "type": "match",
+      "l1": [
+        "jedenásť",
+        "dvanásť",
+        "máš",
+        "mám"
+      ],
+      "l2": [
+        "onze",
+        "douze",
+        "tu as",
+        "j'ai"
+      ]
+    },
+    {
+      "id": "match2-et-toi",
+      "type": "match",
+      "l1": [
+        "a ty?",
+        "ja tiež",
+        "rok, dva roky",
+        "koľko rokov? (doslova „aký vek“)"
+      ],
+      "l2": [
+        "et toi ?",
+        "moi aussi",
+        "un an, deux ans",
+        "quel âge ?"
+      ]
+    },
+    {
+      "id": "qcm3-j-ai",
+      "type": "qcm",
+      "l1": "mám",
+      "l2": "j'ai",
+      "choices_l1": [
+        "máš",
+        "jedenásť",
+        "ja tiež"
+      ],
+      "choices_l2": [
+        "tu as",
+        "onze",
+        "moi aussi"
+      ]
+    },
+    {
+      "id": "qcm4-tu-as",
+      "type": "qcm",
+      "l1": "máš",
+      "l2": "tu as",
+      "choices_l1": [
+        "mám",
+        "dvanásť",
+        "a ty?"
+      ],
+      "choices_l2": [
+        "j'ai",
+        "douze",
+        "et toi ?"
+      ]
+    },
+    {
+      "id": "qcm5-onze",
+      "type": "qcm",
+      "l1": "jedenásť",
+      "l2": "onze",
+      "choices_l1": [
+        "dvanásť",
+        "mám",
+        "máš"
+      ],
+      "choices_l2": [
+        "douze",
+        "j'ai",
+        "tu as"
+      ]
+    },
+    {
+      "id": "qcm6-et-toi",
+      "type": "qcm",
+      "l1": "a ty?",
+      "l2": "et toi ?",
+      "choices_l1": [
+        "ja tiež",
+        "máš",
+        "mám"
+      ],
+      "choices_l2": [
+        "moi aussi",
+        "tu as",
+        "j'ai"
+      ]
+    },
+    {
+      "id": "listen7-quel-age-as-tu",
+      "type": "listen",
+      "l1": "Koľko máš rokov?",
+      "l2": "Quel âge as-tu ?",
+      "choices_l1": [
+        "Koľko má rokov?",
+        "Mám desať rokov.",
+        "Máš jedenásť rokov."
+      ]
+    },
+    {
+      "id": "listen8-j-ai-dix-ans",
+      "type": "listen",
+      "l1": "Mám desať rokov.",
+      "l2": "J'ai dix ans.",
+      "choices_l1": [
+        "Máš desať rokov.",
+        "Mám deväť rokov.",
+        "Mám jedenásť rokov."
+      ]
+    },
+    {
+      "id": "listen9-andrea-a-onze-ans",
+      "type": "listen",
+      "l1": "Andrea má jedenásť rokov.",
+      "l2": "Andrea a onze ans.",
+      "choices_l1": [
+        "Andrea má dvanásť rokov.",
+        "Léa má jedenásť rokov.",
+        "Andrea má deväť rokov."
+      ]
+    },
+    {
+      "id": "listen10-moi-aussi-j-ai-neuf-ans",
+      "type": "listen",
+      "l1": "Ja tiež mám deväť rokov.",
+      "l2": "Moi aussi, j'ai neuf ans.",
+      "choices_l1": [
+        "Ja tiež mám osem rokov.",
+        "Ja mám deväť rokov.",
+        "Ty tiež máš deväť rokov."
+      ]
+    },
+    {
+      "id": "blank11-j-ai-dix-ans",
+      "type": "fill-blank",
+      "l1": "Mám desať rokov.",
+      "l2": "J'ai dix ans.",
+      "missing_l1": "desať",
+      "missing_l2": "dix",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "deväť",
+        "osem",
+        "jedenásť"
+      ],
+      "choices_l2": [
+        "neuf",
+        "huit",
+        "onze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-tu-as-onze-ans",
+      "type": "fill-blank",
+      "l1": "Máš jedenásť rokov.",
+      "l2": "Tu as onze ans.",
+      "missing_l1": "jedenásť",
+      "missing_l2": "onze",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "dvanásť",
+        "desať",
+        "deväť"
+      ],
+      "choices_l2": [
+        "douze",
+        "dix",
+        "neuf"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-lea-a-neuf-ans",
+      "type": "fill-blank",
+      "l1": "Léa má deväť rokov.",
+      "l2": "Léa a neuf ans.",
+      "missing_l1": "deväť",
+      "missing_l2": "neuf",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "osem",
+        "desať",
+        "dvanásť"
+      ],
+      "choices_l2": [
+        "huit",
+        "dix",
+        "douze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-j-ai-dix-ans",
+      "type": "fill-blank",
+      "l1": "Mám desať rokov.",
+      "l2": "J'ai dix ans.",
+      "missing_l1": "Mám",
+      "missing_l2": "J'ai",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Máš",
+        "Má",
+        "Nemám"
+      ],
+      "choices_l2": [
+        "Tu as",
+        "Elle a",
+        "Je n'ai"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-quel-age-as-tu",
+      "type": "order",
+      "l1": "Koľko máš rokov?",
+      "l2": "Quel âge as-tu ?",
+      "tokens_l1": [
+        "Koľko",
+        "máš",
+        "rokov?"
+      ],
+      "tokens_l2": [
+        "Quel",
+        "âge",
+        "as-tu",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-tu-as-onze-ans",
+      "type": "order",
+      "l1": "Máš jedenásť rokov.",
+      "l2": "Tu as onze ans.",
+      "tokens_l1": [
+        "Máš",
+        "jedenásť",
+        "rokov."
+      ],
+      "tokens_l2": [
+        "Tu",
+        "as",
+        "onze",
+        "ans."
+      ]
+    },
+    {
+      "id": "order17-andrea-a-onze-ans",
+      "type": "order",
+      "l1": "Andrea má jedenásť rokov.",
+      "l2": "Andrea a onze ans.",
+      "tokens_l1": [
+        "Andrea",
+        "má",
+        "jedenásť",
+        "rokov."
+      ],
+      "tokens_l2": [
+        "Andrea",
+        "a",
+        "onze",
+        "ans."
+      ]
+    },
+    {
+      "id": "order18-moi-aussi-j-ai-neuf-ans",
+      "type": "order",
+      "l1": "Ja tiež mám deväť rokov.",
+      "l2": "Moi aussi, j'ai neuf ans.",
+      "tokens_l1": [
+        "Ja",
+        "tiež",
+        "mám",
+        "deväť",
+        "rokov."
+      ],
+      "tokens_l2": [
+        "Moi",
+        "aussi,",
+        "j'ai",
+        "neuf",
+        "ans."
+      ]
+    }
+  ]
+}

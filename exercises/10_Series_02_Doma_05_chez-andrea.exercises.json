@@ -1,0 +1,304 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-entre",
+      "type": "match",
+      "l1": [
+        "poď dnu!",
+        "líška",
+        "pekný, pekná",
+        "mám rád, mám rada, páči sa mi"
+      ],
+      "l2": [
+        "entre !",
+        "un renard",
+        "joli, jolie",
+        "j'aime"
+      ]
+    },
+    {
+      "id": "qcm2-un-renard",
+      "type": "qcm",
+      "l1": "líška",
+      "l2": "un renard",
+      "choices_l1": [
+        "dom",
+        "izba",
+        "záhrada"
+      ],
+      "choices_l2": [
+        "la maison",
+        "la chambre",
+        "le jardin"
+      ]
+    },
+    {
+      "id": "qcm3-joli-jolie",
+      "type": "qcm",
+      "l1": "pekný, pekná",
+      "l2": "joli, jolie",
+      "choices_l1": [
+        "veľký, veľká",
+        "malý, malá",
+        "milý, milá"
+      ],
+      "choices_l2": [
+        "grand, grande",
+        "petit, petite",
+        "gentil, gentille"
+      ]
+    },
+    {
+      "id": "qcm4-entre",
+      "type": "qcm",
+      "l1": "poď dnu!",
+      "l2": "entre !",
+      "choices_l1": [
+        "kde je?",
+        "kľúč",
+        "okno"
+      ],
+      "choices_l2": [
+        "où est ?",
+        "la clé",
+        "la fenêtre"
+      ]
+    },
+    {
+      "id": "listen5-ta-chambre-est-jolie",
+      "type": "listen",
+      "l1": "Tvoja izba je pekná!",
+      "l2": "Ta chambre est jolie !",
+      "choices_l1": [
+        "Moja izba je pekná!",
+        "Tvoja izba je veľká!",
+        "Tvoja kuchyňa je pekná!"
+      ]
+    },
+    {
+      "id": "listen6-il-y-a-un-renard-dans-ma-cha",
+      "type": "listen",
+      "l1": "V mojej izbe je líška!",
+      "l2": "Il y a un renard dans ma chambre !",
+      "choices_l1": [
+        "V mojej izbe je lampa!",
+        "V mojej kuchyni je líška!",
+        "V tvojej izbe je líška!"
+      ]
+    },
+    {
+      "id": "listen7-c-est-moi",
+      "type": "listen",
+      "l1": "To som ja!",
+      "l2": "C'est moi !",
+      "choices_l1": [
+        "To si ty!",
+        "To je on!",
+        "To je mama!"
+      ]
+    },
+    {
+      "id": "listen8-ou-est-le-gouter",
+      "type": "listen",
+      "l1": "Kde je olovrant?",
+      "l2": "Où est le goûter ?",
+      "choices_l1": [
+        "Kde je Andrea?",
+        "Kde je kuchyňa?",
+        "Kde je záhrada?"
+      ]
+    },
+    {
+      "id": "listen9-j-aime-le-jardin",
+      "type": "listen",
+      "l1": "Páči sa mi záhrada!",
+      "l2": "J'aime le jardin !",
+      "choices_l1": [
+        "Páči sa mi dom!",
+        "Páči sa mi izba!",
+        "Páči sa mi kuchyňa!"
+      ]
+    },
+    {
+      "id": "blank10-ta-chambre-est-jolie",
+      "type": "fill-blank",
+      "l1": "Tvoja izba je pekná!",
+      "l2": "Ta chambre est jolie !",
+      "missing_l1": "pekná",
+      "missing_l2": "jolie",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "pekný",
+        "veľká",
+        "malá"
+      ],
+      "choices_l2": [
+        "joli",
+        "grande",
+        "petite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-j-aime-ta-maison",
+      "type": "fill-blank",
+      "l1": "Páči sa mi tvoj dom!",
+      "l2": "J'aime ta maison !",
+      "missing_l1": "dom",
+      "missing_l2": "maison",
+      "blank_index_l1": 4,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "olovrant",
+        "kľúč",
+        "stôl"
+      ],
+      "choices_l2": [
+        "goûter",
+        "clé",
+        "table"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-il-y-a-un-renard-dans-ma-cha",
+      "type": "fill-blank",
+      "l1": "V mojej izbe je líška!",
+      "l2": "Il y a un renard dans ma chambre !",
+      "missing_l1": "líška",
+      "missing_l2": "renard",
+      "blank_index_l1": 4,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "lampa",
+        "skriňa",
+        "posteľ"
+      ],
+      "choices_l2": [
+        "lampe",
+        "armoire",
+        "lit"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-voila-ma-maison-voila-le-sal",
+      "type": "fill-blank",
+      "l1": "Tu je môj dom. Tu je obývačka.",
+      "l2": "Voilà ma maison. Voilà le salon.",
+      "missing_l1": "obývačka",
+      "missing_l2": "salon",
+      "blank_index_l1": 6,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "kuchyňa",
+        "záhrada",
+        "izba"
+      ],
+      "choices_l2": [
+        "cuisine",
+        "jardin",
+        "chambre"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-entre-voila-ma-chambre-elle-",
+      "type": "order",
+      "l1": "Poď dnu! Tu je moja izba. Je pekná.",
+      "l2": "Entre ! Voilà ma chambre. Elle est jolie.",
+      "tokens_l1": [
+        "Poď",
+        "dnu!",
+        "Tu",
+        "je",
+        "moja",
+        "izba.",
+        "Je",
+        "pekná."
+      ],
+      "tokens_l2": [
+        "Entre",
+        "!",
+        "Voilà",
+        "ma",
+        "chambre.",
+        "Elle",
+        "est",
+        "jolie."
+      ]
+    },
+    {
+      "id": "order15-ta-chambre-est-jolie",
+      "type": "order",
+      "l1": "Tvoja izba je pekná!",
+      "l2": "Ta chambre est jolie !",
+      "tokens_l1": [
+        "Tvoja",
+        "izba",
+        "je",
+        "pekná!"
+      ],
+      "tokens_l2": [
+        "Ta",
+        "chambre",
+        "est",
+        "jolie",
+        "!"
+      ]
+    },
+    {
+      "id": "order16-il-y-a-un-renard-dans-ma-cha",
+      "type": "order",
+      "l1": "V mojej izbe je líška!",
+      "l2": "Il y a un renard dans ma chambre !",
+      "tokens_l1": [
+        "V",
+        "mojej",
+        "izbe",
+        "je",
+        "líška!"
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "un",
+        "renard",
+        "dans",
+        "ma",
+        "chambre",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-ha-ha-oui-c-est-toi-pardon",
+      "type": "order",
+      "l1": "Ha ha! Áno, to si ty! Prepáč!",
+      "l2": "Ha ha ! Oui, c'est toi ! Pardon !",
+      "tokens_l1": [
+        "Ha",
+        "ha!",
+        "Áno,",
+        "to",
+        "si",
+        "ty!",
+        "Prepáč!"
+      ],
+      "tokens_l2": [
+        "Ha",
+        "ha",
+        "!",
+        "Oui,",
+        "c'est",
+        "toi",
+        "!",
+        "Pardon",
+        "!"
+      ]
+    }
+  ]
+}

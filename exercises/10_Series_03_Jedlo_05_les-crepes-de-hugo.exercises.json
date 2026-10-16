@@ -1,0 +1,324 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-je-fais",
+      "type": "match",
+      "l1": [
+        "robím, pripravujem",
+        "je to hotové",
+        "mňam!",
+        "ochutnaj!"
+      ],
+      "l2": [
+        "je fais",
+        "c'est prêt",
+        "miam !",
+        "goûte !"
+      ]
+    },
+    {
+      "id": "qcm2-c-est-pret",
+      "type": "qcm",
+      "l1": "je to hotové",
+      "l2": "c'est prêt",
+      "choices_l1": [
+        "mňam!",
+        "ochutnaj!",
+        "robím, pripravujem"
+      ],
+      "choices_l2": [
+        "miam !",
+        "goûte !",
+        "je fais"
+      ]
+    },
+    {
+      "id": "qcm3-goute",
+      "type": "qcm",
+      "l1": "ochutnaj!",
+      "l2": "goûte !",
+      "choices_l1": [
+        "mňam!",
+        "je to hotové",
+        "robím, pripravujem"
+      ],
+      "choices_l2": [
+        "miam !",
+        "c'est prêt",
+        "je fais"
+      ]
+    },
+    {
+      "id": "qcm4-miam",
+      "type": "qcm",
+      "l1": "mňam!",
+      "l2": "miam !",
+      "choices_l1": [
+        "ochutnaj!",
+        "je to hotové",
+        "mám hlad"
+      ],
+      "choices_l2": [
+        "goûte !",
+        "c'est prêt",
+        "j'ai faim"
+      ]
+    },
+    {
+      "id": "listen5-oui-je-fais-des-crepes",
+      "type": "listen",
+      "l1": "Áno! Robím palacinky!",
+      "l2": "Oui ! Je fais des crêpes !",
+      "choices_l1": [
+        "Áno! Robím koláč!",
+        "Nie! Robím palacinky!",
+        "Áno! Jem palacinky!"
+      ]
+    },
+    {
+      "id": "listen6-j-aime-les-crepes",
+      "type": "listen",
+      "l1": "Palacinky sa mi páčia!",
+      "l2": "J'aime les crêpes !",
+      "choices_l1": [
+        "Čokoláda sa mi páči!",
+        "Palacinka sa mi páči!",
+        "Jablká sa mi páčia!"
+      ]
+    },
+    {
+      "id": "listen7-tu-as-du-chocolat",
+      "type": "listen",
+      "l1": "Máš čokoládu?",
+      "l2": "Tu as du chocolat ?",
+      "choices_l1": [
+        "Máš džem?",
+        "Chceš čokoládu?",
+        "Mám čokoládu?"
+      ]
+    },
+    {
+      "id": "listen8-je-prends-une-crepe-avec-du-",
+      "type": "listen",
+      "l1": "Dám si palacinku s čokoládou, prosím ťa.",
+      "l2": "Je prends une crêpe avec du chocolat, s'il te plaît.",
+      "choices_l1": [
+        "Dám si palacinku s džemom, prosím ťa.",
+        "Dáš si palacinku s čokoládou, prosím ťa.",
+        "Dám si palacinku s čokoládou, ďakujem."
+      ]
+    },
+    {
+      "id": "listen9-miam-c-est-delicieux",
+      "type": "listen",
+      "l1": "Mňam! Je to výborné!",
+      "l2": "Miam ! C'est délicieux !",
+      "choices_l1": [
+        "Mňam! Je to horúce!",
+        "Mňam! Je to studené!",
+        "Mňam! Je to slané!"
+      ]
+    },
+    {
+      "id": "listen10-tu-veux-encore-une-crepe-and",
+      "type": "listen",
+      "l1": "Chceš ešte palacinku, Andrea?",
+      "l2": "Tu veux encore une crêpe, Andrea ?",
+      "choices_l1": [
+        "Chceš ešte džem, Andrea?",
+        "Chceš ešte palacinku, Hugo?",
+        "Dáš si palacinku, Andrea?"
+      ]
+    },
+    {
+      "id": "blank11-oui-voila-du-chocolat-et-de-",
+      "type": "fill-blank",
+      "l1": "Áno, tu je čokoláda a džem.",
+      "l2": "Oui, voilà du chocolat et de la confiture.",
+      "missing_l1": "džem",
+      "missing_l2": "confiture",
+      "blank_index_l1": 5,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "džús",
+        "chlieb",
+        "syr"
+      ],
+      "choices_l2": [
+        "jus",
+        "pain",
+        "fromage"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-oui-je-fais-des-crepes",
+      "type": "fill-blank",
+      "l1": "Áno! Robím palacinky!",
+      "l2": "Oui ! Je fais des crêpes !",
+      "missing_l1": "Robím",
+      "missing_l2": "fais",
+      "blank_index_l1": 1,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "Jem",
+        "Pijem",
+        "Dám"
+      ],
+      "choices_l2": [
+        "mange",
+        "bois",
+        "prends"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-c-est-pret-voila-les-crepes",
+      "type": "fill-blank",
+      "l1": "Je to hotové! Tu sú palacinky.",
+      "l2": "C'est prêt ! Voilà les crêpes.",
+      "missing_l1": "hotové",
+      "missing_l2": "prêt",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "horúce",
+        "studené",
+        "dobré"
+      ],
+      "choices_l2": [
+        "chaud",
+        "froid",
+        "bon"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-miam-c-est-delicieux",
+      "type": "fill-blank",
+      "l1": "Mňam! Je to výborné!",
+      "l2": "Miam ! C'est délicieux !",
+      "missing_l1": "výborné",
+      "missing_l2": "délicieux",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "sladké",
+        "slané",
+        "studené"
+      ],
+      "choices_l2": [
+        "sucré",
+        "salé",
+        "froid"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-c-est-pret-voila-les-crepes",
+      "type": "order",
+      "l1": "Je to hotové! Tu sú palacinky.",
+      "l2": "C'est prêt ! Voilà les crêpes.",
+      "tokens_l1": [
+        "Je",
+        "to",
+        "hotové!",
+        "Tu",
+        "sú",
+        "palacinky."
+      ],
+      "tokens_l2": [
+        "C'est",
+        "prêt",
+        "!",
+        "Voilà",
+        "les",
+        "crêpes."
+      ]
+    },
+    {
+      "id": "order16-oui-je-fais-des-crepes",
+      "type": "order",
+      "l1": "Áno! Robím palacinky!",
+      "l2": "Oui ! Je fais des crêpes !",
+      "tokens_l1": [
+        "Áno!",
+        "Robím",
+        "palacinky!"
+      ],
+      "tokens_l2": [
+        "Oui",
+        "!",
+        "Je",
+        "fais",
+        "des",
+        "crêpes",
+        "!"
+      ]
+    },
+    {
+      "id": "order17-tu-as-du-chocolat",
+      "type": "order",
+      "l1": "Máš čokoládu?",
+      "l2": "Tu as du chocolat ?",
+      "tokens_l1": [
+        "Máš",
+        "čokoládu?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "as",
+        "du",
+        "chocolat",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-je-fais-une-tarte-avec-des-p",
+      "type": "order",
+      "l1": "Robím koláč s jablkami.",
+      "l2": "Je fais une tarte avec des pommes.",
+      "tokens_l1": [
+        "Robím",
+        "koláč",
+        "s",
+        "jablkami."
+      ],
+      "tokens_l2": [
+        "Je",
+        "fais",
+        "une",
+        "tarte",
+        "avec",
+        "des",
+        "pommes."
+      ]
+    },
+    {
+      "id": "order19-salut-hugo-il-y-a-un-gouter",
+      "type": "order",
+      "l1": "Ahoj, Hugo! Je tu olovrant?",
+      "l2": "Salut, Hugo ! Il y a un goûter ?",
+      "tokens_l1": [
+        "Ahoj,",
+        "Hugo!",
+        "Je",
+        "tu",
+        "olovrant?"
+      ],
+      "tokens_l2": [
+        "Salut,",
+        "Hugo",
+        "!",
+        "Il",
+        "y",
+        "a",
+        "un",
+        "goûter",
+        "?"
+      ]
+    }
+  ]
+}

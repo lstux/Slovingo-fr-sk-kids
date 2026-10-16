@@ -1,0 +1,364 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-a-gauche",
+      "type": "match",
+      "l1": [
+        "vľavo, naľavo",
+        "vpravo, napravo",
+        "priamo",
+        "pred"
+      ],
+      "l2": [
+        "à gauche",
+        "à droite",
+        "tout droit",
+        "devant"
+      ]
+    },
+    {
+      "id": "match2-derriere",
+      "type": "match",
+      "l1": [
+        "za",
+        "blízko",
+        "ďaleko od",
+        "vedľa"
+      ],
+      "l2": [
+        "derrière",
+        "près de",
+        "loin de",
+        "à côté de"
+      ]
+    },
+    {
+      "id": "qcm3-a-gauche",
+      "type": "qcm",
+      "l1": "vľavo, naľavo",
+      "l2": "à gauche",
+      "choices_l1": [
+        "vpravo, napravo",
+        "priamo",
+        "pred"
+      ],
+      "choices_l2": [
+        "à droite",
+        "tout droit",
+        "devant"
+      ]
+    },
+    {
+      "id": "qcm4-pres-de",
+      "type": "qcm",
+      "l1": "blízko",
+      "l2": "près de",
+      "choices_l1": [
+        "ďaleko od",
+        "vedľa",
+        "oproti"
+      ],
+      "choices_l2": [
+        "loin de",
+        "à côté de",
+        "en face de"
+      ]
+    },
+    {
+      "id": "qcm5-en-face-de",
+      "type": "qcm",
+      "l1": "oproti",
+      "l2": "en face de",
+      "choices_l1": [
+        "vedľa",
+        "pred",
+        "za"
+      ],
+      "choices_l2": [
+        "à côté de",
+        "devant",
+        "derrière"
+      ]
+    },
+    {
+      "id": "qcm6-tourner",
+      "type": "qcm",
+      "l1": "odbočiť",
+      "l2": "tourner",
+      "choices_l1": [
+        "ísť",
+        "priamo",
+        "blízko"
+      ],
+      "choices_l2": [
+        "aller",
+        "tout droit",
+        "près de"
+      ]
+    },
+    {
+      "id": "listen7-ou-est-la-boulangerie",
+      "type": "listen",
+      "l1": "Kde je pekáreň?",
+      "l2": "Où est la boulangerie ?",
+      "choices_l1": [
+        "Kde je kostol?",
+        "Kde je plaváreň?",
+        "Kde je stanica?"
+      ]
+    },
+    {
+      "id": "listen8-elle-est-pres-de-la-place",
+      "type": "listen",
+      "l1": "Je blízko námestia.",
+      "l2": "Elle est près de la place.",
+      "choices_l1": [
+        "Je ďaleko od námestia.",
+        "Je blízko parku.",
+        "Je vedľa námestia."
+      ]
+    },
+    {
+      "id": "listen9-le-stade-est-loin-du-village",
+      "type": "listen",
+      "l1": "Štadión je ďaleko od dediny.",
+      "l2": "Le stade est loin du village.",
+      "choices_l1": [
+        "Štadión je blízko dediny.",
+        "Škola je ďaleko od dediny.",
+        "Štadión je ďaleko od školy."
+      ]
+    },
+    {
+      "id": "listen10-l-eglise-est-devant-la-fonta",
+      "type": "listen",
+      "l1": "Kostol je pred fontánou.",
+      "l2": "L'église est devant la fontaine.",
+      "choices_l1": [
+        "Kostol je za fontánou.",
+        "Park je pred fontánou.",
+        "Kostol je vedľa fontány."
+      ]
+    },
+    {
+      "id": "listen11-la-piscine-est-a-gauche-et-l",
+      "type": "listen",
+      "l1": "Plaváreň je vľavo a trh je vpravo.",
+      "l2": "La piscine est à gauche et le marché est à droite.",
+      "choices_l1": [
+        "Plaváreň je vpravo a trh je vľavo.",
+        "Plaváreň je vľavo a trh je priamo.",
+        "Plaváreň je vľavo a kostol je vpravo."
+      ]
+    },
+    {
+      "id": "listen12-je-tourne-a-gauche",
+      "type": "listen",
+      "l1": "Odbočujem doľava.",
+      "l2": "Je tourne à gauche.",
+      "choices_l1": [
+        "Odbočujem doprava.",
+        "Idem priamo.",
+        "Odbočíš doľava."
+      ]
+    },
+    {
+      "id": "blank13-l-eglise-est-devant-la-fonta",
+      "type": "fill-blank",
+      "l1": "Kostol je pred fontánou.",
+      "l2": "L'église est devant la fontaine.",
+      "missing_l1": "pred",
+      "missing_l2": "devant",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "za",
+        "vedľa",
+        "oproti"
+      ],
+      "choices_l2": [
+        "derrière",
+        "à côté de",
+        "en face de"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-le-parc-est-derriere-l-ecole",
+      "type": "fill-blank",
+      "l1": "Park je za školou.",
+      "l2": "Le parc est derrière l'école.",
+      "missing_l1": "za",
+      "missing_l2": "derrière",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "pred",
+        "vedľa",
+        "blízko"
+      ],
+      "choices_l2": [
+        "devant",
+        "près de",
+        "loin de"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-le-magasin-est-a-cote-de-la-",
+      "type": "fill-blank",
+      "l1": "Obchod je vedľa pekárne.",
+      "l2": "Le magasin est à côté de la boulangerie.",
+      "missing_l1": "pekárne",
+      "missing_l2": "boulangerie",
+      "blank_index_l1": 3,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "kostola",
+        "parku",
+        "školy"
+      ],
+      "choices_l2": [
+        "église",
+        "parc",
+        "école"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-le-stade-est-loin-du-village",
+      "type": "fill-blank",
+      "l1": "Štadión je ďaleko od dediny.",
+      "l2": "Le stade est loin du village.",
+      "missing_l1": "ďaleko",
+      "missing_l2": "loin",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "blízko",
+        "vedľa",
+        "pred"
+      ],
+      "choices_l2": [
+        "près",
+        "devant",
+        "derrière"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank17-l-ecole-est-en-face-du-parc",
+      "type": "fill-blank",
+      "l1": "Škola je oproti parku.",
+      "l2": "L'école est en face du parc.",
+      "missing_l1": "parku",
+      "missing_l2": "du",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "škole",
+        "pekárni",
+        "námestiu"
+      ],
+      "choices_l2": [
+        "de la",
+        "de l'",
+        "des"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order18-ou-est-la-boulangerie",
+      "type": "order",
+      "l1": "Kde je pekáreň?",
+      "l2": "Où est la boulangerie ?",
+      "tokens_l1": [
+        "Kde",
+        "je",
+        "pekáreň?"
+      ],
+      "tokens_l2": [
+        "Où",
+        "est",
+        "la",
+        "boulangerie",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-le-parc-est-derriere-l-ecole",
+      "type": "order",
+      "l1": "Park je za školou.",
+      "l2": "Le parc est derrière l'école.",
+      "tokens_l1": [
+        "Park",
+        "je",
+        "za",
+        "školou."
+      ],
+      "tokens_l2": [
+        "Le",
+        "parc",
+        "est",
+        "derrière",
+        "l'école."
+      ]
+    },
+    {
+      "id": "order20-la-gare-est-tout-droit",
+      "type": "order",
+      "l1": "Stanica je priamo.",
+      "l2": "La gare est tout droit.",
+      "tokens_l1": [
+        "Stanica",
+        "je",
+        "priamo."
+      ],
+      "tokens_l2": [
+        "La",
+        "gare",
+        "est",
+        "tout",
+        "droit."
+      ]
+    },
+    {
+      "id": "order21-l-ecole-est-en-face-du-parc",
+      "type": "order",
+      "l1": "Škola je oproti parku.",
+      "l2": "L'école est en face du parc.",
+      "tokens_l1": [
+        "Škola",
+        "je",
+        "oproti",
+        "parku."
+      ],
+      "tokens_l2": [
+        "L'école",
+        "est",
+        "en",
+        "face",
+        "du",
+        "parc."
+      ]
+    },
+    {
+      "id": "order22-je-tourne-a-gauche",
+      "type": "order",
+      "l1": "Odbočujem doľava.",
+      "l2": "Je tourne à gauche.",
+      "tokens_l1": [
+        "Odbočujem",
+        "doľava."
+      ],
+      "tokens_l2": [
+        "Je",
+        "tourne",
+        "à",
+        "gauche."
+      ]
+    }
+  ]
+}

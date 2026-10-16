@@ -1,0 +1,354 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-manger",
+      "type": "match",
+      "l1": [
+        "jesť",
+        "piť",
+        "chlieb",
+        "mlieko"
+      ],
+      "l2": [
+        "manger",
+        "boire",
+        "le pain",
+        "le lait"
+      ]
+    },
+    {
+      "id": "match2-l-eau",
+      "type": "match",
+      "l1": [
+        "voda",
+        "syr",
+        "polievka",
+        "ovocie"
+      ],
+      "l2": [
+        "l'eau",
+        "le fromage",
+        "la soupe",
+        "les fruits"
+      ]
+    },
+    {
+      "id": "qcm3-le-pain",
+      "type": "qcm",
+      "l1": "chlieb",
+      "l2": "le pain",
+      "choices_l1": [
+        "mlieko",
+        "syr",
+        "voda"
+      ],
+      "choices_l2": [
+        "le lait",
+        "le fromage",
+        "l'eau"
+      ]
+    },
+    {
+      "id": "qcm4-la-soupe",
+      "type": "qcm",
+      "l1": "polievka",
+      "l2": "la soupe",
+      "choices_l1": [
+        "voda",
+        "mlieko",
+        "jablko"
+      ],
+      "choices_l2": [
+        "l'eau",
+        "le lait",
+        "la pomme"
+      ]
+    },
+    {
+      "id": "qcm5-boire",
+      "type": "qcm",
+      "l1": "piť",
+      "l2": "boire",
+      "choices_l1": [
+        "jesť",
+        "chlieb",
+        "voda"
+      ],
+      "choices_l2": [
+        "manger",
+        "le pain",
+        "l'eau"
+      ]
+    },
+    {
+      "id": "qcm6-la-pomme",
+      "type": "qcm",
+      "l1": "jablko",
+      "l2": "la pomme",
+      "choices_l1": [
+        "ovocie",
+        "syr",
+        "chlieb"
+      ],
+      "choices_l2": [
+        "les fruits",
+        "le fromage",
+        "le pain"
+      ]
+    },
+    {
+      "id": "listen7-je-mange-du-pain",
+      "type": "listen",
+      "l1": "Jem chlieb.",
+      "l2": "Je mange du pain.",
+      "choices_l1": [
+        "Jem syr.",
+        "Pijem vodu.",
+        "Nejem chlieb."
+      ]
+    },
+    {
+      "id": "listen8-je-bois-de-l-eau",
+      "type": "listen",
+      "l1": "Pijem vodu.",
+      "l2": "Je bois de l'eau.",
+      "choices_l1": [
+        "Pijem mlieko.",
+        "Jem polievku.",
+        "Mama pije vodu."
+      ]
+    },
+    {
+      "id": "listen9-tu-manges-du-fromage",
+      "type": "listen",
+      "l1": "Ješ syr?",
+      "l2": "Tu manges du fromage ?",
+      "choices_l1": [
+        "Ješ chlieb?",
+        "Ješ polievku?",
+        "Jem syr."
+      ]
+    },
+    {
+      "id": "listen10-papa-boit-du-lait",
+      "type": "listen",
+      "l1": "Tato pije mlieko.",
+      "l2": "Papa boit du lait.",
+      "choices_l1": [
+        "Tato pije vodu.",
+        "Mama pije mlieko.",
+        "Tato je chlieb."
+      ]
+    },
+    {
+      "id": "listen11-je-ne-mange-pas-de-fromage",
+      "type": "listen",
+      "l1": "Nejem syr.",
+      "l2": "Je ne mange pas de fromage.",
+      "choices_l1": [
+        "Jem syr.",
+        "Nejem chlieb.",
+        "Nejem polievku."
+      ]
+    },
+    {
+      "id": "blank12-papa-boit-du-lait",
+      "type": "fill-blank",
+      "l1": "Tato pije mlieko.",
+      "l2": "Papa boit du lait.",
+      "missing_l1": "pije",
+      "missing_l2": "boit",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "je",
+        "pijem",
+        "piješ"
+      ],
+      "choices_l2": [
+        "mange",
+        "bois",
+        "boire"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-je-bois-de-l-eau",
+      "type": "fill-blank",
+      "l1": "Pijem vodu.",
+      "l2": "Je bois de l'eau.",
+      "missing_l1": "vodu",
+      "missing_l2": "l'eau",
+      "blank_index_l1": 1,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "mlieko",
+        "polievku",
+        "chlieb"
+      ],
+      "choices_l2": [
+        "lait",
+        "soupe",
+        "pain"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-mon-frere-mange-de-la-soupe",
+      "type": "fill-blank",
+      "l1": "Môj brat je polievku.",
+      "l2": "Mon frère mange de la soupe.",
+      "missing_l1": "polievku",
+      "missing_l2": "soupe",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "vodu",
+        "mlieko",
+        "syr"
+      ],
+      "choices_l2": [
+        "eau",
+        "lait",
+        "fromage"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-je-ne-mange-pas-de-fromage",
+      "type": "fill-blank",
+      "l1": "Nejem syr.",
+      "l2": "Je ne mange pas de fromage.",
+      "missing_l1": "Nejem",
+      "missing_l2": "mange",
+      "blank_index_l1": 0,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "Jem",
+        "Ješ",
+        "Pijem"
+      ],
+      "choices_l2": [
+        "bois",
+        "manges",
+        "boit"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-je-mange-du-pain",
+      "type": "fill-blank",
+      "l1": "Jem chlieb.",
+      "l2": "Je mange du pain.",
+      "missing_l1": "chlieb",
+      "missing_l2": "du",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "mlieko",
+        "syr",
+        "voda"
+      ],
+      "choices_l2": [
+        "de",
+        "de la",
+        "de l'"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-je-mange-du-pain",
+      "type": "order",
+      "l1": "Jem chlieb.",
+      "l2": "Je mange du pain.",
+      "tokens_l1": [
+        "Jem",
+        "chlieb."
+      ],
+      "tokens_l2": [
+        "Je",
+        "mange",
+        "du",
+        "pain."
+      ]
+    },
+    {
+      "id": "order18-maman-boit-de-l-eau",
+      "type": "order",
+      "l1": "Mama pije vodu.",
+      "l2": "Maman boit de l'eau.",
+      "tokens_l1": [
+        "Mama",
+        "pije",
+        "vodu."
+      ],
+      "tokens_l2": [
+        "Maman",
+        "boit",
+        "de",
+        "l'eau."
+      ]
+    },
+    {
+      "id": "order19-mon-frere-mange-de-la-soupe",
+      "type": "order",
+      "l1": "Môj brat je polievku.",
+      "l2": "Mon frère mange de la soupe.",
+      "tokens_l1": [
+        "Môj",
+        "brat",
+        "je",
+        "polievku."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "frère",
+        "mange",
+        "de",
+        "la",
+        "soupe."
+      ]
+    },
+    {
+      "id": "order20-je-ne-mange-pas-de-fromage",
+      "type": "order",
+      "l1": "Nejem syr.",
+      "l2": "Je ne mange pas de fromage.",
+      "tokens_l1": [
+        "Nejem",
+        "syr."
+      ],
+      "tokens_l2": [
+        "Je",
+        "ne",
+        "mange",
+        "pas",
+        "de",
+        "fromage."
+      ]
+    },
+    {
+      "id": "order21-je-mange-des-fruits-et-une-p",
+      "type": "order",
+      "l1": "Jem ovocie a jablko.",
+      "l2": "Je mange des fruits et une pomme.",
+      "tokens_l1": [
+        "Jem",
+        "ovocie",
+        "a",
+        "jablko."
+      ],
+      "tokens_l2": [
+        "Je",
+        "mange",
+        "des",
+        "fruits",
+        "et",
+        "une",
+        "pomme."
+      ]
+    }
+  ]
+}

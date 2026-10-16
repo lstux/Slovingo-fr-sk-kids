@@ -1,0 +1,317 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-la-maison",
+      "type": "match",
+      "l1": [
+        "dom",
+        "izba",
+        "stôl",
+        "kľúč"
+      ],
+      "l2": [
+        "la maison",
+        "la chambre",
+        "la table",
+        "la clé"
+      ]
+    },
+    {
+      "id": "match2-ranger",
+      "type": "match",
+      "l1": [
+        "upratovať",
+        "umývať",
+        "zatvárať",
+        "hľadať"
+      ],
+      "l2": [
+        "ranger",
+        "laver",
+        "fermer",
+        "chercher"
+      ]
+    },
+    {
+      "id": "qcm3-aider",
+      "type": "qcm",
+      "l1": "pomáhať",
+      "l2": "aider",
+      "choices_l1": [
+        "čítať",
+        "spať",
+        "pozerať"
+      ],
+      "choices_l2": [
+        "lire",
+        "dormir",
+        "regarder"
+      ]
+    },
+    {
+      "id": "qcm4-joli-jolie",
+      "type": "qcm",
+      "l1": "pekný, pekná",
+      "l2": "joli, jolie",
+      "choices_l1": [
+        "veľký, veľká",
+        "malý, malá",
+        "milý, milá"
+      ],
+      "choices_l2": [
+        "grand, grande",
+        "petit, petite",
+        "gentil, gentille"
+      ]
+    },
+    {
+      "id": "qcm5-ou-est",
+      "type": "qcm",
+      "l1": "kde je?",
+      "l2": "où est ?",
+      "choices_l1": [
+        "v kuchyni",
+        "na stole",
+        "poď dnu!"
+      ],
+      "choices_l2": [
+        "dans la cuisine",
+        "sur la table",
+        "entre !"
+      ]
+    },
+    {
+      "id": "listen6-voila-ma-chambre-il-y-a-un-l",
+      "type": "listen",
+      "l1": "Tu je moja izba! Je tam posteľ a stôl.",
+      "l2": "Voilà ma chambre ! Il y a un lit et une table.",
+      "choices_l1": [
+        "Tu je moja izba! Je tam posteľ a lampa.",
+        "Tu je moja kuchyňa! Je tam posteľ a stôl.",
+        "Tu je moja izba! Sú tam dve stoličky."
+      ]
+    },
+    {
+      "id": "listen7-voila-ta-cle-elle-est-sur-la",
+      "type": "listen",
+      "l1": "Tu je tvoj kľúč! Je na stole.",
+      "l2": "Voilà ta clé ! Elle est sur la table.",
+      "choices_l1": [
+        "Tu je tvoj kľúč! Je na stoličke.",
+        "Tu je tvoja kniha! Je na stole.",
+        "Tu je môj kľúč! Je na stole."
+      ]
+    },
+    {
+      "id": "listen8-je-range-le-salon-tu-aides-a",
+      "type": "listen",
+      "l1": "Upratujem obývačku. Pomáhaš, Andrea?",
+      "l2": "Je range le salon. Tu aides, Andrea ?",
+      "choices_l1": [
+        "Upratujem kuchyňu. Pomáhaš, Andrea?",
+        "Upratuješ obývačku. Pomáham, Andrea?",
+        "Upratujem obývačku. Pomáhaš, Léa?"
+      ]
+    },
+    {
+      "id": "listen9-elle-dort-dans-le-jardin",
+      "type": "listen",
+      "l1": "Spí v záhrade.",
+      "l2": "Elle dort dans le jardin.",
+      "choices_l1": [
+        "Číta v záhrade.",
+        "Spí v kuchyni.",
+        "Hľadá v záhrade."
+      ]
+    },
+    {
+      "id": "listen10-merci-il-y-a-un-livre-dans-m",
+      "type": "listen",
+      "l1": "Ďakujem! V mojej taške je kniha.",
+      "l2": "Merci ! Il y a un livre dans mon sac.",
+      "choices_l1": [
+        "Ďakujem! V mojej taške je kľúč.",
+        "Ďakujem! V mojej izbe je kniha.",
+        "Ďakujem! Na mojom stole je kniha."
+      ]
+    },
+    {
+      "id": "blank11-merci-je-cherche-ma-cle-ou-e",
+      "type": "fill-blank",
+      "l1": "Ďakujem! Hľadám svoj kľúč. Kde je môj kľúč?",
+      "l2": "Merci ! Je cherche ma clé. Où est ma clé ?",
+      "missing_l1": "môj",
+      "missing_l2": "ma",
+      "blank_index_l1": 6,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "moja",
+        "moje",
+        "tvoj"
+      ],
+      "choices_l2": [
+        "mon",
+        "mes",
+        "ta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-oui-j-aide-je-lave-les-verre",
+      "type": "fill-blank",
+      "l1": "Áno, pomáham! Umývam poháre.",
+      "l2": "Oui, j'aide ! Je lave les verres.",
+      "missing_l1": "poháre",
+      "missing_l2": "verres",
+      "blank_index_l1": 3,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "taniere",
+        "knihy",
+        "kľúče"
+      ],
+      "choices_l2": [
+        "assiettes",
+        "livres",
+        "clés"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-merci-je-ferme-la-fenetre",
+      "type": "fill-blank",
+      "l1": "Ďakujem! Zatváram okno.",
+      "l2": "Merci ! Je ferme la fenêtre.",
+      "missing_l1": "okno",
+      "missing_l2": "fenêtre",
+      "blank_index_l1": 2,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "dvere",
+        "dom",
+        "stôl"
+      ],
+      "choices_l2": [
+        "porte",
+        "maison",
+        "table"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-voila-ton-livre-sur-la-chais",
+      "type": "fill-blank",
+      "l1": "Tu je tvoja kniha, na stoličke.",
+      "l2": "Voilà ton livre, sur la chaise.",
+      "missing_l1": "tvoja",
+      "missing_l2": "ton",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "tvoj",
+        "tvoje",
+        "moja"
+      ],
+      "choices_l2": [
+        "ta",
+        "mon",
+        "mes"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-voila-ma-chambre-il-y-a-un-l",
+      "type": "order",
+      "l1": "Tu je moja izba! Je tam posteľ a stôl.",
+      "l2": "Voilà ma chambre ! Il y a un lit et une table.",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "moja",
+        "izba!",
+        "Je",
+        "tam",
+        "posteľ",
+        "a",
+        "stôl."
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "ma",
+        "chambre",
+        "!",
+        "Il",
+        "y",
+        "a",
+        "un",
+        "lit",
+        "et",
+        "une",
+        "table."
+      ]
+    },
+    {
+      "id": "order16-ou-est-ta-grand-mere",
+      "type": "order",
+      "l1": "Kde je tvoja babka?",
+      "l2": "Où est ta grand-mère ?",
+      "tokens_l1": [
+        "Kde",
+        "je",
+        "tvoja",
+        "babka?"
+      ],
+      "tokens_l2": [
+        "Où",
+        "est",
+        "ta",
+        "grand-mère",
+        "?"
+      ]
+    },
+    {
+      "id": "order17-merci-j-aime-ton-sac",
+      "type": "order",
+      "l1": "Ďakujem! Páči sa mi tvoja taška.",
+      "l2": "Merci ! J'aime ton sac.",
+      "tokens_l1": [
+        "Ďakujem!",
+        "Páči",
+        "sa",
+        "mi",
+        "tvoja",
+        "taška."
+      ],
+      "tokens_l2": [
+        "Merci",
+        "!",
+        "J'aime",
+        "ton",
+        "sac."
+      ]
+    },
+    {
+      "id": "order18-au-revoir-andrea-a-demain",
+      "type": "order",
+      "l1": "Dovidenia, Andrea! Do zajtra!",
+      "l2": "Au revoir, Andrea ! À demain !",
+      "tokens_l1": [
+        "Dovidenia,",
+        "Andrea!",
+        "Do",
+        "zajtra!"
+      ],
+      "tokens_l2": [
+        "Au",
+        "revoir,",
+        "Andrea",
+        "!",
+        "À",
+        "demain",
+        "!"
+      ]
+    }
+  ]
+}

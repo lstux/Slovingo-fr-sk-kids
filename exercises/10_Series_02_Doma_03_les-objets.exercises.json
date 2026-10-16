@@ -1,0 +1,313 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-chercher",
+      "type": "match",
+      "l1": [
+        "hľadať",
+        "kniha",
+        "taška",
+        "kľúč"
+      ],
+      "l2": [
+        "chercher",
+        "le livre",
+        "le sac",
+        "la clé"
+      ]
+    },
+    {
+      "id": "match2-le-verre",
+      "type": "match",
+      "l1": [
+        "pohár",
+        "tanier",
+        "hľadám",
+        "hľadáš"
+      ],
+      "l2": [
+        "le verre",
+        "l'assiette",
+        "je cherche",
+        "tu cherches"
+      ]
+    },
+    {
+      "id": "qcm3-le-livre",
+      "type": "qcm",
+      "l1": "kniha",
+      "l2": "le livre",
+      "choices_l1": [
+        "taška",
+        "kľúč",
+        "pohár"
+      ],
+      "choices_l2": [
+        "le sac",
+        "la clé",
+        "le verre"
+      ]
+    },
+    {
+      "id": "qcm4-le-verre",
+      "type": "qcm",
+      "l1": "pohár",
+      "l2": "le verre",
+      "choices_l1": [
+        "tanier",
+        "taška",
+        "kľúč"
+      ],
+      "choices_l2": [
+        "l'assiette",
+        "le sac",
+        "la clé"
+      ]
+    },
+    {
+      "id": "qcm5-je-cherche",
+      "type": "qcm",
+      "l1": "hľadám",
+      "l2": "je cherche",
+      "choices_l1": [
+        "hľadáš",
+        "kniha",
+        "kľúč"
+      ],
+      "choices_l2": [
+        "tu cherches",
+        "le livre",
+        "la clé"
+      ]
+    },
+    {
+      "id": "qcm6-les-chaussons",
+      "type": "qcm",
+      "l1": "papuče",
+      "l2": "les chaussons",
+      "choices_l1": [
+        "telefón",
+        "taška",
+        "pohár"
+      ],
+      "choices_l2": [
+        "le téléphone",
+        "le sac",
+        "le verre"
+      ]
+    },
+    {
+      "id": "listen7-je-cherche-mon-sac",
+      "type": "listen",
+      "l1": "Hľadám svoju tašku.",
+      "l2": "Je cherche mon sac.",
+      "choices_l1": [
+        "Hľadáš svoju tašku.",
+        "Hľadám svoj kľúč.",
+        "Hľadám svoju knihu."
+      ]
+    },
+    {
+      "id": "listen8-voila-ma-cle",
+      "type": "listen",
+      "l1": "Tu je môj kľúč!",
+      "l2": "Voilà ma clé !",
+      "choices_l1": [
+        "Tu je moja taška!",
+        "Tu sú moje kľúče!",
+        "Tu je môj pohár!"
+      ]
+    },
+    {
+      "id": "listen9-il-y-a-des-livres-sur-la-tab",
+      "type": "listen",
+      "l1": "Na stole sú knihy.",
+      "l2": "Il y a des livres sur la table.",
+      "choices_l1": [
+        "Na stole je kniha.",
+        "Na stoličke sú knihy.",
+        "Na stole sú poháre."
+      ]
+    },
+    {
+      "id": "listen10-il-y-a-des-verres-et-des-ass",
+      "type": "listen",
+      "l1": "V kuchyni sú poháre a taniere.",
+      "l2": "Il y a des verres et des assiettes dans la cuisine.",
+      "choices_l1": [
+        "V kuchyni je pohár a tanier.",
+        "V izbe sú poháre a taniere.",
+        "V kuchyni sú knihy a taniere."
+      ]
+    },
+    {
+      "id": "listen11-mon-frere-cherche-les-cles",
+      "type": "listen",
+      "l1": "Môj brat hľadá kľúče.",
+      "l2": "Mon frère cherche les clés.",
+      "choices_l1": [
+        "Môj brat hľadá kľúč.",
+        "Moja sestra hľadá kľúče.",
+        "Môj brat hľadá knihy."
+      ]
+    },
+    {
+      "id": "blank12-voila-ma-cle",
+      "type": "fill-blank",
+      "l1": "Tu je môj kľúč!",
+      "l2": "Voilà ma clé !",
+      "missing_l1": "môj",
+      "missing_l2": "ma",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "moja",
+        "moje",
+        "tvoj"
+      ],
+      "choices_l2": [
+        "mon",
+        "mes",
+        "ta"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-tu-cherches-ta-cle",
+      "type": "fill-blank",
+      "l1": "Hľadáš svoj kľúč?",
+      "l2": "Tu cherches ta clé ?",
+      "missing_l1": "kľúč",
+      "missing_l2": "clé",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "pohár",
+        "telefón",
+        "tanier"
+      ],
+      "choices_l2": [
+        "verre",
+        "téléphone",
+        "assiette"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-il-y-a-des-livres-sur-la-tab",
+      "type": "fill-blank",
+      "l1": "Na stole sú knihy.",
+      "l2": "Il y a des livres sur la table.",
+      "missing_l1": "knihy",
+      "missing_l2": "livres",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "kniha",
+        "kľúče",
+        "poháre"
+      ],
+      "choices_l2": [
+        "livre",
+        "clés",
+        "verres"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-il-y-a-des-verres-et-des-ass",
+      "type": "fill-blank",
+      "l1": "V kuchyni sú poháre a taniere.",
+      "l2": "Il y a des verres et des assiettes dans la cuisine.",
+      "missing_l1": "taniere",
+      "missing_l2": "assiettes",
+      "blank_index_l1": 5,
+      "blank_index_l2": 7,
+      "choices_l1": [
+        "tanier",
+        "kľúče",
+        "knihy"
+      ],
+      "choices_l2": [
+        "assiette",
+        "clés",
+        "livres"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-je-cherche-mon-sac",
+      "type": "order",
+      "l1": "Hľadám svoju tašku.",
+      "l2": "Je cherche mon sac.",
+      "tokens_l1": [
+        "Hľadám",
+        "svoju",
+        "tašku."
+      ],
+      "tokens_l2": [
+        "Je",
+        "cherche",
+        "mon",
+        "sac."
+      ]
+    },
+    {
+      "id": "order17-ou-est-mon-livre",
+      "type": "order",
+      "l1": "Kde je moja kniha?",
+      "l2": "Où est mon livre ?",
+      "tokens_l1": [
+        "Kde",
+        "je",
+        "moja",
+        "kniha?"
+      ],
+      "tokens_l2": [
+        "Où",
+        "est",
+        "mon",
+        "livre",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-mon-frere-cherche-les-cles",
+      "type": "order",
+      "l1": "Môj brat hľadá kľúče.",
+      "l2": "Mon frère cherche les clés.",
+      "tokens_l1": [
+        "Môj",
+        "brat",
+        "hľadá",
+        "kľúče."
+      ],
+      "tokens_l2": [
+        "Mon",
+        "frère",
+        "cherche",
+        "les",
+        "clés."
+      ]
+    },
+    {
+      "id": "order19-tu-as-des-chaussons",
+      "type": "order",
+      "l1": "Máš papuče?",
+      "l2": "Tu as des chaussons ?",
+      "tokens_l1": [
+        "Máš",
+        "papuče?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "as",
+        "des",
+        "chaussons",
+        "?"
+      ]
+    }
+  ]
+}

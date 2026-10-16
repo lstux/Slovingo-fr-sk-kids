@@ -1,0 +1,271 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-la-famille",
+      "type": "match",
+      "l1": [
+        "rodina",
+        "rodičia",
+        "starí rodičia",
+        "dedko"
+      ],
+      "l2": [
+        "la famille",
+        "les parents",
+        "les grands-parents",
+        "le grand-père"
+      ]
+    },
+    {
+      "id": "match2-oui",
+      "type": "match",
+      "l1": [
+        "áno",
+        "nie",
+        "veľmi",
+        "a ty?"
+      ],
+      "l2": [
+        "oui",
+        "non",
+        "très",
+        "et toi ?"
+      ]
+    },
+    {
+      "id": "qcm3-onze",
+      "type": "qcm",
+      "l1": "jedenásť",
+      "l2": "onze",
+      "choices_l1": [
+        "dvanásť",
+        "mám",
+        "máš"
+      ],
+      "choices_l2": [
+        "douze",
+        "j'ai",
+        "tu as"
+      ]
+    },
+    {
+      "id": "qcm4-gentil-gentille",
+      "type": "qcm",
+      "l1": "milý, milá",
+      "l2": "gentil, gentille",
+      "choices_l1": [
+        "silný, silná",
+        "malý, malá",
+        "veľký, veľká"
+      ],
+      "choices_l2": [
+        "fort, forte",
+        "petit, petite",
+        "grand, grande"
+      ]
+    },
+    {
+      "id": "qcm5-moi-aussi",
+      "type": "qcm",
+      "l1": "ja tiež",
+      "l2": "moi aussi",
+      "choices_l1": [
+        "a ty?",
+        "áno",
+        "veľmi"
+      ],
+      "choices_l2": [
+        "et toi ?",
+        "oui",
+        "très"
+      ]
+    },
+    {
+      "id": "listen6-ta-maman-est-grande",
+      "type": "listen",
+      "l1": "Tvoja mama je veľká!",
+      "l2": "Ta maman est grande !",
+      "choices_l1": [
+        "Moja mama je veľká!",
+        "Tvoj tato je veľký!",
+        "Tvoja mama je malá!"
+      ]
+    },
+    {
+      "id": "listen7-oui-ma-sur-est-petite-et-tre",
+      "type": "listen",
+      "l1": "Áno, moja sestra je malá a veľmi rýchla!",
+      "l2": "Oui, ma sœur est petite et très rapide !",
+      "choices_l1": [
+        "Áno, môj brat je malý a veľmi rýchly!",
+        "Nie, moja sestra je malá a veľmi rýchla!",
+        "Áno, moja sestra je veľká a veľmi rýchla!"
+      ]
+    },
+    {
+      "id": "listen8-non-j-ai-onze-ans-et-toi",
+      "type": "listen",
+      "l1": "Nie, mám jedenásť rokov. A ty?",
+      "l2": "Non, j'ai onze ans. Et toi ?",
+      "choices_l1": [
+        "Nie, mám dvanásť rokov. A ty?",
+        "Áno, mám jedenásť rokov. A ty?",
+        "Nie, máš jedenásť rokov. A ty?"
+      ]
+    },
+    {
+      "id": "listen9-elle-est-tres-gentille",
+      "type": "listen",
+      "l1": "Je veľmi milá.",
+      "l2": "Elle est très gentille.",
+      "choices_l1": [
+        "Je veľmi silná.",
+        "Je veľmi veselá.",
+        "Je veľmi malá."
+      ]
+    },
+    {
+      "id": "blank10-oui-il-est-tres-gentil-il-es",
+      "type": "fill-blank",
+      "l1": "Áno, je veľmi milý. Je tiež veľmi rýchly!",
+      "l2": "Oui, il est très gentil. Il est très rapide aussi !",
+      "missing_l1": "milý",
+      "missing_l2": "gentil",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "milá",
+        "silný",
+        "malý"
+      ],
+      "choices_l2": [
+        "gentille",
+        "fort",
+        "petit"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-moi-j-ai-neuf-ans-mon-frere-",
+      "type": "fill-blank",
+      "l1": "Ja mám deväť rokov. Môj brat má osem rokov a moja sesternica má dvanásť rokov.",
+      "l2": "Moi, j'ai neuf ans. Mon frère a huit ans et ma cousine a douze ans.",
+      "missing_l1": "sesternica",
+      "missing_l2": "cousine",
+      "blank_index_l1": 11,
+      "blank_index_l2": 11,
+      "choices_l1": [
+        "kamarátka",
+        "sestra",
+        "babka"
+      ],
+      "choices_l2": [
+        "copine",
+        "sœur",
+        "grand-mère"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-douze-ans-elle-est-grande",
+      "type": "fill-blank",
+      "l1": "Dvanásť rokov? Je veľká!",
+      "l2": "Douze ans ? Elle est grande !",
+      "missing_l1": "veľká",
+      "missing_l2": "grande",
+      "blank_index_l1": 3,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "veľký",
+        "malá",
+        "silná"
+      ],
+      "choices_l2": [
+        "grand",
+        "petite",
+        "forte"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order13-ta-maman-est-grande",
+      "type": "order",
+      "l1": "Tvoja mama je veľká!",
+      "l2": "Ta maman est grande !",
+      "tokens_l1": [
+        "Tvoja",
+        "mama",
+        "je",
+        "veľká!"
+      ],
+      "tokens_l2": [
+        "Ta",
+        "maman",
+        "est",
+        "grande",
+        "!"
+      ]
+    },
+    {
+      "id": "order14-tu-as-une-sur",
+      "type": "order",
+      "l1": "Máš sestru?",
+      "l2": "Tu as une sœur ?",
+      "tokens_l1": [
+        "Máš",
+        "sestru?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "as",
+        "une",
+        "sœur",
+        "?"
+      ]
+    },
+    {
+      "id": "order15-salut-andrea-tu-as-douze-ans",
+      "type": "order",
+      "l1": "Ahoj, Andrea! Máš dvanásť rokov?",
+      "l2": "Salut, Andrea ! Tu as douze ans ?",
+      "tokens_l1": [
+        "Ahoj,",
+        "Andrea!",
+        "Máš",
+        "dvanásť",
+        "rokov?"
+      ],
+      "tokens_l2": [
+        "Salut,",
+        "Andrea",
+        "!",
+        "Tu",
+        "as",
+        "douze",
+        "ans",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-andrea-voila-ma-maman",
+      "type": "order",
+      "l1": "Andrea, tu je moja mama.",
+      "l2": "Andrea, voilà ma maman.",
+      "tokens_l1": [
+        "Andrea,",
+        "tu",
+        "je",
+        "moja",
+        "mama."
+      ],
+      "tokens_l2": [
+        "Andrea,",
+        "voilà",
+        "ma",
+        "maman."
+      ]
+    }
+  ]
+}

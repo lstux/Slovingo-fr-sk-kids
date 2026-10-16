@@ -1,0 +1,278 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm1-le-gouter",
+      "type": "qcm",
+      "l1": "olovrant",
+      "l2": "le goûter",
+      "choices_l1": [
+        "rodina",
+        "dedko",
+        "babka"
+      ],
+      "choices_l2": [
+        "la famille",
+        "le grand-père",
+        "la grand-mère"
+      ]
+    },
+    {
+      "id": "qcm2-bienvenue-chez-moi",
+      "type": "qcm",
+      "l1": "vitaj u mňa!",
+      "l2": "bienvenue chez moi !",
+      "choices_l1": [
+        "hovor mi Mamie!",
+        "olovrant",
+        "áno"
+      ],
+      "choices_l2": [
+        "appelle-moi Mamie !",
+        "le goûter",
+        "oui"
+      ]
+    },
+    {
+      "id": "qcm3-appelle-moi-mamie",
+      "type": "qcm",
+      "l1": "hovor mi Mamie!",
+      "l2": "appelle-moi Mamie !",
+      "choices_l1": [
+        "vitaj u mňa!",
+        "olovrant",
+        "nie"
+      ],
+      "choices_l2": [
+        "bienvenue chez moi !",
+        "le goûter",
+        "non"
+      ]
+    },
+    {
+      "id": "listen4-appelle-moi-mamie",
+      "type": "listen",
+      "l1": "Hovor mi Mamie!",
+      "l2": "Appelle-moi Mamie !",
+      "choices_l1": [
+        "Hovor mi Hugo!",
+        "Volám sa Mamie!",
+        "Ahoj, Mamie!"
+      ]
+    },
+    {
+      "id": "listen5-mamie-est-petite-et-tres-for",
+      "type": "listen",
+      "l1": "Mamie je malá a veľmi silná!",
+      "l2": "Mamie est petite et très forte !",
+      "choices_l1": [
+        "Mamie je veľká a veľmi silná!",
+        "Mamie je malá a veľmi milá!",
+        "Moja babka je malá a silná!"
+      ]
+    },
+    {
+      "id": "listen6-moi-j-ai-un-frere-c-est-hugo",
+      "type": "listen",
+      "l1": "Ja mám brata. To je Hugo!",
+      "l2": "Moi, j'ai un frère. C'est Hugo !",
+      "choices_l1": [
+        "Ja mám sestru. To je Hugo!",
+        "Ja mám brata. To je Léa!",
+        "Ja nemám brata. To je Hugo!"
+      ]
+    },
+    {
+      "id": "listen7-merci-beaucoup-mamie",
+      "type": "listen",
+      "l1": "Ďakujem pekne, Mamie!",
+      "l2": "Merci beaucoup, Mamie !",
+      "choices_l1": [
+        "Ďakujem, Mamie!",
+        "Ďakujem pekne, Hugo!",
+        "Dobrý deň, Mamie!"
+      ]
+    },
+    {
+      "id": "listen8-voila-le-gouter",
+      "type": "listen",
+      "l1": "Tu je olovrant!",
+      "l2": "Voilà le goûter !",
+      "choices_l1": [
+        "Tu je rodina!",
+        "Tu je Mamie!",
+        "To je olovrant!"
+      ]
+    },
+    {
+      "id": "blank9-j-ai-neuf-ans",
+      "type": "fill-blank",
+      "l1": "Mám deväť rokov.",
+      "l2": "J'ai neuf ans.",
+      "missing_l1": "deväť",
+      "missing_l2": "neuf",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "osem",
+        "desať",
+        "dvanásť"
+      ],
+      "choices_l2": [
+        "huit",
+        "dix",
+        "douze"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank10-et-moi-j-ai-une-sur-c-est-le",
+      "type": "fill-blank",
+      "l1": "A ja mám sestru. To je Léa!",
+      "l2": "Et moi, j'ai une sœur. C'est Léa !",
+      "missing_l1": "sestru",
+      "missing_l2": "sœur",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "brata",
+        "babku",
+        "mamu"
+      ],
+      "choices_l2": [
+        "frère",
+        "grand-mère",
+        "maman"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-bienvenue-chez-moi",
+      "type": "fill-blank",
+      "l1": "Vitaj u mňa!",
+      "l2": "Bienvenue chez moi !",
+      "missing_l1": "u",
+      "missing_l2": "chez",
+      "blank_index_l1": 1,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "v",
+        "na",
+        "do"
+      ],
+      "choices_l2": [
+        "dans",
+        "à",
+        "sur"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-mamie-est-petite-et-tres-for",
+      "type": "fill-blank",
+      "l1": "Mamie je malá a veľmi silná!",
+      "l2": "Mamie est petite et très forte !",
+      "missing_l1": "silná",
+      "missing_l2": "forte",
+      "blank_index_l1": 5,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "silný",
+        "milá",
+        "veselá"
+      ],
+      "choices_l2": [
+        "fort",
+        "gentille",
+        "joyeuse"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order13-appelle-moi-mamie",
+      "type": "order",
+      "l1": "Hovor mi Mamie!",
+      "l2": "Appelle-moi Mamie !",
+      "tokens_l1": [
+        "Hovor",
+        "mi",
+        "Mamie!"
+      ],
+      "tokens_l2": [
+        "Appelle-moi",
+        "Mamie",
+        "!"
+      ]
+    },
+    {
+      "id": "order14-voila-le-gouter-merci-beauco",
+      "type": "order",
+      "l1": "Tu je olovrant! Ďakujem pekne!",
+      "l2": "Voilà le goûter ! Merci beaucoup !",
+      "tokens_l1": [
+        "Tu",
+        "je",
+        "olovrant!",
+        "Ďakujem",
+        "pekne!"
+      ],
+      "tokens_l2": [
+        "Voilà",
+        "le",
+        "goûter",
+        "!",
+        "Merci",
+        "beaucoup",
+        "!"
+      ]
+    },
+    {
+      "id": "order15-ma-grand-mere-est-petite-et-",
+      "type": "order",
+      "l1": "Moja babka je malá a veľmi silná.",
+      "l2": "Ma grand-mère est petite et très forte.",
+      "tokens_l1": [
+        "Moja",
+        "babka",
+        "je",
+        "malá",
+        "a",
+        "veľmi",
+        "silná."
+      ],
+      "tokens_l2": [
+        "Ma",
+        "grand-mère",
+        "est",
+        "petite",
+        "et",
+        "très",
+        "forte."
+      ]
+    },
+    {
+      "id": "order16-moi-j-ai-un-frere-c-est-hugo",
+      "type": "order",
+      "l1": "Ja mám brata. To je Hugo!",
+      "l2": "Moi, j'ai un frère. C'est Hugo !",
+      "tokens_l1": [
+        "Ja",
+        "mám",
+        "brata.",
+        "To",
+        "je",
+        "Hugo!"
+      ],
+      "tokens_l2": [
+        "Moi,",
+        "j'ai",
+        "un",
+        "frère.",
+        "C'est",
+        "Hugo",
+        "!"
+      ]
+    }
+  ]
+}

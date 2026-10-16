@@ -1,0 +1,320 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-village",
+      "type": "match",
+      "l1": [
+        "dedina",
+        "kostol",
+        "ísť",
+        "trh"
+      ],
+      "l2": [
+        "le village",
+        "l'église",
+        "aller",
+        "le marché"
+      ]
+    },
+    {
+      "id": "match2-a-gauche",
+      "type": "match",
+      "l1": [
+        "vľavo",
+        "vpravo",
+        "priamo",
+        "za"
+      ],
+      "l2": [
+        "à gauche",
+        "à droite",
+        "tout droit",
+        "derrière"
+      ]
+    },
+    {
+      "id": "qcm3-vite",
+      "type": "qcm",
+      "l1": "rýchlo",
+      "l2": "vite",
+      "choices_l1": [
+        "pešo",
+        "alebo",
+        "tam"
+      ],
+      "choices_l2": [
+        "à pied",
+        "ou",
+        "là"
+      ]
+    },
+    {
+      "id": "qcm4-puis",
+      "type": "qcm",
+      "l1": "potom",
+      "l2": "puis",
+      "choices_l1": [
+        "alebo",
+        "ale",
+        "tu"
+      ],
+      "choices_l2": [
+        "ou",
+        "mais",
+        "ici"
+      ]
+    },
+    {
+      "id": "qcm5-pres-de",
+      "type": "qcm",
+      "l1": "blízko",
+      "l2": "près de",
+      "choices_l1": [
+        "ďaleko od",
+        "vedľa",
+        "oproti"
+      ],
+      "choices_l2": [
+        "loin de",
+        "à côté de",
+        "en face de"
+      ]
+    },
+    {
+      "id": "listen6-aujourd-hui-je-vais-au-stade",
+      "type": "listen",
+      "l1": "Dnes idem na štadión. A ty, Hugo?",
+      "l2": "Aujourd'hui, je vais au stade. Et toi, Hugo ?",
+      "choices_l1": [
+        "Dnes idem na plaváreň. A ty, Hugo?",
+        "Dnes ideš na štadión. A ty, Hugo?",
+        "Dnes idem na štadión. A ty, Léa?"
+      ]
+    },
+    {
+      "id": "listen7-non-a-pied-la-piscine-est-pr",
+      "type": "listen",
+      "l1": "Nie, pešo. Plaváreň je blízko školy.",
+      "l2": "Non, à pied. La piscine est près de l'école.",
+      "choices_l1": [
+        "Nie, pešo. Plaváreň je ďaleko od školy.",
+        "Nie, na bicykli. Plaváreň je blízko školy.",
+        "Nie, pešo. Štadión je blízko školy."
+      ]
+    },
+    {
+      "id": "listen8-la-gare-elle-est-derriere-le",
+      "type": "listen",
+      "l1": "Stanica? Je za trhom, ale je ďaleko.",
+      "l2": "La gare ? Elle est derrière le marché, mais elle est loin.",
+      "choices_l1": [
+        "Stanica? Je pred trhom, ale je ďaleko.",
+        "Stanica? Je za trhom, ale je blízko.",
+        "Pekáreň? Je za trhom, ale je ďaleko."
+      ]
+    },
+    {
+      "id": "listen9-demain-je-vais-a-lyon-en-tra",
+      "type": "listen",
+      "l1": "Zajtra idem do Lyonu vlakom.",
+      "l2": "Demain, je vais à Lyon en train.",
+      "choices_l1": [
+        "Dnes idem do Lyonu vlakom.",
+        "Zajtra idem do Lyonu autobusom.",
+        "Zajtra ideš do Lyonu vlakom."
+      ]
+    },
+    {
+      "id": "listen10-mais-non-elle-est-derriere-t",
+      "type": "listen",
+      "l1": "Ale nie! Je za tebou!",
+      "l2": "Mais non ! Elle est derrière toi !",
+      "choices_l1": [
+        "Ale nie! Je pred tebou!",
+        "Ale áno! Je za tebou!",
+        "Ale nie! Je za nami!"
+      ]
+    },
+    {
+      "id": "blank11-le-train-va-vite-mais-le-bus",
+      "type": "fill-blank",
+      "l1": "Vlak ide rýchlo. Ale autobus nejde rýchlo.",
+      "l2": "Le train va vite. Mais le bus ne va pas vite.",
+      "missing_l1": "Ale",
+      "missing_l2": "Mais",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "A",
+        "Alebo",
+        "Potom"
+      ],
+      "choices_l2": [
+        "Et",
+        "Ou",
+        "Puis"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-je-vais-a-la-piscine",
+      "type": "fill-blank",
+      "l1": "Idem na plaváreň.",
+      "l2": "Je vais à la piscine.",
+      "missing_l1": "plaváreň",
+      "missing_l2": "piscine",
+      "blank_index_l1": 2,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "štadión",
+        "trh",
+        "knižnicu"
+      ],
+      "choices_l2": [
+        "stade",
+        "marché",
+        "bibliothèque"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-elle-est-devant-l-eglise-non",
+      "type": "fill-blank",
+      "l1": "Je pred kostolom? Nie… je blízko fontány?",
+      "l2": "Elle est devant l'église ? Non… elle est près de la fontaine ?",
+      "missing_l1": "kostolom",
+      "missing_l2": "l'église",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "školou",
+        "trhom",
+        "parkom"
+      ],
+      "choices_l2": [
+        "l'école",
+        "le marché",
+        "le parc"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-non-a-pied-la-piscine-est-pr",
+      "type": "fill-blank",
+      "l1": "Nie, pešo. Plaváreň je blízko školy.",
+      "l2": "Non, à pied. La piscine est près de l'école.",
+      "missing_l1": "pešo",
+      "missing_l2": "pied",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "autobusom",
+        "autom",
+        "vlakom"
+      ],
+      "choices_l2": [
+        "vélo",
+        "bus",
+        "train"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order15-aujourd-hui-je-vais-au-stade",
+      "type": "order",
+      "l1": "Dnes idem na štadión. A ty, Hugo?",
+      "l2": "Aujourd'hui, je vais au stade. Et toi, Hugo ?",
+      "tokens_l1": [
+        "Dnes",
+        "idem",
+        "na",
+        "štadión.",
+        "A",
+        "ty,",
+        "Hugo?"
+      ],
+      "tokens_l2": [
+        "Aujourd'hui,",
+        "je",
+        "vais",
+        "au",
+        "stade.",
+        "Et",
+        "toi,",
+        "Hugo",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-tu-vas-a-la-piscine-a-velo",
+      "type": "order",
+      "l1": "Ideš na plaváreň na bicykli?",
+      "l2": "Tu vas à la piscine à vélo ?",
+      "tokens_l1": [
+        "Ideš",
+        "na",
+        "plaváreň",
+        "na",
+        "bicykli?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "vas",
+        "à",
+        "la",
+        "piscine",
+        "à",
+        "vélo",
+        "?"
+      ]
+    },
+    {
+      "id": "order17-j-ai-faim-ou-est-la-boulange",
+      "type": "order",
+      "l1": "Mám hlad! Kde je pekáreň?",
+      "l2": "J'ai faim ! Où est la boulangerie ?",
+      "tokens_l1": [
+        "Mám",
+        "hlad!",
+        "Kde",
+        "je",
+        "pekáreň?"
+      ],
+      "tokens_l2": [
+        "J'ai",
+        "faim",
+        "!",
+        "Où",
+        "est",
+        "la",
+        "boulangerie",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-mais-non-elle-est-derriere-t",
+      "type": "order",
+      "l1": "Ale nie! Je za tebou!",
+      "l2": "Mais non ! Elle est derrière toi !",
+      "tokens_l1": [
+        "Ale",
+        "nie!",
+        "Je",
+        "za",
+        "tebou!"
+      ],
+      "tokens_l2": [
+        "Mais",
+        "non",
+        "!",
+        "Elle",
+        "est",
+        "derrière",
+        "toi",
+        "!"
+      ]
+    }
+  ]
+}

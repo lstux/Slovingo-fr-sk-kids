@@ -1,0 +1,320 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-la-crepe",
+      "type": "match",
+      "l1": [
+        "palacinka",
+        "croissant (rožtek)",
+        "čokoláda",
+        "džem"
+      ],
+      "l2": [
+        "la crêpe",
+        "le croissant",
+        "le chocolat",
+        "la confiture"
+      ]
+    },
+    {
+      "id": "match2-le-jus",
+      "type": "match",
+      "l1": [
+        "džús",
+        "s",
+        "banán",
+        "koláč s ovocím"
+      ],
+      "l2": [
+        "le jus",
+        "avec",
+        "la banane",
+        "la tarte"
+      ]
+    },
+    {
+      "id": "qcm3-la-crepe",
+      "type": "qcm",
+      "l1": "palacinka",
+      "l2": "la crêpe",
+      "choices_l1": [
+        "džem",
+        "džús",
+        "čokoláda"
+      ],
+      "choices_l2": [
+        "la confiture",
+        "le jus",
+        "le chocolat"
+      ]
+    },
+    {
+      "id": "qcm4-la-confiture",
+      "type": "qcm",
+      "l1": "džem",
+      "l2": "la confiture",
+      "choices_l1": [
+        "palacinka",
+        "banán",
+        "džús"
+      ],
+      "choices_l2": [
+        "la crêpe",
+        "la banane",
+        "le jus"
+      ]
+    },
+    {
+      "id": "qcm5-avec",
+      "type": "qcm",
+      "l1": "s",
+      "l2": "avec",
+      "choices_l1": [
+        "ale",
+        "sú",
+        "ešte"
+      ],
+      "choices_l2": [
+        "mais",
+        "sont",
+        "encore"
+      ]
+    },
+    {
+      "id": "qcm6-la-banane",
+      "type": "qcm",
+      "l1": "banán",
+      "l2": "la banane",
+      "choices_l1": [
+        "jablko",
+        "džús",
+        "džem"
+      ],
+      "choices_l2": [
+        "la pomme",
+        "le jus",
+        "la confiture"
+      ]
+    },
+    {
+      "id": "listen7-je-prends-une-crepe",
+      "type": "listen",
+      "l1": "Dám si palacinku.",
+      "l2": "Je prends une crêpe.",
+      "choices_l1": [
+        "Dáš si palacinku.",
+        "Dám si jablko.",
+        "Dám si džem."
+      ]
+    },
+    {
+      "id": "listen8-papa-prend-une-pomme",
+      "type": "listen",
+      "l1": "Tato si dá jablko.",
+      "l2": "Papa prend une pomme.",
+      "choices_l1": [
+        "Mama si dá jablko.",
+        "Tato si dá banán.",
+        "Tato si dá palacinku."
+      ]
+    },
+    {
+      "id": "listen9-ma-sur-prend-de-la-confiture",
+      "type": "listen",
+      "l1": "Moja sestra si dá džem s chlebom.",
+      "l2": "Ma sœur prend de la confiture avec du pain.",
+      "choices_l1": [
+        "Moja sestra si dá džem s mliekom.",
+        "Moja sestra si dá čokoládu s chlebom.",
+        "Moja mama si dá džem s chlebom."
+      ]
+    },
+    {
+      "id": "listen10-je-prends-une-crepe-avec-du-",
+      "type": "listen",
+      "l1": "Dám si palacinku s čokoládou.",
+      "l2": "Je prends une crêpe avec du chocolat.",
+      "choices_l1": [
+        "Dám si palacinku s džemom.",
+        "Dám si croissant s čokoládou.",
+        "Dáš si palacinku s čokoládou."
+      ]
+    },
+    {
+      "id": "listen11-tu-prends-une-banane",
+      "type": "listen",
+      "l1": "Dáš si banán?",
+      "l2": "Tu prends une banane ?",
+      "choices_l1": [
+        "Dám si banán.",
+        "Dáš si jablko?",
+        "Dáš si džús?"
+      ]
+    },
+    {
+      "id": "blank12-maman-prend-un-croissant",
+      "type": "fill-blank",
+      "l1": "Mama si dá croissant.",
+      "l2": "Maman prend un croissant.",
+      "missing_l1": "dá",
+      "missing_l2": "prend",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "dám",
+        "dáš",
+        "je"
+      ],
+      "choices_l2": [
+        "prends",
+        "prennent",
+        "mange"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-papa-prend-une-pomme",
+      "type": "fill-blank",
+      "l1": "Tato si dá jablko.",
+      "l2": "Papa prend une pomme.",
+      "missing_l1": "jablko",
+      "missing_l2": "pomme",
+      "blank_index_l1": 3,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "banán",
+        "džem",
+        "croissant"
+      ],
+      "choices_l2": [
+        "banane",
+        "confiture",
+        "croissant"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-je-prends-une-crepe-avec-du-",
+      "type": "fill-blank",
+      "l1": "Dám si palacinku s čokoládou.",
+      "l2": "Je prends une crêpe avec du chocolat.",
+      "missing_l1": "s",
+      "missing_l2": "avec",
+      "blank_index_l1": 3,
+      "blank_index_l2": 4,
+      "choices_l1": [
+        "na",
+        "v",
+        "do"
+      ],
+      "choices_l2": [
+        "sur",
+        "dans",
+        "à"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-je-prends-une-crepe",
+      "type": "fill-blank",
+      "l1": "Dám si palacinku.",
+      "l2": "Je prends une crêpe.",
+      "missing_l1": "palacinku",
+      "missing_l2": "une",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "jablko",
+        "džem",
+        "banán"
+      ],
+      "choices_l2": [
+        "un",
+        "du",
+        "de la"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order16-je-prends-une-crepe",
+      "type": "order",
+      "l1": "Dám si palacinku.",
+      "l2": "Je prends une crêpe.",
+      "tokens_l1": [
+        "Dám",
+        "si",
+        "palacinku."
+      ],
+      "tokens_l2": [
+        "Je",
+        "prends",
+        "une",
+        "crêpe."
+      ]
+    },
+    {
+      "id": "order17-je-prends-une-crepe-avec-du-",
+      "type": "order",
+      "l1": "Dám si palacinku s čokoládou.",
+      "l2": "Je prends une crêpe avec du chocolat.",
+      "tokens_l1": [
+        "Dám",
+        "si",
+        "palacinku",
+        "s",
+        "čokoládou."
+      ],
+      "tokens_l2": [
+        "Je",
+        "prends",
+        "une",
+        "crêpe",
+        "avec",
+        "du",
+        "chocolat."
+      ]
+    },
+    {
+      "id": "order18-tu-prends-une-banane",
+      "type": "order",
+      "l1": "Dáš si banán?",
+      "l2": "Tu prends une banane ?",
+      "tokens_l1": [
+        "Dáš",
+        "si",
+        "banán?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "prends",
+        "une",
+        "banane",
+        "?"
+      ]
+    },
+    {
+      "id": "order19-je-prends-du-jus-s-il-te-pla",
+      "type": "order",
+      "l1": "Dám si džús, prosím ťa.",
+      "l2": "Je prends du jus, s'il te plaît.",
+      "tokens_l1": [
+        "Dám",
+        "si",
+        "džús,",
+        "prosím",
+        "ťa."
+      ],
+      "tokens_l2": [
+        "Je",
+        "prends",
+        "du",
+        "jus,",
+        "s'il",
+        "te",
+        "plaît."
+      ]
+    }
+  ]
+}

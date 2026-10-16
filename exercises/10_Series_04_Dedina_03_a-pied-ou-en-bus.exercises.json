@@ -1,0 +1,372 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "match1-le-bus",
+      "type": "match",
+      "l1": [
+        "autobus",
+        "bicykel",
+        "auto",
+        "vlak"
+      ],
+      "l2": [
+        "le bus",
+        "le vélo",
+        "la voiture",
+        "le train"
+      ]
+    },
+    {
+      "id": "match2-la-gare",
+      "type": "match",
+      "l1": [
+        "stanica",
+        "pešo",
+        "alebo",
+        "cesta"
+      ],
+      "l2": [
+        "la gare",
+        "à pied",
+        "ou",
+        "la route"
+      ]
+    },
+    {
+      "id": "qcm3-en-bus",
+      "type": "qcm",
+      "l1": "autobusom",
+      "l2": "en bus",
+      "choices_l1": [
+        "vlakom",
+        "autom",
+        "na bicykli"
+      ],
+      "choices_l2": [
+        "en train",
+        "en voiture",
+        "à vélo"
+      ]
+    },
+    {
+      "id": "qcm4-a-velo",
+      "type": "qcm",
+      "l1": "na bicykli",
+      "l2": "à vélo",
+      "choices_l1": [
+        "pešo",
+        "autobusom",
+        "autom"
+      ],
+      "choices_l2": [
+        "à pied",
+        "en bus",
+        "en voiture"
+      ]
+    },
+    {
+      "id": "qcm5-vite",
+      "type": "qcm",
+      "l1": "rýchlo",
+      "l2": "vite",
+      "choices_l1": [
+        "pešo",
+        "alebo",
+        "kde"
+      ],
+      "choices_l2": [
+        "à pied",
+        "ou",
+        "où"
+      ]
+    },
+    {
+      "id": "qcm6-ou",
+      "type": "qcm",
+      "l1": "kde",
+      "l2": "où",
+      "choices_l1": [
+        "alebo",
+        "pešo",
+        "rýchlo"
+      ],
+      "choices_l2": [
+        "ou",
+        "à pied",
+        "vite"
+      ]
+    },
+    {
+      "id": "listen7-je-vais-a-l-ecole-a-pied",
+      "type": "listen",
+      "l1": "Do školy idem pešo.",
+      "l2": "Je vais à l'école à pied.",
+      "choices_l1": [
+        "Do školy idem na bicykli.",
+        "Do školy idem autobusom.",
+        "Na trh idem pešo."
+      ]
+    },
+    {
+      "id": "listen8-maman-va-au-marche-en-voitur",
+      "type": "listen",
+      "l1": "Mama ide na trh autom.",
+      "l2": "Maman va au marché en voiture.",
+      "choices_l1": [
+        "Mama ide na trh vlakom.",
+        "Mama ide na trh pešo.",
+        "Tato ide na trh autom."
+      ]
+    },
+    {
+      "id": "listen9-mamie-va-a-lyon-en-train",
+      "type": "listen",
+      "l1": "Mamie ide do Lyonu vlakom.",
+      "l2": "Mamie va à Lyon en train.",
+      "choices_l1": [
+        "Mamie ide do Lyonu autom.",
+        "Mamie ide do Lyonu autobusom.",
+        "Léa ide do Lyonu vlakom."
+      ]
+    },
+    {
+      "id": "listen10-tu-vas-au-stade-a-pied-ou-en",
+      "type": "listen",
+      "l1": "Ideš na štadión pešo alebo autobusom?",
+      "l2": "Tu vas au stade à pied ou en bus ?",
+      "choices_l1": [
+        "Ideš na štadión pešo alebo vlakom?",
+        "Ideš na plaváreň pešo alebo autobusom?",
+        "Ideš na štadión autom alebo autobusom?"
+      ]
+    },
+    {
+      "id": "listen11-le-bus-va-vite-sur-la-route",
+      "type": "listen",
+      "l1": "Autobus ide rýchlo po ceste.",
+      "l2": "Le bus va vite sur la route.",
+      "choices_l1": [
+        "Auto ide rýchlo po ceste.",
+        "Vlak ide rýchlo po ceste.",
+        "Autobus ide rýchlo do dediny."
+      ]
+    },
+    {
+      "id": "blank12-papa-va-a-la-gare-a-velo",
+      "type": "fill-blank",
+      "l1": "Tato ide na stanicu na bicykli.",
+      "l2": "Papa va à la gare à vélo.",
+      "missing_l1": "bicykli",
+      "missing_l2": "vélo",
+      "blank_index_l1": 5,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "autobuse",
+        "aute",
+        "vlaku"
+      ],
+      "choices_l2": [
+        "bus",
+        "train",
+        "voiture"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-lea-va-a-la-piscine-en-bus",
+      "type": "fill-blank",
+      "l1": "Léa ide na plaváreň autobusom.",
+      "l2": "Léa va à la piscine en bus.",
+      "missing_l1": "autobusom",
+      "missing_l2": "en",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "autom",
+        "vlakom",
+        "pešo"
+      ],
+      "choices_l2": [
+        "à",
+        "au",
+        "par"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank14-mamie-va-a-lyon-en-train",
+      "type": "fill-blank",
+      "l1": "Mamie ide do Lyonu vlakom.",
+      "l2": "Mamie va à Lyon en train.",
+      "missing_l1": "vlakom",
+      "missing_l2": "train",
+      "blank_index_l1": 4,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "autom",
+        "autobusom",
+        "pešo"
+      ],
+      "choices_l2": [
+        "bus",
+        "voiture",
+        "vélo"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank15-tu-vas-au-stade-a-pied-ou-en",
+      "type": "fill-blank",
+      "l1": "Ideš na štadión pešo alebo autobusom?",
+      "l2": "Tu vas au stade à pied ou en bus ?",
+      "missing_l1": "alebo",
+      "missing_l2": "ou",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "kde",
+        "a",
+        "ale"
+      ],
+      "choices_l2": [
+        "où",
+        "et",
+        "mais"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank16-vite-le-train-est-a-la-gare",
+      "type": "fill-blank",
+      "l1": "Rýchlo! Vlak je na stanici!",
+      "l2": "Vite ! Le train est à la gare !",
+      "missing_l1": "Rýchlo",
+      "missing_l2": "Vite",
+      "blank_index_l1": 0,
+      "blank_index_l2": 0,
+      "choices_l1": [
+        "Hneď",
+        "Tu",
+        "Dnes"
+      ],
+      "choices_l2": [
+        "Là",
+        "Ici",
+        "Aujourd'hui"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order17-je-vais-a-l-ecole-a-pied",
+      "type": "order",
+      "l1": "Do školy idem pešo.",
+      "l2": "Je vais à l'école à pied.",
+      "tokens_l1": [
+        "Do",
+        "školy",
+        "idem",
+        "pešo."
+      ],
+      "tokens_l2": [
+        "Je",
+        "vais",
+        "à",
+        "l'école",
+        "à",
+        "pied."
+      ]
+    },
+    {
+      "id": "order18-maman-va-au-marche-en-voitur",
+      "type": "order",
+      "l1": "Mama ide na trh autom.",
+      "l2": "Maman va au marché en voiture.",
+      "tokens_l1": [
+        "Mama",
+        "ide",
+        "na",
+        "trh",
+        "autom."
+      ],
+      "tokens_l2": [
+        "Maman",
+        "va",
+        "au",
+        "marché",
+        "en",
+        "voiture."
+      ]
+    },
+    {
+      "id": "order19-mamie-va-a-lyon-en-train",
+      "type": "order",
+      "l1": "Mamie ide do Lyonu vlakom.",
+      "l2": "Mamie va à Lyon en train.",
+      "tokens_l1": [
+        "Mamie",
+        "ide",
+        "do",
+        "Lyonu",
+        "vlakom."
+      ],
+      "tokens_l2": [
+        "Mamie",
+        "va",
+        "à",
+        "Lyon",
+        "en",
+        "train."
+      ]
+    },
+    {
+      "id": "order20-tu-vas-au-stade-a-pied-ou-en",
+      "type": "order",
+      "l1": "Ideš na štadión pešo alebo autobusom?",
+      "l2": "Tu vas au stade à pied ou en bus ?",
+      "tokens_l1": [
+        "Ideš",
+        "na",
+        "štadión",
+        "pešo",
+        "alebo",
+        "autobusom?"
+      ],
+      "tokens_l2": [
+        "Tu",
+        "vas",
+        "au",
+        "stade",
+        "à",
+        "pied",
+        "ou",
+        "en",
+        "bus",
+        "?"
+      ]
+    },
+    {
+      "id": "order21-il-y-a-une-route-dans-le-vil",
+      "type": "order",
+      "l1": "V dedine je cesta.",
+      "l2": "Il y a une route dans le village.",
+      "tokens_l1": [
+        "V",
+        "dedine",
+        "je",
+        "cesta."
+      ],
+      "tokens_l2": [
+        "Il",
+        "y",
+        "a",
+        "une",
+        "route",
+        "dans",
+        "le",
+        "village."
+      ]
+    }
+  ]
+}

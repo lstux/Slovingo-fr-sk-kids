@@ -1,0 +1,312 @@
+{
+  "mode": "replace",
+  "sync": "full",
+  "exercises": [
+    {
+      "id": "qcm1-puis",
+      "type": "qcm",
+      "l1": "potom",
+      "l2": "puis",
+      "choices_l1": [
+        "alebo",
+        "ale",
+        "tu"
+      ],
+      "choices_l2": [
+        "ou",
+        "mais",
+        "ici"
+      ]
+    },
+    {
+      "id": "qcm2-tournez",
+      "type": "qcm",
+      "l1": "odbočte",
+      "l2": "tournez",
+      "choices_l1": [
+        "odbočiť",
+        "potom",
+        "priamo"
+      ],
+      "choices_l2": [
+        "tourner",
+        "puis",
+        "tout droit"
+      ]
+    },
+    {
+      "id": "qcm3-ca-sent-bon",
+      "type": "qcm",
+      "l1": "dobre to vonia",
+      "l2": "ça sent bon",
+      "choices_l1": [
+        "je to dobré",
+        "mňam!",
+        "je to hotové"
+      ],
+      "choices_l2": [
+        "c'est bon",
+        "miam !",
+        "c'est prêt"
+      ]
+    },
+    {
+      "id": "listen4-pardon-monsieur",
+      "type": "listen",
+      "l1": "Prepáčte, pane!",
+      "l2": "Pardon, Monsieur !",
+      "choices_l1": [
+        "Prepáčte, pani!",
+        "Dobrý deň, pane!",
+        "Ďakujem, pane!"
+      ]
+    },
+    {
+      "id": "listen5-la-boulangerie-tournez-a-gau",
+      "type": "listen",
+      "l1": "Pekáreň? Odbočte vľavo, potom je to priamo.",
+      "l2": "La boulangerie ? Tournez à gauche, puis c'est tout droit.",
+      "choices_l1": [
+        "Pekáreň? Odbočte vpravo, potom je to priamo.",
+        "Pekáreň? Odbočte vľavo, potom je to ďaleko.",
+        "Stanica? Odbočte vľavo, potom je to priamo."
+      ]
+    },
+    {
+      "id": "listen6-c-est-loin-monsieur",
+      "type": "listen",
+      "l1": "Je to ďaleko, pane?",
+      "l2": "C'est loin, Monsieur ?",
+      "choices_l1": [
+        "Je to blízko, pane?",
+        "Je to ďaleko, pani?",
+        "Je to tam, pane?"
+      ]
+    },
+    {
+      "id": "listen7-non-c-est-tout-pres-elle-est",
+      "type": "listen",
+      "l1": "Nie, je to celkom blízko. Je pred kostolom, vedľa fontány.",
+      "l2": "Non, c'est tout près. Elle est devant l'église, à côté de la fontaine.",
+      "choices_l1": [
+        "Nie, je to celkom blízko. Je za kostolom, vedľa fontány.",
+        "Áno, je to celkom blízko. Je pred kostolom, vedľa fontány.",
+        "Nie, je to ďaleko. Je pred kostolom, vedľa fontány."
+      ]
+    },
+    {
+      "id": "listen8-de-rien-au-revoir-et-bon-app",
+      "type": "listen",
+      "l1": "Nie je začo! Dovidenia a dobrú chuť!",
+      "l2": "De rien ! Au revoir, et bon appétit !",
+      "choices_l1": [
+        "Ďakujem pekne! Dovidenia a dobrú chuť!",
+        "Nie je začo! Dobrý deň a dobrú chuť!",
+        "Nie je začo! Dovidenia a ďakujem!"
+      ]
+    },
+    {
+      "id": "blank9-la-boulangerie-tournez-a-gau",
+      "type": "fill-blank",
+      "l1": "Pekáreň? Odbočte vľavo, potom je to priamo.",
+      "l2": "La boulangerie ? Tournez à gauche, puis c'est tout droit.",
+      "missing_l1": "vľavo",
+      "missing_l2": "gauche",
+      "blank_index_l1": 2,
+      "blank_index_l2": 5,
+      "choices_l1": [
+        "vpravo",
+        "ďaleko",
+        "blízko"
+      ],
+      "choices_l2": [
+        "droite",
+        "loin",
+        "près"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank10-c-est-loin-monsieur",
+      "type": "fill-blank",
+      "l1": "Je to ďaleko, pane?",
+      "l2": "C'est loin, Monsieur ?",
+      "missing_l1": "ďaleko",
+      "missing_l2": "loin",
+      "blank_index_l1": 2,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "blízko",
+        "vľavo",
+        "priamo"
+      ],
+      "choices_l2": [
+        "près",
+        "gauche",
+        "droite"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank11-pardon-monsieur-ou-est-la-ga",
+      "type": "fill-blank",
+      "l1": "Prepáčte, pane, kde je stanica?",
+      "l2": "Pardon, Monsieur, où est la gare ?",
+      "missing_l1": "kde",
+      "missing_l2": "où",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "alebo",
+        "potom",
+        "tu"
+      ],
+      "choices_l2": [
+        "ou",
+        "puis",
+        "ici"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank12-je-prends-un-croissant-et-du",
+      "type": "fill-blank",
+      "l1": "Dám si croissant a džús.",
+      "l2": "Je prends un croissant et du jus.",
+      "missing_l1": "džús",
+      "missing_l2": "jus",
+      "blank_index_l1": 4,
+      "blank_index_l2": 6,
+      "choices_l1": [
+        "džem",
+        "koláč",
+        "banán"
+      ],
+      "choices_l2": [
+        "confiture",
+        "tarte",
+        "banane"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "blank13-tournez-a-droite-puis-c-est-",
+      "type": "fill-blank",
+      "l1": "Odbočte vpravo, potom je to priamo.",
+      "l2": "Tournez à droite, puis c'est tout droit.",
+      "missing_l1": "potom",
+      "missing_l2": "puis",
+      "blank_index_l1": 2,
+      "blank_index_l2": 3,
+      "choices_l1": [
+        "alebo",
+        "ale",
+        "tu"
+      ],
+      "choices_l2": [
+        "ou",
+        "mais",
+        "ici"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order14-pardon-monsieur",
+      "type": "order",
+      "l1": "Prepáčte, pane!",
+      "l2": "Pardon, Monsieur !",
+      "tokens_l1": [
+        "Prepáčte,",
+        "pane!"
+      ],
+      "tokens_l2": [
+        "Pardon,",
+        "Monsieur",
+        "!"
+      ]
+    },
+    {
+      "id": "order15-c-est-loin-monsieur",
+      "type": "order",
+      "l1": "Je to ďaleko, pane?",
+      "l2": "C'est loin, Monsieur ?",
+      "tokens_l1": [
+        "Je",
+        "to",
+        "ďaleko,",
+        "pane?"
+      ],
+      "tokens_l2": [
+        "C'est",
+        "loin,",
+        "Monsieur",
+        "?"
+      ]
+    },
+    {
+      "id": "order16-tournez-a-droite-puis-c-est-",
+      "type": "order",
+      "l1": "Odbočte vpravo, potom je to priamo.",
+      "l2": "Tournez à droite, puis c'est tout droit.",
+      "tokens_l1": [
+        "Odbočte",
+        "vpravo,",
+        "potom",
+        "je",
+        "to",
+        "priamo."
+      ],
+      "tokens_l2": [
+        "Tournez",
+        "à",
+        "droite,",
+        "puis",
+        "c'est",
+        "tout",
+        "droit."
+      ]
+    },
+    {
+      "id": "order17-pardon-monsieur-ou-est-la-ga",
+      "type": "order",
+      "l1": "Prepáčte, pane, kde je stanica?",
+      "l2": "Pardon, Monsieur, où est la gare ?",
+      "tokens_l1": [
+        "Prepáčte,",
+        "pane,",
+        "kde",
+        "je",
+        "stanica?"
+      ],
+      "tokens_l2": [
+        "Pardon,",
+        "Monsieur,",
+        "où",
+        "est",
+        "la",
+        "gare",
+        "?"
+      ]
+    },
+    {
+      "id": "order18-moi-je-prends-une-tarte",
+      "type": "order",
+      "l1": "Ja si dám koláč!",
+      "l2": "Moi, je prends une tarte !",
+      "tokens_l1": [
+        "Ja",
+        "si",
+        "dám",
+        "koláč!"
+      ],
+      "tokens_l2": [
+        "Moi,",
+        "je",
+        "prends",
+        "une",
+        "tarte",
+        "!"
+      ]
+    }
+  ]
+}
