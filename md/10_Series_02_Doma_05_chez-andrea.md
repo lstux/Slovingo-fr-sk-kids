@@ -1,6 +1,6 @@
 # Doma (5/5) — Chez Andrea
 
-@ TODO_img/lievre-prairie.jpg | TODO : choisir une image (un lièvre dans sa prairie)
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_Hare.jpg | Andrea, la hase, dans sa prairie
 
 {{sk:Andrea ťa pozvala k sebe domov. Prezrieš si jej dom a jej izbu. Počúvaj a sleduj, kto čo hovorí!}}
 

@@ -1,6 +1,6 @@
 # Doma (extra) — Tout ensemble !
 
-@ TODO_img/chalets-printemps.jpg | TODO : choisir une image (des chalets de montagne au printemps)
+@ https://commons.wikimedia.org/wiki/Special:FilePath/La_Thuile_(Savoie).JPG | Un village de Savoie, avec ses chalets
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Doma a poskladáme slová do malých scénok!}}
 
