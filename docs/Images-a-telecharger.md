@@ -17,6 +17,11 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Rodina 4 | `rodina-04-chamois.jpg` | https://www.pexels.com/photo/wild-mountain-goats-in-the-french-alps-35673632/ | Marek Piwnicki | Pexels |
 | Rodina 5 | `rodina-05-chalet-alpage.jpg` | https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/ | shogun | Pixabay |
 | Rodina 6 | `rodina-06-alpes-lever-soleil.jpg` | https://www.pexels.com/photo/golden-sunrise-over-french-alps-peak-29008774/ | Marek Piwnicki | Pexels |
+| Dedina 1 | `dedina-01-village.jpg` | https://unsplash.com/photos/a-mountain-village-in-the-middle-of-a-valley-k-m5ctuvuHE | Adrien Olichon | Unsplash |
+| Dedina 3 | `dedina-03-bus.jpg` | https://www.pexels.com/photo/bus-on-road-in-mountains-17970685/ | Pawel Kalisinski | Pexels |
+| Dedina 4 | `dedina-04-panneau.jpg` | https://www.pexels.com/photo/close-up-of-a-directional-sign-13625212/ | juan rojas | Pexels |
+| Dedina 5 | `dedina-05-herisson.jpg` | https://unsplash.com/photos/a-hedgehog-is-sitting-in-the-grass-TCmqQE13aP0 | Lukas Seitz | Unsplash |
+| Dedina 6 | `dedina-06-lyon-fourviere.jpg` | https://www.pexels.com/photo/view-of-the-notre-dame-de-fourviere-basilica-in-lyon-france-8430273/ | Mikhail Nilov | Pexels |
 | Doma 2 | `doma-02-chalet-interieur.jpg` | https://www.pexels.com/photo/interior-of-a-log-cabin-10761010/ | Ata Ebem | Pexels |
 | Doma 3 | `doma-03-bottes-sac.jpg` | https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/ | Omar Enriquez | Pexels |
 | Jedlo 4 | `jedlo-04-crepes.jpg` | https://www.pexels.com/photo/appetizing-pancakes-placed-on-wooden-table-3939687/ | Diana (@didsss) | Pexels |
@@ -26,6 +31,8 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Jedlo 5 | `jedlo-05-pate-saladier.jpg` | https://pixabay.com/photos/dough-flour-batter-bake-cake-7711413/ | eatde | Pixabay |
 | Jedlo 6 | `jedlo-06-pique-nique.jpg` | https://www.pexels.com/photo/croissants-cheese-flowers-and-fruit-8194250/ | Tanya Kidanchuk | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
+
+À trancher : Dedina 2 (école).
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
