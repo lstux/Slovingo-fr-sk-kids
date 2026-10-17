@@ -18,6 +18,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Rodina 5 | `rodina-05-chalet-alpage.jpg` | https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/ | shogun | Pixabay |
 | Rodina 6 | `rodina-06-alpes-lever-soleil.jpg` | https://www.pexels.com/photo/golden-sunrise-over-french-alps-peak-29008774/ | Marek Piwnicki | Pexels |
 | Doma 3 | `doma-03-bottes-sac.jpg` | https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/ | Omar Enriquez | Pexels |
+| Jedlo 4 | `jedlo-04-crepes.jpg` | https://www.pexels.com/photo/appetizing-pancakes-placed-on-wooden-table-3939687/ | Diana (@didsss) | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
