@@ -19,8 +19,13 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Rodina 6 | `rodina-06-alpes-lever-soleil.jpg` | https://www.pexels.com/photo/golden-sunrise-over-french-alps-peak-29008774/ | Marek Piwnicki | Pexels |
 | Doma 3 | `doma-03-bottes-sac.jpg` | https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/ | Omar Enriquez | Pexels |
 | Jedlo 4 | `jedlo-04-crepes.jpg` | https://www.pexels.com/photo/appetizing-pancakes-placed-on-wooden-table-3939687/ | Diana (@didsss) | Pexels |
+| Jedlo 1 | `jedlo-01-petit-dejeuner.jpg` | https://www.pexels.com/photo/breakfast-on-camping-20139724/ | esrannuur | Pexels |
+| Jedlo 2 | `jedlo-02-vache.jpg` | https://www.pexels.com/photo/curious-brown-cow-grazing-near-alpine-mountains-34498260/ | Frank Wesneck | Pexels |
+| Jedlo 3 | `jedlo-03-myrtilles.jpg` | https://www.pexels.com/photo/blueberries-growing-on-fresh-green-bush-5273297/ | à lire sur la page | Pexels |
+| Jedlo 5 | `jedlo-05-pate-saladier.jpg` | https://pixabay.com/photos/dough-flour-batter-bake-cake-7711413/ | eatde | Pixabay |
+| Jedlo 6 | `jedlo-06-pique-nique.jpg` | https://www.pexels.com/photo/croissants-cheese-flowers-and-fruit-8194250/ | Tanya Kidanchuk | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
-Encore à trancher : Doma 2 (table et chaises).
+Encore à trancher : Doma 2 (intérieur savoyard).
