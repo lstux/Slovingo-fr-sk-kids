@@ -17,6 +17,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Rodina 4 | `rodina-04-chamois.jpg` | https://www.pexels.com/photo/wild-mountain-goats-in-the-french-alps-35673632/ | Marek Piwnicki | Pexels |
 | Rodina 5 | `rodina-05-chalet-alpage.jpg` | https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/ | shogun | Pixabay |
 | Rodina 6 | `rodina-06-alpes-lever-soleil.jpg` | https://www.pexels.com/photo/golden-sunrise-over-french-alps-peak-29008774/ | Marek Piwnicki | Pexels |
+| Doma 2 | `doma-02-chalet-interieur.jpg` | https://www.pexels.com/photo/interior-of-a-log-cabin-10761010/ | Ata Ebem | Pexels |
 | Doma 3 | `doma-03-bottes-sac.jpg` | https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/ | Omar Enriquez | Pexels |
 | Jedlo 4 | `jedlo-04-crepes.jpg` | https://www.pexels.com/photo/appetizing-pancakes-placed-on-wooden-table-3939687/ | Diana (@didsss) | Pexels |
 | Jedlo 1 | `jedlo-01-petit-dejeuner.jpg` | https://www.pexels.com/photo/breakfast-on-camping-20139724/ | esrannuur | Pexels |
@@ -28,4 +29,4 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
-Encore à trancher : Doma 2 (intérieur savoyard).
+Télécharger toutes les images en les réduisant : `python3 src/fetch_images.py --lang-dir . --resize 1200 --execute` (ImageMagick requis ; sans `--resize`, les fichiers gardent leur taille d'origine).
