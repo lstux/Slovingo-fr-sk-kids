@@ -22,6 +22,8 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Dedina 4 | `dedina-04-panneau.jpg` | https://www.pexels.com/photo/close-up-of-a-directional-sign-13625212/ | juan rojas | Pexels |
 | Dedina 5 | `dedina-05-herisson.jpg` | https://unsplash.com/photos/a-hedgehog-is-sitting-in-the-grass-TCmqQE13aP0 | Lukas Seitz | Unsplash |
 | Dedina 6 | `dedina-06-lyon-fourviere.jpg` | https://www.pexels.com/photo/view-of-the-notre-dame-de-fourviere-basilica-in-lyon-france-8430273/ | Mikhail Nilov | Pexels |
+| Zvieratá 3 | `zvierata-03-marmotte.jpg` | https://unsplash.com/photos/a-marmot-sits-alertly-in-a-grassy-field-wqz23wMEXJI | Emma Swoboda | Unsplash |
+| Zvieratá 5 | `zvierata-05-aigle.jpg` | https://www.pexels.com/photo/golden-eagle-capturing-prey-in-mountainous-landscape-32068809/ | Jesús Esteban San José | Pexels |
 | Doma 2 | `doma-02-chalet-interieur.jpg` | https://www.pexels.com/photo/interior-of-a-log-cabin-10761010/ | Ata Ebem | Pexels |
 | Doma 3 | `doma-03-bottes-sac.jpg` | https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/ | Omar Enriquez | Pexels |
 | Jedlo 4 | `jedlo-04-crepes.jpg` | https://www.pexels.com/photo/appetizing-pancakes-placed-on-wooden-table-3939687/ | Diana (@didsss) | Pexels |
