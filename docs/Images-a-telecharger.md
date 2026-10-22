@@ -28,6 +28,10 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Zvieratá 1 | `zvierata-01-chamois.jpg` | https://pixabay.com/photos/chamois-animal-mammal-5579897/ | Camera-man | Pixabay |
 | Zvieratá 2 | `zvierata-02-chien.jpg` | https://pixabay.com/photos/border-collie-sheep-herding-working-191779/ | JamesDeMers | Pixabay |
 | Zvieratá 6 | `zvierata-06-poules.jpg` | https://www.pexels.com/photo/brood-of-hen-2446695/ | Italo Melo | Pexels |
+| Čas 1 | `cas-01-moutons-lac.jpg` | https://www.pexels.com/photo/flock-of-sheep-pasturing-against-mountain-5201435/ | Julia Volk | Pexels (vallée du Zanskar, Inde) |
+| Čas 2 | `cas-02-pieces-euros.jpg` | https://www.pexels.com/photo/coins-on-brown-wood-210600/ | Pixabay (publié sur Pexels) | Pexels, CC0 |
+| Čas 3 | `cas-03-troupeau-route.jpg` | https://www.pexels.com/photo/herd-of-rams-walking-on-road-near-pasture-with-hills-4339513/ | ArtHouse Studio | Pexels (des personnes visibles) |
+| Čas 4 | `cas-04-clocher.jpg` | https://www.pexels.com/photo/bell-tower-with-clock-of-a-church-in-a-small-village-18803562/ | Thomas P | Pexels |
 | Hry 1 | `hry-01-ballon.jpg` | https://pixabay.com/photos/football-ball-grass-meadow-sports-1977528/ | atimedia | Pixabay (vérifier l'absence de logo) |
 | Hry 2 | `hry-02-telesiege.jpg` | https://www.pexels.com/photo/scenic-snowy-mountain-landscape-with-ski-lift-30816460/ | Viceman S | Pexels |
 | Hry 3 | `hry-03-marmottes-jeu.jpg` | https://www.pexels.com/photo/marmots-in-nature-18011274/ | à lire sur la page | Pexels |
@@ -44,7 +48,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Jedlo 6 | `jedlo-06-pique-nique.jpg` | https://www.pexels.com/photo/croissants-cheese-flowers-and-fruit-8194250/ | Tanya Kidanchuk | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
 
-À trancher : Dedina 2 (école).
+À trancher : Dedina 2 (école), Čas 5 (train), Čas 6 (village au soir).
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
