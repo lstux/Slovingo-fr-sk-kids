@@ -66,7 +66,7 @@ En réserve (pas utilisée) : bouquetin à Chamonix, https://www.pexels.com/phot
 | basics | `style_basics.jpg` | https://pixabay.com/photos/meadow-grass-nature-landscape-757731/ | Bessi | Pixabay (vérifier l'adresse exacte, n° 757731) |
 | family | `style_family.jpg` | https://pixabay.com/photos/marmot-rodent-alpine-marmot-alps-7338831/ | franzschabreiter | Pixabay (Autriche) |
 | house | `style_house.jpg` | https://www.pexels.com/photo/a-mountain-hut-overlooks-a-spectacular-valley-in-the-swiss-alps-27971523/ | James Wong | Pexels (Grindelwald, Suisse ; à remplacer si on trouve un chalet savoyard en paysage) |
-| food | `style_food.jpg` | À CHOISIR | | Candidats vus : tous en portrait pour l'instant |
+| food | `style_food.jpg` | https://www.pexels.com/photo/white-and-brown-cow-nearby-mountains-1390200/ | travis blessing | Pexels (Bolzano, Italie ; paysage 3500×2253) |
 | city | `style_city.jpg` | https://www.pexels.com/photo/8430268/ | Mikhail Nilov | Pexels (Lyon) |
 | animals | `style_animals.jpg` | https://www.pexels.com/photo/alpine-ibex-in-the-majestic-french-alps-34606227/ | Manon Ridet | Pexels (Chamonix) |
 | games | `style_games.jpg` | https://www.pexels.com/photo/stunning-mountain-ski-resort-in-winter-30401227/ | Ogy Kovachev | Pexels (Courchevel, paysage 4032×2688, des skieurs lointains visibles) |
