@@ -23,6 +23,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Dedina 5 | `dedina-05-herisson.jpg` | https://unsplash.com/photos/a-hedgehog-is-sitting-in-the-grass-TCmqQE13aP0 | Lukas Seitz | Unsplash |
 | Dedina 6 | `dedina-06-lyon-fourviere.jpg` | https://www.pexels.com/photo/view-of-the-notre-dame-de-fourviere-basilica-in-lyon-france-8430273/ | Mikhail Nilov | Pexels |
 | Zvieratá 3 | `zvierata-03-marmotte.jpg` | https://unsplash.com/photos/a-marmot-sits-alertly-in-a-grassy-field-wqz23wMEXJI | Emma Swoboda | Unsplash |
+| Zvieratá 4 | `zvierata-04-sommets-sallanches.jpg` | https://www.pexels.com/photo/snowy-mountain-26381816/ | Eclipse Chasers | Pexels |
 | Zvieratá 5 | `zvierata-05-aigle.jpg` | https://www.pexels.com/photo/golden-eagle-capturing-prey-in-mountainous-landscape-32068809/ | Jesús Esteban San José | Pexels |
 | Zvieratá 1 | `zvierata-01-chamois.jpg` | https://pixabay.com/photos/chamois-animal-mammal-5579897/ | Camera-man | Pixabay |
 | Zvieratá 2 | `zvierata-02-chien.jpg` | https://pixabay.com/photos/border-collie-sheep-herding-working-191779/ | JamesDeMers | Pixabay |
@@ -42,3 +43,5 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
 Télécharger toutes les images en les réduisant : `python3 src/fetch_images.py --lang-dir . --resize 1200 --execute` (ImageMagick requis ; sans `--resize`, les fichiers gardent leur taille d'origine).
+
+En réserve (pas utilisée) : bouquetin à Chamonix, https://www.pexels.com/photo/alpine-ibex-in-the-majestic-french-alps-34606227/ (Pexels, Manon Ridet).
