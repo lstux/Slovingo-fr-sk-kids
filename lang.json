@@ -194,6 +194,7 @@
     "backup_import": "📤 Importovať zálohu (JSON)",
     "change_course": "Zmeniť kurz"
   },
+  "greeting": {"t": "Bonjour, [USER_NAME] !", "n": "Ahoj, [USER_NAME]!"},
   "cheers": {
     "perfect": [
       {"t": "Excellent !", "n": "Výborne!"},
