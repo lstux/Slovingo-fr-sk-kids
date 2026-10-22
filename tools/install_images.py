@@ -14,7 +14,9 @@ télécharge-les à la main, nomme-les comme indiqué, mets-les dans un dossier
 et relance avec --manual <dossier>.
 
 Usage : python3 tools/install_images.py [--manual DIR] [--only Rodina] [--dry-run]
-Prérequis : ImageMagick (commande « convert »).
+Prérequis : ImageMagick (« convert ») et curl.
+Optionnel (recommandé si les sites répondent 403) : clés API gratuites, en variables d'environnement
+  PEXELS_API_KEY, UNSPLASH_ACCESS_KEY, PIXABAY_API_KEY
 """
 import argparse, glob, os, re, shutil, subprocess, sys, tempfile, urllib.request
 
@@ -81,11 +83,61 @@ CAPTIONS = {
 }
 
 
-def get(url, binary=False):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
+BROWSER_HEADERS = [
+    "User-Agent: " + UA,
+    "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language: fr-FR,fr;q=0.9,en;q=0.8",
+    "Upgrade-Insecure-Requests: 1",
+    "Sec-Fetch-Dest: document", "Sec-Fetch-Mode: navigate", "Sec-Fetch-Site: none", "Sec-Fetch-User: ?1",
+]
+
+
+def get(url, binary=False, headers=None):
+    """Téléchargement via curl (moins bloqué que urllib). Erreur détaillée avec URL + code HTTP."""
+    with tempfile.NamedTemporaryFile(delete=False) as t:
+        out = t.name
+    cmd = ["curl", "-sL", "--compressed", "--max-time", "90", "-o", out, "-w", "%{http_code}", url]
+    for h in (headers if headers is not None else BROWSER_HEADERS):
+        cmd += ["-H", h]
+    try:
+        r = subprocess.run(cmd, capture_output=True, text=True)
+        code = r.stdout.strip()
+        if r.returncode != 0 or not code.startswith("2"):
+            raise RuntimeError(f"HTTP {code or '?'} (curl {r.returncode}) pour {url}")
+        data = open(out, "rb").read()
+    finally:
+        os.unlink(out)
     return data if binary else data.decode("utf-8", "replace")
+
+
+def last_number(page):
+    m = re.search(r"(\d+)/?$", page.rstrip("/"))
+    return m.group(1) if m else None
+
+
+def via_api(page):
+    """Utilise l'API du site si une clé est donnée par variable d'environnement.
+    Retourne (url_image, auteur) ou None."""
+    import json
+    if "pexels.com" in page and os.environ.get("PEXELS_API_KEY"):
+        j = json.loads(get(f"https://api.pexels.com/v1/photos/{last_number(page)}",
+                           headers=["Authorization: " + os.environ["PEXELS_API_KEY"]]))
+        return j["src"].get("large2x") or j["src"]["original"], j.get("photographer")
+    if "unsplash.com" in page and os.environ.get("UNSPLASH_ACCESS_KEY"):
+        pid = page.rstrip("/").split("/")[-1][-11:]
+        h = ["Authorization: Client-ID " + os.environ["UNSPLASH_ACCESS_KEY"]]
+        j = json.loads(get(f"https://api.unsplash.com/photos/{pid}", headers=h))
+        try:
+            get(j["links"]["download_location"], headers=h)  # exigé par les règles de l'API
+        except Exception:
+            pass
+        return j["urls"]["raw"] + ("&" if "?" in j["urls"]["raw"] else "?") + "w=1600&q=80", j["user"]["name"]
+    if "pixabay.com" in page and os.environ.get("PIXABAY_API_KEY"):
+        j = json.loads(get(f"https://pixabay.com/api/?key={os.environ['PIXABAY_API_KEY']}&id={last_number(page)}",
+                           headers=["Accept: application/json"]))
+        hit = j["hits"][0]
+        return hit["largeImageURL"], hit.get("user")
+    return None
 
 
 def og_image(html):
@@ -95,6 +147,9 @@ def og_image(html):
 
 
 def direct_url(page):
+    api = via_api(page)
+    if api:
+        return api[0], "AUTEUR:" + (api[1] or "")
     html = get(page)
     img = og_image(html)
     if not img:
@@ -107,6 +162,8 @@ def direct_url(page):
 
 
 def author_from_page(html):
+    if html.startswith("AUTEUR:"):
+        return html[7:] or None
     m = re.search(r"Photo by ([^<\"|]+?) on Pexels", html)
     return m.group(1).strip() if m else None
 
@@ -182,8 +239,10 @@ def main():
                         shutil.copy(manual, raw)
                     else:
                         url, html = direct_url(page)
-                        open(raw, "wb").write(get(url, binary=True))
-                        if "à lire" in author:
+                        open(raw, "wb").write(get(url, binary=True, headers=["User-Agent: " + UA, "Accept: image/*,*/*;q=0.8"]))
+                        if html.startswith("AUTEUR:") and html[7:]:
+                            author = html[7:]  # nom exact donné par l'API
+                        elif "à lire" in author:
                             author = author_from_page(html) or "à compléter"
                     resize(raw, dst)
             if "à lire" in author:
