@@ -28,6 +28,8 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Zvieratá 1 | `zvierata-01-chamois.jpg` | https://pixabay.com/photos/chamois-animal-mammal-5579897/ | Camera-man | Pixabay |
 | Zvieratá 2 | `zvierata-02-chien.jpg` | https://pixabay.com/photos/border-collie-sheep-herding-working-191779/ | JamesDeMers | Pixabay |
 | Zvieratá 6 | `zvierata-06-poules.jpg` | https://www.pexels.com/photo/brood-of-hen-2446695/ | Italo Melo | Pexels |
+| Hry 1 | `hry-01-ballon.jpg` | https://pixabay.com/photos/football-ball-grass-meadow-sports-1977528/ | atimedia | Pixabay (vérifier l'absence de logo) |
+| Hry 2 | `hry-02-telesiege.jpg` | https://www.pexels.com/photo/scenic-snowy-mountain-landscape-with-ski-lift-30816460/ | Viceman S | Pexels |
 | Hry 3 | `hry-03-marmottes-jeu.jpg` | https://www.pexels.com/photo/marmots-in-nature-18011274/ | à lire sur la page | Pexels |
 | Hry 4 | `hry-04-marmottes-hundwil.jpg` | https://www.pexels.com/photo/brown-marmot-on-green-grass-10211929/ | à lire sur la page | Pexels (provisoire, chercher autre chose que des marmottes) |
 | Hry 5 | `hry-05-cartes.jpg` | https://www.pexels.com/photo/casual-card-game-setup-on-wooden-table-28461353/ | à lire sur la page | Pexels (vérifier qu'il n'y a pas de mains ni de visage) |
@@ -42,7 +44,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Jedlo 6 | `jedlo-06-pique-nique.jpg` | https://www.pexels.com/photo/croissants-cheese-flowers-and-fruit-8194250/ | Tanya Kidanchuk | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
 
-À trancher : Dedina 2 (école), Hry 1 (ballon), Hry 2 (ski).
+À trancher : Dedina 2 (école).
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 
