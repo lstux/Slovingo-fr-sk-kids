@@ -1,6 +1,6 @@
 # Dedina (5/5) — Pardon, Monsieur !
 
-@ TODO_img/herisson-jardin.jpg | TODO : choisir une image (un hérisson dans un jardin (c'est Monsieur Hérisson))
+@ img/dedina-05-herisson.jpg | Monsieur Hérisson dans l'herbe
 
 {{sk:Ty a Andrea ste na výlete v inej alpskej dedine. Máte hlad a hľadáte pekáreň. Spýtate sa pána poštára na cestu. Počúvaj, ako sa slušne pýta cudzieho dospelého!}}
 

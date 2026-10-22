@@ -1,6 +1,6 @@
 # Kit prežitia (2/3) — Merci !
 
-@ TODO_img/marmotte-fleur.jpg | TODO : choisir une image (une marmotte qui grignote une fleur (c'est Léa))
+@ img/kit-02-marmotte-fleurs.jpg | Léa la marmotte grignote une fleur
 
 {{sk:Zdvorilosť je kľúč. Naučíš sa poďakovať, poprosiť a ospravedlniť sa.}}
 

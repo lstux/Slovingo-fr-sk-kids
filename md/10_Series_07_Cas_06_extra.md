@@ -1,6 +1,6 @@
 # Čas a čísla (extra) — Tout ensemble !
 
-@ TODO_img/village-soir.jpg | TODO : choisir une image (un village de montagne au coucher du soleil)
+@ img/cas-06-village-soir.jpg | Un village de montagne au crépuscule
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Čas a čísla a poskladáme slová do malých scénok!}}
 

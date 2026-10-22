@@ -1,6 +1,6 @@
 # Zvieratá (extra) — Tout ensemble !
 
-@ TODO_img/poule-chalet.jpg | TODO : choisir une image (une poule dans un jardin de chalet)
+@ img/zvierata-06-poules.jpg | Des poules : cot cot !
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Zvieratá a poskladáme slová do malých scénok!}}
 

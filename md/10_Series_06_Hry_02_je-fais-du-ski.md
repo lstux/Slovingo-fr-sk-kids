@@ -1,6 +1,6 @@
 # Hry (2/5) — Je fais du ski
 
-@ TODO_img/piste-ski.jpg | TODO : choisir une image (une piste de ski vide)
+@ img/hry-02-telesiege.jpg | Un télésiège au-dessus de la neige
 
 {{sk:V Alpách je v zime veľa snehu! Dnes sa naučíš povedať, aký šport robíš, a rozlíšiš „hrám“ a „robím“.}}
 

@@ -1,6 +1,6 @@
 # Zvieratá (4/5) — Plus grand que…
 
-@ TODO_img/montagne-sommet.jpg | TODO : choisir une image (un sommet alpin enneigé vu depuis une prairie, les Alpes françaises)
+@ img/zvierata-04-sommets-sallanches.jpg | Les sommets enneigés vus de Sallanches
 
 {{sk:Kto je väčší, vlk alebo svišť? Kto je rýchlejší, zajac alebo korytnačka? Dnes sa naučíš porovnávať.}}
 

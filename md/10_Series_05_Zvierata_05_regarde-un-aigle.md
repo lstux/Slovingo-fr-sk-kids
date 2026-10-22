@@ -1,6 +1,6 @@
 # Zvieratá (5/5) — Regarde, un aigle !
 
-@ TODO_img/aigle-royal.jpg | TODO : choisir une image (un aigle royal en vol)
+@ img/zvierata-05-aigle.jpg | Un aigle royal dans les montagnes
 
 {{sk:Ty, Andrea, Léa a Hugo ste na prechádzke v horách. Pozorujete zvieratá a Hugo si doberá Léu.}}
 

@@ -1,6 +1,6 @@
 # Hry (4/5) — On joue ensemble ?
 
-@ TODO_img/chamois-sautent.jpg | TODO : choisir une image (de jeunes chamois qui sautent)
+@ img/hry-04-marmottes-hundwil.jpg | Des marmottes ensemble sur l'herbe
 
 {{sk:Chceš sa s niekým zahrať? Dnes sa naučíš pozvať kamarátov, povedať „áno“ aj „možno“ a povedať „my“ tak, ako to hovoria Francúzi.}}
 

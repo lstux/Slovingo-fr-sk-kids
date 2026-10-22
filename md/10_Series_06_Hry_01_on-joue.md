@@ -1,6 +1,6 @@
 # Hry (1/5) — On joue !
 
-@ TODO_img/ballon-herbe.jpg | TODO : choisir une image (un ballon posé dans l'herbe, sans personne)
+@ img/hry-01-ballon.jpg | Un ballon dans l'herbe
 
 {{sk:Baví ťa hra s loptou, kartami alebo švihadlom? Dnes sa naučíš pomenovať hry a povedať, čo hráš.}}
 

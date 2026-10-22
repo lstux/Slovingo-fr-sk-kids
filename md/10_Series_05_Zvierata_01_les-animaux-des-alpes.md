@@ -1,6 +1,6 @@
 # Zvieratá (1/5) — Les animaux des Alpes
 
-@ TODO_img/chamois-prairie.jpg | TODO : choisir une image (un chamois dans une prairie)
+@ img/zvierata-01-chamois.jpg | Un chamois dans l'herbe
 
 {{sk:Ktoré zvieratá žijú v Alpách? Dnes sa naučíš pomenovať horské zvieratá a farmové zvieratá.}}
 

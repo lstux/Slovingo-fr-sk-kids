@@ -1,6 +1,6 @@
 # Rodina (extra) — Tout ensemble !
 
-@ TODO_img/groupe-bouquetins.jpg | TODO : choisir une image (un groupe de bouquetins)
+@ img/rodina-06-alpes-lever-soleil.jpg | Les Alpes françaises au lever du soleil
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú rodinu a poskladáme slová do malých scénok!}}
 

@@ -1,6 +1,6 @@
 # Jedlo (extra) — Tout ensemble !
 
-@ TODO_img/table-dehors.jpg | TODO : choisir une image (une table dressée dehors (pain, fromage, fruits))
+@ img/jedlo-06-pique-nique.jpg | Un pique-nique : croissants, fromage et fruits
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Jedlo a poskladáme slová do malých scénok!}}
 

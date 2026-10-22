@@ -1,6 +1,6 @@
 # Rodina (4/5) — Comment est ta famille ?
 
-@ TODO_img/harde-chamois.jpg | TODO : choisir une image (une harde de chamois)
+@ img/rodina-04-chamois.jpg | Des chamois dans les Alpes françaises
 
 {{sk:Aká je tvoja mama? A aký je tvoj tato? Dnes sa naučíš opísať svojich blízkych. Pozor, slová sa menia podľa toho, kto to je!}}
 

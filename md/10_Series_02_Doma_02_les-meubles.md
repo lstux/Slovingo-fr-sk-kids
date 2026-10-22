@@ -1,6 +1,6 @@
 # Doma (2/5) — Il y a une table
 
-@ TODO_img/table-banc-chalet.jpg | TODO : choisir une image (une table et un banc en bois devant un chalet, sans personne)
+@ img/doma-02-chalet-interieur.jpg | L'intérieur d'un chalet en bois
 
 {{sk:Čo je v tvojej izbe? Dnes sa naučíš pomenovať nábytok a povedať, čo kde je.}}
 

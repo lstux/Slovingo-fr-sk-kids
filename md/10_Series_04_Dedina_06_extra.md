@@ -1,6 +1,6 @@
 # Dedina (extra) — Tout ensemble !
 
-@ TODO_img/lyon-fourviere.jpg | TODO : choisir une image (Lyon vue depuis Fourvière)
+@ img/dedina-06-lyon-fourviere.jpg | La basilique de Fourvière, à Lyon
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Dedina a poskladáme slová do malých scénok!}}
 

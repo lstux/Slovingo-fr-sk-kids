@@ -1,6 +1,6 @@
 # Zvieratá (2/5) — C'est un chien !
 
-@ TODO_img/patou-moutons.jpg | TODO : choisir une image (un chien de berger (patou) avec les moutons)
+@ img/zvierata-02-chien.jpg | Un chien de berger qui rassemble des moutons
 
 {{sk:Máš doma zviera? Dnes sa naučíš pomenovať domáce zvieratá a povedať, aké zviera máš ty a aké majú tvoji kamaráti.}}
 

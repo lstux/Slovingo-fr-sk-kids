@@ -1,6 +1,6 @@
 # Rodina (5/5) — Chez Mamie Odile
 
-@ TODO_img/chamois-chalet.jpg | TODO : choisir une image (un chamois devant un chalet d'alpage (c'est Mamie Odile))
+@ img/rodina-05-chalet-alpage.jpg | Un chalet d'alpage : chez Mamie Odile
 
 {{sk:Léa a Hugo ťa vezmú k svojej babke. Spolu sa budeš rozprávať o rodine, o veku a na konci bude olovrant. Počúvaj a sleduj, kto čo hovorí!}}
 

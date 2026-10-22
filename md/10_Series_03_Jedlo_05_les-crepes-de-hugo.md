@@ -1,6 +1,6 @@
 # Jedlo (5/5) — Les crêpes de Hugo
 
-@ TODO_img/crepe-poele.jpg | TODO : choisir une image (une crêpe qui saute dans la poêle)
+@ img/jedlo-05-pate-saladier.jpg | De la pâte dans un saladier : on prépare les crêpes de Hugo
 
 {{sk:Hugo pripravil olovrant pre kamarátov. Počúvaj a sleduj, kto čo hovorí!}}
 

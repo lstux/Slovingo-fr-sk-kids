@@ -1,6 +1,6 @@
 # Úvod (4/5) — Výslovnosť
 
-@ TODO_img/marmotte-siffle.jpg | TODO : choisir une image (une marmotte debout devant son terrier, en train de siffler)
+@ img/intro-04-marmotte.jpg | La marmotte siffle pour prévenir les autres
 
 {{sk:Niektoré francúzske zvuky v slovenčine nemáme. Nič sa nedeje, stačí ich počúvať a opakovať!}}
 

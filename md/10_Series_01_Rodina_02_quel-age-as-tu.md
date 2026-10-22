@@ -1,6 +1,6 @@
 # Rodina (2/5) — Quel âge as-tu ?
 
-@ TODO_img/bouquetin-age.jpg | TODO : choisir une image (un vieux bouquetin aux grandes cornes, ou un jeune à côté d'un adulte)
+@ img/rodina-02-marmottes-vanoise.jpg | Des marmottes dans le parc national de la Vanoise
 
 {{sk:Koľko rokov máš ty? A koľko majú tvoji kamaráti? Dnes sa naučíš povedať, koľko má kto rokov.}}
 

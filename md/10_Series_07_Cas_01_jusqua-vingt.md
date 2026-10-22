@@ -1,6 +1,6 @@
 # Čas a čísla (1/5) — Jusqu'à vingt
 
-@ TODO_img/vaches-alpage.jpg | TODO : choisir une image (des vaches ou des moutons à compter dans un alpage)
+@ img/cas-01-moutons-lac.jpg | Des moutons au bord d'un lac : combien en vois-tu ?
 
 {{sk:Už vieš počítať do dvanásť. Dnes sa naučíš počítať až do dvadsať a povedať, koľko čoho je.}}
 

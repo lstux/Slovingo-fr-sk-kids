@@ -1,6 +1,6 @@
 # Úvod (1/5) — Ako to funguje
 
-@ TODO_img/renard-montagne.jpg | TODO : choisir une image (un renard roux dans un paysage de montagne (c'est toi))
+@ img/intro-01-renard.jpg | Le renard roux : c'est toi, l'apprenant !
 
 ## Ahoj! Ako sa voláš?
 

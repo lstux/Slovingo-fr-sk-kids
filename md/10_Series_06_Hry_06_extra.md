@@ -1,6 +1,6 @@
 # Hry (extra) — Tout ensemble !
 
-@ TODO_img/chalet-luge.jpg | TODO : choisir une image (un chalet sous la neige avec des traces de luge)
+@ img/hry-06-village-neige.jpg | Un village sous la neige : c'est l'heure de la luge !
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Hry a poskladáme slová do malých scénok!}}
 

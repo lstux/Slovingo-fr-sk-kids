@@ -1,6 +1,6 @@
 # Kit prežitia (3/3) — Salut, Andrea !
 
-@ TODO_img/lievre-hiver.jpg | TODO : choisir une image (un lièvre variable en robe d'hiver blanche (c'est Andrea))
+@ img/kit-03-lievre-blanc.jpg | Andrea le lièvre, en robe d'hiver
 
 {{sk:Si v Alpách a stretávaš Andreu a Léu. Nevadí, že ešte nerozumieš všetkému. Počúvaj a sleduj, kto čo hovorí!}}
 

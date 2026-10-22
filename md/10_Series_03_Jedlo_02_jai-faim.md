@@ -1,6 +1,6 @@
 # Jedlo (2/5) — J'ai faim !
 
-@ TODO_img/vache-broute.jpg | TODO : choisir une image (une vache ou un chamois qui broute)
+@ img/jedlo-02-vache.jpg | Une vache qui broute dans l'alpage
 
 {{sk:Máš hlad? Máš smäd? Dnes sa naučíš povedať, čo chceš, a povedať to slušne. A naučíš sa názvy jedál počas dňa.}}
 

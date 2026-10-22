@@ -1,6 +1,6 @@
 # Jedlo (1/5) — Je mange du pain
 
-@ TODO_img/bouquetin-ruisseau.jpg | TODO : choisir une image (un bouquetin qui boit à un ruisseau)
+@ img/jedlo-01-petit-dejeuner.jpg | Le petit déjeuner en plein air
 
 {{sk:Máš hlad? Máš smäd? Dnes sa naučíš povedať, čo jeme a čo pijeme.}}
 

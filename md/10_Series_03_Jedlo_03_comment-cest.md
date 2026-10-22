@@ -1,6 +1,6 @@
 # Jedlo (3/5) — Comment c'est ?
 
-@ TODO_img/myrtilles.jpg | TODO : choisir une image (des myrtilles sauvages)
+@ img/jedlo-03-myrtilles.jpg | Des myrtilles sauvages
 
 {{sk:Je to horúce? Je to sladké? Je to dobré? Dnes sa naučíš opísať jedlo a povedať, čo si o ňom myslíš.}}
 

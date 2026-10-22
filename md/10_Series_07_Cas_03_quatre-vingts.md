@@ -1,6 +1,6 @@
 # Čas a čísla (3/5) — Quatre-vingts !
 
-@ TODO_img/troupeau-route.jpg | TODO : choisir une image (un troupeau qui traverse une route (transhumance))
+@ img/cas-03-troupeau-route.jpg | Un troupeau sur la route
 
 {{sk:Pozor, toto je najťažšia časť! Francúzi nemajú slovo pre osemdesiat. Povedia „štyri-dvadsať“! Neboj sa, vysvetlíme si to.}}
 

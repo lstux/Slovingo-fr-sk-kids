@@ -1,6 +1,6 @@
 # Doma (3/5) — Je cherche mon livre
 
-@ TODO_img/chaussures-porte.jpg | TODO : choisir une image (des chaussures de rando et un sac devant une porte de chalet, sans personne)
+@ img/doma-03-bottes-sac.jpg | Des bottes et un sac, prêts pour la rando
 
 {{sk:Kde je moja kniha? Kde sú moje kľúče? Dnes sa naučíš pomenovať veci, ktoré hľadáme najčastejšie, a povedať, že ich hľadáš.}}
 

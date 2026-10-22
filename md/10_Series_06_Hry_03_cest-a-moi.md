@@ -1,6 +1,6 @@
 # Hry (3/5) — C'est à moi !
 
-@ TODO_img/marmottes-jeu.jpg | TODO : choisir une image (deux marmottes qui se chamaillent)
+@ img/hry-03-marmottes-jeu.jpg | Des marmottes qui jouent
 
 {{sk:Kto je na rade? Kto vyhráva? Dnes sa naučíš povedať „som na rade“ a „vyhrávam“.}}
 

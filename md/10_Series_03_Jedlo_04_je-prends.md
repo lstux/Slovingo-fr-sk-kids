@@ -1,6 +1,6 @@
 # Jedlo (4/5) — Je prends une crêpe
 
-@ TODO_img/crepes-pile.jpg | TODO : choisir une image (une pile de crêpes)
+@ img/jedlo-04-crepes.jpg | Des crêpes : miam !
 
 {{sk:Palacinky, croissanty, čokoláda! Dnes sa naučíš povedať, čo si dáš na olovrant.}}
 

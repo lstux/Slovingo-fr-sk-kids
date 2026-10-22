@@ -1,6 +1,6 @@
 # Kit prežitia (extra) — Tout ensemble !
 
-@ TODO_img/bouquetin-rocher.jpg | TODO : choisir une image (un bouquetin sur un rocher (c'est Hugo))
+@ img/kit-04-bouquetin.jpg | Hugo le bouquetin sur son rocher
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celý Kit prežitia a poskladáme slová do malých scénok!}}
 
