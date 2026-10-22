@@ -18,6 +18,7 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Rodina 5 | `rodina-05-chalet-alpage.jpg` | https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/ | shogun | Pixabay |
 | Rodina 6 | `rodina-06-alpes-lever-soleil.jpg` | https://www.pexels.com/photo/golden-sunrise-over-french-alps-peak-29008774/ | Marek Piwnicki | Pexels |
 | Dedina 1 | `dedina-01-village.jpg` | https://unsplash.com/photos/a-mountain-village-in-the-middle-of-a-valley-k-m5ctuvuHE | Adrien Olichon | Unsplash |
+| Dedina 2 | `dedina-02-classe.jpg` | https://www.pexels.com/photo/empty-light-classroom-with-blackboard-and-desks-5499557/ | Diana (@didsss) | Pexels (classe vide ; un blason allemand est visible dans l'image : à masquer ou recadrer avant de l'utiliser) |
 | Dedina 3 | `dedina-03-bus.jpg` | https://www.pexels.com/photo/bus-on-road-in-mountains-17970685/ | Pawel Kalisinski | Pexels |
 | Dedina 4 | `dedina-04-panneau.jpg` | https://www.pexels.com/photo/close-up-of-a-directional-sign-13625212/ | juan rojas | Pexels |
 | Dedina 5 | `dedina-05-herisson.jpg` | https://unsplash.com/photos/a-hedgehog-is-sitting-in-the-grass-TCmqQE13aP0 | Lukas Seitz | Unsplash |
@@ -49,8 +50,6 @@ Photos choisies mais pas encore dans `img/`. Pour chacune : télécharger depuis
 | Jedlo 5 | `jedlo-05-pate-saladier.jpg` | https://pixabay.com/photos/dough-flour-batter-bake-cake-7711413/ | eatde | Pixabay |
 | Jedlo 6 | `jedlo-06-pique-nique.jpg` | https://www.pexels.com/photo/croissants-cheese-flowers-and-fruit-8194250/ | Tanya Kidanchuk | Pexels |
 | Doma 4 | `doma-04-marmotte-herbe.jpg` | https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/ | patmueller | Pixabay |
-
-À trancher : Dedina 2 (école).
 
 Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Special:FilePath`) ; à télécharger avec `fetch_images.py` en local et à créditer dans `img/credits.md` (auteur et licence à lire sur la page Commons).
 

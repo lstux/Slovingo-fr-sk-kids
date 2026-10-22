@@ -58,6 +58,7 @@ CAPTIONS = {
     "Jedlo 5": "{{sk:Cesto v miske: Hugo robí palacinky}}",
     "Jedlo 6": "{{sk:Piknik: croissanty, syr a ovocie}}",
     "Dedina 1": "{{sk:Horská dedina v údolí}}",
+    "Dedina 2": "{{sk:Prázdna trieda: čoskoro sem prídu žiaci}}",
     "Dedina 3": "{{sk:Autobus na horskej ceste}}",
     "Dedina 4": "{{sk:Ukazovateľ smerov na križovatke}}",
     "Dedina 5": "{{sk:Monsieur Hérisson v tráve}}",

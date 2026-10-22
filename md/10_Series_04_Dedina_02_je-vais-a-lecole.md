@@ -1,6 +1,6 @@
 # Dedina (2/5) — Je vais à l'école
 
-@ TODO_img/ecole-village.jpg | TODO : choisir une image (une petite école de village)
+@ img/dedina-02-classe.jpg | {{sk:Prázdna trieda: čoskoro sem prídu žiaci}}
 
 {{sk:Kam ideš dnes? Do školy, na trh, na plaváreň? Dnes sa naučíš povedať, kam ideš, a spýtať sa na to aj ostatných.}}
 
