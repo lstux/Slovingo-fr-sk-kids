@@ -1,6 +1,6 @@
 # Rodina (4/5) — Comment est ta famille ?
 
-@ img/rodina-04-chamois.jpg | Des chamois dans les Alpes françaises
+@ img/rodina-04-chamois.jpg | {{sk:Kamzíky vo francúzskych Alpách}}
 
 {{sk:Aká je tvoja mama? A aký je tvoj tato? Dnes sa naučíš opísať svojich blízkych. Pozor, slová sa menia podľa toho, kto to je!}}
 

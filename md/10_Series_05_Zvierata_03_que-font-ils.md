@@ -1,6 +1,6 @@
 # Zvieratá (3/5) — Que font-ils ?
 
-@ img/zvierata-03-marmotte.jpg | Une marmotte debout, qui guette
+@ img/zvierata-03-marmotte.jpg | {{sk:Svišť stojí a stráži}}
 
 {{sk:Čo robia zvieratá? Dnes sa naučíš povedať, ako sa zvieratá hýbu, a naučíš sa povedať „oni“ a „ony“.}}
 

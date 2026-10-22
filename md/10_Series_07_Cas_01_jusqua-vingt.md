@@ -1,6 +1,6 @@
 # Čas a čísla (1/5) — Jusqu'à vingt
 
-@ img/cas-01-moutons-lac.jpg | Des moutons au bord d'un lac : combien en vois-tu ?
+@ img/cas-01-moutons-lac.jpg | {{sk:Ovce pri jazere: koľko ich vidíš?}}
 
 {{sk:Už vieš počítať do dvanásť. Dnes sa naučíš počítať až do dvadsať a povedať, koľko čoho je.}}
 

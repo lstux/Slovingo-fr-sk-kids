@@ -1,6 +1,6 @@
 # Dedina (4/5) — Où est la boulangerie ?
 
-@ img/dedina-04-panneau.jpg | Un panneau de directions à un carrefour
+@ img/dedina-04-panneau.jpg | {{sk:Ukazovateľ smerov na križovatke}}
 
 {{sk:Kde je pekáreň? Je blízko alebo ďaleko? Dnes sa naučíš opísať cestu a povedať, kde niečo je.}}
 

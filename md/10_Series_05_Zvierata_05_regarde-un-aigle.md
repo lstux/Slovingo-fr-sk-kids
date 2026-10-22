@@ -1,6 +1,6 @@
 # Zvieratá (5/5) — Regarde, un aigle !
 
-@ img/zvierata-05-aigle.jpg | Un aigle royal dans les montagnes
+@ img/zvierata-05-aigle.jpg | {{sk:Orol skalný v horách}}
 
 {{sk:Ty, Andrea, Léa a Hugo ste na prechádzke v horách. Pozorujete zvieratá a Hugo si doberá Léu.}}
 

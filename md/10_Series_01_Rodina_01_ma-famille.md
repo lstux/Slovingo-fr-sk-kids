@@ -1,6 +1,6 @@
 # Rodina (1/5) — Ma famille !
 
-@ img/rodina-01-marmottes.jpg | Une famille de marmottes
+@ img/rodina-01-marmottes.jpg | {{sk:Rodina svišťov}}
 
 {{sk:V Alpách má každý svoju rodinu! Dnes sa naučíš povedať „to je moja mama“, „to je môj brat“ a ukázať svojich blízkych.}}
 

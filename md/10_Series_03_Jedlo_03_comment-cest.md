@@ -1,6 +1,6 @@
 # Jedlo (3/5) — Comment c'est ?
 
-@ img/jedlo-03-myrtilles.jpg | Des myrtilles sauvages
+@ img/jedlo-03-myrtilles.jpg | {{sk:Divoké čučoriedky}}
 
 {{sk:Je to horúce? Je to sladké? Je to dobré? Dnes sa naučíš opísať jedlo a povedať, čo si o ňom myslíš.}}
 

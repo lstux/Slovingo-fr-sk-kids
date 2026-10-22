@@ -1,6 +1,6 @@
 # Čas a čísla (extra) — Tout ensemble !
 
-@ img/cas-06-village-soir.jpg | Un village de montagne au crépuscule
+@ img/cas-06-village-soir.jpg | {{sk:Horská dedina za súmraku}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Čas a čísla a poskladáme slová do malých scénok!}}
 

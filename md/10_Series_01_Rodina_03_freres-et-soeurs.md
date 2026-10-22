@@ -1,6 +1,6 @@
 # Rodina (3/5) — Tu as un frère ?
 
-@ img/rodina-03-bouquetins.jpg | Des bouquetins : frères et sœurs
+@ img/rodina-03-bouquetins.jpg | {{sk:Kozorožce: súrodenci}}
 
 {{sk:Máš brata alebo sestru? Dnes sa naučíš odpovedať áno alebo nie a povedať, ako sa voláš ty a ako sa volajú tvoji blízki.}}
 

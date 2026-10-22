@@ -1,6 +1,6 @@
 # Doma (5/5) — Chez Andrea
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/European_Hare.jpg | Andrea, la hase, dans sa prairie
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_Hare.jpg | {{sk:Zajačica Andrea na svojej lúke}}
 
 {{sk:Andrea ťa pozvala k sebe domov. Prezrieš si jej dom a jej izbu. Počúvaj a sleduj, kto čo hovorí!}}
 

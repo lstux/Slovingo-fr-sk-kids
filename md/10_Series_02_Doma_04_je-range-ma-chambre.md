@@ -1,6 +1,6 @@
 # Doma (4/5) — Je range ma chambre !
 
-@ img/doma-04-marmotte-herbe.jpg | Une marmotte dans l'herbe, près de son terrier
+@ img/doma-04-marmotte-herbe.jpg | {{sk:Svišť v tráve pri svojej nore}}
 
 {{sk:Doma sa vždy niečo robí: upratuje sa, číta sa, otvára sa okno. A pomáhajú všetci! Dnes sa naučíš sedem slovies, ktoré sa ti budú hodiť každý deň.}}
 

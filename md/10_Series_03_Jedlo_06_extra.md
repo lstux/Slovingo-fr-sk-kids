@@ -1,6 +1,6 @@
 # Jedlo (extra) — Tout ensemble !
 
-@ img/jedlo-06-pique-nique.jpg | Un pique-nique : croissants, fromage et fruits
+@ img/jedlo-06-pique-nique.jpg | {{sk:Piknik: croissanty, syr a ovocie}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Jedlo a poskladáme slová do malých scénok!}}
 

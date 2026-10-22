@@ -1,6 +1,6 @@
 # Rodina (extra) — Tout ensemble !
 
-@ img/rodina-06-alpes-lever-soleil.jpg | Les Alpes françaises au lever du soleil
+@ img/rodina-06-alpes-lever-soleil.jpg | {{sk:Francúzske Alpy pri východe slnka}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú rodinu a poskladáme slová do malých scénok!}}
 

@@ -1,6 +1,6 @@
 # Hry (3/5) — C'est à moi !
 
-@ img/hry-03-marmottes-jeu.jpg | Des marmottes qui jouent
+@ img/hry-03-marmottes-jeu.jpg | {{sk:Svište sa hrajú}}
 
 {{sk:Kto je na rade? Kto vyhráva? Dnes sa naučíš povedať „som na rade“ a „vyhrávam“.}}
 

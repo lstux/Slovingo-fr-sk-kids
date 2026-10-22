@@ -1,6 +1,6 @@
 # Čas a čísla (5/5) — Dépêche-toi !
 
-@ img/cas-05-train-chamonix.jpg | Un train dans la gare de Chamonix
+@ img/cas-05-train-chamonix.jpg | {{sk:Vlak na stanici v Chamonix}}
 
 {{sk:Ty, Andrea a Léa idete vlakom do Lyonu. Ale kde je Hugo? Počúvaj, ako sa pýtajú na čas a ako sa ponáhľajú!}}
 

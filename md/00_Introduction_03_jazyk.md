@@ -1,6 +1,6 @@
 # Úvod (3/5) — Jazyk
 
-@ img/intro-03-lievre.jpg | Le lièvre variable : c'est Andrea
+@ img/intro-03-lievre.jpg | {{sk:Zajac belavý – to je Andrea}}
 
 {{sk:Francúzština sa píše trochu inak, než sa číta. Dnes si ukážeme dve veci, ktoré ťa v nej prekvapia.}}
 

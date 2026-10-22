@@ -1,6 +1,6 @@
 # Jedlo (4/5) — Je prends une crêpe
 
-@ img/jedlo-04-crepes.jpg | Des crêpes : miam !
+@ img/jedlo-04-crepes.jpg | {{sk:Palacinky – mňam!}}
 
 {{sk:Palacinky, croissanty, čokoláda! Dnes sa naučíš povedať, čo si dáš na olovrant.}}
 

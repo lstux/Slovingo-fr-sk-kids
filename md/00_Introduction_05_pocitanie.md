@@ -1,6 +1,6 @@
 # Úvod (5/5) — Počítanie
 
-@ img/intro-05-moutons.jpg | Des moutons à compter, un par un
+@ img/intro-05-moutons.jpg | {{sk:Ovce na počítanie – jedna po druhej}}
 
 {{sk:Čísla od nuly do desať sú dobrý začiatok. Počúvaj ich a počítaj nahlas!}}
 

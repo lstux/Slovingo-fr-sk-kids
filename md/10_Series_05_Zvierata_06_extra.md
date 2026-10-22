@@ -1,6 +1,6 @@
 # Zvieratá (extra) — Tout ensemble !
 
-@ img/zvierata-06-poules.jpg | Des poules : cot cot !
+@ img/zvierata-06-poules.jpg | {{sk:Sliepky: kvok, kvok!}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Zvieratá a poskladáme slová do malých scénok!}}
 

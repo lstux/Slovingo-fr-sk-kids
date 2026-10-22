@@ -1,6 +1,6 @@
 # Úvod (4/5) — Výslovnosť
 
-@ img/intro-04-marmotte.jpg | La marmotte siffle pour prévenir les autres
+@ img/intro-04-marmotte.jpg | {{sk:Svišť stojí a pískaním varuje ostatných}}
 
 {{sk:Niektoré francúzske zvuky v slovenčine nemáme. Nič sa nedeje, stačí ich počúvať a opakovať!}}
 

@@ -1,6 +1,6 @@
 # Zvieratá (4/5) — Plus grand que…
 
-@ img/zvierata-04-sommets-sallanches.jpg | Les sommets enneigés vus de Sallanches
+@ img/zvierata-04-sommets-sallanches.jpg | {{sk:Zasnežené vrcholy pri Sallanches}}
 
 {{sk:Kto je väčší, vlk alebo svišť? Kto je rýchlejší, zajac alebo korytnačka? Dnes sa naučíš porovnávať.}}
 

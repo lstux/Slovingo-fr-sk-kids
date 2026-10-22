@@ -1,6 +1,6 @@
 # Dedina (5/5) — Pardon, Monsieur !
 
-@ img/dedina-05-herisson.jpg | Monsieur Hérisson dans l'herbe
+@ img/dedina-05-herisson.jpg | {{sk:Monsieur Hérisson v tráve}}
 
 {{sk:Ty a Andrea ste na výlete v inej alpskej dedine. Máte hlad a hľadáte pekáreň. Spýtate sa pána poštára na cestu. Počúvaj, ako sa slušne pýta cudzieho dospelého!}}
 

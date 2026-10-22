@@ -1,6 +1,6 @@
 # Jedlo (2/5) — J'ai faim !
 
-@ img/jedlo-02-vache.jpg | Une vache qui broute dans l'alpage
+@ img/jedlo-02-vache.jpg | {{sk:Krava sa pasie na alpskej lúke}}
 
 {{sk:Máš hlad? Máš smäd? Dnes sa naučíš povedať, čo chceš, a povedať to slušne. A naučíš sa názvy jedál počas dňa.}}
 

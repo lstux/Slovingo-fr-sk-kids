@@ -1,6 +1,6 @@
 # Hry (2/5) — Je fais du ski
 
-@ img/hry-02-telesiege.jpg | Un télésiège au-dessus de la neige
+@ img/hry-02-telesiege.jpg | {{sk:Sedačková lanovka nad snehom}}
 
 {{sk:V Alpách je v zime veľa snehu! Dnes sa naučíš povedať, aký šport robíš, a rozlíšiš „hrám“ a „robím“.}}
 

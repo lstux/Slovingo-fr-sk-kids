@@ -1,6 +1,6 @@
 # Kit prežitia (2/3) — Merci !
 
-@ img/kit-02-marmotte-fleurs.jpg | Léa la marmotte grignote une fleur
+@ img/kit-02-marmotte-fleurs.jpg | {{sk:Svišť Léa si pochutnáva na kvetine}}
 
 {{sk:Zdvorilosť je kľúč. Naučíš sa poďakovať, poprosiť a ospravedlniť sa.}}
 

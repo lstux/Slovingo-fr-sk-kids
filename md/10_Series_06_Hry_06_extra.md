@@ -1,6 +1,6 @@
 # Hry (extra) — Tout ensemble !
 
-@ img/hry-06-village-neige.jpg | Un village sous la neige : c'est l'heure de la luge !
+@ img/hry-06-village-neige.jpg | {{sk:Dedina pod snehom: čas na sánkovanie!}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Hry a poskladáme slová do malých scénok!}}
 

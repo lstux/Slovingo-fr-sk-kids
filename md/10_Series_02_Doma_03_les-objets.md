@@ -1,6 +1,6 @@
 # Doma (3/5) — Je cherche mon livre
 
-@ img/doma-03-bottes-sac.jpg | Des bottes et un sac, prêts pour la rando
+@ img/doma-03-bottes-sac.jpg | {{sk:Topánky a batoh pripravené na túru}}
 
 {{sk:Kde je moja kniha? Kde sú moje kľúče? Dnes sa naučíš pomenovať veci, ktoré hľadáme najčastejšie, a povedať, že ich hľadáš.}}
 

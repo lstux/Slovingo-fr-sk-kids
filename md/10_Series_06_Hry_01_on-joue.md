@@ -1,6 +1,6 @@
 # Hry (1/5) — On joue !
 
-@ img/hry-01-ballon.jpg | Un ballon dans l'herbe
+@ img/hry-01-ballon.jpg | {{sk:Lopta v tráve}}
 
 {{sk:Baví ťa hra s loptou, kartami alebo švihadlom? Dnes sa naučíš pomenovať hry a povedať, čo hráš.}}
 

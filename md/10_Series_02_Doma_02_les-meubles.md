@@ -1,6 +1,6 @@
 # Doma (2/5) — Il y a une table
 
-@ img/doma-02-chalet-interieur.jpg | L'intérieur d'un chalet en bois
+@ img/doma-02-chalet-interieur.jpg | {{sk:Vnútro drevenej chaty}}
 
 {{sk:Čo je v tvojej izbe? Dnes sa naučíš pomenovať nábytok a povedať, čo kde je.}}
 

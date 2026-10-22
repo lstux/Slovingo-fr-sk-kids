@@ -1,6 +1,6 @@
 # Čas a čísla (4/5) — Quelle heure est-il ?
 
-@ img/cas-04-clocher.jpg | L'horloge d'un clocher de village
+@ img/cas-04-clocher.jpg | {{sk:Hodiny na zvonici v dedine}}
 
 {{sk:Koľko je hodín? Dnes sa naučíš povedať čas. Pozor, Francúzi počítajú pol hodiny inak ako Slováci!}}
 

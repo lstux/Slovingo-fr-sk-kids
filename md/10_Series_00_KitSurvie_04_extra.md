@@ -1,6 +1,6 @@
 # Kit prežitia (extra) — Tout ensemble !
 
-@ img/kit-04-bouquetin.jpg | Hugo le bouquetin sur son rocher
+@ img/kit-04-bouquetin.jpg | {{sk:Kozorožec Hugo na skale}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celý Kit prežitia a poskladáme slová do malých scénok!}}
 

@@ -1,6 +1,6 @@
 # Kit prežitia (3/3) — Salut, Andrea !
 
-@ img/kit-03-lievre-blanc.jpg | Andrea le lièvre, en robe d'hiver
+@ img/kit-03-lievre-blanc.jpg | {{sk:Zajac Andrea v zimnom kožúšku}}
 
 {{sk:Si v Alpách a stretávaš Andreu a Léu. Nevadí, že ešte nerozumieš všetkému. Počúvaj a sleduj, kto čo hovorí!}}
 

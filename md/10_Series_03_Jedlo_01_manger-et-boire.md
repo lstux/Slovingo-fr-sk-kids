@@ -1,6 +1,6 @@
 # Jedlo (1/5) — Je mange du pain
 
-@ img/jedlo-01-petit-dejeuner.jpg | Le petit déjeuner en plein air
+@ img/jedlo-01-petit-dejeuner.jpg | {{sk:Raňajky pod holým nebom}}
 
 {{sk:Máš hlad? Máš smäd? Dnes sa naučíš povedať, čo jeme a čo pijeme.}}
 

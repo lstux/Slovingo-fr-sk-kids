@@ -1,6 +1,6 @@
 # Kit prežitia (1/3) — Bonjour !
 
-@ img/kit-01-village-alpin.jpg | Un village de montagne dans les Alpes : quand on croise quelqu'un, on dit bonjour !
+@ img/kit-01-village-alpin.jpg | {{sk:Horská dedina v Alpách: keď niekoho stretneš, pozdravíš!}}
 
 {{sk:Prvé slová: ako pozdraviť, ako sa rozlúčiť a ako sa opýtať, ako sa máš. Dotkni sa slov a počúvaj!}}
 

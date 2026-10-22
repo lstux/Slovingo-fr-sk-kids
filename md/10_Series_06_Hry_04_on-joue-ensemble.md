@@ -1,6 +1,6 @@
 # Hry (4/5) — On joue ensemble ?
 
-@ img/hry-04-marmottes-hundwil.jpg | Des marmottes ensemble sur l'herbe
+@ img/hry-04-marmottes-hundwil.jpg | {{sk:Svište spolu v tráve}}
 
 {{sk:Chceš sa s niekým zahrať? Dnes sa naučíš pozvať kamarátov, povedať „áno“ aj „možno“ a povedať „my“ tak, ako to hovoria Francúzi.}}
 

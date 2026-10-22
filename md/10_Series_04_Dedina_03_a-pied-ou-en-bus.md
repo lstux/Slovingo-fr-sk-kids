@@ -1,6 +1,6 @@
 # Dedina (3/5) — À pied ou en bus ?
 
-@ img/dedina-03-bus.jpg | Un bus sur une route de montagne
+@ img/dedina-03-bus.jpg | {{sk:Autobus na horskej ceste}}
 
 {{sk:Ideš do školy pešo, autobusom alebo na bicykli? Dnes sa naučíš povedať, ako sa kam dostaneš.}}
 

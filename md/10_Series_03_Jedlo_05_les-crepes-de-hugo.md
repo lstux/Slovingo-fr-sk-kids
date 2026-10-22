@@ -1,6 +1,6 @@
 # Jedlo (5/5) — Les crêpes de Hugo
 
-@ img/jedlo-05-pate-saladier.jpg | De la pâte dans un saladier : on prépare les crêpes de Hugo
+@ img/jedlo-05-pate-saladier.jpg | {{sk:Cesto v miske: Hugo robí palacinky}}
 
 {{sk:Hugo pripravil olovrant pre kamarátov. Počúvaj a sleduj, kto čo hovorí!}}
 

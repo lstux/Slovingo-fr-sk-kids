@@ -1,6 +1,6 @@
 # Zvieratá (2/5) — C'est un chien !
 
-@ img/zvierata-02-chien.jpg | Un chien de berger qui rassemble des moutons
+@ img/zvierata-02-chien.jpg | {{sk:Pastiersky pes zháňa ovce}}
 
 {{sk:Máš doma zviera? Dnes sa naučíš pomenovať domáce zvieratá a povedať, aké zviera máš ty a aké majú tvoji kamaráti.}}
 

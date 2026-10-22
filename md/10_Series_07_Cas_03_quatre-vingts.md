@@ -1,6 +1,6 @@
 # Čas a čísla (3/5) — Quatre-vingts !
 
-@ img/cas-03-troupeau-route.jpg | Un troupeau sur la route
+@ img/cas-03-troupeau-route.jpg | {{sk:Stádo na ceste}}
 
 {{sk:Pozor, toto je najťažšia časť! Francúzi nemajú slovo pre osemdesiat. Povedia „štyri-dvadsať“! Neboj sa, vysvetlíme si to.}}
 

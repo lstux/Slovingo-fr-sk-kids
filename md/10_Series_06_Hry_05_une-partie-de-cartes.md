@@ -1,6 +1,6 @@
 # Hry (5/5) — Une partie de cartes
 
-@ img/hry-05-cartes.jpg | Un jeu de cartes sur une table en bois
+@ img/hry-05-cartes.jpg | {{sk:Karty na drevenom stole}}
 
 {{sk:Ty, Andrea, Léa a Hugo hráte karty v chate. Hugo si myslí, že niekto podvádza… ale má pravdu?}}
 

@@ -1,6 +1,6 @@
 # Čas a čísla (2/5) — Combien de… ?
 
-@ img/cas-02-pieces-euros.jpg | Des pièces d'euros posées sur du bois
+@ img/cas-02-pieces-euros.jpg | {{sk:Euromince na dreve}}
 
 {{sk:Koľko je ovečiek na lúke? Koľko stojí chlieb? Dnes sa naučíš počítať po desiatkach až do sto a opýtať sa „koľko“.}}
 

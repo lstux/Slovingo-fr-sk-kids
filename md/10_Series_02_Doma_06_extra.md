@@ -1,6 +1,6 @@
 # Doma (extra) — Tout ensemble !
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/La_Thuile_(Savoie).JPG | Un village de Savoie, avec ses chalets
+@ https://commons.wikimedia.org/wiki/Special:FilePath/La_Thuile_(Savoie).JPG | {{sk:Savojská dedina s chatami}}
 
 {{sk:Tu nie sú žiadne nové slová. Zhrnieme celú sériu Doma a poskladáme slová do malých scénok!}}
 

@@ -1,6 +1,6 @@
 # Úvod (2/5) — Krajina
 
-@ img/intro-02-alpes.jpg | Les Alpes françaises, près de Puy-Saint-Vincent
+@ img/intro-02-alpes.jpg | {{sk:Francúzske Alpy pri Puy-Saint-Vincent}}
 
 {{sk:Kde vlastne sú tvoje nové hory? Pozrime sa spolu!}}
 

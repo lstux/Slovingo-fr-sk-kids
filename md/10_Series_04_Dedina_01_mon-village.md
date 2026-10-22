@@ -1,6 +1,6 @@
 # Dedina (1/5) — Mon village
 
-@ img/dedina-01-village.jpg | Un village de montagne dans sa vallée
+@ img/dedina-01-village.jpg | {{sk:Horská dedina v údolí}}
 
 {{sk:Kde sa v dedine nakupuje chlieb? Kde je škola? Dnes sa naučíš pomenovať miesta v dedine, v ktorej bývaš.}}
 

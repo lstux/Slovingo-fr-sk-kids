@@ -1,6 +1,6 @@
 # Doma (1/5) — La maison
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Chalet-areche-beaufort.jpg | Un chalet de Savoie sous la neige
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Chalet-areche-beaufort.jpg | {{sk:Savojská chata pod snehom}}
 
 {{sk:Kde bývajú tvoji noví susedia? V Alpách, v drevených chalupách! Dnes sa naučíš pomenovať izby a povedať, kde kto je.}}
 

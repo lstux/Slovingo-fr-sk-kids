@@ -1,6 +1,6 @@
 # Zvieratá (1/5) — Les animaux des Alpes
 
-@ img/zvierata-01-chamois.jpg | Un chamois dans l'herbe
+@ img/zvierata-01-chamois.jpg | {{sk:Kamzík v tráve}}
 
 {{sk:Ktoré zvieratá žijú v Alpách? Dnes sa naučíš pomenovať horské zvieratá a farmové zvieratá.}}
 

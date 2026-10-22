@@ -1,6 +1,6 @@
 # Rodina (2/5) — Quel âge as-tu ?
 
-@ img/rodina-02-marmottes-vanoise.jpg | Des marmottes dans le parc national de la Vanoise
+@ img/rodina-02-marmottes-vanoise.jpg | {{sk:Svište v národnom parku Vanoise}}
 
 {{sk:Koľko rokov máš ty? A koľko majú tvoji kamaráti? Dnes sa naučíš povedať, koľko má kto rokov.}}
 
