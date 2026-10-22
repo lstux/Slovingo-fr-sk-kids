@@ -57,3 +57,19 @@ Doma 1, 5 et 6 : photos Wikimedia Commons, déjà dans les fiches (adresse `Spec
 Télécharger toutes les images en les réduisant : `python3 src/fetch_images.py --lang-dir . --resize 1200 --execute` (ImageMagick requis ; sans `--resize`, les fichiers gardent leur taille d'origine).
 
 En réserve (pas utilisée) : bouquetin à Chamonix, https://www.pexels.com/photo/alpine-ibex-in-the-majestic-french-alps-34606227/ (Pexels, Manon Ridet).
+
+## Bannières de style (`img/style_<clé>.jpg`, paysage large, 1200 px)
+
+| Clé | Nom du fichier | Page | Auteur | Licence |
+|---|---|---|---|---|
+| default | `style_default.jpg` | https://pixabay.com/photos/field-flowers-meadow-landscape-3123271/ | IlonaBurschl | Pixabay |
+| basics | `style_basics.jpg` | https://pixabay.com/photos/meadow-grass-nature-landscape-757731/ | Bessi | Pixabay (vérifier l'adresse exacte, n° 757731) |
+| family | `style_family.jpg` | https://pixabay.com/photos/marmot-rodent-alpine-marmot-alps-7338831/ | franzschabreiter | Pixabay (Autriche) |
+| house | `style_house.jpg` | https://www.pexels.com/photo/a-mountain-hut-overlooks-a-spectacular-valley-in-the-swiss-alps-27971523/ | James Wong | Pexels (Grindelwald, Suisse ; à remplacer si on trouve un chalet savoyard en paysage) |
+| food | `style_food.jpg` | À CHOISIR | | Candidats vus : tous en portrait pour l'instant |
+| city | `style_city.jpg` | https://www.pexels.com/photo/8430268/ | Mikhail Nilov | Pexels (Lyon) |
+| animals | `style_animals.jpg` | https://www.pexels.com/photo/alpine-ibex-in-the-majestic-french-alps-34606227/ | Manon Ridet | Pexels (Chamonix) |
+| games | `style_games.jpg` | https://www.pexels.com/photo/stunning-mountain-ski-resort-in-winter-30401227/ | Ogy Kovachev | Pexels (Courchevel, paysage 4032×2688, des skieurs lointains visibles) |
+| time | `style_time.jpg` | https://www.pexels.com/photo/24226321/ | arnaud audoin | Pexels (France, paysage 4272×2848) |
+
+Le bandeau est large (~220 px de haut, `cover`, centré à 60 %) : le script réduit à 1200 px de large sans recadrer, le recadrage se fait à l'affichage.
