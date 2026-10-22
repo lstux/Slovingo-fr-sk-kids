@@ -228,7 +228,12 @@ def main():
         dst = os.path.join(ROOT, "img", fname)
         author = r["author"]
         try:
-            if not os.path.exists(dst):
+            if os.path.exists(dst):
+                # photo déjà déposée dans img/ (à la main) : on la réduit si elle dépasse 1200 px
+                w = subprocess.run(["identify", "-format", "%w", dst], capture_output=True, text=True).stdout
+                if w.strip().isdigit() and int(w) > 1200 and not a.dry_run:
+                    resize(dst, dst)
+            else:
                 manual = os.path.join(a.manual, fname) if a.manual else None
                 if a.dry_run:
                     print("à faire :", label, fname)

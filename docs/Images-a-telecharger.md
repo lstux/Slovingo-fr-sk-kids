@@ -70,6 +70,6 @@ En réserve (pas utilisée) : bouquetin à Chamonix, https://www.pexels.com/phot
 | city | `style_city.jpg` | https://www.pexels.com/photo/8430268/ | Mikhail Nilov | Pexels (Lyon) |
 | animals | `style_animals.jpg` | https://www.pexels.com/photo/alpine-ibex-in-the-majestic-french-alps-34606227/ | Manon Ridet | Pexels (Chamonix) |
 | games | `style_games.jpg` | https://www.pexels.com/photo/stunning-mountain-ski-resort-in-winter-30401227/ | Ogy Kovachev | Pexels (Courchevel, paysage 4032×2688, des skieurs lointains visibles) |
-| time | `style_time.jpg` | https://www.pexels.com/photo/24226321/ | arnaud audoin | Pexels (France, paysage 4272×2848) |
+| time | `style_time.jpg` | https://www.pexels.com/photo/scenic-view-of-the-snowy-mountains-and-lake-12101850/ | Gabriele Battimelli | Pexels (Chamonix-Mont-Blanc, paysage 4813×3163) |
 
 Le bandeau est large (~220 px de haut, `cover`, centré à 60 %) : le script réduit à 1200 px de large sans recadrer, le recadrage se fait à l'affichage.
