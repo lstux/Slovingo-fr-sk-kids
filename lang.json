@@ -1,6 +1,7 @@
 {
   "target_lang": {
     "code": "fr",
+    "group_label": "Francúzština - Français",
     "name": "français",
     "tts_code": "fr-FR",
     "flag": "🇫🇷",
@@ -21,6 +22,9 @@
     "title": "Líštička – učíme sa po francúzsky",
     "short_name": "Líštička",
     "description": "Učíme sa francúzsky s líštičkou a jej kamarátmi v Alpách — kartičky, dialógy a hry",
+    "cover": "img/map_background.jpg",
+    "pitch": "Malá líška prichádza do francúzskych Álp a zoznamuje sa s novými kamarátmi. Pozdravy, rodina, jedlo, dedina, zvieratá a hry: prvé francúzske slová hravo.",
+    "audience": "8-12 rokov",
     "theme_color": "#2f6f4e",
     "icon_style": "kids",
     "storage_prefix": "fr-sk-kids",
