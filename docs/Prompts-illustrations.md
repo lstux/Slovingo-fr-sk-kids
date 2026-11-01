@@ -59,3 +59,121 @@ Character model sheet for a friendly animated film for children, on a plain ligh
 
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, expressive faces. No text, no letters, no logos, no watermark.
 ```
+
+---
+
+## Scènes des séries (fiche 05 de chaque série, plus le kit 03)
+
+Une illustration par série, dans la fiche 05 (le dialogue), comme pour Zajko. Chaque prompt est complet. **Joindre la planche des héros** (et la planche des seconds rôles quand elle est indiquée), **puis la photo de référence** : soit une image déjà dans `img/`, soit le lien Commons de la fiche.
+
+### Kit 03 · Salut, Andrea !
+
+Fiche `10_Series_00_KitSurvie_03_dialogue.md` → `img/illus_00_kit.jpg`
+
+**À joindre** : planche des héros + photo de référence : img/kit-02-marmotte-fleurs.jpg
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: A bright mountain path in summer, flanked by flowers and spruce trees. The young fox, with his backpack, meets Andrea the hare for the first time: they stand face to face, a little shy, the fox waving, Andrea smiling with her long ears upright. Léa the marmot peeks from behind a rock, curious.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Rodina 05 · Chez Mamie Odile
+
+Fiche `10_Series_01_Rodina_05_chez-mamie.md` → `img/illus_01_rodina.jpg`
+
+**À joindre** : planche des héros + planche des seconds rôles + photo de référence : img/rodina-05-chalet-alpage.jpg
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: A high alpine pasture on a sunny afternoon, with an old wooden chalet with flowers on its windowsill. Madame Odile, the elderly chamois grandmother, opens her arms to welcome the young fox, who waves; Léa the marmot and Hugo the young ibex stand beside them, smiling. Mountain peaks in the background.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Doma 05 · Chez Andrea
+
+Fiche `10_Series_02_Doma_05_chez-andrea.md` → `img/illus_02_doma.jpg`
+
+**À joindre** : planche des héros + photo de référence : European_Hare.jpg (Commons, lien dans la fiche)
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: At the edge of a sunny meadow, a cosy wooden house with a round door stands under a big tree. Andrea the hare, in her mint-green T-shirt, stands in the doorway and invites the young fox in with a smile; Léa the marmot is behind her, waving. Wildflowers in the grass.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Jedlo 05 · Les crêpes de Hugo
+
+Fiche `10_Series_03_Jedlo_05_les-crepes-de-hugo.md` → `img/illus_03_jedlo.jpg`
+
+**À joindre** : planche des héros + photo de référence : img/jedlo-05-pate-saladier.jpg
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: Inside a warm wooden kitchen of a mountain chalet. Hugo the young ibex, in his striped T-shirt and red cap, stands proudly at the table, whisking a big bowl of pancake batter, while the fox, Andrea and Léa watch with excitement. A stack of golden pancakes on a plate, a window showing snowy peaks.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Dedina 05 · Pardon, Monsieur !
+
+Fiche `10_Series_04_Dedina_05_pardon-monsieur.md` → `img/illus_04_dedina.jpg`
+
+**À joindre** : planche des héros + planche des seconds rôles + photo de référence : img/dedina-05-herisson.jpg
+
+```
+Use the attached model sheets for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: A small mountain village street with wooden chalets and a stone fountain. Monsieur Hérisson, the hedgehog postman in his dark-blue cap and satchel, stops to answer; the young fox asks a question, and Andrea the hare stands next to him, pointing down the street. The postman is calm and polite, friendly gestures.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Zvieratá 05 · Regarde, un aigle !
+
+Fiche `10_Series_05_Zvierata_05_regarde-un-aigle.md` → `img/illus_05_zvierata.jpg`
+
+**À joindre** : planche des héros + photo de référence : img/zvierata-05-aigle.jpg
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: On a rocky mountain ridge with snowy peaks behind, a golden eagle spreads its huge wings above the valley. In the foreground on a grassy slope, the fox points up to the sky while Andrea, Léa and Hugo look up with excitement. The eagle is majestic, not scary.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Hry 05 · Une partie de cartes
+
+Fiche `10_Series_06_Hry_05_une-partie-de-cartes.md` → `img/illus_06_hry.jpg`
+
+**À joindre** : planche des héros + photo de référence : img/hry-05-cartes.jpg
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: Inside a wooden mountain chalet, around a low wooden table in the warm light of a window. The fox, Andrea, Léa and Hugo sit together playing cards, cards fanned out in their hands; Hugo is grinning. Cosy, happy mood.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
+
+### Čas 05 · Dépêche-toi !
+
+Fiche `10_Series_07_Cas_05_depeche-toi.md` → `img/illus_07_cas.jpg`
+
+**À joindre** : planche des héros + photo de référence : img/cas-05-train-chamonix.jpg
+
+```
+Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
+
+Scene: A small mountain railway station with a red train waiting on the platform, mountains behind. The young fox runs with his backpack, while Andrea the hare, Léa the marmot and Hugo the young ibex wave at him from the platform, pointing at the clock on the station wall.
+
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+```
