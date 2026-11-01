@@ -30,7 +30,7 @@ Style : dessin animé 2D classique, animaux debout qui portent des vêtements, f
 
 ## Planche des héros (renard, Andrea, Léa, Hugo)
 
-**À joindre** : `fox-reference.png`, `andrea-reference.png`, puis `planche-heros.jpg` (de Zajko).
+**À joindre** : `fox-reference.png`, `andrea-reference.png` (dossier `esp32/zajko-quest/art/characters/` du repo friends), puis `docs/illustrations/planche-heros.jpg` de ce repo (validée).
 
 ```
 Character model sheet for a friendly animated film for children, on a plain light background. Four young animal characters standing side by side at the same scale, each shown front view and three-quarter view, full body, with a few facial expressions (smiling, surprised, shy). They are friends living in the French Alps.
@@ -49,7 +49,7 @@ Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean 
 
 ## Planche des seconds rôles (Mamie Odile, Monsieur Hérisson)
 
-**À joindre** : `planche-seconds-roles.jpg` (de Zajko), pour le style seulement.
+**À joindre** : `docs/illustrations/planche-seconds-roles.jpg` de ce repo (validée, sans le groupe du milieu), pour le style seulement.
 
 ```
 Character model sheet for a friendly animated film for children, on a plain light background. Two adult animal characters standing side by side, each shown front view and three-quarter view, full body, kind and warm. The attached image is an existing model sheet of other adult characters: use it ONLY as the reference for the drawing style (line, colours, shading, level of detail), and do not draw any of its characters.
