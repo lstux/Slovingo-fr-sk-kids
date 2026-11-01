@@ -1,6 +1,6 @@
 # Úvod (1/5) — Ako to funguje
 
-@ img/intro-01-renard.jpg | {{sk:Líška obyčajná – to si ty!}}
+@ img/illus_00_couverture.jpg | {{sk:Partia v Alpách: líška, Andrea, Léa a Hugo}}. Ilustrácia vytvorená v Google Gemini podľa fotografie IlonaBurschl (Pixabay)
 
 ## Ahoj! Ako sa voláš?
 
