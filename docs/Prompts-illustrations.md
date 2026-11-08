@@ -77,7 +77,7 @@ Use the attached model sheet for the characters (keep them exactly as designed).
 
 Scene: A bright mountain path in summer, flanked by flowers and spruce trees. The young fox, with his backpack, meets Andrea the hare for the first time: they stand face to face, a little shy, the fox waving, Andrea smiling with her long ears upright. Léa the marmot peeks from behind a rock, curious.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings.
 ```
 
 ### Rodina 05 · Chez Mamie Odile
@@ -91,7 +91,7 @@ Use the attached model sheets for the characters (keep them exactly as designed)
 
 Scene: A high alpine pasture on a sunny afternoon, with an old wooden chalet with flowers on its windowsill. Madame Odile, the elderly chamois grandmother, opens her arms to welcome the young fox, who waves; Léa the marmot and Hugo the young ibex stand beside them, smiling. Mountain peaks in the background.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
 ### Doma 05 · Chez Andrea
@@ -105,7 +105,7 @@ Use the attached model sheet for the characters (keep them exactly as designed).
 
 Scene: At the edge of a sunny meadow, a cosy wooden house with a round door stands under a big tree. Andrea the hare, in her mint-green T-shirt, stands in the doorway and invites the young fox in with a smile; Léa the marmot is behind her, waving. Wildflowers in the grass.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings.
 ```
 
 ### Jedlo 05 · Les crêpes de Hugo
@@ -117,9 +117,9 @@ Fiche `10_Series_03_Jedlo_05_les-crepes-de-hugo.md` → `img/illus_03_jedlo.jpg`
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: Inside a warm wooden kitchen of a mountain chalet. Hugo the young ibex, in his striped T-shirt and red cap, stands proudly at the table, whisking a big bowl of pancake batter, while the fox, Andrea and Léa watch with excitement. A stack of golden pancakes on a plate, a window showing snowy peaks.
+Scene: Inside a warm wooden kitchen of a mountain chalet. Hugo the young ibex, in his striped T-shirt and red cap, stands proudly on a small stool at the table and flips a golden pancake in a pan. A stack of golden pancakes on a plate, and next to it two small jars: one of chocolate spread and one of jam (no labels). The fox, Andrea and Léa sit at the table and watch with excitement; the fox licks his lips. A window showing snowy peaks.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
 ### Dedina 05 · Pardon, Monsieur !
@@ -131,9 +131,9 @@ Fiche `10_Series_04_Dedina_05_pardon-monsieur.md` → `img/illus_04_dedina.jpg`
 ```
 Use the attached model sheets for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A small mountain village street with wooden chalets and a stone fountain. Monsieur Hérisson, the hedgehog postman in his dark-blue cap and satchel, stops to answer; the young fox asks a question, and Andrea the hare stands next to him, pointing down the street. The postman is calm and polite, friendly gestures.
+Scene: A small mountain village street with wooden chalets, a stone fountain, a church with a small bell tower, and, further down the street, a bakery with fresh bread in its window. Monsieur Hérisson, the hedgehog postman in his dark-blue cap and satchel, stops to answer and points down the street to the left with a calm, polite gesture; the young fox, hungry and polite, listens with a hand on his tummy, and Andrea the hare stands next to him, listening.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt.
 ```
 
 ### Zvieratá 05 · Regarde, un aigle !
@@ -145,9 +145,9 @@ Fiche `10_Series_05_Zvierata_05_regarde-un-aigle.md` → `img/illus_05_zvierata.
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: On a rocky mountain ridge with snowy peaks behind, a golden eagle spreads its huge wings above the valley. In the foreground on a grassy slope, the fox points up to the sky while Andrea, Léa and Hugo look up with excitement. The eagle is majestic, not scary.
+Scene: On a rocky mountain ridge with snowy peaks behind, a golden eagle spreads its huge wings above the valley. In the foreground on a grassy slope, the fox points up to the sky while Andrea, Léa and Hugo look up with excitement; Hugo grins and nudges Léa, teasing her, and Léa pretends to be offended. On a rocky slope in the background, a wild chamois jumps from rock to rock (natural coat, no clothes). The eagle is majestic, not scary.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
 ### Hry 05 · Une partie de cartes
@@ -159,9 +159,9 @@ Fiche `10_Series_06_Hry_05_une-partie-de-cartes.md` → `img/illus_06_hry.jpg`
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: Inside a wooden mountain chalet, around a low wooden table in the warm light of a window. The fox, Andrea, Léa and Hugo sit together playing cards, cards fanned out in their hands; Hugo is grinning. Cosy, happy mood.
+Scene: Inside a wooden mountain chalet, around a low wooden table in the warm light of a window. The fox, Andrea, Léa and Hugo sit together playing cards. Hugo points at Andrea with a suspicious frown, as if shouting "you cheat!", while Andrea proudly shows her winning card with an innocent smile; Léa laughs, and the fox holds only a few cards and shrugs with a cheerful grin. Cosy, funny mood.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
 ### Čas 05 · Dépêche-toi !
@@ -173,7 +173,7 @@ Fiche `10_Series_07_Cas_05_depeche-toi.md` → `img/illus_07_cas.jpg`
 ```
 Use the attached model sheet for the characters (keep them exactly as designed). Use the attached photo as the reference for the place.
 
-Scene: A small mountain railway station with a red train waiting on the platform, mountains behind. The young fox runs with his backpack, while Andrea the hare, Léa the marmot and Hugo the young ibex wave at him from the platform, pointing at the clock on the station wall.
+Scene: A small mountain railway station with a red train waiting on the platform, mountains behind. The fox, Andrea the hare and Léa the marmot stand on the platform next to the open train door, anxious but cheerful; Léa points at the round station clock, which shows ten to three. Hugo the young ibex runs along the platform from the far end, out of breath, with his red cap and a small backpack, waving.
 
-Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark.
+Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
