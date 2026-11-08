@@ -94,7 +94,7 @@ Scene: A high alpine pasture on a sunny afternoon, with an old wooden chalet wit
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
-### Doma 05 · Chez Andrea
+### Doma 05 · Chez Andrea ✅ faite le 8 novembre (Gemini, sans photo ; baskets du renard rouges, sacoche d'Andrea absente)
 
 Fiche `10_Series_02_Doma_05_chez-andrea.md` → `img/illus_02_doma.jpg`
 

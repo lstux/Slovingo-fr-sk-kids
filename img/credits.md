@@ -8,6 +8,7 @@
 | Kit 01 · Salutations | `kit-01-village-alpin.jpg` | [page](https://pixabay.com/photos/mountains-nature-forest-village-10506841/) | Tama66 (portfolio Pixabay) | Licence Pixabay |
 | Doma 01 · La maison | [Chalet-areche-beaufort.jpg](https://commons.wikimedia.org/wiki/File:Chalet-areche-beaufort.jpg) | Wikimedia Commons | à compléter | à compléter |
 | Doma 05 · Chez Andrea | [European_Hare.jpg](https://commons.wikimedia.org/wiki/File:European_Hare.jpg) | Wikimedia Commons | à compléter | à compléter |
+| Doma 05 · Chez Andrea (illustration IA) | `illus_02_doma.jpg` | *Généré avec Google Gemini*, sans photo de référence | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Doma 06 · Extra | [La_Thuile_(Savoie).JPG](https://commons.wikimedia.org/wiki/File:La_Thuile_(Savoie).JPG) | Wikimedia Commons | à compléter | à compléter |
 | Kit 4 · 10_Series_00_KitSurvie_04_extra | `kit-04-bouquetin.jpg` | [page](https://pixabay.com/photos/mont-blanc-ibex-nature-chamonix-641939/) | GregoireWallaert | Licence Pixabay |
 | Rodina 5 · 10_Series_01_Rodina_05_chez-mamie | `rodina-05-chalet-alpage.jpg` | [page](https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/) | shogun | Licence Pixabay |
