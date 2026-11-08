@@ -80,7 +80,7 @@ Scene: A bright mountain path in summer, flanked by flowers and spruce trees. Th
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings.
 ```
 
-### Rodina 05 · Chez Mamie Odile
+### Rodina 05 · Chez Mamie Odile ✅ faite le 8 novembre (Gemini ; cornes de Mamie à revoir si besoin : trop longues pour une chamois)
 
 Fiche `10_Series_01_Rodina_05_chez-mamie.md` → `img/illus_01_rodina.jpg`
 

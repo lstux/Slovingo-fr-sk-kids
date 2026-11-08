@@ -11,6 +11,7 @@
 | Doma 06 · Extra | [La_Thuile_(Savoie).JPG](https://commons.wikimedia.org/wiki/File:La_Thuile_(Savoie).JPG) | Wikimedia Commons | à compléter | à compléter |
 | Kit 4 · 10_Series_00_KitSurvie_04_extra | `kit-04-bouquetin.jpg` | [page](https://pixabay.com/photos/mont-blanc-ibex-nature-chamonix-641939/) | GregoireWallaert | Licence Pixabay |
 | Rodina 5 · 10_Series_01_Rodina_05_chez-mamie | `rodina-05-chalet-alpage.jpg` | [page](https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/) | shogun | Licence Pixabay |
+| Rodina 5 · 10_Series_01_Rodina_05_chez-mamie (illustration IA) | `illus_01_rodina.jpg` | *Généré avec Google Gemini*, d'après `rodina-05-chalet-alpage.jpg` ([page](https://pixabay.com/photos/hut-meadow-mountain-alpine-hut-6464154/)) | Google Gemini ; photo originale shogun (Pixabay) | Licence Pixabay (œuvre dérivée) |
 | Zvieratá 1 · 10_Series_05_Zvierata_01_les-animaux-des-alpes | `zvierata-01-chamois.jpg` | [page](https://pixabay.com/photos/chamois-animal-mammal-5579897/) | Camera-man | Licence Pixabay |
 | Hry 1 · 10_Series_06_Hry_01_on-joue | `hry-01-ballon.jpg` | [page](https://pixabay.com/photos/football-ball-grass-meadow-sports-1977528/) | atimedia | Licence Pixabay |
 | Jedlo 5 · 10_Series_03_Jedlo_05_les-crepes-de-hugo | `jedlo-05-pate-saladier.jpg` | [page](https://pixabay.com/photos/dough-flour-batter-bake-cake-7711413/) | eatde | Licence Pixabay |

@@ -1,6 +1,6 @@
 # Rodina (5/5) — Chez Mamie Odile
 
-@ img/rodina-05-chalet-alpage.jpg | {{sk:Horská chata: u babky Odile}}
+@ img/illus_01_rodina.jpg | {{sk:U babky Odile: Léa a Hugo ťa vezmú do horskej chaty}}. Ilustrácia vytvorená v Google Gemini podľa fotografie shogun (Pixabay)
 
 {{sk:Léa a Hugo ťa vezmú k svojej babke. Spolu sa budeš rozprávať o rodine, o veku a na konci bude olovrant. Počúvaj a sleduj, kto čo hovorí!}}
 
