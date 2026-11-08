@@ -50,6 +50,7 @@
 | Čas 3 · 10_Series_07_Cas_03_quatre-vingts | `cas-03-troupeau-route.jpg` | [page](https://www.pexels.com/photo/herd-of-rams-walking-on-road-near-pasture-with-hills-4339513/) | ArtHouse Studio | Licence Pexels |
 | Čas 4 · 10_Series_07_Cas_04_quelle-heure-est-il | `cas-04-clocher.jpg` | [page](https://www.pexels.com/photo/bell-tower-with-clock-of-a-church-in-a-small-village-18803562/) | Thomas P | Licence Pexels |
 | Čas 5 · 10_Series_07_Cas_05_depeche-toi | `cas-05-train-chamonix.jpg` | [page](https://www.pexels.com/photo/trains-passing-each-other-at-the-station-in-the-mountains-9253461/) | Baptiste | Licence Pexels |
+| Čas 5 · 10_Series_07_Cas_05_depeche-toi (illustration IA) | `illus_07_cas.jpg` | *Généré avec Google Gemini*, photo de référence : Baptiste (Pexels) | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Čas 6 · 10_Series_07_Cas_06_extra | `cas-06-village-soir.jpg` | [page](https://unsplash.com/photos/snow-covered-village-lights-up-at-dusk-in-mountains-mjE1VxiGc-Y) | Livia | Licence Unsplash |
 | Hry 2 · 10_Series_06_Hry_02_je-fais-du-ski | `hry-02-telesiege.jpg` | [page](https://www.pexels.com/photo/scenic-snowy-mountain-landscape-with-ski-lift-30816460/) | Viceman S | Licence Pexels |
 | Hry 3 · 10_Series_06_Hry_03_cest-a-moi | `hry-03-marmottes-jeu.jpg` | [page](https://www.pexels.com/photo/marmots-in-nature-18011274/) | à compléter | Licence Pexels |

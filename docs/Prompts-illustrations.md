@@ -164,7 +164,7 @@ Scene: Inside a wooden mountain chalet, around a low wooden table in the warm li
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
-### Čas 05 · Dépêche-toi !
+### Čas 05 · Dépêche-toi ! ✅ faite le 8 novembre (Gemini, un seul train, horloge corrigée)
 
 Fiche `10_Series_07_Cas_05_depeche-toi.md` → `img/illus_07_cas.jpg`
 
