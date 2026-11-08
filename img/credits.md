@@ -42,6 +42,7 @@
 | Zvieratá 3 · 10_Series_05_Zvierata_03_que-font-ils | `zvierata-03-marmotte.jpg` | [page](https://unsplash.com/photos/a-marmot-sits-alertly-in-a-grassy-field-wqz23wMEXJI) | Emma Swoboda | Licence Unsplash |
 | Zvieratá 4 · 10_Series_05_Zvierata_04_plus-grand-que | `zvierata-04-sommets-sallanches.jpg` | [page](https://www.pexels.com/photo/snowy-mountain-26381816/) | Eclipse Chasers | Licence Pexels |
 | Zvieratá 5 · 10_Series_05_Zvierata_05_regarde-un-aigle | `zvierata-05-aigle.jpg` | [page](https://www.pexels.com/photo/golden-eagle-capturing-prey-in-mountainous-landscape-32068809/) | Jesús Esteban San José | Licence Pexels |
+| Zvieratá 5 · 10_Series_05_Zvierata_05_regarde-un-aigle (illustration IA) | `illus_05_zvierata.jpg` | *Généré avec Google Gemini*, photo de référence : Jesús Esteban San José (Pexels) | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Zvieratá 2 · 10_Series_05_Zvierata_02_cest-un-chien | `zvierata-02-chien.jpg` | [page](https://pixabay.com/photos/border-collie-sheep-herding-working-191779/) | JamesDeMers | Licence Pixabay |
 | Zvieratá 6 · 10_Series_05_Zvierata_06_extra | `zvierata-06-poules.jpg` | [page](https://www.pexels.com/photo/brood-of-hen-2446695/) | Italo Melo | Licence Pexels |
 | Čas 1 · 10_Series_07_Cas_01_jusqua-vingt | `cas-01-moutons-lac.jpg` | [page](https://www.pexels.com/photo/flock-of-sheep-pasturing-against-mountain-5201435/) | Julia Volk | Licence Pexels |

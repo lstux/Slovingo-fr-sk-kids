@@ -136,7 +136,7 @@ Scene: A small mountain village street with wooden chalets, a stone fountain, a 
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt.
 ```
 
-### Zvieratá 05 · Regarde, un aigle !
+### Zvieratá 05 · Regarde, un aigle ! ✅ faite le 8 novembre (Gemini, aigle/chamois simplifiés)
 
 Fiche `10_Series_05_Zvierata_05_regarde-un-aigle.md` → `img/illus_05_zvierata.jpg`
 
