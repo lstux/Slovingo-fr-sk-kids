@@ -37,6 +37,7 @@
 | Dedina 3 · 10_Series_04_Dedina_03_a-pied-ou-en-bus | `dedina-03-bus.jpg` | [page](https://www.pexels.com/photo/bus-on-road-in-mountains-17970685/) | Pawel Kalisinski | Licence Pexels |
 | Dedina 4 · 10_Series_04_Dedina_04_ou-est-la-boulangerie | `dedina-04-panneau.jpg` | [page](https://www.pexels.com/photo/close-up-of-a-directional-sign-13625212/) | juan rojas | Licence Pexels |
 | Dedina 5 · 10_Series_04_Dedina_05_pardon-monsieur | `dedina-05-herisson.jpg` | [page](https://unsplash.com/photos/a-hedgehog-is-sitting-in-the-grass-TCmqQE13aP0) | Lukas Seitz | Licence Unsplash |
+| Dedina 5 · 10_Series_04_Dedina_05_pardon-monsieur (illustration IA) | `illus_04_dedina.jpg` | *Généré avec Google Gemini*, photo de référence : Lukas Seitz (Unsplash) | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Dedina 6 · 10_Series_04_Dedina_06_extra | `dedina-06-lyon-fourviere.jpg` | [page](https://www.pexels.com/photo/view-of-the-notre-dame-de-fourviere-basilica-in-lyon-france-8430273/) | Mikhail Nilov | Licence Pexels |
 | Zvieratá 3 · 10_Series_05_Zvierata_03_que-font-ils | `zvierata-03-marmotte.jpg` | [page](https://unsplash.com/photos/a-marmot-sits-alertly-in-a-grassy-field-wqz23wMEXJI) | Emma Swoboda | Licence Unsplash |
 | Zvieratá 4 · 10_Series_05_Zvierata_04_plus-grand-que | `zvierata-04-sommets-sallanches.jpg` | [page](https://www.pexels.com/photo/snowy-mountain-26381816/) | Eclipse Chasers | Licence Pexels |
