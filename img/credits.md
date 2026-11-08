@@ -55,6 +55,7 @@
 | Hry 3 · 10_Series_06_Hry_03_cest-a-moi | `hry-03-marmottes-jeu.jpg` | [page](https://www.pexels.com/photo/marmots-in-nature-18011274/) | à compléter | Licence Pexels |
 | Hry 4 · 10_Series_06_Hry_04_on-joue-ensemble | `hry-04-marmottes-hundwil.jpg` | [page](https://www.pexels.com/photo/brown-marmot-on-green-grass-10211929/) | à compléter | Licence Pexels |
 | Hry 5 · 10_Series_06_Hry_05_une-partie-de-cartes | `hry-05-cartes.jpg` | [page](https://www.pexels.com/photo/casual-card-game-setup-on-wooden-table-28461353/) | à compléter | Licence Pexels |
+| Hry 5 · 10_Series_06_Hry_05_une-partie-de-cartes (illustration IA) | `illus_06_hry.jpg` | *Généré avec Google Gemini*, photo de référence : [page Pexels](https://www.pexels.com/photo/casual-card-game-setup-on-wooden-table-28461353/) | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Hry 6 · 10_Series_06_Hry_06_extra | `hry-06-village-neige.jpg` | [page](https://unsplash.com/photos/9LEMR_tsZJM) | Toa Heftiba | Licence Unsplash |
 | Doma 2 · 10_Series_02_Doma_02_les-meubles | `doma-02-chalet-interieur.jpg` | [page](https://www.pexels.com/photo/interior-of-a-log-cabin-10761010/) | Ata Ebem | Licence Pexels |
 | Doma 3 · 10_Series_02_Doma_03_les-objets | `doma-03-bottes-sac.jpg` | [page](https://www.pexels.com/photo/a-jacket-boots-and-a-backpack-lying-on-the-ground-27361967/) | Omar Enriquez | Licence Pexels |

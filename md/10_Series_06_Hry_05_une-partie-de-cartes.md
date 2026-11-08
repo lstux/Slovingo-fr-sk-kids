@@ -1,6 +1,6 @@
 # Hry (5/5) — Une partie de cartes
 
-@ img/hry-05-cartes.jpg | {{sk:Karty na drevenom stole}}
+@ img/illus_06_hry.jpg | {{sk:Partia kariet: Hugo obviňuje Andreu z podvádzania}}. Ilustrácia vytvorená v Google Gemini
 
 {{sk:Ty, Andrea, Léa a Hugo hráte karty v chate. Hugo si myslí, že niekto podvádza… ale má pravdu?}}
 

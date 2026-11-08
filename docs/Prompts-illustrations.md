@@ -150,7 +150,7 @@ Scene: On a rocky mountain ridge with snowy peaks behind, a golden eagle spreads
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings; Hugo wears his blue-and-white striped T-shirt and red cap worn backwards.
 ```
 
-### Hry 05 · Une partie de cartes
+### Hry 05 · Une partie de cartes ✅ faite le 8 novembre (Gemini, gobelet et clés retirés)
 
 Fiche `10_Series_06_Hry_05_une-partie-de-cartes.md` → `img/illus_06_hry.jpg`
 
