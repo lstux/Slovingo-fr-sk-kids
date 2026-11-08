@@ -24,6 +24,7 @@
 | Intro 5 · 00_Introduction_05_pocitanie | `intro-05-moutons.jpg` | [page](https://unsplash.com/photos/herd-of-sheep-crossing-the-road-_qwpbm0-BrQ) | Florian Weichelt | Licence Unsplash |
 | Kit 2 · 10_Series_00_KitSurvie_02_politesse | `kit-02-marmotte-fleurs.jpg` | [page](https://unsplash.com/photos/a-marmot-sits-in-a-field-of-yellow-flowers-9Du2Sh2OVPo) | Ahmet Yüksek | Licence Unsplash |
 | Kit 3 · 10_Series_00_KitSurvie_03_dialogue | `kit-03-lievre-blanc.jpg` | [page](https://unsplash.com/photos/white-rabbit-surrounded-by-snow-EBMCAEEuLro) | Thomas Lipke | Licence Unsplash |
+| Kit 3 · 10_Series_00_KitSurvie_03_dialogue (illustration IA) | `illus_00_kit.jpg` | *Généré avec Google Gemini*, d'après `kit-02-marmotte-fleurs.jpg` ([page](https://unsplash.com/photos/a-marmot-sits-in-a-field-of-yellow-flowers-9Du2Sh2OVPo)) | Google Gemini ; photo originale Ahmet Yüksek (Unsplash) | Licence Unsplash (œuvre dérivée) |
 | Rodina 1 · 10_Series_01_Rodina_01_ma-famille | `rodina-01-marmottes.jpg` | [page](https://www.pexels.com/photo/groundhogs-on-the-rocks-10274028/) | Timo Niedermann | Licence Pexels |
 | Rodina 2 · 10_Series_01_Rodina_02_quel-age-as-tu | `rodina-02-marmottes-vanoise.jpg` | [page](https://www.pexels.com/photo/marmots-in-vanoise-national-park-france-33553063/) | David Solce | Licence Pexels |
 | Rodina 3 · 10_Series_01_Rodina_03_freres-et-soeurs | `rodina-03-bouquetins.jpg` | [page](https://www.pexels.com/photo/mountain-goats-on-rocky-cliff-in-majestic-landscape-35251986/) | Leonardo Prascina | Licence Pexels |

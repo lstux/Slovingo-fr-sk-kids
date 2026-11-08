@@ -1,6 +1,6 @@
 # Kit prežitia (3/3) — Salut, Andrea !
 
-@ img/kit-03-lievre-blanc.jpg | {{sk:Zajac Andrea v zimnom kožúšku}}
+@ img/illus_00_kit.jpg | {{sk:Salut, Andrea ! Líška stretne Andreu a Léu na horskej cestičke}}. Ilustrácia vytvorená v Google Gemini podľa fotografie Ahmet Yüksek (Unsplash)
 
 {{sk:Si v Alpách a stretávaš Andreu a Léu. Nevadí, že ešte nerozumieš všetkému. Počúvaj a sleduj, kto čo hovorí!}}
 

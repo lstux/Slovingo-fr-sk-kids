@@ -66,7 +66,7 @@ Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean 
 
 Une illustration par série, dans la fiche 05 (le dialogue), comme pour Zajko. Chaque prompt est complet. **Joindre la planche des héros** (et la planche des seconds rôles quand elle est indiquée), **puis la photo de référence** : soit une image déjà dans `img/`, soit le lien Commons de la fiche.
 
-### Kit 03 · Salut, Andrea !
+### Kit 03 · Salut, Andrea ! ✅ faite le 8 novembre (Gemini)
 
 Fiche `10_Series_00_KitSurvie_03_dialogue.md` → `img/illus_00_kit.jpg`
 
