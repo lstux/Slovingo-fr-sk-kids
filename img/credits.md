@@ -16,6 +16,7 @@
 | Zvieratá 1 · 10_Series_05_Zvierata_01_les-animaux-des-alpes | `zvierata-01-chamois.jpg` | [page](https://pixabay.com/photos/chamois-animal-mammal-5579897/) | Camera-man | Licence Pixabay |
 | Hry 1 · 10_Series_06_Hry_01_on-joue | `hry-01-ballon.jpg` | [page](https://pixabay.com/photos/football-ball-grass-meadow-sports-1977528/) | atimedia | Licence Pixabay |
 | Jedlo 5 · 10_Series_03_Jedlo_05_les-crepes-de-hugo | `jedlo-05-pate-saladier.jpg` | [page](https://pixabay.com/photos/dough-flour-batter-bake-cake-7711413/) | eatde | Licence Pixabay |
+| Jedlo 5 · 10_Series_03_Jedlo_05_les-crepes-de-hugo (illustration IA) | `illus_03_jedlo.jpg` | *Généré avec Google Gemini*, sans photo de référence | Google Gemini | Libre d'usage, généré pour ce projet (2026) |
 | Doma 4 · 10_Series_02_Doma_04_je-range-ma-chambre | `doma-04-marmotte-herbe.jpg` | [page](https://pixabay.com/photos/marmot-grass-alpine-marmot-animal-333910/) | patmueller | Licence Pixabay |
 | Bannière default | `style_default.jpg` | [page](https://pixabay.com/photos/field-flowers-meadow-landscape-3123271/) | IlonaBurschl | Licence Pixabay |
 | Bannière basics | `style_basics.jpg` | [page](https://pixabay.com/photos/meadow-grass-nature-landscape-757731/) | Bessi | Licence Pixabay |

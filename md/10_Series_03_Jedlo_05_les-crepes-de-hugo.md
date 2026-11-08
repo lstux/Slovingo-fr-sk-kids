@@ -1,6 +1,6 @@
 # Jedlo (5/5) — Les crêpes de Hugo
 
-@ img/jedlo-05-pate-saladier.jpg | {{sk:Cesto v miske: Hugo robí palacinky}}
+@ img/illus_03_jedlo.jpg | {{sk:Hugo robí palacinky: kto chce ďalšiu?}}. Ilustrácia vytvorená v Google Gemini
 
 {{sk:Hugo pripravil olovrant pre kamarátov. Počúvaj a sleduj, kto čo hovorí!}}
 

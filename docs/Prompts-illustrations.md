@@ -108,7 +108,7 @@ Scene: At the edge of a sunny meadow, a cosy wooden house with a round door stan
 Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean ink outlines, flat colours with soft cel shading, rounded friendly shapes. Soft, painterly background with few small details, so the characters stand out, but the place stays recognisable. Landscape format 16:9. No text, no letters, no logos, no watermark. Andrea wears her mint-green T-shirt; Léa wears her mustard-yellow jacket, red scarf and green leggings.
 ```
 
-### Jedlo 05 · Les crêpes de Hugo
+### Jedlo 05 · Les crêpes de Hugo ✅ faite le 8 novembre (Gemini, sans photo)
 
 Fiche `10_Series_03_Jedlo_05_les-crepes-de-hugo.md` → `img/illus_03_jedlo.jpg`
 
