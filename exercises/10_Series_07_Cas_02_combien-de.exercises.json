@@ -225,7 +225,8 @@
         "dedine",
         "je",
         "päťdesiatšesť",
-        "domov."
+        "domov.",
+        "kôz"
       ],
       "tokens_l2": [
         "Dans",
@@ -235,7 +236,8 @@
         "y",
         "a",
         "cinquante-six",
-        "maisons."
+        "maisons.",
+        "de"
       ]
     },
     {
@@ -247,7 +249,8 @@
         "Je",
         "tu",
         "dvadsaťjeden",
-        "jabĺk."
+        "jabĺk.",
+        "kôz"
       ],
       "tokens_l2": [
         "Il",
@@ -256,7 +259,8 @@
         "vingt",
         "et",
         "une",
-        "pommes."
+        "pommes.",
+        "chèvres"
       ]
     },
     {
@@ -269,7 +273,8 @@
         "tu",
         "presne",
         "šesťdesiat",
-        "kamzíkov."
+        "kamzíkov.",
+        "kôz"
       ],
       "tokens_l2": [
         "Il",
@@ -277,7 +282,8 @@
         "a",
         "exactement",
         "soixante",
-        "chamois."
+        "chamois.",
+        "chèvres"
       ]
     },
     {
@@ -290,7 +296,8 @@
         "tu",
         "približne",
         "päťdesiat",
-        "oviec."
+        "oviec.",
+        "kôz"
       ],
       "tokens_l2": [
         "Il",
@@ -298,7 +305,8 @@
         "a",
         "environ",
         "cinquante",
-        "moutons."
+        "moutons.",
+        "de"
       ]
     }
   ]

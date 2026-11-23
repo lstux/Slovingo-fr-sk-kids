@@ -224,14 +224,18 @@
         "Je",
         "tu",
         "osemnásť",
-        "kariet."
+        "kariet.",
+        "číslo",
+        "devätnásť"
       ],
       "tokens_l2": [
         "Il",
         "y",
         "a",
         "dix-huit",
-        "cartes."
+        "cartes.",
+        "est",
+        "un"
       ]
     },
     {
@@ -245,7 +249,9 @@
         "dedine",
         "je",
         "pätnásť",
-        "domov."
+        "domov.",
+        "devätnásť",
+        "osemnásť"
       ],
       "tokens_l2": [
         "Il",
@@ -255,7 +261,9 @@
         "maisons",
         "dans",
         "mon",
-        "village."
+        "village.",
+        "compte",
+        "dix-huit"
       ]
     },
     {
@@ -267,16 +275,16 @@
         "Počítam:",
         "osemnásť,",
         "devätnásť,",
-        "dvadsať!"
+        "dvadsať!",
+        "vtákov"
       ],
       "tokens_l2": [
         "Je",
-        "compte",
-        ":",
+        "compte :",
         "dix-huit,",
         "dix-neuf,",
-        "vingt",
-        "!"
+        "vingt !",
+        "l'arbre"
       ]
     },
     {
@@ -287,13 +295,17 @@
       "tokens_l1": [
         "Pätnásť",
         "je",
-        "číslo."
+        "číslo.",
+        "osemnásť",
+        "tu"
       ],
       "tokens_l2": [
         "Quinze",
         "est",
         "un",
-        "nombre."
+        "nombre.",
+        "dix-huit",
+        "a"
       ]
     }
   ]

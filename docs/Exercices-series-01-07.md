@@ -8,12 +8,13 @@ Total : 799 exercices pour les séries, soit 15 à 23 par fiche.
 |------|--------|------|
 | listen | 206 | on entend le français, on choisit le sens slovaque parmi 4 phrases proches |
 | fill-blank | 179 | un mot manque, avec des pièges choisis à la main |
-| order | 187 | remettre la phrase dans l'ordre |
+| order | 187 | remettre la phrase dans l'ordre, avec 1 ou 2 mots parasites |
 | qcm | 152 | vocabulaire de la fiche |
 | match | 75 | associer 4 mots slovaque / français |
 
 ## Principes
 
+- Remettre en ordre : un mot par étiquette, la ponctuation collée à son mot, et 1 ou 2 mots parasites à la fin, jamais aucun (mots isolés de la fiche, sinon de la série ou du cours). `python3 src/order_tokens.py --lang-dir ../Slovingo-fr-sk-kids --parasites 1-2 --apply` (repo Slovingo) les ajoute là où il en manque.
 - Les mots et les phrases viennent de la fiche elle-même (tableaux de vocabulaire
   et cartes). Les bonnes réponses ne testent que ce que l'enfant a vu ; les fausses réponses peuvent contenir un mot courant pas encore enseigné (par exemple l'impératif « choď »), ce qui ne gêne pas.
   La commande `src/sync_exercises.py --lang-dir .` ne signale rien d'obsolète.

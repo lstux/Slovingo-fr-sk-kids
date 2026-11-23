@@ -245,13 +245,17 @@
       "tokens_l1": [
         "Tato",
         "upratuje",
-        "obývačku."
+        "obývačku.",
+        "knihu",
+        "babka"
       ],
       "tokens_l2": [
         "Papa",
         "range",
         "le",
-        "salon."
+        "salon.",
+        "dort",
+        "pas"
       ]
     },
     {
@@ -263,14 +267,16 @@
         "Moja",
         "sestra",
         "umýva",
-        "poháre."
+        "poháre.",
+        "a"
       ],
       "tokens_l2": [
         "Ma",
         "sœur",
         "lave",
         "les",
-        "verres."
+        "verres.",
+        "maman"
       ]
     },
     {
@@ -281,13 +287,17 @@
       "tokens_l1": [
         "Mama",
         "zatvára",
-        "dvere."
+        "dvere.",
+        "svoju",
+        "izbu"
       ],
       "tokens_l2": [
         "Maman",
         "ferme",
         "la",
-        "porte."
+        "porte.",
+        "chambre",
+        "ma"
       ]
     },
     {
@@ -299,13 +309,17 @@
         "Počúvam",
         "mamu",
         "a",
-        "tata."
+        "tata.",
+        "svoju",
+        "izbu"
       ],
       "tokens_l2": [
         "J'écoute",
         "maman",
         "et",
-        "papa."
+        "papa.",
+        "chambre",
+        "ma"
       ]
     }
   ]

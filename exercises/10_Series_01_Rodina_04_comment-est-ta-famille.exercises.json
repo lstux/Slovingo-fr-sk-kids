@@ -221,7 +221,9 @@
         "je",
         "veľká",
         "a",
-        "veselá."
+        "veselá.",
+        "brat",
+        "rýchly"
       ],
       "tokens_l2": [
         "Ma",
@@ -229,7 +231,9 @@
         "est",
         "grande",
         "et",
-        "joyeuse."
+        "joyeuse.",
+        "très",
+        "frère"
       ]
     },
     {
@@ -243,7 +247,8 @@
         "je",
         "veľký",
         "a",
-        "veselý."
+        "veselý.",
+        "mama"
       ],
       "tokens_l2": [
         "Mon",
@@ -251,7 +256,8 @@
         "est",
         "grand",
         "et",
-        "joyeux."
+        "joyeux.",
+        "ta"
       ]
     },
     {
@@ -265,7 +271,8 @@
         "je",
         "tiež",
         "veľmi",
-        "rýchla."
+        "rýchla.",
+        "veselá"
       ],
       "tokens_l2": [
         "Ma",
@@ -273,7 +280,8 @@
         "est",
         "très",
         "rapide",
-        "aussi."
+        "aussi.",
+        "joyeuse"
       ]
     },
     {
@@ -285,14 +293,17 @@
         "Aká",
         "je",
         "tvoja",
-        "mama?"
+        "mama?",
+        "veselá",
+        "a"
       ],
       "tokens_l2": [
         "Comment",
         "est",
         "ta",
-        "maman",
-        "?"
+        "maman ?",
+        "joyeuse",
+        "gentille"
       ]
     }
   ]

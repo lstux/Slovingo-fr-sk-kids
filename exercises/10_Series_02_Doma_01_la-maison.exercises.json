@@ -235,13 +235,14 @@
         "Tu",
         "je",
         "môj",
-        "dom!"
+        "dom!",
+        "malé"
       ],
       "tokens_l2": [
         "Voilà",
         "ma",
-        "maison",
-        "!"
+        "maison !",
+        "petite"
       ]
     },
     {
@@ -257,7 +258,8 @@
         "a",
         "záhrada",
         "je",
-        "veľká."
+        "veľká.",
+        "v"
       ],
       "tokens_l2": [
         "Ma",
@@ -268,7 +270,8 @@
         "le",
         "jardin",
         "est",
-        "grand."
+        "grand.",
+        "cuisine"
       ]
     },
     {
@@ -279,13 +282,17 @@
       "tokens_l1": [
         "Okno",
         "je",
-        "malé."
+        "malé.",
+        "môj",
+        "dom"
       ],
       "tokens_l2": [
         "La",
         "fenêtre",
         "est",
-        "petite."
+        "petite.",
+        "maison",
+        "ma"
       ]
     },
     {
@@ -300,18 +307,21 @@
         "Hugo",
         "je",
         "v",
-        "záhrade."
+        "záhrade.",
+        "a",
+        "sú"
       ],
       "tokens_l2": [
         "Où",
         "est",
-        "Hugo",
-        "?",
+        "Hugo ?",
         "Hugo",
         "est",
         "dans",
         "le",
-        "jardin."
+        "jardin.",
+        "la",
+        "porte"
       ]
     }
   ]

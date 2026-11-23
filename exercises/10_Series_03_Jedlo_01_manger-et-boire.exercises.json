@@ -265,13 +265,15 @@
       "l2": "Je mange du pain.",
       "tokens_l1": [
         "Jem",
-        "chlieb."
+        "chlieb.",
+        "pije"
       ],
       "tokens_l2": [
         "Je",
         "mange",
         "du",
-        "pain."
+        "pain.",
+        "l'eau"
       ]
     },
     {
@@ -282,13 +284,15 @@
       "tokens_l1": [
         "Mama",
         "pije",
-        "vodu."
+        "vodu.",
+        "a"
       ],
       "tokens_l2": [
         "Maman",
         "boit",
         "de",
-        "l'eau."
+        "l'eau.",
+        "et"
       ]
     },
     {
@@ -300,7 +304,8 @@
         "Môj",
         "brat",
         "je",
-        "polievku."
+        "polievku.",
+        "pije"
       ],
       "tokens_l2": [
         "Mon",
@@ -308,7 +313,8 @@
         "mange",
         "de",
         "la",
-        "soupe."
+        "soupe.",
+        "boit"
       ]
     },
     {
@@ -318,7 +324,8 @@
       "l2": "Je ne mange pas de fromage.",
       "tokens_l1": [
         "Nejem",
-        "syr."
+        "syr.",
+        "mlieko"
       ],
       "tokens_l2": [
         "Je",
@@ -326,7 +333,8 @@
         "mange",
         "pas",
         "de",
-        "fromage."
+        "fromage.",
+        "boit"
       ]
     },
     {
@@ -338,7 +346,8 @@
         "Jem",
         "ovocie",
         "a",
-        "jablko."
+        "jablko.",
+        "vodu"
       ],
       "tokens_l2": [
         "Je",
@@ -347,7 +356,8 @@
         "fruits",
         "et",
         "une",
-        "pomme."
+        "pomme.",
+        "l'eau"
       ]
     }
   ]

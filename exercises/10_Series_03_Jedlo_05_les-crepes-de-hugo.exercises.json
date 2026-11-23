@@ -227,15 +227,16 @@
         "hotové!",
         "Tu",
         "sú",
-        "palacinky."
+        "palacinky.",
+        "koláč"
       ],
       "tokens_l2": [
         "C'est",
-        "prêt",
-        "!",
+        "prêt !",
         "Voilà",
         "les",
-        "crêpes."
+        "crêpes.",
+        "des"
       ]
     },
     {
@@ -246,16 +247,16 @@
       "tokens_l1": [
         "Áno!",
         "Robím",
-        "palacinky!"
+        "palacinky!",
+        "to"
       ],
       "tokens_l2": [
-        "Oui",
-        "!",
+        "Oui !",
         "Je",
         "fais",
         "des",
-        "crêpes",
-        "!"
+        "crêpes !",
+        "prêt"
       ]
     },
     {
@@ -265,14 +266,15 @@
       "l2": "Tu as du chocolat ?",
       "tokens_l1": [
         "Máš",
-        "čokoládu?"
+        "čokoládu?",
+        "s"
       ],
       "tokens_l2": [
         "Tu",
         "as",
         "du",
-        "chocolat",
-        "?"
+        "chocolat ?",
+        "une"
       ]
     },
     {
@@ -284,7 +286,9 @@
         "Robím",
         "koláč",
         "s",
-        "jablkami."
+        "jablkami.",
+        "hotové",
+        "palacinky"
       ],
       "tokens_l2": [
         "Je",
@@ -293,7 +297,9 @@
         "tarte",
         "avec",
         "des",
-        "pommes."
+        "pommes.",
+        "crêpes",
+        "les"
       ]
     },
     {
@@ -306,18 +312,18 @@
         "Hugo!",
         "Je",
         "tu",
-        "olovrant?"
+        "olovrant?",
+        "jablkami"
       ],
       "tokens_l2": [
         "Salut,",
-        "Hugo",
-        "!",
+        "Hugo !",
         "Il",
         "y",
         "a",
         "un",
-        "goûter",
-        "?"
+        "goûter ?",
+        "des"
       ]
     }
   ]

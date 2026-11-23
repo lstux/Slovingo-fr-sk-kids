@@ -232,19 +232,20 @@
         "Chcem",
         "chlieb",
         "a",
-        "syr."
+        "syr.",
+        "studené"
       ],
       "tokens_l2": [
         "J'ai",
-        "faim",
-        "!",
+        "faim !",
         "Je",
         "veux",
         "du",
         "pain",
         "et",
         "du",
-        "fromage."
+        "fromage.",
+        "il"
       ]
     },
     {
@@ -257,7 +258,8 @@
         "polievku.",
         "Dám",
         "si",
-        "jablko."
+        "jablko.",
+        "studené"
       ],
       "tokens_l2": [
         "Je",
@@ -269,7 +271,8 @@
         "Je",
         "prends",
         "une",
-        "pomme."
+        "pomme.",
+        "est"
       ]
     },
     {
@@ -281,15 +284,18 @@
         "Hugo,",
         "dáš",
         "si",
-        "jablko?"
+        "jablko?",
+        "je",
+        "studené"
       ],
       "tokens_l2": [
         "Hugo,",
         "tu",
         "prends",
         "une",
-        "pomme",
-        "?"
+        "pomme ?",
+        "froid",
+        "il"
       ]
     },
     {
@@ -301,7 +307,8 @@
         "Mamie,",
         "chceš",
         "ešte",
-        "koláč?"
+        "koláč?",
+        "studené"
       ],
       "tokens_l2": [
         "Mamie,",
@@ -309,8 +316,8 @@
         "veux",
         "encore",
         "du",
-        "gâteau",
-        "?"
+        "gâteau ?",
+        "est"
       ]
     }
   ]

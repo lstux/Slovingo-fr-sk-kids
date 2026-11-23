@@ -234,13 +234,16 @@
       "tokens_l1": [
         "Koľko",
         "máš",
-        "rokov?"
+        "rokov?",
+        "má",
+        "jedenásť"
       ],
       "tokens_l2": [
         "Quel",
         "âge",
-        "as-tu",
-        "?"
+        "as-tu ?",
+        "onze",
+        "a"
       ]
     },
     {
@@ -251,13 +254,15 @@
       "tokens_l1": [
         "Máš",
         "jedenásť",
-        "rokov."
+        "rokov.",
+        "ty"
       ],
       "tokens_l2": [
         "Tu",
         "as",
         "onze",
-        "ans."
+        "ans.",
+        "as-tu"
       ]
     },
     {
@@ -269,13 +274,17 @@
         "Andrea",
         "má",
         "jedenásť",
-        "rokov."
+        "rokov.",
+        "máš",
+        "ty"
       ],
       "tokens_l2": [
         "Andrea",
         "a",
         "onze",
-        "ans."
+        "ans.",
+        "âge",
+        "as-tu"
       ]
     },
     {
@@ -288,14 +297,16 @@
         "tiež",
         "mám",
         "deväť",
-        "rokov."
+        "rokov.",
+        "máš"
       ],
       "tokens_l2": [
         "Moi",
         "aussi,",
         "j'ai",
         "neuf",
-        "ans."
+        "ans.",
+        "âge"
       ]
     }
   ]

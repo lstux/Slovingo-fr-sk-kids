@@ -277,13 +277,16 @@
       "tokens_l1": [
         "Čo",
         "je",
-        "to?"
+        "to?",
+        "sa",
+        "sliepku"
       ],
       "tokens_l2": [
         "Qu'est-ce",
         "que",
-        "c'est",
-        "?"
+        "c'est ?",
+        "s'appelle",
+        "a"
       ]
     },
     {
@@ -294,12 +297,16 @@
       "tokens_l1": [
         "To",
         "je",
-        "pes."
+        "pes.",
+        "sa",
+        "má"
       ],
       "tokens_l2": [
         "C'est",
         "un",
-        "chien."
+        "chien.",
+        "poule",
+        "une"
       ]
     },
     {
@@ -311,14 +318,16 @@
         "Moja",
         "sestra",
         "má",
-        "králika."
+        "králika.",
+        "je"
       ],
       "tokens_l2": [
         "Ma",
         "sœur",
         "a",
         "un",
-        "lapin."
+        "lapin.",
+        "une"
       ]
     },
     {
@@ -332,7 +341,9 @@
         "má",
         "rybu",
         "a",
-        "vtáka."
+        "vtáka.",
+        "je",
+        "sliepka"
       ],
       "tokens_l2": [
         "Mon",
@@ -342,7 +353,9 @@
         "poisson",
         "et",
         "un",
-        "oiseau."
+        "oiseau.",
+        "poule",
+        "une"
       ]
     },
     {
@@ -352,14 +365,18 @@
       "l2": "Je n'ai pas de cheval.",
       "tokens_l1": [
         "Nemám",
-        "koňa."
+        "koňa.",
+        "je",
+        "pes"
       ],
       "tokens_l2": [
         "Je",
         "n'ai",
         "pas",
         "de",
-        "cheval."
+        "cheval.",
+        "chien",
+        "un"
       ]
     }
   ]

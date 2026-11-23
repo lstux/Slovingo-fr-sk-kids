@@ -197,12 +197,15 @@
       "tokens_l1": [
         "Hovor",
         "mi",
-        "Mamie!"
+        "Mamie!",
+        "rokov",
+        "deväť"
       ],
       "tokens_l2": [
         "Appelle-moi",
-        "Mamie",
-        "!"
+        "Mamie !",
+        "ans",
+        "neuf"
       ]
     },
     {
@@ -215,16 +218,16 @@
         "je",
         "olovrant!",
         "Ďakujem",
-        "pekne!"
+        "pekne!",
+        "rokov"
       ],
       "tokens_l2": [
         "Voilà",
         "le",
-        "goûter",
-        "!",
+        "goûter !",
         "Merci",
-        "beaucoup",
-        "!"
+        "beaucoup !",
+        "ans"
       ]
     },
     {
@@ -239,7 +242,8 @@
         "malá",
         "a",
         "veľmi",
-        "silná."
+        "silná.",
+        "mi"
       ],
       "tokens_l2": [
         "Ma",
@@ -248,7 +252,8 @@
         "petite",
         "et",
         "très",
-        "forte."
+        "forte.",
+        "chez"
       ]
     },
     {
@@ -262,7 +267,9 @@
         "brata.",
         "To",
         "je",
-        "Hugo!"
+        "Hugo!",
+        "silná",
+        "babka"
       ],
       "tokens_l2": [
         "Moi,",
@@ -270,8 +277,9 @@
         "un",
         "frère.",
         "C'est",
-        "Hugo",
-        "!"
+        "Hugo !",
+        "forte",
+        "grand-mère"
       ]
     }
   ]

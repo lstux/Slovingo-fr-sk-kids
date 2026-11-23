@@ -246,18 +246,18 @@
         "Hráme",
         "karty?",
         "Mám",
-        "karty!"
+        "karty!",
+        "pravdu"
       ],
       "tokens_l2": [
         "On",
         "joue",
         "aux",
-        "cartes",
-        "?",
+        "cartes ?",
         "J'ai",
         "les",
-        "cartes",
-        "!"
+        "cartes !",
+        "as"
       ]
     },
     {
@@ -267,13 +267,14 @@
       "l2": "Tu triches, Andrea !",
       "tokens_l1": [
         "Podvádzaš,",
-        "Andrea!"
+        "Andrea!",
+        "hra"
       ],
       "tokens_l2": [
         "Tu",
         "triches,",
-        "Andrea",
-        "!"
+        "Andrea !",
+        "partie"
       ]
     },
     {
@@ -284,13 +285,16 @@
       "tokens_l1": [
         "Ešte",
         "jednu",
-        "partiu?"
+        "partiu?",
+        "pravdu",
+        "na"
       ],
       "tokens_l2": [
         "Encore",
         "une",
-        "partie",
-        "?"
+        "partie ?",
+        "as",
+        "raison"
       ]
     },
     {
@@ -303,16 +307,16 @@
         "Hugo!",
         "Si",
         "na",
-        "rade!"
+        "rade!",
+        "pravdu"
       ],
       "tokens_l2": [
         "Joue,",
-        "Hugo",
-        "!",
+        "Hugo !",
         "C'est",
         "ton",
-        "tour",
-        "!"
+        "tour !",
+        "as"
       ]
     },
     {
@@ -323,15 +327,17 @@
       "tokens_l1": [
         "Bravo!",
         "Máš",
-        "pravdu!"
+        "pravdu!",
+        "hra",
+        "jedna"
       ],
       "tokens_l2": [
-        "Bravo",
-        "!",
+        "Bravo !",
         "Tu",
         "as",
-        "raison",
-        "!"
+        "raison !",
+        "partie",
+        "une"
       ]
     }
   ]

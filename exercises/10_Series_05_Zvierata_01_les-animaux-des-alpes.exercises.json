@@ -245,13 +245,16 @@
       "tokens_l1": [
         "Tu",
         "je",
-        "kamzík!"
+        "kamzík!",
+        "svište",
+        "kozorožce"
       ],
       "tokens_l2": [
         "Voilà",
         "un",
-        "chamois",
-        "!"
+        "chamois !",
+        "y",
+        "bouquetins"
       ]
     },
     {
@@ -264,7 +267,9 @@
         "je",
         "veľký",
         "a",
-        "silný."
+        "silný.",
+        "divoké",
+        "zviera"
       ],
       "tokens_l2": [
         "Le",
@@ -272,7 +277,9 @@
         "est",
         "grand",
         "et",
-        "fort."
+        "fort.",
+        "un",
+        "sauvage"
       ]
     },
     {
@@ -285,7 +292,8 @@
         "je",
         "malá",
         "a",
-        "silná."
+        "silná.",
+        "divoké"
       ],
       "tokens_l2": [
         "La",
@@ -293,7 +301,8 @@
         "est",
         "petite",
         "et",
-        "forte."
+        "forte.",
+        "un"
       ]
     },
     {
@@ -303,13 +312,15 @@
       "l2": "Un animal, des animaux.",
       "tokens_l1": [
         "Zviera,",
-        "zvieratá."
+        "zvieratá.",
+        "a"
       ],
       "tokens_l2": [
         "Un",
         "animal,",
         "des",
-        "animaux."
+        "animaux.",
+        "petite"
       ]
     },
     {
@@ -321,13 +332,15 @@
         "To",
         "je",
         "divoké",
-        "zviera."
+        "zviera.",
+        "sú"
       ],
       "tokens_l2": [
         "C'est",
         "un",
         "animal",
-        "sauvage."
+        "sauvage.",
+        "a"
       ]
     }
   ]

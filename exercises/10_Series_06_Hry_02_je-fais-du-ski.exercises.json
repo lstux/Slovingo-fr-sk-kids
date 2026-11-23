@@ -254,13 +254,15 @@
       "l1": "Lyžujem.",
       "l2": "Je fais du ski.",
       "tokens_l1": [
-        "Lyžujem."
+        "Lyžujem.",
+        "futbal"
       ],
       "tokens_l2": [
         "Je",
         "fais",
         "du",
-        "ski."
+        "ski.",
+        "joue"
       ]
     },
     {
@@ -270,15 +272,18 @@
       "l2": "Tu fais de la luge ?",
       "tokens_l1": [
         "Sánkuješ",
-        "sa?"
+        "sa?",
+        "futbal",
+        "hrá"
       ],
       "tokens_l2": [
         "Tu",
         "fais",
         "de",
         "la",
-        "luge",
-        "?"
+        "luge ?",
+        "au",
+        "foot"
       ]
     },
     {
@@ -289,13 +294,15 @@
       "tokens_l1": [
         "Andrea",
         "hrá",
-        "futbal."
+        "futbal.",
+        "je"
       ],
       "tokens_l2": [
         "Andrea",
         "joue",
         "au",
-        "foot."
+        "foot.",
+        "les"
       ]
     },
     {
@@ -307,7 +314,9 @@
         "V",
         "Alpách",
         "je",
-        "sneh."
+        "sneh.",
+        "futbal",
+        "hrá"
       ],
       "tokens_l2": [
         "Il",
@@ -318,7 +327,9 @@
         "neige",
         "dans",
         "les",
-        "Alpes."
+        "Alpes.",
+        "foot",
+        "au"
       ]
     },
     {
@@ -330,13 +341,15 @@
         "Mamie",
         "jazdí",
         "na",
-        "snowboarde."
+        "snowboarde.",
+        "hrá"
       ],
       "tokens_l2": [
         "Mamie",
         "fait",
         "du",
-        "snowboard."
+        "snowboard.",
+        "au"
       ]
     }
   ]

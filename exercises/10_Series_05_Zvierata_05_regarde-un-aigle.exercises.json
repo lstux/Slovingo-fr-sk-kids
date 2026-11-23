@@ -226,13 +226,14 @@
         "na",
         "orla",
         "tam",
-        "hore!"
+        "hore!",
+        "ako"
       ],
       "tokens_l2": [
         "Regarde",
         "l'aigle",
-        "là-haut",
-        "!"
+        "là-haut !",
+        "dors"
       ]
     },
     {
@@ -244,7 +245,9 @@
         "Tam",
         "hore",
         "sú",
-        "kamzíky."
+        "kamzíky.",
+        "mi",
+        "sa"
       ],
       "tokens_l2": [
         "Là-haut,",
@@ -252,7 +255,9 @@
         "y",
         "a",
         "des",
-        "chamois."
+        "chamois.",
+        "animaux",
+        "les"
       ]
     },
     {
@@ -263,14 +268,16 @@
       "tokens_l1": [
         "Spím",
         "ako",
-        "svišť."
+        "svišť.",
+        "veľký"
       ],
       "tokens_l2": [
         "Je",
         "dors",
         "comme",
         "une",
-        "marmotte."
+        "marmotte.",
+        "plus"
       ]
     },
     {
@@ -282,13 +289,14 @@
         "Zvieratá",
         "sa",
         "mi",
-        "páčia!"
+        "páčia!",
+        "ako"
       ],
       "tokens_l2": [
         "J'aime",
         "les",
-        "animaux",
-        "!"
+        "animaux !",
+        "une"
       ]
     },
     {
@@ -300,15 +308,18 @@
         "Ale",
         "ja",
         "som",
-        "svišť!"
+        "svišť!",
+        "hore",
+        "kamzíky"
       ],
       "tokens_l2": [
         "Mais",
         "je",
         "suis",
         "une",
-        "marmotte",
-        "!"
+        "marmotte !",
+        "il",
+        "chamois"
       ]
     }
   ]

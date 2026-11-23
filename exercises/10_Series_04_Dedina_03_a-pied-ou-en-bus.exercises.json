@@ -267,7 +267,8 @@
         "Do",
         "školy",
         "idem",
-        "pešo."
+        "pešo.",
+        "dedine"
       ],
       "tokens_l2": [
         "Je",
@@ -275,7 +276,8 @@
         "à",
         "l'école",
         "à",
-        "pied."
+        "pied.",
+        "y"
       ]
     },
     {
@@ -288,7 +290,8 @@
         "ide",
         "na",
         "trh",
-        "autom."
+        "autom.",
+        "je"
       ],
       "tokens_l2": [
         "Maman",
@@ -296,7 +299,8 @@
         "au",
         "marché",
         "en",
-        "voiture."
+        "voiture.",
+        "une"
       ]
     },
     {
@@ -309,7 +313,9 @@
         "ide",
         "do",
         "Lyonu",
-        "vlakom."
+        "vlakom.",
+        "dedine",
+        "je"
       ],
       "tokens_l2": [
         "Mamie",
@@ -317,7 +323,9 @@
         "à",
         "Lyon",
         "en",
-        "train."
+        "train.",
+        "village",
+        "une"
       ]
     },
     {
@@ -331,7 +339,9 @@
         "štadión",
         "pešo",
         "alebo",
-        "autobusom?"
+        "autobusom?",
+        "cesta",
+        "dedine"
       ],
       "tokens_l2": [
         "Tu",
@@ -342,8 +352,9 @@
         "pied",
         "ou",
         "en",
-        "bus",
-        "?"
+        "bus ?",
+        "le",
+        "route"
       ]
     },
     {
@@ -355,7 +366,9 @@
         "V",
         "dedine",
         "je",
-        "cesta."
+        "cesta.",
+        "pešo",
+        "školy"
       ],
       "tokens_l2": [
         "Il",
@@ -365,7 +378,9 @@
         "route",
         "dans",
         "le",
-        "village."
+        "village.",
+        "à",
+        "l'école"
       ]
     }
   ]

@@ -181,12 +181,16 @@
       "tokens_l1": [
         "To",
         "je",
-        "veta."
+        "veta.",
+        "mesiac",
+        "slnko"
       ],
       "tokens_l2": [
         "C'est",
         "une",
-        "phrase."
+        "phrase.",
+        "la",
+        "lune"
       ]
     },
     {
@@ -197,12 +201,16 @@
       "tokens_l1": [
         "To",
         "je",
-        "slnko!"
+        "slnko!",
+        "slovo",
+        "veta"
       ],
       "tokens_l2": [
         "C'est",
         "le",
-        "soleil !"
+        "soleil !",
+        "mot",
+        "un"
       ]
     },
     {

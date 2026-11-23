@@ -266,13 +266,17 @@
       "tokens_l1": [
         "Idem",
         "do",
-        "školy."
+        "školy.",
+        "štadión",
+        "na"
       ],
       "tokens_l2": [
         "Je",
         "vais",
         "à",
-        "l'école."
+        "l'école.",
+        "au",
+        "stade"
       ]
     },
     {
@@ -285,7 +289,8 @@
         "ide",
         "Andrea",
         "na",
-        "plaváreň."
+        "plaváreň.",
+        "trh"
       ],
       "tokens_l2": [
         "Aujourd'hui,",
@@ -293,7 +298,8 @@
         "va",
         "à",
         "la",
-        "piscine."
+        "piscine.",
+        "marché"
       ]
     },
     {
@@ -305,14 +311,18 @@
         "Hugo",
         "ide",
         "do",
-        "knižnice."
+        "knižnice.",
+        "idem",
+        "kina"
       ],
       "tokens_l2": [
         "Hugo",
         "va",
         "à",
         "la",
-        "bibliothèque."
+        "bibliothèque.",
+        "au",
+        "cinéma"
       ]
     },
     {
@@ -323,7 +333,9 @@
       "tokens_l1": [
         "Nejdem",
         "na",
-        "plaváreň."
+        "plaváreň.",
+        "ide",
+        "štadión"
       ],
       "tokens_l2": [
         "Je",
@@ -332,7 +344,9 @@
         "pas",
         "à",
         "la",
-        "piscine."
+        "piscine.",
+        "stade",
+        "au"
       ]
     },
     {
@@ -344,14 +358,18 @@
         "Dnes",
         "idem",
         "do",
-        "kina."
+        "kina.",
+        "ide",
+        "knižnice"
       ],
       "tokens_l2": [
         "Aujourd'hui,",
         "je",
         "vais",
         "au",
-        "cinéma."
+        "cinéma.",
+        "bibliothèque",
+        "la"
       ]
     }
   ]

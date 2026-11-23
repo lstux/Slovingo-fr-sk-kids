@@ -277,13 +277,14 @@
       "tokens_l1": [
         "Som",
         "na",
-        "rade!"
+        "rade!",
+        "prehráva"
       ],
       "tokens_l2": [
         "C'est",
         "mon",
-        "tour",
-        "!"
+        "tour !",
+        "gagne"
       ]
     },
     {
@@ -295,13 +296,15 @@
         "Si",
         "na",
         "rade,",
-        "Léa."
+        "Léa.",
+        "prehráva"
       ],
       "tokens_l2": [
         "C'est",
         "ton",
         "tour,",
-        "Léa."
+        "Léa.",
+        "gagne"
       ]
     },
     {
@@ -314,14 +317,16 @@
         "vyhráva",
         "a",
         "Hugo",
-        "prehráva."
+        "prehráva.",
+        "rade"
       ],
       "tokens_l2": [
         "Andrea",
         "gagne",
         "et",
         "Hugo",
-        "perd."
+        "perd.",
+        "mon"
       ]
     },
     {
@@ -331,15 +336,18 @@
       "l2": "Non, je ne triche pas !",
       "tokens_l1": [
         "Nie,",
-        "nepodvádzam!"
+        "nepodvádzam!",
+        "vyhráva",
+        "prehráva"
       ],
       "tokens_l2": [
         "Non,",
         "je",
         "ne",
         "triche",
-        "pas",
-        "!"
+        "pas !",
+        "perd",
+        "gagne"
       ]
     },
     {
@@ -353,14 +361,16 @@
         "Hugo",
         "sa",
         "hrajú",
-        "spolu."
+        "spolu.",
+        "rade"
       ],
       "tokens_l2": [
         "Léa",
         "et",
         "Hugo",
         "jouent",
-        "ensemble."
+        "ensemble.",
+        "mon"
       ]
     }
   ]

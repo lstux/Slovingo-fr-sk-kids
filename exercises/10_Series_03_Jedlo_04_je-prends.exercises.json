@@ -245,13 +245,17 @@
       "tokens_l1": [
         "Dám",
         "si",
-        "palacinku."
+        "palacinku.",
+        "chlebom",
+        "dá"
       ],
       "tokens_l2": [
         "Je",
         "prends",
         "une",
-        "crêpe."
+        "crêpe.",
+        "de",
+        "avec"
       ]
     },
     {
@@ -264,7 +268,8 @@
         "si",
         "palacinku",
         "s",
-        "čokoládou."
+        "čokoládou.",
+        "dá"
       ],
       "tokens_l2": [
         "Je",
@@ -273,7 +278,8 @@
         "crêpe",
         "avec",
         "du",
-        "chocolat."
+        "chocolat.",
+        "un"
       ]
     },
     {
@@ -284,14 +290,17 @@
       "tokens_l1": [
         "Dáš",
         "si",
-        "banán?"
+        "banán?",
+        "chlebom",
+        "s"
       ],
       "tokens_l2": [
         "Tu",
         "prends",
         "une",
-        "banane",
-        "?"
+        "banane ?",
+        "du",
+        "confiture"
       ]
     },
     {
@@ -304,7 +313,9 @@
         "si",
         "džús,",
         "prosím",
-        "ťa."
+        "ťa.",
+        "dá",
+        "croissant"
       ],
       "tokens_l2": [
         "Je",
@@ -313,7 +324,9 @@
         "jus,",
         "s'il",
         "te",
-        "plaît."
+        "plaît.",
+        "croissant",
+        "un"
       ]
     }
   ]

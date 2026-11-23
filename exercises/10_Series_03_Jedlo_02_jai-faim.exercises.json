@@ -265,12 +265,13 @@
       "l2": "J'ai faim !",
       "tokens_l1": [
         "Mám",
-        "hlad!"
+        "hlad!",
+        "ďakujem"
       ],
       "tokens_l2": [
         "J'ai",
-        "faim",
-        "!"
+        "faim !",
+        "pas"
       ]
     },
     {
@@ -280,14 +281,15 @@
       "l2": "Tu veux du pain ?",
       "tokens_l1": [
         "Chceš",
-        "chlieb?"
+        "chlieb?",
+        "smäd"
       ],
       "tokens_l2": [
         "Tu",
         "veux",
         "du",
-        "pain",
-        "?"
+        "pain ?",
+        "pas"
       ]
     },
     {
@@ -297,7 +299,8 @@
       "l2": "Je ne veux pas de soupe.",
       "tokens_l1": [
         "Nechcem",
-        "polievku."
+        "polievku.",
+        "hlad"
       ],
       "tokens_l2": [
         "Je",
@@ -305,7 +308,8 @@
         "veux",
         "pas",
         "de",
-        "soupe."
+        "soupe.",
+        "faim"
       ]
     },
     {
@@ -317,7 +321,8 @@
         "Večera",
         "je",
         "na",
-        "stole."
+        "stole.",
+        "hlad"
       ],
       "tokens_l2": [
         "Le",
@@ -325,7 +330,8 @@
         "est",
         "sur",
         "la",
-        "table."
+        "table.",
+        "faim"
       ]
     },
     {
@@ -336,14 +342,16 @@
       "tokens_l1": [
         "Nemám",
         "smäd,",
-        "ďakujem."
+        "ďakujem.",
+        "hlad"
       ],
       "tokens_l2": [
         "Je",
         "n'ai",
         "pas",
         "soif,",
-        "merci."
+        "merci.",
+        "faim"
       ]
     }
   ]

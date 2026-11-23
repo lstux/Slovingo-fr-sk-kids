@@ -276,12 +276,15 @@
       "l2": "On joue ?",
       "tokens_l1": [
         "Hráme",
-        "sa?"
+        "sa?",
+        "zajtra",
+        "jeme"
       ],
       "tokens_l2": [
         "On",
-        "joue",
-        "?"
+        "joue ?",
+        "demain",
+        "mange"
       ]
     },
     {
@@ -291,15 +294,16 @@
       "l2": "Je viens tout de suite !",
       "tokens_l1": [
         "Hneď",
-        "prídem!"
+        "prídem!",
+        "jeme"
       ],
       "tokens_l2": [
         "Je",
         "viens",
         "tout",
         "de",
-        "suite",
-        "!"
+        "suite !",
+        "mange"
       ]
     },
     {
@@ -311,17 +315,19 @@
         "Hráme",
         "karty?",
         "Prečo",
-        "nie!"
+        "nie!",
+        "zajtra",
+        "jeme"
       ],
       "tokens_l2": [
         "On",
         "joue",
         "aux",
-        "cartes",
-        "?",
+        "cartes ?",
         "Pourquoi",
-        "pas",
-        "!"
+        "pas !",
+        "demain",
+        "mange"
       ]
     },
     {
@@ -332,12 +338,15 @@
       "tokens_l1": [
         "Do",
         "skorého",
-        "videnia!"
+        "videnia!",
+        "jeme",
+        "zajtra"
       ],
       "tokens_l2": [
         "À",
-        "bientôt",
-        "!"
+        "bientôt !",
+        "on",
+        "mange"
       ]
     },
     {
@@ -347,12 +356,16 @@
       "l2": "Après, on mange.",
       "tokens_l1": [
         "Potom",
-        "jeme."
+        "jeme.",
+        "nápad",
+        "prídem"
       ],
       "tokens_l2": [
         "Après,",
         "on",
-        "mange."
+        "mange.",
+        "idée",
+        "de"
       ]
     }
   ]

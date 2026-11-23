@@ -246,7 +246,8 @@
         "Posteľ",
         "je",
         "v",
-        "izbe."
+        "izbe.",
+        "stoličky"
       ],
       "tokens_l2": [
         "Le",
@@ -254,7 +255,8 @@
         "est",
         "dans",
         "la",
-        "chambre."
+        "chambre.",
+        "y"
       ]
     },
     {
@@ -266,7 +268,9 @@
         "Na",
         "stole",
         "je",
-        "lampa."
+        "lampa.",
+        "v",
+        "izbe"
       ],
       "tokens_l2": [
         "Il",
@@ -276,7 +280,9 @@
         "lampe",
         "sur",
         "la",
-        "table."
+        "table.",
+        "dans",
+        "chambre"
       ]
     },
     {
@@ -289,7 +295,8 @@
         "kuchyni",
         "nie",
         "je",
-        "posteľ."
+        "posteľ.",
+        "na"
       ],
       "tokens_l2": [
         "Il",
@@ -300,7 +307,8 @@
         "lit",
         "dans",
         "la",
-        "cuisine."
+        "cuisine.",
+        "sur"
       ]
     },
     {
@@ -315,20 +323,21 @@
         "Lampa",
         "je",
         "na",
-        "stoličke."
+        "stoličke.",
+        "dve"
       ],
       "tokens_l2": [
         "Où",
         "est",
         "la",
-        "lampe",
-        "?",
+        "lampe ?",
         "La",
         "lampe",
         "est",
         "sur",
         "la",
-        "chaise."
+        "chaise.",
+        "y"
       ]
     }
   ]

@@ -196,15 +196,18 @@
       "l2": "Je viens tout de suite !",
       "tokens_l1": [
         "Hneď",
-        "prídem!"
+        "prídem!",
+        "koľkej",
+        "hodine"
       ],
       "tokens_l2": [
         "Je",
         "viens",
         "tout",
         "de",
-        "suite",
-        "!"
+        "suite !",
+        "heure",
+        "quelle"
       ]
     },
     {
@@ -216,14 +219,17 @@
         "Ponáhľaj",
         "sa,",
         "je",
-        "neskoro!"
+        "neskoro!",
+        "hodine",
+        "koľkej"
       ],
       "tokens_l2": [
         "Dépêche-toi,",
         "il",
         "est",
-        "tard",
-        "!"
+        "tard !",
+        "heure",
+        "quelle"
       ]
     },
     {
@@ -235,7 +241,9 @@
         "O",
         "koľkej",
         "je",
-        "olovrant?"
+        "olovrant?",
+        "ako",
+        "svišť"
       ],
       "tokens_l2": [
         "À",
@@ -243,8 +251,9 @@
         "heure",
         "est",
         "le",
-        "goûter",
-        "?"
+        "goûter ?",
+        "comme",
+        "marmotte"
       ]
     },
     {
@@ -255,14 +264,17 @@
       "tokens_l1": [
         "Už",
         "je",
-        "poludnie!"
+        "poludnie!",
+        "koľkej",
+        "hodine"
       ],
       "tokens_l2": [
         "Il",
         "est",
         "déjà",
-        "midi",
-        "!"
+        "midi !",
+        "quelle",
+        "heure"
       ]
     }
   ]

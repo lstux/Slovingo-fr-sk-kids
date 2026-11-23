@@ -233,7 +233,9 @@
         "štadión.",
         "A",
         "ty,",
-        "Hugo?"
+        "Hugo?",
+        "rýchlo",
+        "autobus"
       ],
       "tokens_l2": [
         "Aujourd'hui,",
@@ -243,8 +245,9 @@
         "stade.",
         "Et",
         "toi,",
-        "Hugo",
-        "?"
+        "Hugo ?",
+        "vite",
+        "va"
       ]
     },
     {
@@ -257,7 +260,9 @@
         "na",
         "plaváreň",
         "na",
-        "bicykli?"
+        "bicykli?",
+        "rýchlo",
+        "ide"
       ],
       "tokens_l2": [
         "Tu",
@@ -266,8 +271,9 @@
         "la",
         "piscine",
         "à",
-        "vélo",
-        "?"
+        "vélo ?",
+        "train",
+        "vite"
       ]
     },
     {
@@ -280,17 +286,19 @@
         "hlad!",
         "Kde",
         "je",
-        "pekáreň?"
+        "pekáreň?",
+        "idem",
+        "do"
       ],
       "tokens_l2": [
         "J'ai",
-        "faim",
-        "!",
+        "faim !",
         "Où",
         "est",
         "la",
-        "boulangerie",
-        "?"
+        "boulangerie ?",
+        "à",
+        "je"
       ]
     },
     {
@@ -303,17 +311,19 @@
         "nie!",
         "Je",
         "za",
-        "tebou!"
+        "tebou!",
+        "vlakom",
+        "idem"
       ],
       "tokens_l2": [
         "Mais",
-        "non",
-        "!",
+        "non !",
         "Elle",
         "est",
         "derrière",
-        "toi",
-        "!"
+        "toi !",
+        "vais",
+        "je"
       ]
     }
   ]

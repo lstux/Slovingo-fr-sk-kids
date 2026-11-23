@@ -239,7 +239,8 @@
         "Tu",
         "je",
         "môj",
-        "tato."
+        "tato.",
+        "babka"
       ],
       "tokens_l2": [
         "Voilà",
@@ -247,7 +248,8 @@
         "maman.",
         "Voilà",
         "mon",
-        "papa."
+        "papa.",
+        "grand-mère"
       ]
     },
     {
@@ -262,7 +264,9 @@
         "mama",
         "a",
         "môj",
-        "tato."
+        "tato.",
+        "rodina",
+        "babka"
       ],
       "tokens_l2": [
         "C'est",
@@ -270,7 +274,9 @@
         "maman",
         "et",
         "mon",
-        "papa."
+        "papa.",
+        "famille",
+        "grand-mère"
       ]
     },
     {
@@ -285,7 +291,8 @@
         "kamarát",
         "a",
         "moja",
-        "kamarátka."
+        "kamarátka.",
+        "babka"
       ],
       "tokens_l2": [
         "Voilà",
@@ -293,7 +300,8 @@
         "copain",
         "et",
         "ma",
-        "copine."
+        "copine.",
+        "grand-mère"
       ]
     },
     {
@@ -305,12 +313,14 @@
         "To",
         "je",
         "môj",
-        "dedko."
+        "dedko.",
+        "rodina"
       ],
       "tokens_l2": [
         "C'est",
         "mon",
-        "grand-père."
+        "grand-père.",
+        "famille"
       ]
     }
   ]

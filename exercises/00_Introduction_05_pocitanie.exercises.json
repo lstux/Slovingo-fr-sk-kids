@@ -272,12 +272,16 @@
       "tokens_l1": [
         "Jeden,",
         "dva,",
-        "tri!"
+        "tri!",
+        "rokov",
+        "osem"
       ],
       "tokens_l2": [
         "Un,",
         "deux,",
-        "trois !"
+        "trois !",
+        "huit",
+        "ans"
       ]
     },
     {
@@ -288,12 +292,16 @@
       "tokens_l1": [
         "Mám",
         "osem",
-        "rokov."
+        "rokov.",
+        "šesť",
+        "päť"
       ],
       "tokens_l2": [
         "J'ai",
         "huit",
-        "ans."
+        "ans.",
+        "cinq",
+        "six"
       ]
     },
     {

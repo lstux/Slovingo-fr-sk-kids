@@ -245,7 +245,9 @@
       "tokens_l1": [
         "Je",
         "pol",
-        "siedmej."
+        "siedmej.",
+        "hodín",
+        "štvrť"
       ],
       "tokens_l2": [
         "Il",
@@ -253,7 +255,9 @@
         "six",
         "heures",
         "et",
-        "demie."
+        "demie.",
+        "est-il",
+        "quart"
       ]
     },
     {
@@ -266,7 +270,9 @@
         "tri",
         "štvrte",
         "na",
-        "deväť."
+        "deväť.",
+        "hodín",
+        "polnoc"
       ],
       "tokens_l2": [
         "Il",
@@ -275,7 +281,9 @@
         "heures",
         "moins",
         "le",
-        "quart."
+        "quart.",
+        "est-il",
+        "minuit"
       ]
     },
     {
@@ -287,7 +295,9 @@
         "Je",
         "deväť",
         "hodín",
-        "večer."
+        "večer.",
+        "štvrť",
+        "polnoc"
       ],
       "tokens_l2": [
         "Il",
@@ -295,7 +305,9 @@
         "neuf",
         "heures",
         "du",
-        "soir."
+        "soir.",
+        "est-il",
+        "quart"
       ]
     },
     {
@@ -306,13 +318,14 @@
       "tokens_l1": [
         "Koľko",
         "je",
-        "hodín?"
+        "hodín?",
+        "deväť"
       ],
       "tokens_l2": [
         "Quelle",
         "heure",
-        "est-il",
-        "?"
+        "est-il ?",
+        "est"
       ]
     }
   ]

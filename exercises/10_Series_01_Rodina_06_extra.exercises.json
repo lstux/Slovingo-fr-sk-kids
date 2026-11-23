@@ -198,14 +198,17 @@
         "Tvoja",
         "mama",
         "je",
-        "veľká!"
+        "veľká!",
+        "brat",
+        "moja"
       ],
       "tokens_l2": [
         "Ta",
         "maman",
         "est",
-        "grande",
-        "!"
+        "grande !",
+        "douze",
+        "ans"
       ]
     },
     {
@@ -215,14 +218,15 @@
       "l2": "Tu as une sœur ?",
       "tokens_l1": [
         "Máš",
-        "sestru?"
+        "sestru?",
+        "moja"
       ],
       "tokens_l2": [
         "Tu",
         "as",
         "une",
-        "sœur",
-        "?"
+        "sœur ?",
+        "ma"
       ]
     },
     {
@@ -235,17 +239,17 @@
         "Andrea!",
         "Máš",
         "dvanásť",
-        "rokov?"
+        "rokov?",
+        "milá"
       ],
       "tokens_l2": [
         "Salut,",
-        "Andrea",
-        "!",
+        "Andrea !",
         "Tu",
         "as",
         "douze",
-        "ans",
-        "?"
+        "ans ?",
+        "très"
       ]
     },
     {
@@ -258,13 +262,15 @@
         "tu",
         "je",
         "moja",
-        "mama."
+        "mama.",
+        "rokov"
       ],
       "tokens_l2": [
         "Andrea,",
         "voilà",
         "ma",
-        "maman."
+        "maman.",
+        "grande"
       ]
     }
   ]

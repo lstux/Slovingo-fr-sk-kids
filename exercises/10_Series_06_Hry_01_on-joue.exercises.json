@@ -278,14 +278,16 @@
         "Hrám",
         "sa",
         "s",
-        "loptou."
+        "loptou.",
+        "puzzle"
       ],
       "tokens_l2": [
         "Je",
         "joue",
         "avec",
         "le",
-        "ballon."
+        "ballon.",
+        "un"
       ]
     },
     {
@@ -299,7 +301,8 @@
         "s",
         "loptou",
         "v",
-        "záhrade."
+        "záhrade.",
+        "je"
       ],
       "tokens_l2": [
         "Léa",
@@ -308,7 +311,8 @@
         "ballon",
         "dans",
         "le",
-        "jardin."
+        "jardin.",
+        "la"
       ]
     },
     {
@@ -320,7 +324,9 @@
         "Na",
         "stole",
         "je",
-        "puzzle."
+        "puzzle.",
+        "loptou",
+        "sa"
       ],
       "tokens_l2": [
         "Il",
@@ -330,7 +336,9 @@
         "puzzle",
         "sur",
         "la",
-        "table."
+        "table.",
+        "joue",
+        "le"
       ]
     },
     {
@@ -342,7 +350,8 @@
         "Šarkan",
         "letí",
         "na",
-        "oblohe."
+        "oblohe.",
+        "je"
       ],
       "tokens_l2": [
         "Le",
@@ -350,7 +359,8 @@
         "vole",
         "dans",
         "le",
-        "ciel."
+        "ciel.",
+        "table"
       ]
     },
     {
@@ -361,13 +371,16 @@
       "tokens_l1": [
         "Tu",
         "je",
-        "kocka!"
+        "kocka!",
+        "sa",
+        "s"
       ],
       "tokens_l2": [
         "Voilà",
         "un",
-        "dé",
-        "!"
+        "dé !",
+        "avec",
+        "joue"
       ]
     }
   ]

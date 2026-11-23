@@ -277,14 +277,17 @@
       "tokens_l1": [
         "Kde",
         "je",
-        "pekáreň?"
+        "pekáreň?",
+        "doľava",
+        "naľavo"
       ],
       "tokens_l2": [
         "Où",
         "est",
         "la",
-        "boulangerie",
-        "?"
+        "boulangerie ?",
+        "tourne",
+        "gauche"
       ]
     },
     {
@@ -296,14 +299,16 @@
         "Park",
         "je",
         "za",
-        "školou."
+        "školou.",
+        "doľava"
       ],
       "tokens_l2": [
         "Le",
         "parc",
         "est",
         "derrière",
-        "l'école."
+        "l'école.",
+        "tourne"
       ]
     },
     {
@@ -314,14 +319,16 @@
       "tokens_l1": [
         "Stanica",
         "je",
-        "priamo."
+        "priamo.",
+        "doľava"
       ],
       "tokens_l2": [
         "La",
         "gare",
         "est",
         "tout",
-        "droit."
+        "droit.",
+        "tourne"
       ]
     },
     {
@@ -333,7 +340,8 @@
         "Škola",
         "je",
         "oproti",
-        "parku."
+        "parku.",
+        "doľava"
       ],
       "tokens_l2": [
         "L'école",
@@ -341,7 +349,8 @@
         "en",
         "face",
         "du",
-        "parc."
+        "parc.",
+        "gauche"
       ]
     },
     {
@@ -351,13 +360,17 @@
       "l2": "Je tourne à gauche.",
       "tokens_l1": [
         "Odbočujem",
-        "doľava."
+        "doľava.",
+        "blízko",
+        "námestia"
       ],
       "tokens_l2": [
         "Je",
         "tourne",
         "à",
-        "gauche."
+        "gauche.",
+        "la",
+        "place"
       ]
     }
   ]

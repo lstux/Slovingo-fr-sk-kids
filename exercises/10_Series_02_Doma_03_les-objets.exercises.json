@@ -245,13 +245,17 @@
       "tokens_l1": [
         "Hľadám",
         "svoju",
-        "tašku."
+        "tašku.",
+        "stole",
+        "sú"
       ],
       "tokens_l2": [
         "Je",
         "cherche",
         "mon",
-        "sac."
+        "sac.",
+        "la",
+        "table"
       ]
     },
     {
@@ -263,14 +267,15 @@
         "Kde",
         "je",
         "moja",
-        "kniha?"
+        "kniha?",
+        "stole"
       ],
       "tokens_l2": [
         "Où",
         "est",
         "mon",
-        "livre",
-        "?"
+        "livre ?",
+        "sur"
       ]
     },
     {
@@ -282,14 +287,16 @@
         "Môj",
         "brat",
         "hľadá",
-        "kľúče."
+        "kľúče.",
+        "stole"
       ],
       "tokens_l2": [
         "Mon",
         "frère",
         "cherche",
         "les",
-        "clés."
+        "clés.",
+        "a"
       ]
     },
     {
@@ -299,14 +306,15 @@
       "l2": "Tu as des chaussons ?",
       "tokens_l1": [
         "Máš",
-        "papuče?"
+        "papuče?",
+        "tašku"
       ],
       "tokens_l2": [
         "Tu",
         "as",
         "des",
-        "chaussons",
-        "?"
+        "chaussons ?",
+        "mon"
       ]
     }
   ]

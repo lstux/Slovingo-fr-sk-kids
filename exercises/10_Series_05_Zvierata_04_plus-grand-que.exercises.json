@@ -279,7 +279,9 @@
         "je",
         "väčší",
         "ako",
-        "svišť."
+        "svišť.",
+        "ľahká",
+        "pomalá"
       ],
       "tokens_l2": [
         "Le",
@@ -289,7 +291,9 @@
         "grand",
         "que",
         "la",
-        "marmotte."
+        "marmotte.",
+        "légère",
+        "léger"
       ]
     },
     {
@@ -302,7 +306,8 @@
         "je",
         "rýchlejší",
         "ako",
-        "korytnačka."
+        "korytnačka.",
+        "ľahká"
       ],
       "tokens_l2": [
         "Le",
@@ -312,7 +317,8 @@
         "rapide",
         "que",
         "la",
-        "tortue."
+        "tortue.",
+        "légère"
       ]
     },
     {
@@ -324,14 +330,16 @@
         "Korytnačka",
         "je",
         "veľmi",
-        "pomalá."
+        "pomalá.",
+        "ako"
       ],
       "tokens_l2": [
         "La",
         "tortue",
         "est",
         "très",
-        "lente."
+        "lente.",
+        "que"
       ]
     },
     {
@@ -344,7 +352,9 @@
         "je",
         "menší",
         "ako",
-        "vlk."
+        "vlk.",
+        "ľahká",
+        "veľmi"
       ],
       "tokens_l2": [
         "La",
@@ -354,7 +364,9 @@
         "grande",
         "que",
         "le",
-        "loup."
+        "loup.",
+        "légère",
+        "léger"
       ]
     },
     {
@@ -365,12 +377,16 @@
       "tokens_l1": [
         "Vták",
         "je",
-        "ľahký."
+        "ľahký.",
+        "ako",
+        "vlk"
       ],
       "tokens_l2": [
         "L'oiseau",
         "est",
-        "léger."
+        "léger.",
+        "que",
+        "le"
       ]
     },
     {
@@ -381,13 +397,15 @@
       "tokens_l1": [
         "Kôň",
         "je",
-        "ťažký."
+        "ťažký.",
+        "ako"
       ],
       "tokens_l2": [
         "Le",
         "cheval",
         "est",
-        "lourd."
+        "lourd.",
+        "que"
       ]
     }
   ]

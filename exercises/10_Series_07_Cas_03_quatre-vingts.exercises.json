@@ -225,14 +225,16 @@
         "dedo",
         "má",
         "sedemdesiat",
-        "rokov."
+        "rokov.",
+        "je"
       ],
       "tokens_l2": [
         "Mon",
         "grand-père",
         "a",
         "soixante-dix",
-        "ans."
+        "ans.",
+        "c'est"
       ]
     },
     {
@@ -244,14 +246,18 @@
         "Je",
         "tu",
         "deväťdesiat",
-        "stoličiek."
+        "stoličiek.",
+        "osemdesiat",
+        "sto"
       ],
       "tokens_l2": [
         "Il",
         "y",
         "a",
         "quatre-vingt-dix",
-        "chaises."
+        "chaises.",
+        "c'est",
+        "cent"
       ]
     },
     {
@@ -262,12 +268,14 @@
       "tokens_l1": [
         "Septante",
         "je",
-        "sedemdesiat."
+        "sedemdesiat.",
+        "stoličiek"
       ],
       "tokens_l2": [
         "Septante,",
         "c'est",
-        "soixante-dix."
+        "soixante-dix.",
+        "y"
       ]
     },
     {
@@ -278,12 +286,16 @@
       "tokens_l1": [
         "Huitante",
         "je",
-        "osemdesiat."
+        "osemdesiat.",
+        "deväťdesiat",
+        "tu"
       ],
       "tokens_l2": [
         "Huitante,",
         "c'est",
-        "quatre-vingts."
+        "quatre-vingts.",
+        "y",
+        "a"
       ]
     }
   ]

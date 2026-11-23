@@ -218,17 +218,20 @@
         "moja",
         "izba.",
         "Je",
-        "pekná."
+        "pekná.",
+        "ja",
+        "som"
       ],
       "tokens_l2": [
-        "Entre",
-        "!",
+        "Entre !",
         "Voilà",
         "ma",
         "chambre.",
         "Elle",
         "est",
-        "jolie."
+        "jolie.",
+        "moi",
+        "c'est"
       ]
     },
     {
@@ -240,14 +243,17 @@
         "Tvoja",
         "izba",
         "je",
-        "pekná!"
+        "pekná!",
+        "obývačka",
+        "dom"
       ],
       "tokens_l2": [
         "Ta",
         "chambre",
         "est",
-        "jolie",
-        "!"
+        "jolie !",
+        "ma",
+        "le"
       ]
     },
     {
@@ -260,7 +266,8 @@
         "mojej",
         "izbe",
         "je",
-        "líška!"
+        "líška!",
+        "pekná"
       ],
       "tokens_l2": [
         "Il",
@@ -270,8 +277,8 @@
         "renard",
         "dans",
         "ma",
-        "chambre",
-        "!"
+        "chambre !",
+        "jolie"
       ]
     },
     {
@@ -286,18 +293,19 @@
         "to",
         "si",
         "ty!",
-        "Prepáč!"
+        "Prepáč!",
+        "obývačka",
+        "dom"
       ],
       "tokens_l2": [
         "Ha",
-        "ha",
-        "!",
+        "ha !",
         "Oui,",
         "c'est",
-        "toi",
-        "!",
-        "Pardon",
-        "!"
+        "toi !",
+        "Pardon !",
+        "ma",
+        "maison"
       ]
     }
   ]

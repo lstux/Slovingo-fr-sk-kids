@@ -267,14 +267,18 @@
         "Orol",
         "lieta",
         "v",
-        "horách."
+        "horách.",
+        "a",
+        "bežia"
       ],
       "tokens_l2": [
         "L'aigle",
         "vole",
         "dans",
         "la",
-        "montagne."
+        "montagne.",
+        "et",
+        "courent"
       ]
     },
     {
@@ -285,13 +289,15 @@
       "tokens_l1": [
         "Zajac",
         "beží",
-        "rýchlo."
+        "rýchlo.",
+        "skáču"
       ],
       "tokens_l2": [
         "Le",
         "lièvre",
         "court",
-        "vite."
+        "vite.",
+        "et"
       ]
     },
     {
@@ -301,12 +307,16 @@
       "l2": "Les poissons nagent.",
       "tokens_l1": [
         "Ryby",
-        "plávajú."
+        "plávajú.",
+        "a",
+        "bežia"
       ],
       "tokens_l2": [
         "Les",
         "poissons",
-        "nagent."
+        "nagent.",
+        "sautent",
+        "elles"
       ]
     },
     {
@@ -319,14 +329,18 @@
         "bežia",
         "a",
         "ony",
-        "skáču."
+        "skáču.",
+        "v",
+        "horách"
       ],
       "tokens_l2": [
         "Ils",
         "courent",
         "et",
         "elles",
-        "sautent."
+        "sautent.",
+        "dans",
+        "vole"
       ]
     },
     {
@@ -338,13 +352,17 @@
         "Vták",
         "je",
         "na",
-        "strome."
+        "strome.",
+        "skáču",
+        "ony"
       ],
       "tokens_l2": [
         "L'oiseau",
         "est",
         "dans",
-        "l'arbre."
+        "l'arbre.",
+        "courent",
+        "sautent"
       ]
     }
   ]

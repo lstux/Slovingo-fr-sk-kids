@@ -233,14 +233,15 @@
       "l2": "Tu as un frère ?",
       "tokens_l1": [
         "Máš",
-        "brata?"
+        "brata?",
+        "sa"
       ],
       "tokens_l2": [
         "Tu",
         "as",
         "un",
-        "frère",
-        "?"
+        "frère ?",
+        "a"
       ]
     },
     {
@@ -251,7 +252,8 @@
       "tokens_l1": [
         "Nie,",
         "nemám",
-        "brata."
+        "brata.",
+        "sa"
       ],
       "tokens_l2": [
         "Non,",
@@ -259,7 +261,8 @@
         "n'ai",
         "pas",
         "de",
-        "frère."
+        "frère.",
+        "a"
       ]
     },
     {
@@ -273,7 +276,9 @@
         "sestru.",
         "Volá",
         "sa",
-        "Léa."
+        "Léa.",
+        "nemám",
+        "brata"
       ],
       "tokens_l2": [
         "Hugo",
@@ -282,7 +287,9 @@
         "sœur.",
         "Elle",
         "s'appelle",
-        "Léa."
+        "Léa.",
+        "je",
+        "pas"
       ]
     },
     {
@@ -295,12 +302,16 @@
         "sú",
         "moji",
         "starí",
-        "rodičia."
+        "rodičia.",
+        "má",
+        "sestru"
       ],
       "tokens_l2": [
         "Voilà",
         "mes",
-        "grands-parents."
+        "grands-parents.",
+        "sœur",
+        "s'appelle"
       ]
     }
   ]

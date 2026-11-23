@@ -56,11 +56,13 @@
       "l2": "Salut, Andrea !",
       "tokens_l1": [
         "Ahoj,",
-        "Andrea!"
+        "Andrea!",
+        "deň"
       ],
       "tokens_l2": [
         "Salut,",
-        "Andrea !"
+        "Andrea !",
+        "mot"
       ]
     }
   ]

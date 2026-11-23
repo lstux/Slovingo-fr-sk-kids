@@ -217,12 +217,13 @@
       "l2": "Pardon, Monsieur !",
       "tokens_l1": [
         "Prepáčte,",
-        "pane!"
+        "pane!",
+        "croissant"
       ],
       "tokens_l2": [
         "Pardon,",
-        "Monsieur",
-        "!"
+        "Monsieur !",
+        "jus"
       ]
     },
     {
@@ -234,13 +235,16 @@
         "Je",
         "to",
         "ďaleko,",
-        "pane?"
+        "pane?",
+        "si",
+        "džús"
       ],
       "tokens_l2": [
         "C'est",
         "loin,",
-        "Monsieur",
-        "?"
+        "Monsieur ?",
+        "du",
+        "et"
       ]
     },
     {
@@ -254,7 +258,9 @@
         "potom",
         "je",
         "to",
-        "priamo."
+        "priamo.",
+        "dobrú",
+        "a"
       ],
       "tokens_l2": [
         "Tournez",
@@ -263,7 +269,9 @@
         "puis",
         "c'est",
         "tout",
-        "droit."
+        "droit.",
+        "rien",
+        "bon"
       ]
     },
     {
@@ -276,7 +284,8 @@
         "pane,",
         "kde",
         "je",
-        "stanica?"
+        "stanica?",
+        "croissant"
       ],
       "tokens_l2": [
         "Pardon,",
@@ -284,8 +293,8 @@
         "où",
         "est",
         "la",
-        "gare",
-        "?"
+        "gare ?",
+        "un"
       ]
     },
     {
@@ -297,15 +306,16 @@
         "Ja",
         "si",
         "dám",
-        "koláč!"
+        "koláč!",
+        "je"
       ],
       "tokens_l2": [
         "Moi,",
         "je",
         "prends",
         "une",
-        "tarte",
-        "!"
+        "tarte !",
+        "tout"
       ]
     }
   ]

@@ -231,15 +231,16 @@
         "sa",
         "s",
         "loptou,",
-        "Hugo?"
+        "Hugo?",
+        "v"
       ],
       "tokens_l2": [
         "On",
         "joue",
         "au",
         "ballon,",
-        "Hugo",
-        "?"
+        "Hugo ?",
+        "l'herbe"
       ]
     },
     {
@@ -252,19 +253,21 @@
         "prídem!",
         "Tu",
         "je",
-        "lopta!"
+        "lopta!",
+        "v",
+        "na"
       ],
       "tokens_l2": [
         "Je",
         "viens",
         "tout",
         "de",
-        "suite",
-        "!",
+        "suite !",
         "Voilà",
         "le",
-        "ballon",
-        "!"
+        "ballon !",
+        "dans",
+        "sur"
       ]
     },
     {
@@ -277,7 +280,9 @@
         "sa",
         "sánkujem.",
         "A",
-        "ty?"
+        "ty?",
+        "v",
+        "na"
       ],
       "tokens_l2": [
         "Je",
@@ -286,8 +291,9 @@
         "la",
         "luge.",
         "Et",
-        "toi",
-        "?"
+        "toi ?",
+        "l'herbe",
+        "le"
       ]
     },
     {
@@ -298,14 +304,14 @@
       "tokens_l1": [
         "Mamie",
         "vyhráva!",
-        "Bravo!"
+        "Bravo!",
+        "tráve"
       ],
       "tokens_l2": [
         "Mamie",
-        "gagne",
-        "!",
-        "Bravo",
-        "!"
+        "gagne !",
+        "Bravo !",
+        "le"
       ]
     }
   ]

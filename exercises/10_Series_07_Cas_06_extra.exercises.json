@@ -186,14 +186,17 @@
       "tokens_l1": [
         "Koľko",
         "svišťov,",
-        "Léa?"
+        "Léa?",
+        "má",
+        "rokov"
       ],
       "tokens_l2": [
         "Combien",
         "de",
         "marmottes,",
-        "Léa",
-        "?"
+        "Léa ?",
+        "a",
+        "onze"
       ]
     },
     {
@@ -205,14 +208,15 @@
         "Koľko",
         "je",
         "teraz",
-        "hodín?"
+        "hodín?",
+        "jedenásť"
       ],
       "tokens_l2": [
         "Quelle",
         "heure",
         "est-il",
-        "maintenant",
-        "?"
+        "maintenant ?",
+        "a"
       ]
     },
     {
@@ -224,14 +228,14 @@
         "Sedemdesiat?",
         "To",
         "je",
-        "veľa!"
+        "veľa!",
+        "rokov"
       ],
       "tokens_l2": [
-        "Soixante-dix",
-        "?",
+        "Soixante-dix ?",
         "C'est",
-        "beaucoup",
-        "!"
+        "beaucoup !",
+        "ans"
       ]
     },
     {
@@ -247,7 +251,9 @@
         "ide",
         "vlak,",
         "prosím",
-        "vás?"
+        "vás?",
+        "rokov",
+        "má"
       ],
       "tokens_l2": [
         "Pardon,",
@@ -260,8 +266,9 @@
         "train,",
         "s'il",
         "vous",
-        "plaît",
-        "?"
+        "plaît ?",
+        "a",
+        "ans"
       ]
     }
   ]

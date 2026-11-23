@@ -235,13 +235,13 @@
         "tam",
         "posteľ",
         "a",
-        "stôl."
+        "stôl.",
+        "záhrade"
       ],
       "tokens_l2": [
         "Voilà",
         "ma",
-        "chambre",
-        "!",
+        "chambre !",
         "Il",
         "y",
         "a",
@@ -249,7 +249,8 @@
         "lit",
         "et",
         "une",
-        "table."
+        "table.",
+        "jardin"
       ]
     },
     {
@@ -261,14 +262,17 @@
         "Kde",
         "je",
         "tvoja",
-        "babka?"
+        "babka?",
+        "v",
+        "záhrade"
       ],
       "tokens_l2": [
         "Où",
         "est",
         "ta",
-        "grand-mère",
-        "?"
+        "grand-mère ?",
+        "dort",
+        "dans"
       ]
     },
     {
@@ -282,14 +286,17 @@
         "sa",
         "mi",
         "tvoja",
-        "taška."
+        "taška.",
+        "záhrade",
+        "v"
       ],
       "tokens_l2": [
-        "Merci",
-        "!",
+        "Merci !",
         "J'aime",
         "ton",
-        "sac."
+        "sac.",
+        "jardin",
+        "dans"
       ]
     },
     {
@@ -301,16 +308,18 @@
         "Dovidenia,",
         "Andrea!",
         "Do",
-        "zajtra!"
+        "zajtra!",
+        "v",
+        "záhrade"
       ],
       "tokens_l2": [
         "Au",
         "revoir,",
-        "Andrea",
-        "!",
+        "Andrea !",
         "À",
-        "demain",
-        "!"
+        "demain !",
+        "jardin",
+        "dort"
       ]
     }
   ]

@@ -230,14 +230,15 @@
         "Čo",
         "je",
         "to,",
-        "Hugo?"
+        "Hugo?",
+        "ako"
       ],
       "tokens_l2": [
         "Qu'est-ce",
         "que",
         "c'est,",
-        "Hugo",
-        "?"
+        "Hugo ?",
+        "qu'Andrea"
       ]
     },
     {
@@ -252,7 +253,9 @@
         "sliepka.",
         "Volá",
         "sa",
-        "Mimi."
+        "Mimi.",
+        "ako",
+        "rýchlejší"
       ],
       "tokens_l2": [
         "C'est",
@@ -260,7 +263,9 @@
         "poule.",
         "Elle",
         "s'appelle",
-        "Mimi."
+        "Mimi.",
+        "la",
+        "lièvre"
       ]
     },
     {
@@ -273,7 +278,8 @@
         "je",
         "rýchlejší",
         "ako",
-        "korytnačka!"
+        "korytnačka!",
+        "sliepka"
       ],
       "tokens_l2": [
         "Le",
@@ -283,8 +289,8 @@
         "rapide",
         "que",
         "la",
-        "tortue",
-        "!"
+        "tortue !",
+        "s'appelle"
       ]
     },
     {
@@ -298,7 +304,9 @@
         "vyššie",
         "ako",
         "vy",
-        "dve!"
+        "dve!",
+        "sa",
+        "sliepka"
       ],
       "tokens_l2": [
         "Moi,",
@@ -308,8 +316,9 @@
         "haut",
         "que",
         "vous",
-        "deux",
-        "!"
+        "deux !",
+        "s'appelle",
+        "ma"
       ]
     }
   ]
