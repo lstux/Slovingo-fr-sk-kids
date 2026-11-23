@@ -87,6 +87,11 @@
   },
   "ui": {
     "read_story": "📖 Prečítať celý príbeh",
+    "sheet_not_found": "Kartička sa nenašla: {id}",
+    "sound_mute": "Vypnúť zvuk",
+    "sound_unmute": "Zapnúť zvuk",
+    "sound_off_exercises": "Počúvanie nie je dostupné: zvuk je vypnutý",
+    "tts_error": "Hlas sa nepodarilo prehrať ({error}).",
     "review_button": "🔁 Opakovanie",
     "reset_review_mistakes": "🧹 Zabudnúť moje chybné otázky ({m})",
     "voice_other": "Ďalšie hlasy",
